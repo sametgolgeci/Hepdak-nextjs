@@ -1,203 +1,140 @@
 import Head from 'next/head'
+import Link from 'next/link'
+import MasterPage from '../components/master-page'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faHourglassStart,faCheck,faFileAlt,faImages,faChevronRight,faChevronLeft } from '@fortawesome/free-solid-svg-icons'
 
-const Home = () => (
-  <div className="container">
+
+const Anasayfa = () => (
+  <MasterPage>
     <Head>
-      <title>Create Next App</title>
-      <link rel="icon" href="/favicon.ico" />
+      <title>HEPDAK | Anasayfa</title>
     </Head>
-
-    <main>
-      <h1 className="title">
-        Welcome to <a href="https://nextjs.org">Next.js!</a>
-      </h1>
-
-      <p className="description">
-        Get started by editing <code>pages/index.js</code>
-      </p>
-
-      <div className="grid">
-        <a href="https://nextjs.org/docs" className="card">
-          <h3>Documentation &rarr;</h3>
-          <p>Find in-depth information about Next.js features and API.</p>
-        </a>
-
-        <a href="https://nextjs.org/learn" className="card">
-          <h3>Learn &rarr;</h3>
-          <p>Learn about Next.js in an interactive course with quizzes!</p>
-        </a>
-
-        <a
-          href="https://github.com/zeit/next.js/tree/master/examples"
-          className="card"
-        >
-          <h3>Examples &rarr;</h3>
-          <p>Discover and deploy boilerplate example Next.js projects.</p>
-        </a>
-
-        <a
-          href="https://zeit.co/new?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-          className="card"
-        >
-          <h3>Deploy &rarr;</h3>
-          <p>
-            Instantly deploy your Next.js site to a public URL with ZEIT Now.
-          </p>
-        </a>
+    <div className="main-top">
+      <div className="main-top-nav">
+        <ul className="nav">
+          <li className="nav-item">
+            <a className="nav-link active" href="#">Son Duyurular</a>
+          </li>
+          <li className="nav-item">
+            <a className="nav-link tum" href="#">Tüm Duyurular</a>
+          </li>
+        </ul>
       </div>
-    </main>
-
-    <footer>
-      <a
-        href="https://zeit.co?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        Powered by <img src="/zeit.svg" alt="ZEIT Logo" />
-      </a>
-    </footer>
-
-    <style jsx>{`
-      .container {
-        min-height: 100vh;
-        padding: 0 0.5rem;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-      }
-
-      main {
-        padding: 5rem 0;
-        flex: 1;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-      }
-
-      footer {
-        width: 100%;
-        height: 100px;
-        border-top: 1px solid #eaeaea;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-      }
-
-      footer img {
-        margin-left: 0.5rem;
-      }
-
-      footer a {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-      }
-
-      a {
-        color: inherit;
-        text-decoration: none;
-      }
-
-      .title a {
-        color: #0070f3;
-        text-decoration: none;
-      }
-
-      .title a:hover,
-      .title a:focus,
-      .title a:active {
-        text-decoration: underline;
-      }
-
-      .title {
-        margin: 0;
-        line-height: 1.15;
-        font-size: 4rem;
-      }
-
-      .title,
-      .description {
-        text-align: center;
-      }
-
-      .description {
-        line-height: 1.5;
-        font-size: 1.5rem;
-      }
-
-      code {
-        background: #fafafa;
-        border-radius: 5px;
-        padding: 0.75rem;
-        font-size: 1.1rem;
-        font-family: Menlo, Monaco, Lucida Console, Liberation Mono,
-          DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace;
-      }
-
-      .grid {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        flex-wrap: wrap;
-
-        max-width: 800px;
-        margin-top: 3rem;
-      }
-
-      .card {
-        margin: 1rem;
-        flex-basis: 45%;
-        padding: 1.5rem;
-        text-align: left;
-        color: inherit;
-        text-decoration: none;
-        border: 1px solid #eaeaea;
-        border-radius: 10px;
-        transition: color 0.15s ease, border-color 0.15s ease;
-      }
-
-      .card:hover,
-      .card:focus,
-      .card:active {
-        color: #0070f3;
-        border-color: #0070f3;
-      }
-
-      .card h3 {
-        margin: 0 0 1rem 0;
-        font-size: 1.5rem;
-      }
-
-      .card p {
-        margin: 0;
-        font-size: 1.25rem;
-        line-height: 1.5;
-      }
-
-      @media (max-width: 600px) {
-        .grid {
-          width: 100%;
-          flex-direction: column;
-        }
-      }
-    `}</style>
-
-    <style jsx global>{`
-      html,
-      body {
-        padding: 0;
-        margin: 0;
-        font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-          Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-      }
-
-      * {
-        box-sizing: border-box;
-      }
-    `}</style>
-  </div>
+      <div className="main-top-one">
+        <div id="carouselExampleControls" className="carousel slide" data-ride="carousel" data-interval="false">
+          <div className="carousel-inner" data-interval="false">
+            <div className="carousel-item active" data-interval="false">
+              <div className="main-top-one-title">YÖKAK SAHA ZİYARETİ</div>
+              <div className="main-top-one-content">Yüksek Öğretim Kalite Kurulu (YÖKAK), Dış Değerlendirme ve Akreditasyon Kuruluşlarının Yetkilendirilmesi, Tanınması ve İzlenmesine İlişkin Kılavuz</div>
+            </div>
+            <div className="carousel-item" data-interval="false">
+              <div className="main-top-one-title">DUYURU</div>
+              <div className="main-top-one-content">17-18 Nisan 2020 tarihinde yapılacağı duyurulan Değerlendirici Eğitimi korona virüs salgını sebebiyle ileri bir tarihe ertelenmiştir. Tarih yeniden duyurulacaktır.</div>
+            </div>
+            <div className="carousel-item" data-interval="false">
+              <div className="main-top-one-title">HEPDAK, 2023 YILINA KADAR TESCİL EDİLDİ</div>
+              <div className="main-top-one-content">Hemşirelik Eğitim Programları Değerlendirme ve Akreditasyon Derneği-HEPDAK Yükseköğretim Kalite Kurulu tarafından 25.12.2023 tarihine kadar beş yıllığına tescil edilmiştir.</div>
+            </div>
+            <div className="carousel-item" data-interval="false">
+              <div className="main-top-one-title">HEPDAK DEĞERLENDİRME VE AKREDİTASYON ÜCRETLERİ</div>
+              <div className="main-top-one-content">2020-2021 Değerlendirme Dönemi Akreditasyon Bedelleri Belirlenmiştir.</div>
+            </div>
+            <div className="carousel-item" data-interval="false">
+              <div className="main-top-one-title">CEENQUA'DA SEMPOZYUM HABERİMİZ</div>
+              <div className="main-top-one-content">CEENQUA'nın Temmuz haber bülteninde HEPDAK&HEMED birlikteliği ile gerçekleştirilen sempozyum haberimiz yer aldı.</div>
+            </div>
+          </div>
+          <a className="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+            <span aria-hidden="true"><FontAwesomeIcon className="main-carousel-icon" icon={faChevronLeft}/></span>
+            <span className="sr-only">Previous</span>
+          </a>
+          <a className="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+            <span aria-hidden="true"><FontAwesomeIcon className="main-carousel-icon" icon={faChevronRight}/></span>
+            <span className="sr-only">Next</span>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div className="main-middle">
+      <div className="col-3">
+        <Link href="/akreditasyon#surec"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faHourglassStart}/>Süreç</button></a></Link>
+      </div>
+      <div className="col-3">
+        <Link href="/akreditasyon#basvuru"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faCheck}/>Başvuru</button></a></Link>
+      </div>
+      <div className="col-3">
+        <Link href="/akreditasyon#belgeler"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faFileAlt}/>Belgeler</button></a></Link>
+      </div>
+      <div className="col-3">
+        <Link href="/#"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faImages}/>Albüm</button></a></Link>
+      </div>
+    </div>
+    <div className="main-bottom">
+      <div className="main-bottom-title">
+        <span>İlgili Kuruluşlar</span>
+      </div>
+      <div className="main-bottom-img">
+        <div className="bottom-img">
+          <a href="https://www.yok.gov.tr" target="_blank"><img className="link-img" src="img/link/yok.png" title="Yükseköğretim Kurulu"/></a>
+        </div>
+        <div className="bottom-img">
+          <a href="https://www.yodek.org.tr" target="_blank"><img className="link-img" src="img/link/yodek.png" title="Yükseköğretim Akademik Değerlendirme ve Kalite Geliştirme Komisyonu"/></a>
+        </div>
+        <div className="bottom-img">
+          <a href="https://www.kalder.org" target="_blank"><img className="link-img" src="img/link/kalder.png" title="Türkiye Kalite Derneği"/></a>
+        </div>
+        <div className="bottom-img">
+          <a href="https://www.mudek.org.tr" target="_blank"><img className="link-img" src="img/link/mudek.png" title="Mühendislik Eğitim Programları Değerlendirme ve Akreditasyon Derneği"/></a>
+        </div>
+        <div className="bottom-img">
+          <a href="https://www.eczakder.org.tr" target="_blank"><img className="link-img" src="img/link/eczakder.png" title="Eczacılık Eğitimi Programlarını Değerlendirme ve Akreditasyon Derneği"/></a>
+        </div>
+        <div className="bottom-img">
+          <a href="https://www.fedek.org.tr" target="_blank"><img className="link-img" src="img/link/fedek.png" title="Fen, Edebiyat, Fen-Edebiyat, Dil ve Tarih - Coğrafya Fakülteleri Öğretim Programları Değerlendirme ve Akreditasyon Derneği "/></a>
+        </div>
+        <div className="bottom-img">
+          <a href="https://www.hemed.org.tr" target="_blank"><img className="link-img" src="img/link/hemed.png" title="Hemşirelik Eğitimi Derneği"/></a>
+        </div>
+        <div className="bottom-img">
+          <a href="https://www.psikolog.org.tr" target="_blank"><img className="link-img" src="img/link/turk-psikolog.png" title="Türk Psikologlar Derneği"/></a>
+        </div>    
+        <div className="bottom-img">
+          <a href="https://www.vedek.org.tr" target="_blank"><img className="link-img" src="img/link/vedek.png" title="Veteriner Hekimliği Eğitim Kurumları ve Programları Değerlendirme ve Akreditasyon Derneği"/></a>
+        </div>
+        <div className="bottom-img">
+          <a href="https://www.nln.org" target="_blank"><img className="link-img" src="img/link/nln-org.png" title="National League for Nursing"/></a>
+        </div>
+        <div className="bottom-img">
+          <a href="https://www.aacnnursing.org" target="_blank"><img className="link-img" src="img/link/aacn.png" title="American Association of Colloges of Nursing"/></a>
+        </div>
+        <div className="bottom-img">
+          <a href="https://www.aacnnursing.org/CCNE" target="_blank"><img className="link-img" src="img/link/ccne.png" title="Commision on Collegiate Nursing Education"/></a>
+        </div>
+        <div className="bottom-img">
+          <a href="https://www.casn.ca" target="_blank"><img className="link-img" src="img/link/casn-ca-new.png" title="Canadian Association of Schools of Nursing"/></a>
+        </div>
+        <div className="bottom-img">
+          <a href="https://www.chea.org" target="_blank"><img className="link-img" src="img/link/chea-org.png" title="Council for Higher Education Accreditation"/></a>
+        </div>
+        <div className="bottom-img">
+          <a href="https://www.enqa.eu" target="_blank"><img className="link-img" src="img/link/enqa-eu.png" title="European Association for Quality Assurance for Higher Education"/></a>
+        </div>
+        <div className="bottom-img">
+          <a href="https://www.qaa.ac.uk" target="_blank"><img className="link-img" src="img/link/qaa-ac-uk.png" title="Quality Assurance Agency for Higher Education"/></a>
+        </div>
+        <div className="bottom-img">
+          <a href="https://www.eqar.eu" target="_blank"><img className="link-img" src="img/link/eqar-eu.png" title="European Quality Assurance Register for Higher Education"/></a>
+        </div>
+        <div className="bottom-img">
+          <a href="https://www.inqaahe.org" target="_blank"><img className="link-img" src="img/link/inqaahe-org.png" title="International Network for Quality Assurance Agencies in Higher Education"/></a>
+        </div>
+        <div className="bottom-img">
+          <a href="https://www.eurashe.eu" target="_blank"><img className="link-img" src="img/link/eurashe-eu-black.png" title="European Association of Institutions in Higher Education"/></a>
+        </div>
+      </div>
+    </div>
+  </MasterPage>
 )
+export default Anasayfa
 
-export default Home
