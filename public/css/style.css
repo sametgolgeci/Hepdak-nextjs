@@ -187,6 +187,11 @@ p > a, td > a{
 	font-family: 'Raleway', sans-serif;
 	font-weight: 700;
 }
+.akreditasyon-button:hover{
+	color: #fff;
+  background: rgb(0,138,197);
+	background: linear-gradient(138deg, rgba(0,138,197,1) 0%, rgba(79,173,213,1) 100%);
+}
 .akreditasyon-button.active{
 	color: #fff;
   background: rgb(0,138,197);
@@ -214,13 +219,6 @@ p > a, td > a{
 	font-weight: 400;
 	color: #696d7d;
 	margin-bottom: 10px;
-}
-.leftside{
- 	top: 120px;
-	position: fixed;
-}
-div.col-8 div {
-	height: 500px;
 }
 
 
