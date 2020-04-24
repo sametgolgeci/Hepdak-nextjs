@@ -56,7 +56,7 @@ const Footer = () => (
 						<FontAwesomeIcon className="footer-icon" icon={faMapMarkerAlt}/>
 					</div>
 					<div>
-						<span>Güzelyalı mah. 34 Sok. No: 28/A Konak/İZMİR</span>
+						<span>Konak Mah. 858 Sok. No:9 Daire:706 Konak/İZMİR</span>
 					</div>
 				</div>
 			</div>
