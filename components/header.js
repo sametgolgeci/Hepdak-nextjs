@@ -11,19 +11,15 @@ const Header = () => (
 				<li className="nav-item dropdown">
 					<a className="nav-link dropdown-toggle diss" data-toggle="dropdown" href="/hakkimizda">Hakkımızda</a>
 					<div className="dropdown-menu">
-						<a className="dropdown-item" href="/">Misyon</a>
-						<a className="dropdown-item" href="/">Amaç ve Faaliyetler</a>
-						<a className="dropdown-item" href="#">Kalite Politakası</a>
-						<a className="dropdown-item" href="#">Yönetim Kurulu</a>
-						<a className="dropdown-item" href="#">Denetleme Kurulu</a>
-						<a className="dropdown-item" href="#">Kurul ve Komisyonlar</a>
-						<a className="dropdown-item" href="#">Hepdak Raporları**</a>
-						<a className="dropdown-item" href="#">Tescil Yazıları</a>
-			      <a className="dropdown-item" href="#">Uluslararası Üyelik</a>
-			      <a className="dropdown-item" href="#">Üye Listesi</a>
-			      <a className="dropdown-item" href="#">İktisadi İşletme</a>
-			      <a className="dropdown-item" href="#">Dernek Faaliyet Durumu</a>
-			      <a className="dropdown-item" href="#">Kalite Değerlendirme Tescil Belgesi</a>
+						<a className="dropdown-item" href="/misyon">Misyon</a>
+						<a className="dropdown-item" href="/amac-ve-faaliyetler">Amaç ve Faaliyetler</a>
+						<a className="dropdown-item" href="/kalite-politikasi">Kalite Politakası</a>
+						<a className="dropdown-item" href="/yonetim-ve-denetleme-kurulu">Yönetim ve Denetleme Kurulu</a>
+						<a className="dropdown-item" href="/kurul-ve-komisyonlar">Kurul ve Komisyonlar</a>
+						<a className="dropdown-item" href="/hepdak-raporlari">Hepdak Raporları</a>
+						<a className="dropdown-item" href="/uluslararasi-uyelik-ve-tescil-yazilari">Uluslararası Üyelik ve Tescil Yazıları</a>
+			      <a className="dropdown-item" href="/uye-listesi">Üye Listesi</a>
+			      <a className="dropdown-item" href="doc/hepdak_vergi_levhasi-v2.pdf">İktisadi İşletme</a>
 					</div>
 				</li>
 				<li className="nav-item">

@@ -1,6 +1,6 @@
 body {
   font-family: Raleway,"PT Sans", 'Roboto', Arial, Helvetica, sans-serif !important;
-  font-size: 14px !important;
+  font-size: 15px !important;
 	position: relative; 
 }
 td > p{
@@ -237,12 +237,14 @@ p > a, td > a{
 	color: #fff;
   background: rgb(0,138,197);
 	background: linear-gradient(138deg, rgba(0,138,197,1) 0%, rgba(79,173,213,1) 100%);
+	border-radius: 5px
 }
 .akreditasyon-button.active{
 	color: #fff;
   background: rgb(0,138,197);
 	background: linear-gradient(138deg, rgba(0,138,197,1) 0%, rgba(79,173,213,1) 100%);
   opacity: 1.0;
+  border-radius: 5px;
 }
 .akreditasyon-content{
 	font-family: 'Roboto', sans-serif;
@@ -266,7 +268,24 @@ p > a, td > a{
 	color: #696d7d;
 	margin-bottom: 10px;
 }
-
-
+/* Genel CSS */
+.jumbotron{
+	font-size: 20px;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 400;
+}
+.genel{
+	font-size: 15px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+}
+.genel > span{
+	display: block;
+}
+.genel > h2,h3{
+	color: #000055;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 900 !important;
+}
 
 
