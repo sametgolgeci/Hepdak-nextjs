@@ -131,6 +131,68 @@ const Anasayfa = () => (
         <Link href="/#"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faImages}/>Albüm</button></a></Link>
       </div>
     </div>
+    <div className="main-bottom">
+      <div className="main-bottom-title">İlgili Kuruluşlar</div>
+      <div className="main-bottom-img">
+        <div className="bottom-img">
+          <a href="https://www.yok.gov.tr" target="_blank"><img className="link-img" src="img/link/yok.png" title="Yükseköğretim Kurulu"/></a>
+        </div>
+        <div className="bottom-img">
+          <a href="https://www.yodek.org.tr" target="_blank"><img className="link-img" src="img/link/yodek.png" title="Yükseköğretim Akademik Değerlendirme ve Kalite Geliştirme Komisyonu"/></a>
+        </div>
+        <div className="bottom-img">
+          <a href="https://www.kalder.org" target="_blank"><img className="link-img" src="img/link/kalder.png" title="Türkiye Kalite Derneği"/></a>
+        </div>
+        <div className="bottom-img">
+          <a href="https://www.mudek.org.tr" target="_blank"><img className="link-img" src="img/link/mudek.png" title="Mühendislik Eğitim Programları Değerlendirme ve Akreditasyon Derneği"/></a>
+        </div>
+        <div className="bottom-img">
+          <a href="https://www.eczakder.org.tr" target="_blank"><img className="link-img" src="img/link/eczakder.png" title="Eczacılık Eğitimi Programlarını Değerlendirme ve Akreditasyon Derneği"/></a>
+        </div>
+        <div className="bottom-img">
+          <a href="https://www.fedek.org.tr" target="_blank"><img className="link-img" src="img/link/fedek.png" title="Fen, Edebiyat, Fen-Edebiyat, Dil ve Tarih - Coğrafya Fakülteleri Öğretim Programları Değerlendirme ve Akreditasyon Derneği "/></a>
+        </div>
+        <div className="bottom-img">
+          <a href="https://www.hemed.org.tr" target="_blank"><img className="link-img" src="img/link/hemed.png" title="Hemşirelik Eğitimi Derneği"/></a>
+        </div>
+        <div className="bottom-img">
+          <a href="https://www.psikolog.org.tr" target="_blank"><img className="link-img" src="img/link/turk-psikolog.png" title="Türk Psikologlar Derneği"/></a>
+        </div>    
+        <div className="bottom-img">
+          <a href="https://www.vedek.org.tr" target="_blank"><img className="link-img" src="img/link/vedek.png" title="Veteriner Hekimliği Eğitim Kurumları ve Programları Değerlendirme ve Akreditasyon Derneği"/></a>
+        </div>
+        <div className="bottom-img">
+          <a href="https://www.nln.org" target="_blank"><img className="link-img" src="img/link/nln-org.png" title="National League for Nursing"/></a>
+        </div>
+        <div className="bottom-img">
+          <a href="https://www.aacnnursing.org" target="_blank"><img className="link-img" src="img/link/aacn.png" title="American Association of Colloges of Nursing"/></a>
+        </div>
+        <div className="bottom-img">
+          <a href="https://www.aacnnursing.org/CCNE" target="_blank"><img className="link-img" src="img/link/ccne.png" title="Commision on Collegiate Nursing Education"/></a>
+        </div>
+        <div className="bottom-img">
+          <a href="https://www.casn.ca" target="_blank"><img className="link-img" src="img/link/casn-ca-new.png" title="Canadian Association of Schools of Nursing"/></a>
+        </div>
+        <div className="bottom-img">
+          <a href="https://www.chea.org" target="_blank"><img className="link-img" src="img/link/chea-org.png" title="Council for Higher Education Accreditation"/></a>
+        </div>
+        <div className="bottom-img">
+          <a href="https://www.enqa.eu" target="_blank"><img className="link-img" src="img/link/enqa-eu.png" title="European Association for Quality Assurance for Higher Education"/></a>
+        </div>
+        <div className="bottom-img">
+          <a href="https://www.qaa.ac.uk" target="_blank"><img className="link-img" src="img/link/qaa-ac-uk.png" title="Quality Assurance Agency for Higher Education"/></a>
+        </div>
+        <div className="bottom-img">
+          <a href="https://www.eqar.eu" target="_blank"><img className="link-img" src="img/link/eqar-eu.png" title="European Quality Assurance Register for Higher Education"/></a>
+        </div>
+        <div className="bottom-img">
+          <a href="https://www.inqaahe.org" target="_blank"><img className="link-img" src="img/link/inqaahe-org.png" title="International Network for Quality Assurance Agencies in Higher Education"/></a>
+        </div>
+        <div className="bottom-img">
+          <a href="https://www.eurashe.eu" target="_blank"><img className="link-img" src="img/link/eurashe-eu-black.png" title="European Association of Institutions in Higher Education"/></a>
+        </div>
+      </div>
+    </div>
   </MasterPage>
 )
 export default Anasayfa

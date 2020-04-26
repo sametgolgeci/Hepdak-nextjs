@@ -165,7 +165,7 @@ p > a, td > a{
 	font-size: 30px;
 	font-weight: 900;
 	color: #000055;
-	margin-bottom: 30px;
+	margin-bottom: 16px;
 }
 .main-bottom-img{
 	display: flex;
@@ -173,14 +173,14 @@ p > a, td > a{
 	justify-content: center;	
 }
 .bottom-img{
-	padding: 16px;
+	padding: 8px;
 	opacity: 0.5;
 }
 .bottom-img:hover{
 	opacity: 1;
 }
 .link-img{
-	height: 64px;
+	height: 40px;
 	width: auto;
 }
 
@@ -192,6 +192,7 @@ p > a, td > a{
 	padding-top: 15px;
 	padding-bottom: 15px;
 	border-top: 1px solid #eaeaea;
+	width: 100%;
 }
 .footer-items{
 	display: flex;
@@ -274,18 +275,23 @@ p > a, td > a{
 	font-family: 'Raleway', sans-serif;
 	font-weight: 400;
 }
+.badge-custom{
+	background-color: #000055;
+	color: white;
+}
 .genel{
 	font-size: 15px;
 	font-family: 'Roboto', sans-serif;
-	font-weight: 400;
+	font-weight: 500;
 }
 .genel > span{
 	display: block;
 }
-.genel > h2,h3{
+.genel > h2,h3,h4,h5,h6{
 	color: #000055;
 	font-family: 'Raleway', sans-serif;
 	font-weight: 900 !important;
+	margin: 10px 0px !important;
 }
 
 
