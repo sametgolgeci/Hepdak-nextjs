@@ -7,7 +7,6 @@ const Hakkımızda = () => (
 	<Head>
 		<title>HEPDAK | Hakkımızda</title>
 	</Head>
-	
 </MasterPage>
 )
 export default Hakkımızda

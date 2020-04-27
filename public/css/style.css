@@ -293,5 +293,19 @@ p > a, td > a{
 	font-weight: 900 !important;
 	margin: 10px 0px !important;
 }
+.calistay-nav{
+	justify-content: left !important;
+}
+.calistay-button{
+	color: #fff;
+  background: rgb(0,138,197);
+	background: linear-gradient(138deg, rgba(0,138,197,1) 0%, rgba(79,173,213,1) 100%);
+  opacity: 1.0;
+  border-radius: 5px;
+  margin-right: 10px; 
+}
+.calistay-button:hover{
+	color: #fff !important;
+}
 
 

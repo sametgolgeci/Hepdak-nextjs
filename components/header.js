@@ -28,15 +28,9 @@ const Header = () => (
         <li className="nav-item">
           <a className="nav-link" href="/calistay">Çalıştay</a>
         </li>
-			  <li className="nav-item dropdown">
-					<a className="nav-link dropdown-toggle diss" data-toggle="dropdown" href="#">Toplantılar</a>
-	        <div className="dropdown-menu">
-	          <a className="dropdown-item" href="#">HEAK Toplantıları</a>
-	          <a className="dropdown-item" href="#">Tutarlılık Komisyonu Toplantıları</a>
-	          <a className="dropdown-item" href="#">Standartları Belirleme ve Geliştirme Komisyonu Toplantıları</a>
-	          <a className="dropdown-item" href="#">Takım Başkanları Toplantıları</a>
-					</div>
-	      </li>
+			  <li className="nav-item">
+          <a className="nav-link" href="/toplantilar">Toplantılar</a>
+        </li>
 	      <li className="nav-item">
 	        <a className="nav-link" href="/hakkimizda">İletişim</a>
 	      </li>
