@@ -32,7 +32,7 @@ const Header = () => (
           <a className="nav-link" href="/toplantilar">Toplantılar</a>
         </li>
 	      <li className="nav-item">
-	        <a className="nav-link" href="/hakkimizda">İletişim</a>
+	        <a className="nav-link" href="/iletisim">İletişim</a>
 	      </li>
 			</ul>
 		</div>

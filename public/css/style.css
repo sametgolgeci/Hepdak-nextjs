@@ -10,6 +10,7 @@ p > a, td > a{
 	color: black;
 	font-weight: bold;
 }
+
 /* Header CSS */
 .header-items{
 	display: flex;
@@ -199,15 +200,24 @@ p > a, td > a{
 	max-width: 1100px;
 	margin: 0 auto;
 }
+.footer-item{
+	margin: 15px 0px;
+}
+.footer-item > div > a{
+	color: white;
+}
+.footer-item > div > a:hover{
+	text-decoration: none;
+}
 .footer-img{
 	width: 100%;
 }
-.footer-info{
-	margin-top: 15px;
+.footer-info-items{
+	margin: 20px 0px;
 }
 .footer-info-item{
 	display: flex;
-	margin: 5px 0px;
+	margin-bottom: 5px;
 }
 .footer-info-icon{
 	height: 1rem;
@@ -217,6 +227,10 @@ p > a, td > a{
 }
 .footer-icon{
 	height: 1rem;
+}
+.footer-copy{
+	margin-top: 20px;
+	text-align: center;
 }
 
 /* Akreditasyon CSS */
@@ -269,6 +283,7 @@ p > a, td > a{
 	color: #696d7d;
 	margin-bottom: 10px;
 }
+
 /* Genel CSS */
 .jumbotron{
 	font-size: 20px;
