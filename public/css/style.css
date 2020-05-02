@@ -259,8 +259,9 @@ p > a, td > a{
 
 /* Akreditasyon CSS */
 .akreditasyon-sidebar {
-	top: 140px;
-	position: fixed;
+	position: -webkit-sticky;
+  position: sticky;
+  top: 20px;
 }
 .akreditasyon-sidebar-item{
 	margin-bottom: 10px;
