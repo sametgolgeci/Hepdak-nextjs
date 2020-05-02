@@ -29,7 +29,7 @@ const Calistay = () => (
 		    <a className="nav-link calistay-button" href="doc/28Kasim2015_kurum_program.pdf">Program</a>
 		  </li>
 		  <li className="nav-item">
-		    <a className="nav-link calistay-button" href="doc/28Kasim2015_kurum_katilimci.pdff">Katılımcı Listesi</a>
+		    <a className="nav-link calistay-button" href="doc/28Kasim2015_kurum_katilimci.pdf">Katılımcı Listesi</a>
 		  </li>
 		</ul>		
 		<h6><span className="badge badge-custom">3</span> 17 Aralık 2016 (İzmir)</h6>

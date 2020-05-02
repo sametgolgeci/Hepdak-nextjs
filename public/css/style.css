@@ -1,7 +1,14 @@
 body {
   font-family: Raleway,"PT Sans", 'Roboto', Arial, Helvetica, sans-serif !important;
   font-size: 15px !important;
-	position: relative; 
+	position: relative;
+	font-variant-numeric: lining-nums;
+  -moz-font-feature-settings: "lnum" 1;
+  -moz-font-feature-settings: "lnum=1";
+  -ms-font-feature-settings: "lnum" 1;
+  -o-font-feature-settings: "lnum" 1;
+  -webkit-font-feature-settings: "lnum" 1;
+  font-feature-settings: "lnum" 1; 
 }
 td > p{
 	margin-bottom: 0px;
@@ -233,7 +240,6 @@ p > a, td > a{
 	text-align: center;
 }
 .footer-item-link{
-	padding-left: 10px;
 	margin-bottom: 10px;
 	display: flex;
 	color: #696d7d;
