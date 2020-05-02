@@ -8,7 +8,7 @@ const Calistay = () => (
 		<title>HEPDAK | Calıştay</title>
 	</Head>
 	<div className="genel">
-		<h3>HEPDAK Kurumlar için Eğitim Çalıştayı</h3>
+		<h3 id="kurumlar">HEPDAK Kurumlar için Eğitim Çalıştayı</h3>
 		<p>HEPDAK akreditasyonuna başvurmayı ve/veya HEPDAK standartlarına göre programlarında iyileştirme yapmayı planlayan hemşirelik lisans programlarının yönetici ve öğretim kadrosuna çalıştaylar yapılmaktadır.</p>
 		<p>Yapılan çalıştayların içeriğinde; HEPDAK hakkında genel bilgiler ve hemşirelik lisans programlarının akreditasyonu hakkında bilgiler verilmesi, HEPDAK akreditasyonundaki temel kavramlar, standartlardaki çıktı odaklı sürekli iyileştirme yaklaşımının hemşirelik lisans programlarına uygulanması, değerlendirme süreci, Fakülte ve Bölümlerin akreditasyon hazırlıkları, özdeğerlendirme raporları, değerlendirme takımlarınca yapılan kurum ziyaretleri yer almaktadır.</p>
 		<h6><span className="badge badge-custom">1</span> 31 Ocak 2016 (İzmir)</h6>
@@ -89,7 +89,7 @@ const Calistay = () => (
 		    <a className="nav-link calistay-button" href="doc/kurum_egitim_slayt_18ocak2020.pdf">Değerlendirme</a>
 		  </li>
 		</ul>
-		<h3>HEPDAK Değerlendirici Eğitimi Çalıştayı</h3>
+		<h3 id="degerlendirici">HEPDAK Değerlendirici Eğitimi Çalıştayı</h3>
 		<p>HEPDAK değerlendirmelerinde program değerlendiricisi olarak görev alacak olanların değerlendirme öncesinde bir değerlendirici eğitiminden geçmeleri gerekmektedir.</p>
 		<p>Program değerlendirici adaylarına aşağıdaki konularda bilgilendirmek ve eğitmek amaçlı çalıştaylar yapılmaktadır;</p>
 		<p>• HEPDAK ve değerlendirme sürecini daha yakından tanıma</p>
@@ -136,7 +136,7 @@ const Calistay = () => (
 		    <a className="nav-link calistay-button" href="doc/3-4eylul2018-degerlendirme-sonuclari.pdf">Değerlendirme</a>
 		  </li>
 		</ul>
-		<h3>HEPDAK Öğrenci Değerlendirici Eğitimi Çalıştayı</h3>
+		<h3 id="ogrenci">HEPDAK Öğrenci Değerlendirici Eğitimi Çalıştayı</h3>
 		<p>HEPDAK değerlendirmelerinde program değerlendiricisi olarak görev alacak olan öğrenci değerlendiricilerin daha önceden bir değerlendirici eğitiminden geçmeleri gerekmektedir. Öğrenci değerlendirici adaylarına bu eğitimlerde aşağıda belirtilen konularında bilgilendirme yapılmaktadır;</p>
 		<p>• HEPDAK ve değerlendirme sürecini yakından tanıma</p>
 		<p>• Değerlendirme becerisini geliştirme</p>

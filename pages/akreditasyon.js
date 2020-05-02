@@ -459,6 +459,36 @@ const Akreditasyon = () => (
                 <a href="https://www.mudek.org.tr" target="_blank"><img className="link-img" src="img/link/mudek.png" title="Mühendislik Eğitim Programları Değerlendirme ve Akreditasyon Derneği"/></a>
               </div>
               <div className="bottom-img">
+                <a href="http://tepdad.org.tr" target="_blank"><img className="link-img" src="img/link/tepdad.png" title="Tıp Eğitimi Programlarını Değerlendirme ve Akreditasyon Derneği"/></a>
+              </div>
+              <div className="bottom-img">
+                <a href="https://epdad.org.tr" target="_blank"><img className="link-img" src="img/link/epdad.png" title="Öğretmenlik Eğitim Programları Değerlendirme ve Akreditasyon Derneği"/></a>
+              </div>
+              <div className="bottom-img">
+                <a href="http://iledak.ilad.org.tr" target="_blank"><img className="link-img" src="img/link/iledak.png" title="İletişim Eğitimi Değerlendirme Akreditasyon Kurulu"/></a>
+              </div>
+              <div className="bottom-img">
+                <a href="http://www.sabak.org.tr" target="_blank"><img className="link-img" src="img/link/sabak.png" title="Sağlık Bilimleri Eğitim Programları Değerlendirme ve Akreditasyon Derneği"/></a>
+              </div>
+              <div className="bottom-img">
+                <a href="http://www.turak.org" target="_blank"><img className="link-img" src="img/link/turak.png" title="Turizm Eğitimi Değerlendirme ve Akreditasyon Kurulu"/></a>
+              </div>
+              <div className="bottom-img">
+                <a href="http://www.iaa.org.tr" target="_blank"><img className="link-img" src="img/link/iaa.png" title="İlahiyat Akreditasyon Ajansı"/></a>
+              </div>
+              <div className="bottom-img">
+                <a href="http://pemder.org.tr" target="_blank"><img className="link-img" src="img/link/pemder.png" title="Peyzaj Mimarlığı Eğitim ve Bilim Derneği"/></a>
+              </div>
+              <div className="bottom-img">
+                <a href="http://audak.org" target="_blank"><img className="link-img" src="img/link/audak.png" title="Açık ve Uzaktan Öğretim Programları Değerlendirme ve Akreditasyon Derneği"/></a>
+              </div>
+              <div className="bottom-img">
+                <a href="http://www.depad.org" target="_blank"><img className="link-img" src="img/link/depad.png" title="Diş Hekimliği Eğitimi Programları Akreditasyon Derneği"/></a>
+              </div>
+              <div className="bottom-img">
+                <a href="https://www.sporbilimleri.org.tr" target="_blank"><img className="link-img" src="img/link/sbd.png" title="Spor Bilimleri Derneği"/></a>
+              </div>
+              <div className="bottom-img">
                 <a href="https://www.eczakder.org.tr" target="_blank"><img className="link-img" src="img/link/eczakder.png" title="Eczacılık Eğitimi Programlarını Değerlendirme ve Akreditasyon Derneği"/></a>
               </div>
               <div className="bottom-img">
@@ -507,9 +537,6 @@ const Akreditasyon = () => (
           </div>
         </div>
       </div>
-
-
-
 	</MasterPage>
 )
 export default Akreditasyon

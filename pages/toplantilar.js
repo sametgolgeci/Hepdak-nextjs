@@ -9,7 +9,7 @@ const Toplantilar = () => (
 	</Head>
 	<div className="row">
 		<div className="genel col-6">
-			<h3>HEAK ve Komisyon Toplantıları</h3>
+			<h3 id="heak">HEAK ve Komisyon Toplantıları</h3>
 			<table className="table table-striped">
 	      <tbody>
 	        <tr>
@@ -72,7 +72,7 @@ const Toplantilar = () => (
 	    </table>
 		</div>
 		<div className="genel col-6">
-			<h3>Tutarlılık Komisyonu Toplantıları</h3>
+			<h3 id="tutarlilik">Tutarlılık Komisyonu Toplantıları</h3>
 			<table className="table table-striped">
 	      <tbody>
 	        <tr>
@@ -93,7 +93,7 @@ const Toplantilar = () => (
 	        </tr>
 	      </tbody>
 	    </table>
-	    <h3>Takım Başkanları Toplantıları</h3>
+	    <h3 id="takim">Takım Başkanları Toplantıları</h3>
 	    <table className="table table-striped">
 	      <tbody>
 	        <tr>

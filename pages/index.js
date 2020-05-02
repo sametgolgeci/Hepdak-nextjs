@@ -24,25 +24,25 @@ const Anasayfa = () => (
       <div className="tab-content">
         <div className="tab-pane active" id="son">
           <div className="main-top-one">
-            <div id="carouselExampleControls" className="carousel slide" data-ride="carousel" data-interval="false">
-              <div className="carousel-inner" data-interval="false">
-                <div className="carousel-item active" data-interval="false">
+            <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
+              <div className="carousel-inner">
+                <div className="carousel-item active">
                   <div className="main-top-one-title">YÖKAK SAHA ZİYARETİ</div>
                   <div className="main-top-one-content">Yüksek Öğretim Kalite Kurulu (YÖKAK), "Dış Değerlendirme ve Akreditasyon Kuruluşlarının Yetkilendirilmesi, Tanınması ve İzlenmesine İlişkin Kılavuz, 2019" kapsamında Kalite Değerlendirme Tescil Belgesi'ne sahip ulusal akreditasyon kuruluşları için 2020 yılından itibaren saha ziyareti uygulamasını başlatmıştır.</div>
                 </div>
-                <div className="carousel-item" data-interval="false">
+                <div className="carousel-item">
                   <div className="main-top-one-title">DUYURU</div>
                   <div className="main-top-one-content">17-18 Nisan 2020 tarihinde yapılacağı duyurulan Değerlendirici Eğitimi korona virüs salgını sebebiyle ileri bir tarihe ertelenmiştir. Tarih yeniden duyurulacaktır.</div>
                 </div>
-                <div className="carousel-item" data-interval="false">
+                <div className="carousel-item">
                   <div className="main-top-one-title">HEPDAK, 2023 YILINA KADAR TESCİL EDİLDİ</div>
                   <div className="main-top-one-content">Hemşirelik Eğitim Programları Değerlendirme ve Akreditasyon Derneği-HEPDAK Yükseköğretim Kalite Kurulu tarafından 25.12.2023 tarihine kadar beş yıllığına tescil edilmiştir.</div>
                 </div>
-                <div className="carousel-item" data-interval="false">
+                <div className="carousel-item">
                   <div className="main-top-one-title">HEPDAK DEĞERLENDİRME VE AKREDİTASYON ÜCRETLERİ</div>
                   <div className="main-top-one-content">2020-2021 Değerlendirme Dönemi Akreditasyon Bedelleri Belirlenmiştir.</div>
                 </div>
-                <div className="carousel-item" data-interval="false">
+                <div className="carousel-item">
                   <div className="main-top-one-title">CEENQUA'DA SEMPOZYUM HABERİMİZ</div>
                   <div className="main-top-one-content">CEENQUA'nın Temmuz haber bülteninde HEPDAK&HEMED birlikteliği ile gerçekleştirilen sempozyum haberimiz yer aldı.</div>
                 </div>
@@ -85,13 +85,55 @@ const Anasayfa = () => (
           <div className="tab-content">
             <div id="yirmi" className="container tab-pane active">
               <div className="main-top-second">
-                <div className="main-top-second-title">YÖKAK SAHA ZİYARETİ</div>
+                <div className="main-top-second-title">YÖKAK Saha Ziyareti</div>
                 <div className="main-top-second-content">Yüksek Öğretim Kalite Kurulu (YÖKAK), "Dış Değerlendirme ve Akreditasyon Kuruluşlarının Yetkilendirilmesi, Tanınması ve İzlenmesine İlişkin Kılavuz, 2019" kapsamında Kalite Değerlendirme Tescil Belgesi'ne sahip ulusal akreditasyon kuruluşları için 2020 yılından itibaren saha ziyareti uygulamasını başlatmıştır. Bu bağlamda, YÖKAK tarafından HEPDAK izleme yetkilisi olarak görevlendirilen YÖKAK Üyesi Prof. Dr. İlker Murat Ar, 17 Ocak 2020 tarihinde ofisimizde bir saha ziyareti gerçekleştirmiştir. Toplantıya, HEPDAK Yönetim Kurulu üyeleri yanı sıra, HEAK Başkanı ile bir HEAK üyesi ve bir HEPDAK değerlendiricisi olmak üzere toplam sekiz kişi katılmıştır. HEPDAK Başkanının yaptığı 2019 yılı faaliyetlerini içeren sunumun ardından izleme yetkilisi Prof. Dr. İlker Murat Ar, HEPDAK uygulamalarında güçlü ve geliştirmeye açık yönler konularında önerilerde bulunmuştur. Toplantı, katılımcılarla yapılan yararlı bir görüş alışverişiyle sona ermiştir. HEPDAK Yönetim Kurulu, ilk kez yapılan izleme ziyaretini, akreditasyon süreçlerinin iyileştirilmesi açısından yol gösterici olarak değerlendirmiştir.</div>
               </div>
             </div>
             <div id="ondokuz" className="container tab-pane fade">
-              <h3>2019</h3>
-              <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+              <div className="main-top-second">
+                <div className="main-top-second-title">Kurumlara Yönelik Eğitim Çalıştayı</div>
+                <div className="main-top-second-content">Hemşirelik Lisans Eğitimi Veren Yükseköğretim Kurumlarına Yönelik Eğitim Çalıştayı 1 Aralık 2018 Cumartesi günü Anemon Ege Otel (İzmir)'de gerçekleştirilecektir. Çalıştay programına <Link href="doc/kurumlar-icin-egitim-calistayi-1aralik-2018-programi_v2.pdf"><a><strong>buradan</strong></a></Link> ulaşabilirsiniz.</div>
+              </div>
+              <div className="main-top-second">
+                <div className="main-top-second-title">29 Ekim Cumhuriyet Bayramı Kutlaması</div>
+                <div className="main-top-second-content">image image image</div>
+              </div>
+              <div className="main-top-second">
+                <div className="main-top-second-title">30 Ağustos Zafer Bayramı Kutlaması</div>
+                <div className="main-top-second-content">image image image</div>
+              </div>
+              <div className="main-top-second">
+                <div className="main-top-second-title">Kurban Bayramınız Mübarek Olsun</div>
+                <div className="main-top-second-content">image image image</div>
+              </div>
+              <div className="main-top-second">
+                <div className="main-top-second-title">CEENQUA'da Sempozyum Haberimiz</div>
+                <div className="main-top-second-content">CEENQUA'nın Temmuz haber bülteninde HEPDAK&HEMED birlikteliği ile gerçekleştirilen sempozyum haberimiz yer aldı. Habere <Link href="doc/8_1_july_2018.pdf"><a><strong>buradan</strong></a></Link> ulaşabilirsiniz.</div>
+              </div>
+              <div className="main-top-second">
+                <div className="main-top-second-title">Ramazan Bayramınız Mübarek Olsun</div>
+                <div className="main-top-second-content">image image image</div>
+              </div>
+              <div className="main-top-second">
+                <div className="main-top-second-title">19 Mayıs Atütürk'ü Anma, Gençlik ve Spor Bayramı Kutlaması</div>
+                <div className="main-top-second-content">image image image</div>
+              </div>
+              <div className="main-top-second">
+                <div className="main-top-second-title">12-18 Mayıs Hemşirelik Haftamız Kutlu Olsun</div>
+                <div className="main-top-second-content">image image image</div>
+              </div>
+              <div className="main-top-second">
+                <div className="main-top-second-title">23 Nisan Ulusal Egemenlik ve Çocuk Bayramı Kutlaması</div>
+                <div className="main-top-second-content">image image image</div>
+              </div>
+              <div className="main-top-second">
+                <div className="main-top-second-title">Hemşirelik Eğitiminin Geleceği: 19-20 Haziran Akreditasyon, Standartlar, İyi Uygulama Örnekleri</div>
+                <div className="main-top-second-content"><p>Bilimsel Program, Kayıt & Konaklama, Davet tüm bilgileri  <Link href="http://www.hemsirelikegitiminingelecegi.com"><a><strong>buradan</strong></a></Link> erişebilirsiniz.</p> <h6>Sempozyum Yeri ve İletişim</h6><p>Ege Üniversitesi Hemşirelik Fakültesi</p><p>Yasemin Şimşek</p><p>Dalya Turizm, Kazım Dirik Mah. 372/8 Sk. No:1 Bornova-İzmir, TÜRKİYE</p><p>+90 232 464 88 30</p><p>yasemin@dalyatur.com</p></div>
+              </div>
+              <div className="main-top-second">
+                <div className="main-top-second-title">HEPDAK Olarak Yeni Yılınızı Kutlarız</div>
+                <div className="main-top-second-content">image image image</div>
+              </div>
             </div>
             <div id="onsekiz" className="container tab-pane fade">
               <h3>2018</h3>
@@ -145,6 +187,36 @@ const Anasayfa = () => (
         </div>
         <div className="bottom-img">
           <a href="https://www.mudek.org.tr" target="_blank"><img className="link-img" src="img/link/mudek.png" title="Mühendislik Eğitim Programları Değerlendirme ve Akreditasyon Derneği"/></a>
+        </div>
+        <div className="bottom-img">
+          <a href="http://tepdad.org.tr" target="_blank"><img className="link-img" src="img/link/tepdad.png" title="Tıp Eğitimi Programlarını Değerlendirme ve Akreditasyon Derneği"/></a>
+        </div>
+        <div className="bottom-img">
+          <a href="https://epdad.org.tr" target="_blank"><img className="link-img" src="img/link/epdad.png" title="Öğretmenlik Eğitim Programları Değerlendirme ve Akreditasyon Derneği"/></a>
+        </div>
+        <div className="bottom-img">
+          <a href="http://iledak.ilad.org.tr" target="_blank"><img className="link-img" src="img/link/iledak.png" title="İletişim Eğitimi Değerlendirme Akreditasyon Kurulu"/></a>
+        </div>
+        <div className="bottom-img">
+          <a href="http://www.sabak.org.tr" target="_blank"><img className="link-img" src="img/link/sabak.png" title="Sağlık Bilimleri Eğitim Programları Değerlendirme ve Akreditasyon Derneği"/></a>
+        </div>
+        <div className="bottom-img">
+          <a href="http://www.turak.org" target="_blank"><img className="link-img" src="img/link/turak.png" title="Turizm Eğitimi Değerlendirme ve Akreditasyon Kurulu"/></a>
+        </div>
+        <div className="bottom-img">
+          <a href="http://www.iaa.org.tr" target="_blank"><img className="link-img" src="img/link/iaa.png" title="İlahiyat Akreditasyon Ajansı"/></a>
+        </div>
+        <div className="bottom-img">
+          <a href="http://pemder.org.tr" target="_blank"><img className="link-img" src="img/link/pemder.png" title="Peyzaj Mimarlığı Eğitim ve Bilim Derneği"/></a>
+        </div>
+        <div className="bottom-img">
+          <a href="http://audak.org" target="_blank"><img className="link-img" src="img/link/audak.png" title="Açık ve Uzaktan Öğretim Programları Değerlendirme ve Akreditasyon Derneği"/></a>
+        </div>
+        <div className="bottom-img">
+          <a href="http://www.depad.org" target="_blank"><img className="link-img" src="img/link/depad.png" title="Diş Hekimliği Eğitimi Programları Akreditasyon Derneği"/></a>
+        </div>
+        <div className="bottom-img">
+          <a href="https://www.sporbilimleri.org.tr" target="_blank"><img className="link-img" src="img/link/sbd.png" title="Spor Bilimleri Derneği"/></a>
         </div>
         <div className="bottom-img">
           <a href="https://www.eczakder.org.tr" target="_blank"><img className="link-img" src="img/link/eczakder.png" title="Eczacılık Eğitimi Programlarını Değerlendirme ve Akreditasyon Derneği"/></a>

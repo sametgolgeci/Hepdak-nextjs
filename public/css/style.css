@@ -51,7 +51,7 @@ p > a, td > a{
 	}
 }
 
-/* Anasayfa CSS */
+/* Main CSS */
 .main{
 	max-width: 1100px;
 	margin: 0 auto;
@@ -122,6 +122,13 @@ p > a, td > a{
 	padding-left: 10px;
 	padding-bottom: 10px;
 }
+.main-top-second-content > a{
+	color: black;
+	font-weight: 600;
+}
+.main-top-second-content > p{
+	margin: 0px;
+}
 .main-carousel-icon{
 	height: 40px;
 	color: #008ac3;
@@ -191,7 +198,6 @@ p > a, td > a{
 	color: white;
 	margin-top: 32px;
 	padding-top: 15px;
-	padding-bottom: 15px;
 	border-top: 1px solid #eaeaea;
 	width: 100%;
 }
@@ -200,24 +206,16 @@ p > a, td > a{
 	max-width: 1100px;
 	margin: 0 auto;
 }
-.footer-item{
-	margin: 15px 0px;
-}
-.footer-item > div > a{
-	color: white;
-}
-.footer-item > div > a:hover{
-	text-decoration: none;
-}
 .footer-img{
 	width: 100%;
-}
-.footer-info-items{
-	margin: 20px 0px;
+	margin-bottom: 40px;
 }
 .footer-info-item{
 	display: flex;
-	margin-bottom: 5px;
+	margin-bottom: 10px;
+}
+.footer-item{
+	margin: 15px 0px;
 }
 .footer-info-icon{
 	height: 1rem;
@@ -228,9 +226,29 @@ p > a, td > a{
 .footer-icon{
 	height: 1rem;
 }
-.footer-copy{
-	margin-top: 20px;
+.footer-item-icon{
+	height: 1rem;
+	width: 1rem;
+	margin-right: 1px;
 	text-align: center;
+}
+.footer-item-link{
+	padding-left: 10px;
+	margin-bottom: 10px;
+	display: flex;
+	color: #696d7d;
+}
+.footer-item-title{
+	margin-bottom: 10px;
+	font-weight: 500;
+}
+.footer-copy{
+	margin-top: 10px;
+	text-align: center;
+	background-color: #00003B;
+	font-weight: 700;
+	font-size: 10px;
+	padding: 5px 0px;
 }
 
 /* Akreditasyon CSS */

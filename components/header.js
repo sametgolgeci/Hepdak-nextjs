@@ -13,7 +13,7 @@ const Header = () => (
 					<div className="dropdown-menu">
 						<a className="dropdown-item" href="/misyon">Misyon</a>
 						<a className="dropdown-item" href="/amac-ve-faaliyetler">Amaç ve Faaliyetler</a>
-						<a className="dropdown-item" href="/kalite-politikasi">Kalite Politakası</a>
+						<a className="dropdown-item" href="/kalite-politikasi">Kalite Politikası</a>
 						<a className="dropdown-item" href="/yonetim-ve-denetleme-kurulu">Yönetim ve Denetleme Kurulu</a>
 						<a className="dropdown-item" href="/kurul-ve-komisyonlar">Kurul ve Komisyonlar</a>
 						<a className="dropdown-item" href="/hepdak-raporlari">Hepdak Raporları</a>
