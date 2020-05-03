@@ -210,6 +210,7 @@ p > a, td > a{
 }
 .footer-items{
 	display: flex;
+	flex-wrap: wrap;
 	max-width: 1100px;
 	margin: 0 auto;
 }
@@ -346,6 +347,32 @@ p > a, td > a{
 }
 .calistay-button:hover{
 	color: #fff !important;
+}
+
+/* İletişim CSS */
+.iletisim-harita{
+	width: 100%;
+	height: 200px;
+	border: 0px;
+}
+.iletisim-adres{
+	border-right: 1px solid #dddddd;
+	padding: 15px 0px;
+	margin-top: 30px;
+}
+.iletisim-info{
+	padding-top: 15px;
+	margin-top: 30px;
+}
+.iletisim-mesaj{
+	margin: 20px 0px;
+}
+.iletisim-mesaj-input{
+	margin-right: 30px;
+}
+.iletisim-button{
+	background-color: #000055 !important;
+	color: white !important;
 }
 
 

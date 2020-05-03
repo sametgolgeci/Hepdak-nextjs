@@ -22,7 +22,7 @@ const Anasayfa = () => (
         </ul>
       </div>
       <div className="tab-content">
-        <div className="tab-pane active" id="son">
+        <div className="tab-pane active shadow-sm" id="son">
           <div className="main-top-one">
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">

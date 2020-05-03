@@ -7,7 +7,7 @@ import { faPhone,faEnvelope,faMapMarkerAlt,faChevronRight } from '@fortawesome/f
 const Footer = () => (
 <div className="footer">
 	<div className="footer-items">
-		<div className="col-3 footer-item">
+		<div className="col-sm-12 col-md-3 footer-item">
 			<div className="footer-logo">
 				<Link href="/"><a><img className="footer-img" src="img/logowhite.png" title="HEPDAK"></img></a></Link>
 				<div className="footer-info-item"> 
@@ -24,7 +24,7 @@ const Footer = () => (
 				</div>
 			</div>
 		</div>
-		<div className="col-3 footer-item">
+		<div className="col-sm-12 col-md-3 footer-item">
 			<div className="footer-item-title"><strong>Hakkımızda</strong></div>
 			<div className="footer-item-link"><div className="footer-item-icon"><FontAwesomeIcon className="footer-icon" icon={faChevronRight}/></div><Link href="/misyon"><a>Misyon</a></Link></div>
 			<div className="footer-item-link"><div className="footer-item-icon"><FontAwesomeIcon className="footer-icon" icon={faChevronRight}/></div><Link href="/amac-ve-faaliyetler"><a>Amaç ve Faaliyetler</a></Link></div>
@@ -35,7 +35,7 @@ const Footer = () => (
 			<div className="footer-item-link"><div className="footer-item-icon"><FontAwesomeIcon className="footer-icon" icon={faChevronRight}/></div><Link href="/uluslararasi-uyelik-ve-tescil-yazilari"><a>Uluslararası Üyelik ve Tescil Yazıları</a></Link></div>
 			<div className="footer-item-link"><div className="footer-item-icon"><FontAwesomeIcon className="footer-icon" icon={faChevronRight}/></div><Link href="/uye-listesi"><a>Üye Listesi</a></Link></div>
 		</div>	
-		<div className="col-3 footer-item">
+		<div className="col-sm-12 col-md-3 footer-item">
 			<div className="footer-item-title"><strong>Akreditasyon</strong></div>
 			<div className="footer-item-link"><div className="footer-item-icon"><FontAwesomeIcon className="footer-icon" icon={faChevronRight}/></div><Link href="/akreditasyon#surec"><a>Süreç</a></Link></div>
 			<div className="footer-item-link"><div className="footer-item-icon"><FontAwesomeIcon className="footer-icon" icon={faChevronRight}/></div><Link href="/akreditasyon#basvuru"><a>Başvuru</a></Link></div>
@@ -46,7 +46,7 @@ const Footer = () => (
 			<div className="footer-item-link"><div className="footer-item-icon"><FontAwesomeIcon className="footer-icon" icon={faChevronRight}/></div><Link href="/calistay#degerlendirici"><a>Değerlendirici Eğitimi Çalıştayı</a></Link></div>
 			<div className="footer-item-link"><div className="footer-item-icon"><FontAwesomeIcon className="footer-icon" icon={faChevronRight}/></div><Link href="/calistay#ogrenci"><a>Öğrenci Değerlendirici Eğitimi Çalıştayı</a></Link></div>
 		</div>
-		<div className="col-3 footer-item">
+		<div className="col-sm-12 col-md-3 footer-item">
 			<div className="footer-item-title"><strong>Toplantılar</strong></div>
 			<div className="footer-item-link"><div className="footer-item-icon"><FontAwesomeIcon className="footer-icon" icon={faChevronRight}/></div><Link href="/toplantilar#heak"><a>HEAK ve Komisyon Toplantıları</a></Link></div>
 			<div className="footer-item-link"><div className="footer-item-icon"><FontAwesomeIcon className="footer-icon" icon={faChevronRight}/></div><Link href="/toplantilar#tutarlilik"><a>Tutarlılık Komisyonu Toplantıları</a></Link></div>
