@@ -66,6 +66,9 @@ p > a, td > a{
 .main-top{
 	margin-top: 20px;
 }
+.main-top-nav{
+	margin-top: 50px; 
+}
 .main-nav{
 	font-family: 'Roboto', sans-serif;
 	font-size: 15px;
@@ -147,23 +150,23 @@ p > a, td > a{
 .main-middle{
 	margin-top: 50px;
 	display: flex;
+	flex-wrap: wrap;
 	margin-bottom: 50px;
 }
 .main-middle-button{
 	width: 100%;
 	height: 100px;
 	background: rgb(0,138,197);
-	background: linear-gradient(138deg, rgba(0,138,197,1) 0%, rgba(79,173,213,1) 100%);
 	border-radius: 5px;
 	border: 1px solid #008ac3;
-	opacity: 0.4;
 	color: white;
 	font-size: 30px;
 	font-family: 'Raleway', sans-serif;
 	font-weight: 700;
+	margin: 10px 0px;
 }
 .main-middle-button:hover{
-	opacity: 1.0;
+	background: linear-gradient(138deg, rgba(0,138,197,1) 0%, rgba(79,173,213,1) 100%);
 }
 .main-middle-icon{
 	height: 30px;
@@ -207,6 +210,7 @@ p > a, td > a{
 	padding-top: 15px;
 	border-top: 1px solid #eaeaea;
 	width: 100%;
+	font-size: 12px;
 }
 .footer-items{
 	display: flex;
@@ -237,8 +241,7 @@ p > a, td > a{
 .footer-item-icon{
 	height: 1rem;
 	width: 1rem;
-	margin-right: 1px;
-	text-align: center;
+	text-align: left;
 }
 .footer-item-link{
 	margin-bottom: 10px;
@@ -248,6 +251,7 @@ p > a, td > a{
 .footer-item-title{
 	margin-bottom: 10px;
 	font-weight: 500;
+	font-size: 15px;
 }
 .footer-copy{
 	margin-top: 10px;
@@ -286,6 +290,19 @@ p > a, td > a{
 	background: linear-gradient(138deg, rgba(0,138,197,1) 0%, rgba(79,173,213,1) 100%);
   opacity: 1.0;
   border-radius: 5px;
+}
+.akreditasyon-indir-button{
+	color: #fff !important;
+  background: rgb(0,138,197);
+	background: linear-gradient(138deg, rgba(0,138,197,1) 0%, rgba(79,173,213,1) 100%);
+  opacity: 1.0;
+  border-radius: 5px;
+}
+.akreditasyon-indir-button > a{
+	color: #fff !important;
+}
+.akreditasyon-indir-button > a:hover{
+	text-decoration: none;
 }
 .akreditasyon-content{
 	font-family: 'Roboto', sans-serif;
@@ -375,4 +392,15 @@ p > a, td > a{
 	color: white !important;
 }
 
+/* Yönetim CSS */
+.yonetim-text > p{
+	text-align: center;
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+.yonetim-text > h3{
+	text-align: center;
+	padding: 10px;
+	border-bottom: 1px solid #eeeeee;
+}
 

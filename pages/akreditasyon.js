@@ -83,7 +83,7 @@ const Akreditasyon = () => (
           </div>
           <div id="basvuru" className="akreditasyon-content-item"> 
             <div className="akreditasyon-content-title">Başvuru</div>
-            <p>2020-2021 Dönemi Program Değerlendirme Başvuru Formunu İndirmek için <Link href="doc/b1-basvuru-word_v5.doc"><a>Tıklayınız</a></Link></p>
+            <p>2020-2021 Dönemi Program Değerlendirme Başvuru Formu <button className="btn akreditasyon-indir-button"><Link href="doc/b1-basvuru-word_v5.doc"><a>İndir</a></Link></button></p>
           </div>        
           <div id="belgeler" className="akreditasyon-content-item">         
             <div className="akreditasyon-content-title">Belgeler</div>

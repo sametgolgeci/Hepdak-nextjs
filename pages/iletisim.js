@@ -27,21 +27,22 @@ const İletisim = () => (
 			<p><strong>Sayman : </strong>Doç. Dr. Şenay Ünsal ATAN<br/>senay.unsal.atan@gmail.com</p>
 		</div>
 	</div>
+	{/*This is a comment
 	<div className="iletisim-mesaj">
 		<form action="" method="post">
 			<div className="row">
 		    <div className="col-6">
 		    	<div className="form-group iletisim-mesaj-input">
 		    		<label for="exampleInputEmail">Ad</label>
-		      	<input type="text" className="form-control" placeholder="Adınız"/>
+		      	<input type="text" className="form-control"/>
 		    	</div>
 		    	<div className="form-group iletisim-mesaj-input">
 			    	<label for="exampleInputEmail">Soyad</label>
-			      <input type="text" className="form-control" placeholder="Soyadınız"/>
+			      <input type="text" className="form-control"/>
 			    </div>
 			    <div className="form-group iletisim-mesaj-input">
 				    <label for="exampleInputEmail">Mail Adresiniz</label>
-				    <input type="email" className="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="example@domain.com"/>
+				    <input type="email" className="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"/>
 				  </div>
 		    </div>
 		    <div className="col-6">
@@ -54,6 +55,7 @@ const İletisim = () => (
 		  <button type="submit" className="iletisim-button btn">Gönder</button>
 		</form>
 	</div>
+	*/}
 </MasterPage>
 )
 export default İletisim

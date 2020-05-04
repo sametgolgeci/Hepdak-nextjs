@@ -22,7 +22,7 @@ const Anasayfa = () => (
         </ul>
       </div>
       <div className="tab-content">
-        <div className="tab-pane active shadow-sm" id="son">
+        <div className="tab-pane active" id="son">
           <div className="main-top-one">
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
@@ -96,15 +96,15 @@ const Anasayfa = () => (
               </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">29 Ekim Cumhuriyet Bayramı Kutlaması</div>
-                <div className="main-top-second-content">image image image</div>
+                <img src="img/duyurular/29ekim2019.jpg" height="300px"/>
               </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">30 Ağustos Zafer Bayramı Kutlaması</div>
-                <div className="main-top-second-content">image image image</div>
+                <img src="img/duyurular/30ağustos2019.jpg" height="300px"/>
               </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">Kurban Bayramınız Mübarek Olsun</div>
-                <div className="main-top-second-content">image image image</div>
+                <img src="img/duyurular/kurban2019.jpg" height="300px"/>
               </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">CEENQUA'da Sempozyum Haberimiz</div>
@@ -112,19 +112,19 @@ const Anasayfa = () => (
               </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">Ramazan Bayramınız Mübarek Olsun</div>
-                <div className="main-top-second-content">image image image</div>
+                <img src="img/duyurular/ramazan2019.jpg" height="300px"/>
               </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">19 Mayıs Atütürk'ü Anma, Gençlik ve Spor Bayramı Kutlaması</div>
-                <div className="main-top-second-content">image image image</div>
+                <img src="img/duyurular/19mayis2019.jpg" height="300px"/>
               </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">12-18 Mayıs Hemşirelik Haftamız Kutlu Olsun</div>
-                <div className="main-top-second-content">image image image</div>
+                <img src="img/duyurular/hemsire2019.jpg" height="300px"/>
               </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">23 Nisan Ulusal Egemenlik ve Çocuk Bayramı Kutlaması</div>
-                <div className="main-top-second-content">image image image</div>
+                <img src="img/duyurular/23nisan2019.jpg" height="300px"/>
               </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">Hemşirelik Eğitiminin Geleceği: 19-20 Haziran Akreditasyon, Standartlar, İyi Uygulama Örnekleri</div>
@@ -132,7 +132,7 @@ const Anasayfa = () => (
               </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">HEPDAK Olarak Yeni Yılınızı Kutlarız</div>
-                <div className="main-top-second-content">image image image</div>
+                <img src="img/duyurular/yeniyil2019.jpg" height="300px"/>
               </div>
             </div>
             <div id="onsekiz" className="container tab-pane fade">
@@ -160,16 +160,16 @@ const Anasayfa = () => (
       </div>
     </div>
     <div className="main-middle">
-      <div className="col-3">
+      <div className="col-sm-12 col-md-3">
         <Link href="/akreditasyon#surec"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faHourglassStart}/>Süreç</button></a></Link>
       </div>
-      <div className="col-3">
+      <div className="col-sm-12 col-md-3">
         <Link href="/akreditasyon#basvuru"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faCheck}/>Başvuru</button></a></Link>
       </div>
-      <div className="col-3">
+      <div className="col-sm-12 col-md-3">
         <Link href="/akreditasyon#belgeler"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faFileAlt}/>Belgeler</button></a></Link>
       </div>
-      <div className="col-3">
+      <div className="col-sm-12 col-md-3">
         <Link href="/#"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faImages}/>Albüm</button></a></Link>
       </div>
     </div>
