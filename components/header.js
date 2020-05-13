@@ -9,7 +9,7 @@ const Header = () => (
 		<div className="header-nav">
 			<ul className="nav nav-pills">
 				<li className="nav-item dropdown">
-					<a className="nav-link dropdown-toggle diss" data-toggle="dropdown" href="/hakkimizda">Hakkımızda</a>
+					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown" href="/hakkimizda">Hakkımızda</a>
 					<div className="dropdown-menu">
 						<a className="dropdown-item" href="/misyon">Misyon</a>
 						<a className="dropdown-item" href="/amac-ve-faaliyetler">Amaç ve Faaliyetler</a>
@@ -23,16 +23,16 @@ const Header = () => (
 					</div>
 				</li>
 				<li className="nav-item">
-	        <a className="nav-link" href="/akreditasyon">Akreditasyon</a>
+	        <a className="nav-link header-nav-link" href="/akreditasyon">Akreditasyon</a>
 	      </li>
         <li className="nav-item">
-          <a className="nav-link" href="/calistay">Çalıştay</a>
+          <a className="nav-link header-nav-link" href="/calistay">Çalıştay</a>
         </li>
 			  <li className="nav-item">
-          <a className="nav-link" href="/toplantilar">Toplantılar</a>
+          <a className="nav-link header-nav-link" href="/toplantilar">Toplantılar</a>
         </li>
 	      <li className="nav-item">
-	        <a className="nav-link" href="/iletisim">İletişim</a>
+	        <a className="nav-link header-nav-link" href="/iletisim">İletişim</a>
 	      </li>
 			</ul>
 		</div>

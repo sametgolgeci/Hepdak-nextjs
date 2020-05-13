@@ -445,7 +445,7 @@ const Akreditasyon = () => (
           </div>
           <div id="kurulus" className="akreditasyon-content-item">         
             <div className="akreditasyon-content-title">İlgili Kuruluşlar</div>
-            <div className="main-bottom-img">
+            <div className="akreditasyon-bottom-img">
               <div className="bottom-img">
                 <a href="https://www.yok.gov.tr" target="_blank"><img className="link-img" src="img/link/yok.png" title="Yükseköğretim Kurulu"/></a>
               </div>
