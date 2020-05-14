@@ -56,6 +56,7 @@ const İletisim = () => (
 		</form>
 	</div>
 	*/}
+	<div className="safe"></div>
 </MasterPage>
 )
 export default İletisim

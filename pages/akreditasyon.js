@@ -8,7 +8,7 @@ const Akreditasyon = () => (
 			<title>HEPDAK | Akreditasyon</title>
 		</Head>
 		<div className="row">
-        <nav className="col-3" id="myScrollspy">
+        <nav className="col-md-3 d-none d-sm-none d-md-block" id="myScrollspy">
           <ul className="nav nav-pills flex-column akreditasyon-sidebar">
             <li className="nav-item">
               <a className="nav-link akreditasyon-button" href="#surec">Süreç</a>
@@ -30,7 +30,7 @@ const Akreditasyon = () => (
             </li>
           </ul>
         </nav>
-        <div className="col-9 akreditasyon-content">
+        <div className="col-md-9 col-sm-12 akreditasyon-content">
           <div id="surec" className="akreditasyon-content-item">    
             <div className="akreditasyon-content-title">Süreç</div>
             <div>

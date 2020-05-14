@@ -42,8 +42,10 @@ const Anasayfa = () => (
                   <div className="main-top-one-content">17-18 Nisan 2020 tarihinde yapılacağı duyurulan Değerlendirici Eğitimi korona virüs salgını sebebiyle ileri bir tarihe ertelenmiştir. Tarih yeniden duyurulacaktır.</div>
                 </div>
                 <div className="carousel-item">
-                  <div className="main-top-one-title">HEPDAK, 2023 YILINA KADAR TESCİL EDİLDİ</div>
-                  <div className="main-top-one-content">Hemşirelik Eğitim Programları Değerlendirme ve Akreditasyon Derneği-HEPDAK Yükseköğretim Kalite Kurulu tarafından 25.12.2023 tarihine kadar beş yıllığına tescil edilmiştir.</div>
+                  <a href="https://yokak.gov.tr/akreditasyon-kuruluslari/tescil-suresi-devam-edenler" target="_blank">
+                    <div className="main-top-one-title">HEPDAK, 2023 YILINA KADAR TESCİL EDİLDİ</div>
+                    <div className="main-top-one-content">Hemşirelik Eğitim Programları Değerlendirme ve Akreditasyon Derneği (HEPDAK) Yükseköğretim Kalite Kurulu tarafından 25.12.2023 tarihine kadar beş yıllığına tescil edilmiştir.</div>
+                  </a>
                 </div>
                 <div className="carousel-item">
                   <a href="akreditasyon#ucretler">
@@ -72,21 +74,6 @@ const Anasayfa = () => (
             <li className="nav-item">
               <a className="nav-link main-second-nav-item" data-toggle="pill" href="#ondokuz">2019</a>
             </li>
-            <li className="nav-item">
-              <a className="nav-link main-second-nav-item" data-toggle="pill" href="#onsekiz">2018</a>
-            </li>
-            <li className="nav-item">
-              <a className="nav-link main-second-nav-item" data-toggle="pill" href="#onyedi">2017</a>
-            </li>
-            <li className="nav-item">
-              <a className="nav-link main-second-nav-item" data-toggle="pill" href="#onalti">2016</a>
-            </li>
-            <li className="nav-item">
-              <a className="nav-link main-second-nav-item" data-toggle="pill" href="#onbes">2015</a>
-            </li>
-            <li className="nav-item">
-              <a className="nav-link main-second-nav-item" data-toggle="pill" href="#ondort">2014</a>
-            </li>
           </ul>
           <div className="tab-content">
             <div id="yirmi" className="container tab-pane active">
@@ -96,7 +83,7 @@ const Anasayfa = () => (
               </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">YÖKAK Saha Ziyareti</div>
-                <div className="main-top-second-content">Yüksek Öğretim Kalite Kurulu (YÖKAK), "Dış Değerlendirme ve Akreditasyon Kuruluşlarının Yetkilendirilmesi, Tanınması ve İzlenmesine İlişkin Kılavuz, 2019" kapsamında Kalite Değerlendirme Tescil Belgesi'ne sahip ulusal akreditasyon kuruluşları için 2020 yılından itibaren saha ziyareti uygulamasını başlatmıştır. Bu bağlamda, YÖKAK tarafından HEPDAK izleme yetkilisi olarak görevlendirilen YÖKAK Üyesi Prof. Dr. İlker Murat Ar, 17 Ocak 2020 tarihinde ofisimizde bir saha ziyareti gerçekleştirmiştir. Toplantıya, HEPDAK Yönetim Kurulu üyeleri yanı sıra, HEAK Başkanı ile bir HEAK üyesi ve bir HEPDAK değerlendiricisi olmak üzere toplam sekiz kişi katılmıştır. HEPDAK Başkanının yaptığı 2019 yılı faaliyetlerini içeren sunumun ardından izleme yetkilisi Prof. Dr. İlker Murat Ar, HEPDAK uygulamalarında güçlü ve geliştirmeye açık yönler konularında önerilerde bulunmuştur. Toplantı, katılımcılarla yapılan yararlı bir görüş alışverişiyle sona ermiştir. HEPDAK Yönetim Kurulu, ilk kez yapılan izleme ziyaretini, akreditasyon süreçlerinin iyileştirilmesi açısından yol gösterici olarak değerlendirmiştir.</div>
+                <div className="main-top-second-content"><p>Yüksek Öğretim Kalite Kurulu (YÖKAK), "Dış Değerlendirme ve Akreditasyon Kuruluşlarının Yetkilendirilmesi, Tanınması ve İzlenmesine İlişkin Kılavuz, 2019" kapsamında Kalite Değerlendirme Tescil Belgesi'ne sahip ulusal akreditasyon kuruluşları için 2020 yılından itibaren saha ziyareti uygulamasını başlatmıştır. Bu bağlamda, YÖKAK tarafından HEPDAK izleme yetkilisi olarak görevlendirilen YÖKAK Üyesi Prof. Dr. İlker Murat Ar, 17 Ocak 2020 tarihinde ofisimizde bir saha ziyareti gerçekleştirmiştir. Toplantıya, HEPDAK Yönetim Kurulu üyeleri yanı sıra, HEAK Başkanı ile bir HEAK üyesi ve bir HEPDAK değerlendiricisi olmak üzere toplam sekiz kişi katılmıştır. HEPDAK Başkanının yaptığı 2019 yılı faaliyetlerini içeren sunumun ardından izleme yetkilisi Prof. Dr. İlker Murat Ar, HEPDAK uygulamalarında güçlü ve geliştirmeye açık yönler konularında önerilerde bulunmuştur. Toplantı, katılımcılarla yapılan yararlı bir görüş alışverişiyle sona ermiştir.</p><p>HEPDAK Yönetim Kurulu, ilk kez yapılan izleme ziyaretini, akreditasyon süreçlerinin iyileştirilmesi açısından yol gösterici olarak değerlendirmiştir.</p></div>
               </div>
             </div>
             <div id="ondokuz" className="container tab-pane fade">
@@ -145,26 +132,6 @@ const Anasayfa = () => (
                 <div className="main-top-second-content"><img src="img/duyurular/yeniyil2019.jpg" height="300px"/></div>
               </div>
             </div>
-            <div id="onsekiz" className="container tab-pane fade">
-              <h3>2018</h3>
-              <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
-            </div>
-            <div id="onyedi" className="container tab-pane fade">
-              <h3>2017</h3>
-              <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
-            </div>
-            <div id="onalti" className="container tab-pane fade">
-              <h3>2016</h3>
-              <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
-            </div>
-            <div id="onbes" className="container tab-pane fade">
-              <h3>2015</h3>
-              <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
-            </div>
-            <div id="ondort" className="container tab-pane fade">
-              <h3>2014</h3>
-              <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
-            </div>
           </div>
         </div>
       </div>
@@ -184,7 +151,7 @@ const Anasayfa = () => (
       </div>
     </div>
     <div className="main-bottom">
-      <div className="main-bottom-title">İlgili Kuruluşlar</div>
+      <div className="main-bottom-title"><a href="akreditasyon#kurulus">İlgili Kuruluşlar</a></div>
       <div className="main-bottom-slider">
         <div className="main-bottom-img">
           <div className="bottom-img">

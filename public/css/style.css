@@ -256,7 +256,7 @@ p > a, td > a{
 	padding-top: 15px;
 	border-top: 1px solid #eaeaea;
 	width: 100%;
-	font-size: 12px;
+	font-size: 14px;
 }
 .footer-items{
 	display: flex;
@@ -413,7 +413,8 @@ p > a, td > a{
 	background: linear-gradient(138deg, rgba(0,138,197,1) 0%, rgba(79,173,213,1) 100%);
   opacity: 1.0;
   border-radius: 5px;
-  margin-right: 10px; 
+  margin-right: 10px;
+  font-weight: 500; 
 }
 .calistay-button:hover{
 	color: #fff !important;
@@ -459,6 +460,9 @@ p > a, td > a{
 }
 
 /* Deneme */
+.safe{
+	margin-bottom: 250px;
+}
 
 
 

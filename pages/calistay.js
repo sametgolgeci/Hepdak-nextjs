@@ -11,7 +11,7 @@ const Calistay = () => (
 		<h3 id="kurumlar">HEPDAK Kurumlar için Eğitim Çalıştayı</h3>
 		<p>HEPDAK akreditasyonuna başvurmayı ve/veya HEPDAK standartlarına göre programlarında iyileştirme yapmayı planlayan hemşirelik lisans programlarının yönetici ve öğretim kadrosuna çalıştaylar yapılmaktadır.</p>
 		<p>Yapılan çalıştayların içeriğinde; HEPDAK hakkında genel bilgiler ve hemşirelik lisans programlarının akreditasyonu hakkında bilgiler verilmesi, HEPDAK akreditasyonundaki temel kavramlar, standartlardaki çıktı odaklı sürekli iyileştirme yaklaşımının hemşirelik lisans programlarına uygulanması, değerlendirme süreci, Fakülte ve Bölümlerin akreditasyon hazırlıkları, özdeğerlendirme raporları, değerlendirme takımlarınca yapılan kurum ziyaretleri yer almaktadır.</p>
-		<h6><span className="badge badge-custom">1</span> 31 Ocak 2016 (İzmir)</h6>
+		<h6><span className="badge badge-custom">1</span> 31 Ocak 2015 (İzmir)</h6>
 		<ul className="nav calistay-nav">
 		  <li className="nav-item">
 		    <a className="nav-link calistay-button" href="doc/31Ocak2015_kurum_program.pdf">Program</a>
