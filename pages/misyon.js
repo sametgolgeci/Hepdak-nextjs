@@ -8,7 +8,7 @@ const Misyon = () => (
 	      <title>HEPDAK | Misyon</title>
 	    </Head>
 	    <div className="jumbotron">
-	    	<p>HEPDAK olarak misyonumuz; sürekli geliştirilen standartlar doğrultusunda lisans ve lisansüstü hemşirelik eğitim programlarının değerlendirilmesi ve izlenmesi ile hemşirelik biliminin, eğitiminin, bakımının ve toplum sağlığının gelişiminde kalite ve yeniliğin güvencesidir.</p>
+	    	<p><strong>HEPDAK olarak misyonumuz;</strong> sürekli geliştirilen standartlar doğrultusunda lisans ve lisansüstü hemşirelik eğitim programlarının değerlendirilmesi ve izlenmesi ile hemşirelik biliminin, eğitiminin, bakımının ve toplum sağlığının gelişiminde kalite ve yeniliğin güvencesidir.</p>
 	    </div>
 	    <div className="genel">
 	    	<p>HEPDAK, lisans ve lisansüstü eğitim programlarının değerlendirme ve akredite etme sürecinde aşağıdaki değerleri ilke edinmiştir. Bu değerlere göre;</p>

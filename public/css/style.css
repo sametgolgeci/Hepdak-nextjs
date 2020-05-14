@@ -222,6 +222,9 @@ p > a, td > a{
 	color: #000055;
 	margin-bottom: 16px;
 }
+.main-bottom-title > a{
+	color: #000055;
+}
 .main-bottom-img{
 	display: flex;
 	flex-wrap: nowrap;
@@ -369,7 +372,7 @@ p > a, td > a{
 	margin-bottom: 20px;
 }
 .akreditasyon-content-subtitle{
-	font-size: 30px;
+	font-size: 25px;
 	font-family: 'Roboto', sans-serif;
 	font-weight: 400;
 	color: #696d7d;
