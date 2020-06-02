@@ -8,6 +8,7 @@ const Kalite = () => (
 	      <title>HEPDAK | Kalite Politikası</title>
 	    </Head>
 	    <div className="genel">
+	    	<h3>Kalite Politikası</h3>
 	    	<p>Türkiye’de hemşirelik eğitiminin kalitesinin yükseltilmesini amaç edinen Hemşirelik Eğitim Programları Değerlendirme ve Akreditasyon Derneği (HEPDAK), çalışmalarında sürekli iyileştirme ve kalite felsefesi gereklerini yerine getirerek devam ettirme ve hemşirelik eğitiminin sürekli iyileştirilmesi ilkesini benimsemiştir. HEPDAK verdiği hizmetlerin kalitesini en üst seviyede tutmak ve devamlılığını sağlamaya yönelik kalite politikasına sahiptir.</p>
 	    	<p>Akreditasyon sürecine katılan tüm üyeler, verdikleri hizmet süresince iletişim ve işbirliği içinde oldukları tüm kurumlar ve çalışanlarıyla saygı ve güvene dayalı ilişki kurarlar. Hizmet alanların güncel gereksinim ve beklentilerini karşılamaya odaklanırlar. Verilen hizmetin değerlendiricilerinin hizmet alan kurum ve bireyler olduğunun farkındadırlar.</p>
 	    	<p>HEPDAK, iç ve dış geribildirim mekanizmalarını işleterek sürekli iyileşme sağlar. Sürece katılan tüm üyelerin sürekli öğrenmesine yönelik kendi içinde ya da benzer kurumlarda öğrenme fırsatları yaratır ve katılım konusunda kişileri cesaretlendirir. Üyelerin kendi potansiyellerinin farkında olmasını sağlar ve öğrenme gereksinimlerine yönelik destek verir.</p>

@@ -20,7 +20,7 @@ p > a, td > a{
 
 /* Header CSS */
 .header{
-	margin-bottom: 50px;
+	margin-bottom: 10px;
 }
 .header-items{
 	display: flex;
@@ -42,6 +42,18 @@ p > a, td > a{
 .header-nav-link{
 	color: #212529 !important;
 }
+.header-name{
+	color: #000055;
+	font-size: 20px;
+	font-weight: 800;
+	text-align: center;
+}
+.header-ingname{
+	color: #008ac3;
+	font-size: 20px;
+	font-weight: 800;
+	text-align: center;
+}
 .header-ataturk{
 	height: 80px;
 	width: auto;
@@ -62,6 +74,23 @@ p > a, td > a{
 		pointer-events: none;
 		cursor: default;
 	}
+}
+
+/* Navigation CSS */
+.navigation{
+	margin-bottom: 50px;
+}
+.navigation-nav{
+	font-family: 'Roboto', sans-serif;
+	font-size: 15px;
+	font-weight: 500;
+	padding-top: 5px;
+}
+.navigation-items{
+	display: flex;
+	justify-content: center;
+	max-width: 1100px;
+	margin: 25px auto;
 }
 
 /* Main CSS */
@@ -382,6 +411,9 @@ p > a, td > a{
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
+}
+.akreditasyon-rapor{
+	color: #008ca3;
 }
 /* Genel CSS */
 .jumbotron{

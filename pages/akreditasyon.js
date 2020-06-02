@@ -390,7 +390,7 @@ const Akreditasyon = () => (
                   <p>30.09.2018</p></td>
                 </tr>
                 <tr>
-                  <th scope="row">Sakarya Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü | <Link href="doc/rapor-sakarya.pdf"><a>Genel Değerlendirme Kesin Raporu İçin</a></Link></th>
+                  <th scope="row">Sakarya Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü | <Link  href="doc/rapor-sakarya.pdf"><a className="akreditasyon-rapor">Genel Değerlendirme Kesin Raporu İçin</a></Link></th>
                   <td><p>06.04.2017</p>
                   <p>04.04.2019</p></td>
                   <td><p>01.04.2019</p>
@@ -411,17 +411,17 @@ const Akreditasyon = () => (
                   <p>30.09.2023</p></td>
                 </tr>
                 <tr>
-                  <th scope="row">Dokuz Eylül Üniversitesi Hemşirelik Fakültesi | <Link href="doc/rapor-dokuz-eylul.pdf"><a>Genel Değerlendirme Kesin Raporu İçin</a></Link></th>
+                  <th scope="row">Dokuz Eylül Üniversitesi Hemşirelik Fakültesi | <Link href="doc/rapor-dokuz-eylul.pdf"><a className="akreditasyon-rapor">Genel Değerlendirme Kesin Raporu İçin</a></Link></th>
                   <td>04.04.2019</td>
                   <td>30.09.2021</td>
                 </tr>
                 <tr>
-                  <th scope="row">Acıbadem Mehmet Ali Aydınlar Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü | <Link href="doc/rapor-acibadem.pdf"><a>Genel Değerlendirme Kesin Raporu İçin</a></Link></th>
+                  <th scope="row">Acıbadem Mehmet Ali Aydınlar Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü | <Link href="doc/rapor-acibadem.pdf"><a className="akreditasyon-rapor">Genel Değerlendirme Kesin Raporu İçin</a></Link></th>
                   <td>04.04.2019</td>
                   <td>30.09.2021</td>
                 </tr>
                 <tr>
-                  <th scope="row">Trakya Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü | <Link href="doc/rapor-trakya.pdf"><a>Genel Değerlendirme Kesin Raporu İçin</a></Link></th>
+                  <th scope="row">Trakya Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü | <Link href="doc/rapor-trakya.pdf"><a className="akreditasyon-rapor">Genel Değerlendirme Kesin Raporu İçin</a></Link></th>
                   <td>04.04.2019</td>
                   <td>30.09.2021</td>
                 </tr>
