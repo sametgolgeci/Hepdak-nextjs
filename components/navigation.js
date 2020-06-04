@@ -9,7 +9,7 @@ const Navigation = () => (
 	        <a className="nav-link header-nav-link" href="/">Anasayfa</a>
 	      </li>
 				<li className="nav-item dropdown">
-					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown" href="/hakkimizda">Hakkımızda</a>
+					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">Hakkımızda</a>
 					<div className="dropdown-menu">
 						<a className="dropdown-item" href="/misyon">Misyon</a>
 						<a className="dropdown-item" href="/amac-ve-faaliyetler">Amaç ve Faaliyetler</a>
@@ -23,17 +23,31 @@ const Navigation = () => (
 			      <a className="dropdown-item" href="https://www.facebook.com/pg/hepdak/photos/">Fotoğraf Albümü</a>
 					</div>
 				</li>
-				<li className="nav-item">
-	        <a className="nav-link header-nav-link" href="/akreditasyon">Akreditasyon</a>
-	      </li>
+				<li className="nav-item dropdown">
+					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">Akreditasyon</a>
+					<div className="dropdown-menu">
+						<a className="dropdown-item" href="/surec">Süreç</a>
+						<a className="dropdown-item" href="doc/b1-basvuru-word_v5.doc">Başvuru</a>
+						<a className="dropdown-item" href="/belgeler">Belgeler</a>
+						<a className="dropdown-item" href="/ucretler">Ücretler</a>
+						<a className="dropdown-item" href="/akredite-edilen-kurumlar">Akredite Edilen Kurumlar</a>
+						<a className="dropdown-item" href="/ilgili-kuruluslar">İlgili Kuruluşlar</a>
+					</div>
+				</li>
         <li className="nav-item">
           <a className="nav-link header-nav-link" href="/calistay">Çalıştay</a>
         </li>
 			  <li className="nav-item">
           <a className="nav-link header-nav-link" href="/toplantilar">Toplantılar</a>
         </li>
+        <li className="nav-item">
+	        <a className="nav-link header-nav-link disabled" href="/yayinlar">Yayınlar</a>
+	      </li>
 	      <li className="nav-item">
 	        <a className="nav-link header-nav-link" href="/iletisim">İletişim</a>
+	      </li>
+	      <li className="nav-item">
+	        <a className="nav-link header-nav-link disabled" href="/sss">SSS</a>
 	      </li>
 			</ul>
 		</div>
