@@ -3,8 +3,11 @@ import Link from 'next/link'
 const Header = () => (
 <div className="header">
 	<div className="header-items">
-		<div className="header-logo">
+		{/*<div className="header-logo">
 			<Link href="/"><a><img className="header-logo-img" src="img/logoblue.png" title="HEPDAK"></img></a></Link>
+		</div>*/}
+		<div className="header-logo">
+			<Link href="/"><a><img className="header-logo-img" src="img/hepdaklogouzun.png" title="HEPDAK"></img></a></Link>
 		</div>
 		<div>
 			<div className="header-name">Hemşirelik Eğitim Programları Değerlendirme ve Akreditasyon Derneği</div>

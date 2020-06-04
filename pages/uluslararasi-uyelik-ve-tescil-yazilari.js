@@ -9,7 +9,8 @@ const Tescil = () => (
 	    </Head>
 	    <div className="genel">
 	    	<h3>HEPDAK Uluslararası Üyelik</h3>
-	    	<div className="jumbotron"><p>HEPDAK, 12 Mayıs 2018 tarihinden itibaren CEENQA - Central and Eastern European Network of Quality Assurance Agencies in Higher Education'ın gözlemci üyesidir. İlgili döküman için <Link href="doc/uluslararasi-belge.pdf"><a>tıklayınız</a></Link></p></div>
+	    	<div className="jumbotron"><p>HEPDAK, 12 Mayıs 2018 tarihinden itibaren CEENQA - Central and Eastern European Network of Quality Assurance Agencies in Higher Education'ın gözlemci üyesidir. İlgili döküman için <Link href="doc/uluslararasi-belge.pdf"><a target="_blank">tıklayınız</a></Link></p></div>
+	    	<div className="jumbotron"><p>HEPDAK, 15 Mayıs 2020 tarihinden itibaren CEENQA - Central and Eastern European Network of Quality Assurance Agencies in Higher Education'ın tam üyesidir. İlgili döküman için <Link href="doc/CEENQA_Application_HEPDAK_Decision.pdf"><a target="_blank">tıklayınız</a></Link></p></div>
 	    	<h3>HEPDAK Tescil Yazıları</h3>
 	    	<p>• <Link href="doc/2013-hepdak-tescil-basvuru-raporu.pdf"><a>2013 HEPDAK Tescil Başvuru Raporu</a></Link></p>
 	    	<p>• <Link href="doc/2015-yok-tescil-yazisi.jpg"><a>2015 YÖK Tescil Yazısı</a></Link></p>

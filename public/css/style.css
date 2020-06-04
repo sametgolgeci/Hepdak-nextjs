@@ -44,13 +44,13 @@ p > a, td > a{
 }
 .header-name{
 	color: #000055;
-	font-size: 20px;
+	font-size: 15px;
 	font-weight: 800;
 	text-align: center;
 }
 .header-ingname{
 	color: #008ac3;
-	font-size: 20px;
+	font-size: 15px;
 	font-weight: 800;
 	text-align: center;
 }
@@ -100,6 +100,23 @@ p > a, td > a{
 }
 .main-top{
 	margin-top: 20px;
+}
+.main-top-button{
+	width: 100%;
+	padding: 20px;
+	/*background: rgb(0,138,197);*/
+	background: rgb(0,0,85);
+	border-radius: 5px;
+	border: 1px solid #008ac3;
+	color: white;
+	font-size: 25px;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 700;
+	margin: 10px 0px;
+}
+.main-top-button:hover{
+	/*background: linear-gradient(138deg, rgba(0,138,197,1) 0%, rgba(79,173,213,1) 100%);*/
+	background: linear-gradient(135deg, rgba(0,0,85,1) 0%, rgba(0,140,163,1) 100%);
 }
 .main-top-nav{
 	margin-top: 50px; 

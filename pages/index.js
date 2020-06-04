@@ -11,6 +11,12 @@ const Anasayfa = () => (
       <title>HEPDAK | Anasayfa</title>
     </Head>
     <div className="main-top">
+      <div className="col-sm-12 col-md-12">
+        <Link href="/corona-virus-pandemisi-sureci"><a><button className="main-top-button">!! Corona Virüs Pandemisi Sürecinde Hemşirelik Eğitim Programlarının Akreditasyonu için HEPDAK Planı !!</button></a></Link>
+      </div>
+      <div className="col-sm-12 col-md-12">
+        <Link href="/hepdak-degerlendirme-2020-21"><a><button className="main-top-button">!! HEPDAK 2020-2021 Değerlendirme Planı !!</button></a></Link>
+      </div>
       <div className="main-top-nav">
         <ul className="nav nav-pills nav-justified">
           <li className="nav-item">
@@ -48,7 +54,7 @@ const Anasayfa = () => (
                   </a>
                 </div>
                 <div className="carousel-item">
-                  <a href="akreditasyon#ucretler">
+                  <a href="/ucretler">
                     <div className="main-top-one-title">HEPDAK DEĞERLENDİRME VE AKREDİTASYON ÜCRETLERİ</div>
                     <div className="main-top-one-content">2020-2021 Değerlendirme Dönemi Akreditasyon Bedelleri Belirlenmiştir.</div>
                     <div className="main-top-one-continue">Devam -></div>

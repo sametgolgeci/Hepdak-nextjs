@@ -13,6 +13,11 @@ const Kuruluslar = () => (
             <div className="akreditasyon-content-title">İlgili Kuruluşlar</div>
             <div>
               <table className="table table-striped">
+                <thead className="thead-dark">
+                  <tr>
+                    <th scope="col" colSpan="2">Ulusal Kuruluşlar</th>
+                  </tr>
+                </thead>
                 <tbody>
                   <tr>
                     <th scope="row"><a href="https://www.yok.gov.tr" target="_blank">YÖK</a></th>
@@ -25,10 +30,6 @@ const Kuruluslar = () => (
                   <tr>
                     <th scope="row"><a href="https://www.kalder.org" target="_blank">KalDer</a></th>
                     <td>Türkiye Kalite Derneği, Türkiye</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">&nbsp;</th>
-                    <td></td>
                   </tr>
                   <tr>
                     <th scope="row"><a href="https://www.mudek.org.tr" target="_blank">MÜDEK</a></th>
@@ -90,10 +91,13 @@ const Kuruluslar = () => (
                     <th scope="row"><a href="http://pemder.org.tr" target="_blank">PEMDER</a></th>
                     <td>Peyzaj Mimarlığı Eğitim ve Bilim Derneği, Türkiye</td>
                   </tr>
-                  <tr>
-                    <th scope="row">&nbsp;</th>
-                    <td></td>
-                  </tr>
+                  </tbody>
+                  <thead className="thead-dark">
+                    <tr>
+                      <th scope="col" colSpan="3">Uluslararası Kuruluşlar</th>
+                    </tr>
+                  </thead>
+                  <tbody>
                   <tr>
                     <th scope="row"><a href="https://www.nln.org" target="_blank">NLN</a></th>
                     <td>National League for Nursing, ABD</td>
@@ -109,10 +113,6 @@ const Kuruluslar = () => (
                   <tr>
                     <th scope="row"><a href="https://www.casn.ca" target="_blank">CASN</a></th>
                     <td>Canadian Association of Schools of Nursing, Kanada</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">&nbsp;</th>
-                    <td></td>
                   </tr>
                   <tr>
                     <th scope="row"><a href="https://www.chea.org" target="_blank">CHEA</a></th>
