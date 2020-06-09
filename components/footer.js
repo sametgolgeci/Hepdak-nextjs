@@ -16,7 +16,7 @@ const Footer = () => (
 				</div>
 				<div className="footer-info-item"> 
 					<div className="footer-info-icon"><FontAwesomeIcon className="footer-icon" icon={faEnvelope}/></div>
-					<div><span>info@hepdak.org.tr</span></div>
+					<div><span>hepdak2013@gmail.com</span></div>
 				</div>
 				<div className="footer-info-item"> 
 					<div className="footer-info-icon"><FontAwesomeIcon className="footer-icon" icon={faMapMarkerAlt}/></div>

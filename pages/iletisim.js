@@ -12,7 +12,7 @@ const İletisim = () => (
 		<div className="col-md-6 col-sm-12 row iletisim-adres">
 			<div className="col-5">
 			<p>Konak Mah. 858 Sok. No:9 Daire: 706 Konak/İZMİR</p>
-			<p>info@hepdak.org.tr</p>
+			<p>hepdak2013@gmail.com</p>
 			<p>+90 (553) 986 43 02</p>
 			</div>
 			<div className="col-7">
