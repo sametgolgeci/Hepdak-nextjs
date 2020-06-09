@@ -7,6 +7,7 @@ const Amac = () => (
 	    <Head>
 	      <title>HEPDAK | Amaç ve Faaliyetler</title>
 	    </Head>
+	    <div className="genel"><h1>Amaç ve Faaliyetler</h1></div>
 	    <div className="jumbotron">
 	    	<p><strong>HEPDAK olarak amacımız;</strong> hemşirelik eğitim programları için akreditasyon, değerlendirme vebilgilendirme çalışmaları yaparak Türkiye'de hemşirelik eğitiminin kalitesinin yükseltilmesine, daha iyi eğitilmiş ve daha nitelikli hemşireler yetiştirilerek güvenli ve etkili bakım sunulması ve toplumun sağlığının geliştirilmesine katkıda bulunmaktır.</p>
 	    </div>

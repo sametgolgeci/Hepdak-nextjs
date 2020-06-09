@@ -7,6 +7,7 @@ const Misyon = () => (
 	    <Head>
 	      <title>HEPDAK | Misyon</title>
 	    </Head>
+	    <div className="genel"><h1>Misyon</h1></div>
 	    <div className="jumbotron">
 	    	<p><strong>HEPDAK olarak misyonumuz;</strong> sürekli geliştirilen standartlar doğrultusunda lisans ve lisansüstü hemşirelik eğitim programlarının değerlendirilmesi ve izlenmesi ile hemşirelik biliminin, eğitiminin, bakımının ve toplum sağlığının gelişiminde kalite ve yeniliğin güvencesidir.</p>
 	    </div>

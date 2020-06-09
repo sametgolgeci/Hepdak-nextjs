@@ -8,35 +8,32 @@ const Yonetim= () => (
 			<title>HEPDAK | Yönetim ve Denetleme Kurulu</title>
 		</Head>
 		<div className="genel yonetim-text">	
-			<h3>HEPDAK Yönetim Kurulu Üyeleri</h3>
-			<div className="col-12 yonetim-text">
-				<p>Prof. Dr. Gülseren Kocaman<br/><strong>Başkan</strong></p>
+			<h1>HEPDAK Yönetim Kurulu Üyeleri</h1>
+			<div className="col-md-4 col-xs-12">
+				<p className="yonetim-text">Prof. Dr. Gülseren Kocaman<br/><strong>Başkan</strong></p>
 			</div>
-			<div className="row">
-				<div className="col-3 yonetim-text">
-					<p>Prof. Dr. Ayla Bayık Temel<br/><strong>Başkan Yardımcısı</strong></p>
-				</div>
-				<div className="col-3 yonetim-text">
-					<p>Doç. Dr. Dilek Özmen<br/><strong>Sekreter</strong></p>
-				</div>
-				<div className="col-3 yonetim-text">
-					<p>Doç. Dr. Şenay Ünsal Atan<br/><strong>Sayman</strong></p>
-				</div>
-				<div className="col-3 yonetim-text">
-					<p>Prof. Dr. Ayten Zaybak<br/><strong>Üye</strong></p>
-				</div>
+			<div className="col-md-4 col-xs-12">
+				<p className="yonetim-text">Prof. Dr. Ayla Bayık Temel<br/><strong>Başkan Yardımcısı</strong></p>
 			</div>
-			<h3>HEPDAK Denetleme Kurulu Üyeleri</h3>
-			<div className="row">
-				<div className="col-4 yonetim-text">
-					<p>Doç. Dr. Fatma Orgun</p>
-				</div>
-				<div className="col-4 yonetim-text">
-					<p>Uz. Hem. Sevil Uncu</p>
-				</div>
-				<div className="col-4 yonetim-text">
-					<p>Uz. Hem. Serap İleri</p>
-				</div>
+			<div className="col-md-4 col-xs-12">
+				<p className="yonetim-text">Doç. Dr. Dilek Özmen<br/><strong>Sekreter</strong></p>
+			</div>
+			<div className="col-md-4 col-xs-12">
+				<p className="yonetim-text">Doç. Dr. Şenay Ünsal Atan<br/><strong>Sayman</strong></p>
+			</div>
+			<div className="col-md-4 col-xs-12">
+				<p className="yonetim-text">Prof. Dr. Ayten Zaybak<br/><strong>Üye</strong></p>
+			</div>
+			
+			<h1>HEPDAK Denetleme Kurulu Üyeleri</h1>
+			<div className="col-md-4 col-xs-12">
+				<p className="yonetim-text">Doç. Dr. Fatma Orgun</p>
+			</div>
+			<div className="col-md-4 col-xs-12">
+				<p className="yonetim-text">Uz. Hem. Sevil Uncu</p>
+			</div>
+			<div className="col-md-4 col-xs-12">
+				<p className="yonetim-text">Uz. Hem. Serap İleri</p>
 			</div>
 		</div>
 	</MasterPage>

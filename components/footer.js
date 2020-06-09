@@ -9,7 +9,7 @@ const Footer = () => (
 	<div className="footer-items">
 		<div className="col-sm-12 col-md-3 footer-item">
 			<div className="footer-logo">
-				<Link href="/"><a><img className="footer-img" src="img/logowhite.png" title="HEPDAK"></img></a></Link>
+				<Link href="/"><a><img className="footer-img" src="img/hepdak-beyaz.png" title="HEPDAK"></img></a></Link>
 				<div className="footer-info-item"> 
 					<div className="footer-info-icon"><FontAwesomeIcon className="footer-icon" icon={faPhone}/></div>
 					<div><span>+90 (553) 986 43 02</span></div>
@@ -31,26 +31,34 @@ const Footer = () => (
 			<div className="footer-item-link"><div className="footer-item-icon"><FontAwesomeIcon className="footer-icon" icon={faChevronRight}/></div><Link href="/kalite-politikasi"><a>Kalite Politikası</a></Link></div>
 			<div className="footer-item-link"><div className="footer-item-icon"><FontAwesomeIcon className="footer-icon" icon={faChevronRight}/></div><Link href="/yonetim-ve-denetleme-kurulu"><a>Yönetim ve Denetleme Kurulu</a></Link></div>
 			<div className="footer-item-link"><div className="footer-item-icon"><FontAwesomeIcon className="footer-icon" icon={faChevronRight}/></div><Link href="/kurul-ve-komisyonlar"><a>Kurul ve Komisyonlar</a></Link></div>
-			<div className="footer-item-link"><div className="footer-item-icon"><FontAwesomeIcon className="footer-icon" icon={faChevronRight}/></div><Link href="/hepdak-raporlari"><a>HEPDAK Raporları</a></Link></div>
 			<div className="footer-item-link"><div className="footer-item-icon"><FontAwesomeIcon className="footer-icon" icon={faChevronRight}/></div><Link href="/uluslararasi-uyelik-ve-tescil-yazilari"><a>Uluslararası Üyelik ve Tescil Yazıları</a></Link></div>
 			<div className="footer-item-link"><div className="footer-item-icon"><FontAwesomeIcon className="footer-icon" icon={faChevronRight}/></div><Link href="/uye-listesi"><a>Üye Listesi</a></Link></div>
+			<div className="footer-item-link"><div className="footer-item-icon"><FontAwesomeIcon className="footer-icon" icon={faChevronRight}/></div><Link href="/hepdak-genel-kurulu-ve-raporlari"><a>Genel Kurul ve Raporları</a></Link></div>
+			<div className="footer-item-link"><div className="footer-item-icon"><FontAwesomeIcon className="footer-icon" icon={faChevronRight}/></div><Link href="/tematik-analiz-raporu"><a>Tematik Analiz Raporu</a></Link></div>
+			<div className="footer-item-link"><div className="footer-item-icon"><FontAwesomeIcon className="footer-icon" icon={faChevronRight}/></div><Link href="/faaliyet-raporlari"><a>Faaliyet Raporları</a></Link></div>
+			<div className="footer-item-link"><div className="footer-item-icon"><FontAwesomeIcon className="footer-icon" icon={faChevronRight}/></div><Link href="/paydas-gorusleri"><a>Paydaş Görüşleri</a></Link></div>
 		</div>	
 		<div className="col-sm-12 col-md-3 footer-item">
 			<div className="footer-item-title"><strong>Akreditasyon</strong></div>
-			<div className="footer-item-link"><div className="footer-item-icon"><FontAwesomeIcon className="footer-icon" icon={faChevronRight}/></div><Link href="/akreditasyon#surec"><a>Süreç</a></Link></div>
-			<div className="footer-item-link"><div className="footer-item-icon"><FontAwesomeIcon className="footer-icon" icon={faChevronRight}/></div><Link href="/akreditasyon#basvuru"><a>Başvuru</a></Link></div>
-			<div className="footer-item-link"><div className="footer-item-icon"><FontAwesomeIcon className="footer-icon" icon={faChevronRight}/></div><Link href="/akreditasyon#belgeler"><a>Belgeler</a></Link></div>
-			<div className="footer-item-link"><div className="footer-item-icon"><FontAwesomeIcon className="footer-icon" icon={faChevronRight}/></div><Link href="/akreditasyon#ucretler"><a>Ücretler</a></Link></div>
+			<div className="footer-item-link"><div className="footer-item-icon"><FontAwesomeIcon className="footer-icon" icon={faChevronRight}/></div><Link href="/surec"><a>Süreç</a></Link></div>
+			<div className="footer-item-link"><div className="footer-item-icon"><FontAwesomeIcon className="footer-icon" icon={faChevronRight}/></div><Link href="/doc/b1-basvuru-word_v5.doc"><a>Başvuru</a></Link></div>
+			<div className="footer-item-link"><div className="footer-item-icon"><FontAwesomeIcon className="footer-icon" icon={faChevronRight}/></div><Link href="/belgeler"><a>Belgeler</a></Link></div>
+			<div className="footer-item-link"><div className="footer-item-icon"><FontAwesomeIcon className="footer-icon" icon={faChevronRight}/></div><Link href="/ucretler"><a>Ücretler</a></Link></div>
+			<div className="footer-item-link"><div className="footer-item-icon"><FontAwesomeIcon className="footer-icon" icon={faChevronRight}/></div><Link href="/akredite-edilen-kurumlar"><a>Akredite Edilen Kurumlar</a></Link></div>
+			<div className="footer-item-link"><div className="footer-item-icon"><FontAwesomeIcon className="footer-icon" icon={faChevronRight}/></div><Link href="/ilgili-kuruluslar"><a>İlgili Kuruluşlar</a></Link></div>
 			<div className="footer-item-title"><strong>Çalıştay</strong></div>
-			<div className="footer-item-link"><div className="footer-item-icon"><FontAwesomeIcon className="footer-icon" icon={faChevronRight}/></div><Link href="/calistay#kurumlar"><a>Kurumlar için Eğitim Çalıştayı</a></Link></div>
-			<div className="footer-item-link"><div className="footer-item-icon"><FontAwesomeIcon className="footer-icon" icon={faChevronRight}/></div><Link href="/calistay#degerlendirici"><a>Değerlendirici Eğitimi Çalıştayı</a></Link></div>
-			<div className="footer-item-link"><div className="footer-item-icon"><FontAwesomeIcon className="footer-icon" icon={faChevronRight}/></div><Link href="/calistay#ogrenci"><a>Öğrenci Değerlendirici Eğitimi Çalıştayı</a></Link></div>
+			<div className="footer-item-link"><div className="footer-item-icon"><FontAwesomeIcon className="footer-icon" icon={faChevronRight}/></div><Link href="/kurumlar-icin-egitim-calistayi"><a>Kurumlar için Eğitim Çalıştayı</a></Link></div>
+			<div className="footer-item-link"><div className="footer-item-icon"><FontAwesomeIcon className="footer-icon" icon={faChevronRight}/></div><Link href="/degerlendirici-egitimi-calistayi"><a>Değerlendirici Eğitimi Çalıştayı</a></Link></div>
+			<div className="footer-item-link"><div className="footer-item-icon"><FontAwesomeIcon className="footer-icon" icon={faChevronRight}/></div><Link href="/ogrenci-degerlendirici-egitimi-calistayi"><a>Öğrenci Değerlendirici Eğitimi Çalıştayı</a></Link></div>
 		</div>
 		<div className="col-sm-12 col-md-3 footer-item">
 			<div className="footer-item-title"><strong>Toplantılar</strong></div>
-			<div className="footer-item-link"><div className="footer-item-icon"><FontAwesomeIcon className="footer-icon" icon={faChevronRight}/></div><Link href="/toplantilar#heak"><a>HEAK ve Komisyon Toplantıları</a></Link></div>
-			<div className="footer-item-link"><div className="footer-item-icon"><FontAwesomeIcon className="footer-icon" icon={faChevronRight}/></div><Link href="/toplantilar#tutarlilik"><a>Tutarlılık Komisyonu Toplantıları</a></Link></div>
-			<div className="footer-item-link"><div className="footer-item-icon"><FontAwesomeIcon className="footer-icon" icon={faChevronRight}/></div><Link href="/toplantilar#takim"><a>Takım Başkanları Toplantıları</a></Link></div>
+			<div className="footer-item-link"><div className="footer-item-icon"><FontAwesomeIcon className="footer-icon" icon={faChevronRight}/></div><Link href="/heak-ve-komisyon-toplantilari"><a>HEAK ve Komisyon Toplantıları</a></Link></div>
+			<div className="footer-item-link"><div className="footer-item-icon"><FontAwesomeIcon className="footer-icon" icon={faChevronRight}/></div><Link href="/tutarlilik-komisyonu-toplantilari"><a>Tutarlılık Komisyonu Toplantıları</a></Link></div>
+			<div className="footer-item-link"><div className="footer-item-icon"><FontAwesomeIcon className="footer-icon" icon={faChevronRight}/></div><Link href="/takim-baskani-toplantilari"><a>Takım Başkanları Toplantıları</a></Link></div>
+			<div className="footer-item-link"><div className="footer-item-icon"><FontAwesomeIcon className="footer-icon" icon={faChevronRight}/></div><Link href="/sempozyumlar"><a>Sempozyumlar</a></Link></div>
+			<div className="footer-item-link"><div className="footer-item-icon"><FontAwesomeIcon className="footer-icon" icon={faChevronRight}/></div><Link href="/egitim-etkinlikleri"><a>Eğitim Etkinlikleri</a></Link></div>
+			<div className="footer-item-link"><div className="footer-item-icon"><FontAwesomeIcon className="footer-icon" icon={faChevronRight}/></div><Link href="/cagrili-konusmalar"><a>Çağrılı Konuşmalar</a></Link></div>
 		</div>		
 	</div>
 	<div className="footer-copy">

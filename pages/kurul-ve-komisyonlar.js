@@ -8,7 +8,8 @@ const Kurul = () => (
 	      <title>HEPDAK | Kurul ve Komisyonlar</title>
 	    </Head>
 	    <div className="genel">
-	    	<h3>Hemşirelik Eğitim Programları Akreditasyon Kurulu</h3>
+	    <h1>Kurul ve Komisyonlar</h1>
+	    	<h3 className="kurul-title">Hemşirelik Eğitim Programları Akreditasyon Kurulu</h3>
 	    	<span>• Prof. Dr. Ayla Keçeci (Başkan), Düzce Üniversitesi</span>
 	    	<span>• Prof. Dr. Gülseren Kocaman (Başkan Yard. - Sekreter), Dokuz Eylül Üniversitesi</span>
 	    	<span>• Prof. Dr. Ümit Seviğ, Yakın Doğu Üniversitesi</span>
@@ -22,7 +23,7 @@ const Kurul = () => (
 	    	<span>• Hemşire: Uzm. Hem. Serap İleri, Dokuz Eylül Üniversitesi Hastanesi</span>
 	    	<span>• Toplum Temsilcisi: Hadiye Akçay, Kadın Haklarını Koruma Derneği</span>
 	    	<span>• Öğrenci: Elif Demirdelen, Dokuz Eylül Üniversitesi</span>
-	    	<h3>Standartları Belirleme ve Geliştirme Komisyonu (SBGK)</h3>
+	    	<h3 className="kurul-title">Standartları Belirleme ve Geliştirme Komisyonu (SBGK)</h3>
 	    	<span>• Prof. Dr. Kadriye Buldukoğlu (Başkan), Akdeniz Üniversitesi</span>
 	    	<span>• Doç. Dr. Emine Türkmen (Başkan Yard. - Sekreter), Koç Üniversitesi</span>
 	    	<span>• Prof. Dr. Ayla Yava, Hasan Kalyoncu Üniversitesi</span>
@@ -30,13 +31,13 @@ const Kurul = () => (
 	    	<span>• Uzm. Demet Gökmen Kavak, Türkiye Sağlık Hizmetleri Kalite Ve Akreditasyon Enstitüsü Standart Geliştirme Birim Sorumlusu</span>
 	    	<span>• Uzm. Hem. Gülnur Gül, İzmir SBÜ Dr. Suat Seren Göğüs Hastalıkları ve Cerrahisi Eğitim ve Araştırma Hastanesi</span>
 	    	<span>• Öğrenci: Çigdem Sabıkma, Manisa Celal Bayar Üniversitesi</span>
-	    	<h3>Program Değerlendirme ve İzleme Komisyonu (PDİK)</h3>
+	    	<h3 className="kurul-title">Program Değerlendirme ve İzleme Komisyonu (PDİK)</h3>
 	    	<span>• Prof. Dr. Ayla Bayık Temel (Başkan), Ege Üniversitesi</span>
 	    	<span>• Dr. Öğ. Üyesi Serap Sökmen (Başkan Yard. - Sekreter), Erzincan Üniversitesi</span>
 	    	<span>• Doç. Dr. Dilek Özmen, Manisa Celal Bayar Üniversitesi</span>
 	    	<span>• Doç. Dr. Aklime Sarıkaya, Sebahattin Zaim Üniversitesi</span>
 	    	<span>• Öğrenci: Şengül İbci, Ege Üniversitesi</span>
-	    	<h3>Danışmanlık ve Eğitim Komisyonu (DEK)</h3>
+	    	<h3 className="kurul-title">Danışmanlık ve Eğitim Komisyonu (DEK)</h3>
 	    	<span>• Prof. Dr. Ayten Zaybak (Başkan), Ege Üniversitesi</span>
 	    	<span>• Doç. Dr. Şenay Ünsal (Başkan Yard. - Sekreter), Ege Üniversitesi</span>
 	    	<span>• Prof. Dr. Ayla Keçeci, Düzce Üniversitesi</span>
@@ -47,12 +48,12 @@ const Kurul = () => (
 	    	<span>• Dr. Öğ. Üyesi Yıldız Tulum Denat, Adnan Menderes Üniversitesi</span>
 	    	<span>• Uzm. Hem. Serap İleri, Dokuz Eylül Üniversitesi Hastanesi</span>
 	    	<span>• Dr. Öğ. Üyesi Hale Sezer, Bakırçay Üniversitesi</span>
-	    	<h3>Uluslararası Dış Değerlendirme Çalışma Grubu</h3>
+	    	<h3 className="kurul-title">Uluslararası Dış Değerlendirme Çalışma Grubu</h3>
 	    	<span>• Prof. Dr. İnci Erefe (Başkan), Ege Üniversitesi, Emekli</span>
 	    	<span>• Prof. Dr. Ayla Bayık, Ege Üniversitesi</span>
 	    	<span>• Ayhan Lash Professor, Northern Illinois Üniversitesi Emekli Öğretim Üyesi</span>
 	    	<span>• Prof. Dr. Ayla Keçeci, Düzce ÜniversitesiDr. Öğ. Üyesi Nilay Özkütük, Ege Üniversitesi</span>
-	    	<h3>Yükseklisans Akreditasyonuna Hazırlık Komisyonu</h3>
+	    	<h3 className="kurul-title">Yükseklisans Akreditasyonuna Hazırlık Komisyonu</h3>
 	    	<span>• Prof. Dr. Gülseren Kocaman (Başkan Yard-Sekreter), Dokuz Eylül Üniversitesi</span>
 	    	<span>• Prof. Dr. Ayla Bayık Temel, Ege Üniversitesi</span>
 	    	<span>• Ayhan Lash Professor, Northern Illinois Üniversitesi Emekli Öğretim Üyesi</span>

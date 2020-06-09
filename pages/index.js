@@ -143,17 +143,14 @@ const Anasayfa = () => (
       </div>
     </div>
     <div className="main-middle">
-      <div className="col-sm-12 col-md-3">
-        <Link href="/surec"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faHourglassStart}/>Süreç</button></a></Link>
-      </div>
-      <div className="col-sm-12 col-md-3">
+      <div className="col-sm-12 col-md-4">
         <Link href="/doc/b1-basvuru-word_v5.doc"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faCheck}/>Başvuru</button></a></Link>
       </div>
-      <div className="col-sm-12 col-md-3">
-        <Link href="/belgeler"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faFileAlt}/>Belgeler</button></a></Link>
+      <div className="col-sm-12 col-md-4">
+        <Link href="/surec"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faHourglassStart}/>Süreç</button></a></Link>
       </div>
-      <div className="col-sm-12 col-md-3">
-        <a href="https://www.facebook.com/pg/hepdak/photos/"><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faImages}/>Albüm</button></a>
+      <div className="col-sm-12 col-md-4">
+        <Link href="/belgeler"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faFileAlt}/>Belgeler</button></a></Link>
       </div>
     </div>
     <div className="main-bottom">
