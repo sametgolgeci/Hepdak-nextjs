@@ -52,7 +52,8 @@ const Kurul = () => (
 	    	<span>• Prof. Dr. İnci Erefe (Başkan), Ege Üniversitesi, Emekli</span>
 	    	<span>• Prof. Dr. Ayla Bayık, Ege Üniversitesi</span>
 	    	<span>• Ayhan Lash Professor, Northern Illinois Üniversitesi Emekli Öğretim Üyesi</span>
-	    	<span>• Prof. Dr. Ayla Keçeci, Düzce ÜniversitesiDr. Öğ. Üyesi Nilay Özkütük, Ege Üniversitesi</span>
+	    	<span>• Prof. Dr. Ayla Keçeci, Düzce Üniversitesi</span>
+	    	<span>• Dr. Öğ. Üyesi Nilay Özkütük, Ege Üniversitesi</span>
 	    	<h3 className="kurul-title">Yükseklisans Akreditasyonuna Hazırlık Komisyonu</h3>
 	    	<span>• Prof. Dr. Gülseren Kocaman (Başkan Yard-Sekreter), Dokuz Eylül Üniversitesi</span>
 	    	<span>• Prof. Dr. Ayla Bayık Temel, Ege Üniversitesi</span>
