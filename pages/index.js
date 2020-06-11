@@ -91,6 +91,10 @@ const Anasayfa = () => (
           <div className="tab-content">
             <div id="yirmi" className="container tab-pane active">
               <div className="main-top-second">
+                <div className="main-top-second-title">CEENQA Üyeliği Hakkında</div>
+                <div className="main-top-second-content"><p>HEPDAK, 15 Mayıs 2020 tarihinden itibaren CEENQA - Central and Eastern European Network of Quality Assurance Agencies in Higher Education'ın tam üyesidir.İlgili dökümana <Link href="doc/CEENQA_Application_HEPDAK_Decision.pdf"><a><strong>buradan</strong></a></Link> ulaşabilirsiniz.</p><p><strong>HEPDAK Yönetim Kurulu</strong></p></div>
+              </div>
+              <div className="main-top-second">
                 <div className="main-top-second-title">Hemşirelik Haftası Kutlaması</div>
                 <div className="main-top-second-content"><p>Hemşireler, Covid-19 ile mücadele sürecinde en ön saflarda görev alarak hemşirelik mesleğinin tüm toplum için vazgeçilmez olduğunun kanıtladılar.</p><p>Tüm meslektaşlarımızın hemşirelik haftasını kutluyor, sağlıklı günler diliyoruz.</p><p><strong>HEPDAK Yönetim Kurulu</strong></p></div>
               </div>
