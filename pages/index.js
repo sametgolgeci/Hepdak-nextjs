@@ -32,7 +32,14 @@ const Anasayfa = () => (
           <div className="main-top-one">
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
+                <a href="/doc/CEENQA_Application_HEPDAK_Decision.pdf">
                 <div className="carousel-item active">
+                  <div className="main-top-one-title">CEENQA ÜYELİĞİ HAKKINDA</div>
+                  <div className="main-top-one-content"><p>HEPDAK, 15 Mayıs 2020 tarihinden itibaren CEENQA - Central and Eastern European Network of Quality Assurance Agencies in Higher Education'ın tam üyesidir.</p></div>
+                  <div className="main-top-one-continue">Devam -></div>
+                </div>
+                </a>
+                <div className="carousel-item">
                   <div className="main-top-one-title">HEMŞİRELİK HAFTASI KUTLAMASI</div>
                   <div className="main-top-one-content"><p>Hemşireler, Covid-19 ile mücadele sürecinde en ön saflarda görev alarak hemşirelik mesleğinin tüm toplum için vazgeçilmez olduğunun kanıtladılar.</p><p>Tüm meslektaşlarımızın hemşirelik haftasını kutluyor, sağlıklı günler diliyoruz.</p><p><strong>HEPDAK Yönetim Kurulu</strong></p></div>
                 </div>

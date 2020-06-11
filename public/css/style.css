@@ -521,7 +521,10 @@ p > a, td > a{
 .kurul-title{
 	color: #008ac3;
 }
-
+.webinar-afis{
+	width: 1100px;
+	height: auto;
+}
 
 
 

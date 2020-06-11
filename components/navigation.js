@@ -23,8 +23,8 @@ const Navigation = () => (
 						<a className="dropdown-item" href="/faaliyet-raporlari">Faaliyet Raporları</a>
 						<a className="dropdown-item" href="/paydas-gorusleri">Paydaş Görüşleri</a>
 						<a className="dropdown-item" href="/doc/hepdak-faaliyet-belgesi.pdf">Dernek Faaliyet Durumu</a>
-			      <a className="dropdown-item" href="doc/hepdak_vergi_levhasi-v2.pdf">İktisadi İşletme</a>
-			      <a className="dropdown-item" href="doc/hepdak-kira-sozlesmesi.pdf">Kira Sözleşmesi</a>
+			      <a className="dropdown-item" href="/doc/hepdak_vergi_levhası_2019.pdf">İktisadi İşletme</a>
+			      <a className="dropdown-item" href="/doc/hepdak-kira-sozlesmesi.pdf">Kira Sözleşmesi</a>
 			      <a className="dropdown-item" href="https://www.facebook.com/pg/hepdak/photos/">Fotoğraf Albümü</a>
 					</div>
 				</li>
@@ -32,7 +32,7 @@ const Navigation = () => (
 					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">Akreditasyon</a>
 					<div className="dropdown-menu">
 						<a className="dropdown-item" href="/surec">Süreç</a>
-						<a className="dropdown-item" href="doc/b1-basvuru-word_v5.doc">Başvuru</a>
+						<a className="dropdown-item" href="/doc/b1-basvuru-word_v5.doc">Başvuru</a>
 						<a className="dropdown-item" href="/belgeler">Belgeler</a>
 						<a className="dropdown-item" href="/ucretler">Ücretler</a>
 						<a className="dropdown-item" href="/akredite-edilen-kurumlar">Akredite Edilen Kurumlar</a>
@@ -48,7 +48,7 @@ const Navigation = () => (
 					</div>
 				</li>
 				<li className="nav-item">
-	        <a className="nav-link header-nav-link" href="https://us02web.zoom.us/meeting/register/tZMsce6vrj4vEtLhsdzqJtHlAy6_3yRhbk7t">Webinar</a>
+	        <a className="nav-link header-nav-link" href="/webinar">Webinar</a>
 	      </li>
         <li className="nav-item dropdown">
 					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">Toplantılar</a>
