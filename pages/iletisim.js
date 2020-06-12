@@ -26,6 +26,7 @@ const İletisim = () => (
 			<p><strong>Sayman : </strong>Doç. Dr. Şenay Ünsal ATAN<br/>senay.unsal.atan@gmail.com</p>
 		</div>
 	</div>
+	<div className="genel"><h1>Şikayet ve Öneriler</h1></div>
 	{/* This is a comment */}
 	<div className="iletisim-mesaj">
 		<form action="" method="post">
