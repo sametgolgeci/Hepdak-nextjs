@@ -164,6 +164,35 @@ const Anasayfa = () => (
         <Link href="/belgeler"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faFileAlt}/>Belgeler</button></a></Link>
       </div>
     </div>
+  <div className="genel"><h1>Şikayet ve Öneriler</h1></div>
+  {/* This is a comment */}
+  <div className="iletisim-mesaj">
+    <form action="" method="post">
+      <div className="row">
+        <div className="col-6">
+          <div className="form-group iletisim-mesaj-input">
+            <label for="exampleInputEmail">Ad</label>
+            <input type="text" className="form-control" disabled/>
+          </div>
+          <div className="form-group iletisim-mesaj-input">
+            <label for="exampleInputEmail">Soyad</label>
+            <input type="text" className="form-control" disabled/>
+          </div>
+          <div className="form-group iletisim-mesaj-input">
+            <label for="exampleInputEmail">Mail Adresiniz</label>
+            <input type="email" className="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" disabled/>
+          </div>
+        </div>
+        <div className="col-6">
+          <div className="form-group">
+            <label for="exampleFormControlTextarea1">Mesaj</label>
+            <textarea className="form-control" id="exampleFormControlTextarea1" rows="8" disabled></textarea>
+          </div>
+        </div>
+      </div>
+      <button type="submit" className="iletisim-button btn" disabled>Gönder</button>
+    </form>
+  </div>
     <div className="main-bottom">
       <div className="main-bottom-title"><a href="akreditasyon#kurulus">İlgili Kuruluşlar</a></div>
       <div className="main-bottom-slider">
@@ -283,6 +312,10 @@ const Anasayfa = () => (
           <div className="bottom-img">
             <a href="https://www.eurashe.eu" target="_blank"><img className="link-img" src="img/grey/eurashe-eu-black.png" title="European Association of Institutions in Higher Education"/></a>
             <a href="https://www.eurashe.eu" target="_blank"><img className="img-top" src="img/link/eurashe-eu-black.png" title="European Association of Institutions in Higher Education"/></a>
+          </div>
+          <div className="bottom-img">
+            <a href="https://www.ceenqa.org" target="_blank"><img className="link-img" src="img/grey/ceenqa.png" title="Central and Eastern European Network of Quality Assurance Agencies in Higher Education"/></a>
+            <a href="https://www.ceenqa.org" target="_blank"><img className="img-top" src="img/link/ceenqa.png" title="Central and Eastern European Network of Quality Assurance Agencies in Higher Education"/></a>
           </div>
         </div>
       </div>

@@ -75,7 +75,7 @@ const Ucretler = () => (
                 </tr>
                 <tr>
                   <th scope="row">Kasım 2020 Taksiti</th>
-                  <td>17.500 TL.+ KDV</td>
+                  <td>7.500 TL.+ KDV</td>
                 </tr>
                 <tr>
                   <th scope="row">TOPLAM</th>
