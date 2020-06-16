@@ -11,21 +11,21 @@ const Navigation = () => (
 				<li className="nav-item dropdown">
 					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">Hakkımızda</a>
 					<div className="dropdown-menu">
-						<a className="dropdown-item" href="/misyon">Misyon</a>
-						<a className="dropdown-item" href="/amac-ve-faaliyetler">Amaç ve Faaliyetler</a>
-						<a className="dropdown-item" href="/kalite-politikasi">Kalite Politikası</a>
-						<a className="dropdown-item" href="/yonetim-ve-denetleme-kurulu">Yönetim ve Denetleme Kurulu</a>
-						<a className="dropdown-item" href="/kurul-ve-komisyonlar">Kurul ve Komisyonlar</a>
-						<a className="dropdown-item" href="/uluslararasi-uyelik-ve-tescil-yazilari">Uluslararası Üyelik ve Tescil Yazıları</a>
-			      <a className="dropdown-item" href="/uye-listesi">Üye Listesi</a>
-			      <a className="dropdown-item" href="/hepdak-genel-kurulu-ve-raporlari">Genel Kurul ve Raporları</a>
-						<a className="dropdown-item" href="/tematik-analiz-raporu">Tematik Analiz Raporu</a>
-						<a className="dropdown-item" href="/faaliyet-raporlari">Faaliyet Raporları</a>
-						<a className="dropdown-item" href="/paydas-gorusleri">Paydaş Görüşleri</a>
-						<a className="dropdown-item" href="/doc/hepdak-faaliyet-belgesi.pdf">Dernek Faaliyet Durumu</a>
-			      <a className="dropdown-item" href="/doc/hepdak_vergi_levhası_2019.pdf">İktisadi İşletme</a>
-			      <a className="dropdown-item" href="/doc/hepdak-kira-sozlesmesi.pdf">Kira Sözleşmesi</a>
-			      <a className="dropdown-item" href="https://www.facebook.com/pg/hepdak/photos/">Fotoğraf Albümü</a>
+						<Link href="/misyon"><a className="dropdown-item">Misyon</a></Link>
+						<Link href="/amac-ve-faaliyetler"><a className="dropdown-item">Amaç ve Faaliyetler</a></Link>
+						<Link href="/kalite-politikasi"><a className="dropdown-item">Kalite Politikası</a></Link>
+						<Link href="/yonetim-ve-denetleme-kurulu"><a className="dropdown-item">Yönetim ve Denetleme Kurulu</a></Link>
+						<Link href="/kurul-ve-komisyonlar"><a className="dropdown-item">Kurul ve Komisyonlar</a></Link>
+						<Link href="/uluslararasi-uyelik-ve-tescil-yazilari"><a className="dropdown-item">Uluslararası Üyelik ve Tescil Yazıları</a></Link>
+			      <Link href="/uye-listesi"><a className="dropdown-item">Üye Listesi</a></Link>
+			      <Link href="/hepdak-genel-kurulu-ve-raporlari"><a className="dropdown-item">Genel Kurul ve Raporları</a></Link>
+						<Link href="/tematik-analiz-raporu"><a className="dropdown-item">Tematik Analiz Raporu</a></Link>
+						<Link href="/faaliyet-raporlari"><a className="dropdown-item">Faaliyet Raporları</a></Link>
+						<Link href="/paydas-gorusleri"><a className="dropdown-item">Paydaş Görüşleri</a></Link>
+						<Link href="/doc/hepdak-faaliyet-belgesi.pdf"><a className="dropdown-item">Dernek Faaliyet Durumu</a></Link>
+			      <Link href="/doc/hepdak_vergi_levhası_2019.pdf"><a className="dropdown-item">İktisadi İşletme</a></Link>
+			      <Link href="/doc/hepdak-kira-sozlesmesi.pdf"><a className="dropdown-item">Kira Sözleşmesi</a></Link>
+			      <Link href="https://www.facebook.com/pg/hepdak/photos/"><a className="dropdown-item">Fotoğraf Albümü</a></Link>
 					</div>
 				</li>
 				<li className="nav-item dropdown">

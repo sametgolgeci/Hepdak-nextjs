@@ -54,7 +54,6 @@ const Uye = () => (
                    <tr>
                     <th scope="row">11</th>
                     <td>Elif Perihan Demirdelen</td>
-                    <th scope="row">31</th>
                   </tr>
                   <tr>
                     <th scope="row">12</th>
