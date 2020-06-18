@@ -11,12 +11,6 @@ const Anasayfa = () => (
       <title>HEPDAK | Anasayfa</title>
     </Head>
     <div className="main-top">
-      <div className="col-sm-12 col-md-12">
-        <Link href="/corona-virus-pandemisi-sureci"><a><button className="main-top-button">!! Corona Virüs Pandemisi Sürecinde Hemşirelik Eğitim Programlarının Akreditasyonu için HEPDAK Planı !!</button></a></Link>
-      </div>
-      <div className="col-sm-12 col-md-12">
-        <Link href="/hepdak-degerlendirme-2020-21"><a><button className="main-top-button">!! HEPDAK 2020-2021 Değerlendirme Planı !!</button></a></Link>
-      </div>
       <div className="main-top-nav">
         <ul className="nav nav-pills nav-justified">
           <li className="nav-item">
@@ -188,6 +182,12 @@ const Anasayfa = () => (
       </div>
     </div>
     <div className="main-middle">
+    <div className="col-sm-12 col-md-12">
+        <Link href="/corona-virus-pandemisi-sureci"><a><button className="main-top-button">!! Corona Virüs Pandemisi Sürecinde Hemşirelik Eğitim Programlarının Akreditasyonu için HEPDAK Planı (04.05.2020) !!</button></a></Link>
+      </div>
+      <div className="col-sm-12 col-md-12">
+        <Link href="/hepdak-degerlendirme-2020-21"><a><button className="main-top-button">!! HEPDAK 2020-2021 Değerlendirme Planı (04.05.2020) !!</button></a></Link>
+      </div>
       <div className="col-sm-12 col-md-4">
         <Link href="/doc/b1-basvuru-word_v5.doc"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faCheck}/>Başvuru</button></a></Link>
       </div>
@@ -205,22 +205,18 @@ const Anasayfa = () => (
       <div className="row">
         <div className="col-4">
           <div className="form-group iletisim-mesaj-input">
-            <label for="exampleInputEmail">Ad</label>
-            <input type="text" className="form-control" disabled/>
-          </div>
-          <div className="form-group iletisim-mesaj-input">
-            <label for="exampleInputEmail">Soyad</label>
-            <input type="text" className="form-control" disabled/>
+            <label for="exampleInputEmail">Ad Soyad</label>
+            <input type="text" className="form-control form-control-sm" disabled/>
           </div>
           <div className="form-group iletisim-mesaj-input">
             <label for="exampleInputEmail">Mail Adresiniz</label>
-            <input type="email" className="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" disabled/>
+            <input type="email" className="form-control form-control-sm" id="exampleInputEmail1" aria-describedby="emailHelp" disabled/>
           </div>
         </div>
         <div className="col-4">
           <div className="form-group">
             <label for="exampleFormControlTextarea1">Mesaj</label>
-            <textarea className="form-control" id="exampleFormControlTextarea1" rows="8" disabled></textarea>
+            <textarea className="form-control" id="exampleFormControlTextarea1" rows="4" disabled></textarea>
           </div>
         </div>
         <div className="col-4">

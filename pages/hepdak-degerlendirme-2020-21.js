@@ -8,7 +8,7 @@ const Degerlendirme = () => (
 	      <title>HEPDAK | Hepdak 2020-2021 Değerlendirme Planı</title>
 	    </Head>
 	    <div className="genel">
-	    	<h1>Hepdak 2020-2021 Değerlendirme Planı</h1>
+	    	<h1>Hepdak 2020-2021 Değerlendirme Planı (04.05.2020)</h1>
 	    	<p><h5>Ara değerlendirme için başvuran programlar</h5>İlgili programların, mevcut akreditasyon süreçlerinin kesintiye uğramaması için uzaktan değerlendirme yapılması planlanmıştır. Takımların, bu programların özdeğerlendirme raporlarını incelemesinden sonra saha ziyaretleri uzaktan yapılacak ve gerekirse pandemi sonrası ileri bir tarihte kurum ziyareti planlanacaktır.</p>
 	    	<p><h5>Yeniden genel değerlendirme için başvuran programlar</h5>İlgili programların, mevcut akreditasyon süreçlerinin devamını desteklemek üzere yeniden değerlendirme yapılacak olan programlara özdeğerlendirme raporlarının incelenmesinden sonra uzaktan ziyaret yapılacak ve pandemi koşullarına göre ileri bir tarihte kurum ziyareti planlanacaktır.</p>
 	    	<p>Ara değerlendirme ve yeniden genel değerlendirme sürecine devam etmeme kararı alan programların akreditasyon tarihi dolduktan sonra programın akreditasyonu devam etmez.</p>
