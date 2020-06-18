@@ -14,7 +14,7 @@ const Ucretler = () => (
             <div className="akreditasyon-content-subtitle">2020-2021 Değerlendirme Dönemi Akreditasyon Bedelleri</div>
             <p>2020-2021 döneminde değerlendirilecek programlar için akreditasyon değerlendirme bedelleri aşağıdaki tabloda yer almaktadır.</p>
             <table className="table table-striped">
-              <thead className="thead-light">
+              <thead className="thead-dark">
                 <tr>
                   <th scope="col">Değerlendirme Türü</th>
                   <th scope="col">Normal Öğretim</th>
@@ -55,7 +55,7 @@ const Ucretler = () => (
             <p>* KDV miktarı %18 üzerinden hesaplanır.</p>
             <div className="akreditasyon-content-subtitle">2020-2021 Değerlendirme Dönemi Akreditasyon Bedelleri Ödeme Planı</div>
             <table className="table table-striped">
-              <thead className="thead-light">
+              <thead className="thead-dark">
                 <tr>
                   <th scope="col" colSpan="2">Genel Değerlendirme</th>
                 </tr>
@@ -82,7 +82,7 @@ const Ucretler = () => (
                   <td>25.000 TL.+ KDV</td>
                 </tr>
               </tbody>
-              <thead className="thead-light">
+              <thead className="thead-dark">
                 <tr>
                   <th scope="col" colSpan="2">Ziyaretle Ara Değerlendirme/Ziyaretle Kanıt Göster*</th>
                 </tr>
@@ -105,7 +105,7 @@ const Ucretler = () => (
                   <td>10.000 TL.+ KDV**</td>
                 </tr>
               </tbody>
-              <thead className="thead-light">
+              <thead className="thead-dark">
                 <tr>
                   <th scope="col" colSpan="2">Raporla Ara Değerlendirme/Raporla Kanıt Göster* </th>
                 </tr>
@@ -133,7 +133,7 @@ const Ucretler = () => (
             <p>** Programların talep etmesi durumunda akreditasyon bedeli Kasım ayında tek seferde tahsil edilebilir.</p>
             <div className="akreditasyon-content-subtitle">İkinci Öğretim Akreditasyon Bedeli Ödeme Planı</div>
             <table className="table table-striped">
-              <thead className="thead-light">
+              <thead className="thead-dark">
                 <tr>
                   <th scope="col" colSpan="2">Genel Değerlendirme</th>
                 </tr>
