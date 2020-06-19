@@ -47,6 +47,8 @@ const Belgeler = () => (
                   <td>HEPDAK Arşivleme Yönergesi <Link href="doc/a7_v1.pdf"><a>Sürüm 1.0</a></Link> | <Link href="doc/a7_v2.pdf"><a>Sürüm 2.0</a></Link></td>
                 </tr>
               </tbody>
+            </table>
+            <table className="table table-striped">
               <thead className="thead-dark">
                 <tr>
                   <th scope="col" colSpan="2">Kurumlar ve Değerlendiriciler için Belgeler</th>
@@ -108,6 +110,8 @@ const Belgeler = () => (
                   <td>HEPDAK Akredite Eğitim Programları İçin Gelişim Raporu Hazırlama Rehberi Sürüm <strong>Sürüm 1.0</strong> (<Link href="doc/b13_v1.pdf"><a>PDF</a></Link> | <Link href="doc/b13_v1.doc"><a>Word</a></Link>)</td>
                 </tr>
               </tbody>
+            </table>
+            <table className="table table-striped">
               <thead className="thead-dark">
                 <tr>
                   <th scope="col" colSpan="2">Diğer Belgeler</th>

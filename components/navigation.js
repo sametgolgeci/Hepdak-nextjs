@@ -31,45 +31,45 @@ const Navigation = () => (
 				<li className="nav-item dropdown">
 					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">Akreditasyon</a>
 					<div className="dropdown-menu">
-						<a className="dropdown-item" href="/surec">Süreç</a>
-						<a className="dropdown-item" href="/doc/b1-basvuru-word_v5.doc">Başvuru</a>
-						<a className="dropdown-item" href="/belgeler">Belgeler</a>
-						<a className="dropdown-item" href="/ucretler">Ücretler</a>
-						<a className="dropdown-item" href="/akredite-edilen-kurumlar">Akredite Edilen Kurumlar</a>
-						<a className="dropdown-item" href="/ilgili-kuruluslar">İlgili Kuruluşlar</a>
+						<Link href="/surec"><a className="dropdown-item">Süreç</a></Link>
+						<Link href="/doc/b1-basvuru-word_v5.doc"><a className="dropdown-item">Başvuru</a></Link>
+						<Link href="/belgeler"><a className="dropdown-item">Belgeler</a></Link>
+						<Link href="/ucretler"><a className="dropdown-item">Ücretler</a></Link>
+						<Link href="/akredite-edilen-kurumlar"><a className="dropdown-item">Akredite Edilen Kurumlar</a></Link>
+						<Link href="/ilgili-kuruluslar"><a className="dropdown-item">İlgili Kuruluşlar</a></Link>
 					</div>
 				</li>
         <li className="nav-item dropdown">
 					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">Çalıştay</a>
 					<div className="dropdown-menu">
-						<a className="dropdown-item" href="/kurumlar-icin-egitim-calistayi">Kurumlar için Eğitim Çalıştayı</a>
-						<a className="dropdown-item" href="/degerlendirici-egitimi-calistayi">Değerlendirici Eğitimi Çalıştayı</a>
-						<a className="dropdown-item" href="/ogrenci-degerlendirici-egitimi-calistayi">Öğrenci Değerlendirici Eğitimi Çalıştayı</a>
+						<Link href="/kurumlar-icin-egitim-calistayi"><a className="dropdown-item">Kurumlar için Eğitim Çalıştayı</a></Link>
+						<Link href="/degerlendirici-egitimi-calistayi"><a className="dropdown-item">Değerlendirici Eğitimi Çalıştayı</a></Link>
+						<Link href="/ogrenci-degerlendirici-egitimi-calistayi"><a className="dropdown-item">Öğrenci Değerlendirici Eğitimi Çalıştayı</a></Link>
 					</div>
 				</li>
 				<li className="nav-item">
-	        <a className="nav-link header-nav-link" href="/webinar">Webinar</a>
+	        <Link href="/webinar"><a className="nav-link header-nav-link">Webinar</a></Link>
 	      </li>
         <li className="nav-item dropdown">
 					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">Toplantılar</a>
 					<div className="dropdown-menu">
-						<a className="dropdown-item" href="/heak-ve-komisyon-toplantilari">HEAK ve Komisyon Toplantıları</a>
-						<a className="dropdown-item" href="/tutarlilik-komisyonu-toplantilari">Tutarlılık Komisyonu Toplantıları</a>
-						<a className="dropdown-item" href="/takim-baskani-toplantilari">Takım Başkanı Toplantıları</a>
-						<a className="dropdown-item" href="/standart-belirleme-ve-gelistirme-komisyonu-toplantilari">Standart Belirleme ve Geliştirme Komisyonu Toplantıları</a>
-						<a className="dropdown-item" href="/sempozyumlar">Sempozyumlar</a>
-						<a className="dropdown-item" href="/egitim-etkinlikleri">Eğitim Etkinlikleri</a>
-						<a className="dropdown-item" href="/cagrili-konusmalar">Çağrılı Konuşmalar</a>
+						<Link href="/heak-ve-komisyon-toplantilari"><a className="dropdown-item">HEAK ve Komisyon Toplantıları</a></Link>
+						<Link href="/tutarlilik-komisyonu-toplantilari"><a className="dropdown-item">Tutarlılık Komisyonu Toplantıları</a></Link>
+						<Link href="/takim-baskani-toplantilari"><a className="dropdown-item">Takım Başkanı Toplantıları</a></Link>
+						<Link href="/standart-belirleme-ve-gelistirme-komisyonu-toplantilari"><a className="dropdown-item">Standart Belirleme ve Geliştirme Komisyonu Toplantıları</a></Link>
+						<Link href="/sempozyumlar"><a className="dropdown-item">Sempozyumlar</a></Link>
+						<Link href="/egitim-etkinlikleri"><a className="dropdown-item">Eğitim Etkinlikleri</a></Link>
+						<Link href="/cagrili-konusmalar"><a className="dropdown-item">Çağrılı Konuşmalar</a></Link>
 					</div>
 				</li>
         <li className="nav-item">
-	        <a className="nav-link header-nav-link disabled" href="/yayinlar">Yayınlar</a>
+	        <Link href="/yayinlar"><a className="nav-link header-nav-link disabled">Yayınlar</a></Link>
 	      </li>
 	      <li className="nav-item">
-	        <a className="nav-link header-nav-link" href="/iletisim">İletişim</a>
+	        <Link href="/iletisim"><a className="nav-link header-nav-link">İletişim</a></Link>
 	      </li>
 	      <li className="nav-item">
-	        <a className="nav-link header-nav-link disabled" href="/sss">SSS</a>
+	        <Link href="/sss"><a className="nav-link header-nav-link disabled">SSS</a></Link>
 	      </li>
 			</ul>
 		</div>

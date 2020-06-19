@@ -27,39 +27,46 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
-                <a href="/doc/CEENQA_Application_HEPDAK_Decision.pdf">
-                  <div className="main-top-one-title">CEENQA ÜYELİĞİ HAKKINDA</div>
-                  <div className="main-top-one-content"><p>HEPDAK, 15 Mayıs 2020 tarihinden itibaren CEENQA - Central and Eastern European Network of Quality Assurance Agencies in Higher Education'ın tam üyesidir.</p></div>
-                  <div className="main-top-one-continue">Devam -></div>
-                </a>
+                  <Link href="/webinar#last"><a>
+                    <div className="main-top-one-title">COVİD-19 SÜRECİNDE HEMŞİRELİK EĞİTİMİ (17 Haziran 2020) WEBİNAR </div>
+                    <div className="main-top-one-content"><p>17 Haziran 2020 tarihinde gerçekleştirmiş olduğumuz webinar toplantımıza buradan ulaşabilirsiniz</p></div>
+                    <div className="main-top-one-continue">Devamı -></div>
+                  </a></Link>
+                </div>
+                <div className="carousel-item">
+                  <Link href="/doc/CEENQA_Application_HEPDAK_Decision.pdf"><a target="_blank">
+                    <div className="main-top-one-title">CEENQA ÜYELİĞİ HAKKINDA</div>
+                    <div className="main-top-one-content"><p>HEPDAK, 15 Mayıs 2020 tarihinden itibaren CEENQA - Central and Eastern European Network of Quality Assurance Agencies in Higher Education'ın tam üyesidir.</p></div>
+                    <div className="main-top-one-continue">Devamı -></div>
+                  </a></Link>
                 </div>
                 <div className="carousel-item">
                   <div className="main-top-one-title">HEMŞİRELİK HAFTASI KUTLAMASI</div>
                   <div className="main-top-one-content"><p>Hemşireler, Covid-19 ile mücadele sürecinde en ön saflarda görev alarak hemşirelik mesleğinin tüm toplum için vazgeçilmez olduğunun kanıtladılar.</p><p>Tüm meslektaşlarımızın hemşirelik haftasını kutluyor, sağlıklı günler diliyoruz.</p><p><strong>HEPDAK Yönetim Kurulu</strong></p></div>
                 </div>
                 <div className="carousel-item">
-                  <a href="yokak-saha-ziyareti">
+                  <Link href="/webinar#last"><a href="yokak-saha-ziyareti">
                     <div className="main-top-one-title">YÖKAK SAHA ZİYARETİ</div>
                     <div className="main-top-one-content">Yüksek Öğretim Kalite Kurulu (YÖKAK), "Dış Değerlendirme ve Akreditasyon Kuruluşlarının Yetkilendirilmesi, Tanınması ve İzlenmesine İlişkin Kılavuz, 2019" kapsamında Kalite Değerlendirme Tescil Belgesi'ne sahip ulusal akreditasyon kuruluşları için 2020 yılından itibaren saha ziyareti uygulamasını başlatmıştır...</div>
-                    <div className="main-top-one-continue">Devam -></div>
-                  </a>
+                    <div className="main-top-one-continue">Devamı -></div>
+                  </a></Link>
                 </div>
                 <div className="carousel-item">
                   <div className="main-top-one-title">DUYURU</div>
                   <div className="main-top-one-content">17-18 Nisan 2020 tarihinde yapılacağı duyurulan Değerlendirici Eğitimi korona virüs salgını sebebiyle ileri bir tarihe ertelenmiştir. Tarih yeniden duyurulacaktır.</div>
                 </div>
                 <div className="carousel-item">
-                  <a href="https://yokak.gov.tr/akreditasyon-kuruluslari/tescil-suresi-devam-edenler" target="_blank">
+                  <Link href="https://yokak.gov.tr/akreditasyon-kuruluslari/tescil-suresi-devam-edenler"><a target="_blank">
                     <div className="main-top-one-title">HEPDAK, 2023 YILINA KADAR TESCİL EDİLDİ</div>
                     <div className="main-top-one-content">Hemşirelik Eğitim Programları Değerlendirme ve Akreditasyon Derneği (HEPDAK) Yükseköğretim Kalite Kurulu tarafından 25.12.2023 tarihine kadar beş yıllığına tescil edilmiştir.</div>
-                  </a>
+                  </a></Link>
                 </div>
                 <div className="carousel-item">
-                  <a href="/ucretler">
+                  <Link href="/ucretler"><a>
                     <div className="main-top-one-title">HEPDAK DEĞERLENDİRME VE AKREDİTASYON ÜCRETLERİ</div>
                     <div className="main-top-one-content">2020-2021 Değerlendirme Dönemi Akreditasyon Bedelleri Belirlenmiştir.</div>
-                    <div className="main-top-one-continue">Devam -></div>
-                  </a>
+                    <div className="main-top-one-continue">Devamı -></div>
+                  </a></Link>
                 </div>
               </div>
               <a className="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -182,7 +189,10 @@ const Anasayfa = () => (
       </div>
     </div>
     <div className="main-middle">
-    <div className="col-sm-12 col-md-12">
+      <div className="col-sm-12 col-md-12 covid-index">
+        <Link href="/covid-19"><a>Covid-19 Haberleri için Tıklayınız</a></Link>
+      </div>
+      <div className="col-sm-12 col-md-12">
         <Link href="/corona-virus-pandemisi-sureci"><a><button className="main-top-button">!! Corona Virüs Pandemisi Sürecinde Hemşirelik Eğitim Programlarının Akreditasyonu için HEPDAK Planı (04.05.2020) !!</button></a></Link>
       </div>
       <div className="col-sm-12 col-md-12">

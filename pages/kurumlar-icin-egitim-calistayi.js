@@ -10,8 +10,14 @@ const Calistay = () => (
 	<div className="row">
 		<div className="genel col-md-12 col-sm-12">
 		<h1 id="kurumlar">Kurumlar için Eğitim Çalıştayı</h1>
-		<p>HEPDAK akreditasyonuna başvurmayı ve/veya HEPDAK standartlarına göre programlarında iyileştirme yapmayı planlayan hemşirelik lisans programlarının yönetici ve öğretim kadrosuna çalıştaylar yapılmaktadır.</p>
-		<p>Yapılan çalıştayların içeriğinde; HEPDAK hakkında genel bilgiler ve hemşirelik lisans programlarının akreditasyonu hakkında bilgiler verilmesi, HEPDAK akreditasyonundaki temel kavramlar, standartlardaki çıktı odaklı sürekli iyileştirme yaklaşımının hemşirelik lisans programlarına uygulanması, değerlendirme süreci, Fakülte ve Bölümlerin akreditasyon hazırlıkları, özdeğerlendirme raporları, değerlendirme takımlarınca yapılan kurum ziyaretleri yer almaktadır.</p>
+		<p>HEPDAK akreditasyonuna başvurmayı ve/veya HEPDAK standartlarına göre programlarında iyileştirme yapmayı planlayan hemşirelik lisans programlarının yönetici ve öğretim kadrosuna aşağıda belirtilen konuları kapsayan çalıştaylar yapılmaktadır.</p>
+		<p className="madde-p">• HEPDAK hakkında genel bilgiler ve hemşirelik lisans programlarının akreditasyonu hakkında bilgiler</p>
+		<p className="madde-p">• HEPDAK akreditasyonundaki temel kavramlar</p>
+		<p className="madde-p">• HEPDAK değerlendirme standartları ve açıklamaları</p>
+		<p className="madde-p">• Standartlardaki çıktı odaklı sürekli iyileştirme yaklaşımının hemşirelik lisans programlarına uygulanması</p>
+		<p className="madde-p">• Değerlendirme süreci; Fakülte ve Bölümlerin akreditasyon hazırlıkları</p>
+		<p className="madde-p">• Özdeğerlendirme raporları</p>
+		<p className="madde-p">• Değerlendirme takımlarınca yapılan kurum ziyaretleri</p>
 		<h6><span className="badge badge-custom">7</span> 18 Ocak 2020 (İzmir)</h6>
 		<ul className="nav calistay-nav">
 		  <li className="nav-item">

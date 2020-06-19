@@ -12,11 +12,11 @@ const Calistay = () => (
 		<h1 id="degerlendirici">Değerlendirici Eğitimi Çalıştayı</h1>
 		<p>HEPDAK değerlendirmelerinde program değerlendiricisi olarak görev alacak olanların değerlendirme öncesinde bir değerlendirici eğitiminden geçmeleri gerekmektedir.</p>
 		<p>Program değerlendirici adaylarına aşağıdaki konularda bilgilendirmek ve eğitmek amaçlı çalıştaylar yapılmaktadır;</p>
-		<p>• HEPDAK ve değerlendirme sürecini daha yakından tanıma</p>
-		<p>• Değerlendirme becerisini geliştirme</p>
-		<p>• Değerlendirici davranışını geliştirme</p>
-		<p>• Değerlendirmeler arası tutarlılığı sağlama</p>
-		<p>• Değerlendirme raporu yazma becerisini geliştirme</p>
+		<p className="madde-p">• HEPDAK ve değerlendirme sürecini daha yakından tanıma</p>
+		<p className="madde-p">• Değerlendirme becerisini geliştirme</p>
+		<p className="madde-p">• Değerlendirici davranışını geliştirme</p>
+		<p className="madde-p">• Değerlendirmeler arası tutarlılığı sağlama</p>
+		<p className="madde-p">• Değerlendirme raporu yazma becerisini geliştirme</p>
 		<h6><span className="badge badge-custom">4</span> HEPDAK Değerlendirici Eğitim Çalıştayı 03-04 Eylül 2018 (İzmir)</h6>
 		<ul className="nav calistay-nav">
 		  <li className="nav-item">

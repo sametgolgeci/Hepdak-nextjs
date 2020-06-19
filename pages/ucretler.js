@@ -82,6 +82,8 @@ const Ucretler = () => (
                   <td>25.000 TL.+ KDV</td>
                 </tr>
               </tbody>
+            </table>
+            <table className="table table-striped">
               <thead className="thead-dark">
                 <tr>
                   <th scope="col" colSpan="2">Ziyaretle Ara Değerlendirme/Ziyaretle Kanıt Göster*</th>
@@ -105,6 +107,8 @@ const Ucretler = () => (
                   <td>10.000 TL.+ KDV**</td>
                 </tr>
               </tbody>
+            </table>
+            <table className="table table-striped">
               <thead className="thead-dark">
                 <tr>
                   <th scope="col" colSpan="2">Raporla Ara Değerlendirme/Raporla Kanıt Göster* </th>

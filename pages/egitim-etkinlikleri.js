@@ -9,7 +9,7 @@ const Gorus = () => (
 	    </Head>
 	    <div className="genel">
 	    	<h1>Eğitim Etkinlikleri</h1>
-	    	<p>HEPDAK, HEAK ve komisyon üyelerine çeşitli toplantılarda yapılan eğitimler için <Link href="doc/egitim_etkinlikleri.pdf"><a>tıklayınız</a></Link></p>
+	    	<p className="madde-p">HEPDAK, HEAK ve komisyon üyelerine çeşitli toplantılarda yapılan eğitimler için <Link href="doc/egitim_etkinlikleri.pdf"><a>tıklayınız</a></Link></p>
 	    	</div>
 	    	<div className="safe"></div>
     </MasterPage>
