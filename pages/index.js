@@ -28,6 +28,13 @@ const Anasayfa = () => (
               <div className="carousel-inner">
                 <div className="carousel-item active">
                   <Link href="/webinar#last"><a>
+                    <div className="main-top-one-title">HEPDAK UZAKTAN EĞİTİM STANDARTLARI (19 Haziran 2020)</div>
+                    <div className="main-top-one-content"><p> İlgili dosyaya buradan ulaşabilirsiniz</p></div>
+                    <div className="main-top-one-continue">Devamı -></div>
+                  </a></Link>
+                </div>
+                <div className="carousel-item">
+                  <Link href="/doc/b14_v1.docx"><a>
                     <div className="main-top-one-title">COVİD-19 SÜRECİNDE HEMŞİRELİK EĞİTİMİ (17 Haziran 2020) WEBİNAR </div>
                     <div className="main-top-one-content"><p>17 Haziran 2020 tarihinde gerçekleştirmiş olduğumuz webinar toplantımıza buradan ulaşabilirsiniz</p></div>
                     <div className="main-top-one-continue">Devamı -></div>
@@ -176,7 +183,7 @@ const Anasayfa = () => (
                 <div className="main-top-second-content"><img src="img/duyurular/23nisan2019.jpg" height="300px"/></div>
               </div>
               <div className="main-top-second">
-                <div className="main-top-second-title">Hemşirelik Eğitiminin Geleceği: 19-20 Haziran Akreditasyon, Standartlar, İyi Uygulama Örnekleri</div>
+                <div className="main-top-second-title">Hemşirelik Eğitiminin Geleceği: 19-20 Haziran 2018 Akreditasyon, Standartlar, İyi Uygulama Örnekleri</div>
                 <div className="main-top-second-content"><p>Bilimsel Program, Kayıt & Konaklama, Davet tüm bilgileri <a href="http://www.hemsirelikegitiminingelecegi.com"><strong>buradan</strong></a> erişebilirsiniz.</p> <h6>Sempozyum Yeri ve İletişim</h6><p>Ege Üniversitesi Hemşirelik Fakültesi<br/>Yasemin Şimşek<br/>Dalya Turizm, Kazım Dirik Mah. 372/8 Sk. No:1 Bornova-İzmir, TÜRKİYE<br/>+90 232 464 88 30<br/>yasemin@dalyatur.com</p></div>
               </div>
               <div className="main-top-second">
@@ -190,14 +197,16 @@ const Anasayfa = () => (
     </div>
     <div className="main-middle">
       <div className="col-sm-12 col-md-12 covid-index">
-        <Link href="/covid-19"><a>Covid-19 Haberleri için Tıklayınız</a></Link>
+        <Link href="/covid-19"><a>Covid-19 Haberleri</a></Link>
       </div>
+      {/*
       <div className="col-sm-12 col-md-12">
         <Link href="/corona-virus-pandemisi-sureci"><a><button className="main-top-button">!! Corona Virüs Pandemisi Sürecinde Hemşirelik Eğitim Programlarının Akreditasyonu için HEPDAK Planı (04.05.2020) !!</button></a></Link>
       </div>
       <div className="col-sm-12 col-md-12">
         <Link href="/hepdak-degerlendirme-2020-21"><a><button className="main-top-button">!! HEPDAK 2020-2021 Değerlendirme Planı (04.05.2020) !!</button></a></Link>
       </div>
+      */}
       <div className="col-sm-12 col-md-4">
         <Link href="/doc/b1-basvuru-word_v5.doc"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faCheck}/>Başvuru</button></a></Link>
       </div>

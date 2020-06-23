@@ -20,7 +20,7 @@ const Belgeler = () => (
               <tbody>
                 <tr>
                   <th scope="row" width="10px">1</th>
-                  <td>HEPDAK Tüzüğü <Link href="doc/a1_v1.pdf"><a>Sürüm 1.0</a></Link> | <Link href="doc/a1_v3.pdf"><a>Sürüm 3.0</a></Link></td>
+                  <td>HEPDAK Tüzüğü <Link href="doc/a1_v1.pdf"><a>Sürüm 1.0</a></Link> | <Link href="doc/a1_v2.pdf"><a>Sürüm 2.0</a></Link> | <Link href="doc/a1_v3.pdf"><a>Sürüm 3.0</a></Link></td>
                 </tr>
                 <tr>
                   <th scope="row">2</th>
@@ -108,6 +108,13 @@ const Belgeler = () => (
                 <tr>
                   <th scope="row">13</th>
                   <td>HEPDAK Akredite Eğitim Programları İçin Gelişim Raporu Hazırlama Rehberi Sürüm <strong>Sürüm 1.0</strong> (<Link href="doc/b13_v1.pdf"><a>PDF</a></Link> | <Link href="doc/b13_v1.doc"><a>Word</a></Link>)</td>
+                </tr>
+                  <th scope="row">14</th>
+                  <td>HEPDAK Uzaktan Eğitim Standartları <Link href="doc/b14_v1.docx"><a>Sürüm 1.0</a></Link></td>
+                </tr>
+                <tr>
+                  <th scope="row">15</th>
+                  <td>HEPDAK Uzaktan Eğitim Program Değerlendirme Çizelgesi <Link href="doc/b15_v1.doc"><a>Sürüm 1.0</a></Link></td>
                 </tr>
               </tbody>
             </table>
