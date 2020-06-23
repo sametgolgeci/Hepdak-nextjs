@@ -109,6 +109,7 @@ const Belgeler = () => (
                   <th scope="row">13</th>
                   <td>HEPDAK Akredite Eğitim Programları İçin Gelişim Raporu Hazırlama Rehberi Sürüm <strong>Sürüm 1.0</strong> (<Link href="doc/b13_v1.pdf"><a>PDF</a></Link> | <Link href="doc/b13_v1.doc"><a>Word</a></Link>)</td>
                 </tr>
+                <tr>
                   <th scope="row">14</th>
                   <td>HEPDAK Uzaktan Eğitim Standartları <Link href="doc/b14_v1.docx"><a>Sürüm 1.0</a></Link></td>
                 </tr>
