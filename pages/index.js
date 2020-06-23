@@ -199,14 +199,16 @@ const Anasayfa = () => (
       <div className="col-sm-12 col-md-12 covid-index">
         <Link href="/covid-19"><a>Covid-19 Haberleri</a></Link>
       </div>
-      {/*
       <div className="col-sm-12 col-md-12">
-        <Link href="/corona-virus-pandemisi-sureci"><a><button className="main-top-button">!! Corona Virüs Pandemisi Sürecinde Hemşirelik Eğitim Programlarının Akreditasyonu için HEPDAK Planı (04.05.2020) !!</button></a></Link>
+        <Link href="/doc/b14_v1.docx"><a><button className="main-top-button">HEPDAK Uzaktan Eğitim Standartları (19.06.2020)</button></a></Link>
       </div>
       <div className="col-sm-12 col-md-12">
-        <Link href="/hepdak-degerlendirme-2020-21"><a><button className="main-top-button">!! HEPDAK 2020-2021 Değerlendirme Planı (04.05.2020) !!</button></a></Link>
+        <Link href="/corona-virus-pandemisi-sureci"><a><button className="main-top-button">Corona Virüs Pandemisi Sürecinde Hemşirelik Eğitim Programlarının Akreditasyonu için HEPDAK Planı (04.05.2020)</button></a></Link>
       </div>
-      */}
+      <div className="col-sm-12 col-md-12">
+        <Link href="/hepdak-degerlendirme-2020-21"><a><button className="main-top-button">HEPDAK 2020-2021 Değerlendirme Planı (04.05.2020)</button></a></Link>
+      </div>
+      
       <div className="col-sm-12 col-md-4">
         <Link href="/doc/b1-basvuru-word_v5.doc"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faCheck}/>Başvuru</button></a></Link>
       </div>
