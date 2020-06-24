@@ -24,7 +24,7 @@ const Kuruluslar = () => (
                     <td>Yükseköğretim Kurulu, Türkiye</td>
                   </tr>
                   <tr>
-                    <th scope="row"><a href="https://www.yodek.org.tr" target="_blank">Yükseköğretim Kalite Kurulu</a></th>
+                    <th scope="row"><a href="https://yokak.gov.tr" target="_blank">Yükseköğretim Kalite Kurulu</a></th>
                     <td>Yükseköğretim Kalite Kurulu, Türkiye</td>
                   </tr>
                   <tr>
@@ -119,6 +119,10 @@ const Kuruluslar = () => (
                   <tr>
                     <th scope="row"><a href="https://www.chea.org" target="_blank">CHEA</a></th>
                     <td>Council for Higher Education Accreditation, ABD</td>
+                  </tr>
+                  <tr>
+                    <th scope="row"><a href="https://www.acenursing.org" target="_blank">ACEN</a></th>
+                    <td>Accreditation Commision for Education in Nursing, ABD</td>
                   </tr>
                   <tr>
                     <th scope="row"><a href="https://www.enqa.eu" target="_blank">ENQA</a></th>
