@@ -24,7 +24,7 @@ const Surec = () => (
                   </tr>
                   <tr>
                     <th scope="row">1 - 31 Mart</th>
-                    <td>Kurumların, imzalı kabul mektubunu <strong>ozmendilek@yahoo.com</strong> mail adresi aracılığı ile HEPDAK'a yollaması</td>
+                    <td>Kurumların, imzalı kabul mektubunu <Link href="mailto:ozmendilek@yahoo.com"><a><strong>ozmendilek@yahoo.com</strong></a></Link> mail adresi aracılığı ile HEPDAK'a yollaması</td>
                   </tr>
                   <tr>
                     <th scope="row">1 Nisan – 10 Temmuz</th>

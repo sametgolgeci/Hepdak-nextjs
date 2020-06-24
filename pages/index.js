@@ -11,6 +11,14 @@ const Anasayfa = () => (
       <title>HEPDAK | Anasayfa</title>
     </Head>
     <div className="main-top">
+      <div className="row">
+        <div className="col-md-6 col-sm-12">
+          <p><a href="https://us02web.zoom.us/meeting/register/tZElcO6vrTwpH9zra8_9HDH4XiWEunjGb5vA"><img className="webinar-afis-ana" src="/img/webinar/webinar_afis_2.jpg"></img></a></p>
+        </div>
+        <div className="col-md-6 col-sm-12">
+          <iframe width="100%" height="360px" src="https://www.youtube.com/embed/BGs8vR3mzbE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+      </div>
       <div className="main-top-nav">
         <ul className="nav nav-pills nav-justified">
           <li className="nav-item">
@@ -27,13 +35,6 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
-                  <Link href="/webinar#last"><a>
-                    <div className="main-top-one-title">COVİD-19 SÜRECİNDE HEMŞİRELİK EĞİTİMİ (17 Haziran 2020) WEBİNAR </div>
-                    <div className="main-top-one-content"><p>17 Haziran 2020 tarihinde gerçekleştirmiş olduğumuz webinar toplantımıza buradan ulaşabilirsiniz</p></div>
-                    <div className="main-top-one-continue">Devamı -></div>
-                  </a></Link>
-                </div>
-                <div className="carousel-item">
                   <Link href="/doc/CEENQA_Application_HEPDAK_Decision.pdf"><a target="_blank">
                     <div className="main-top-one-title">CEENQA ÜYELİĞİ HAKKINDA</div>
                     <div className="main-top-one-content"><p>HEPDAK, 15 Mayıs 2020 tarihinden itibaren CEENQA - Central and Eastern European Network of Quality Assurance Agencies in Higher Education'ın tam üyesidir.</p></div>
@@ -50,10 +51,6 @@ const Anasayfa = () => (
                     <div className="main-top-one-content">Yüksek Öğretim Kalite Kurulu (YÖKAK), "Dış Değerlendirme ve Akreditasyon Kuruluşlarının Yetkilendirilmesi, Tanınması ve İzlenmesine İlişkin Kılavuz, 2019" kapsamında Kalite Değerlendirme Tescil Belgesi'ne sahip ulusal akreditasyon kuruluşları için 2020 yılından itibaren saha ziyareti uygulamasını başlatmıştır...</div>
                     <div className="main-top-one-continue">Devamı -></div>
                   </a></Link>
-                </div>
-                <div className="carousel-item">
-                  <div className="main-top-one-title">DUYURU</div>
-                  <div className="main-top-one-content">17-18 Nisan 2020 tarihinde yapılacağı duyurulan Değerlendirici Eğitimi korona virüs salgını sebebiyle ileri bir tarihe ertelenmiştir. Tarih yeniden duyurulacaktır.</div>
                 </div>
                 <div className="carousel-item">
                   <Link href="https://yokak.gov.tr/akreditasyon-kuruluslari/tescil-suresi-devam-edenler"><a target="_blank">
@@ -91,6 +88,10 @@ const Anasayfa = () => (
           </ul>
           <div className="tab-content">
             <div id="yirmi" className="container tab-pane active">
+            <div className="main-top-second">
+                <div className="main-top-second-title">HEPDAK Uzaktan Eğitim Standartları</div>
+                <div className="main-top-second-content">İlgili dosyaya <Link href="/doc/b14_v1.docx"><a><strong>buradan</strong></a></Link> ulaşabilirsiniz</div>
+              </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">Corona Virüs Pandemisi Sürecinde Hemşirelik Eğitim Programlarının Akreditasyonu için HEPDAK Planı</div>
                 <div className="main-top-second-content">
@@ -127,11 +128,11 @@ const Anasayfa = () => (
               </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">CEENQA Üyeliği Hakkında</div>
-                <div className="main-top-second-content"><p>HEPDAK, 15 Mayıs 2020 tarihinden itibaren CEENQA - Central and Eastern European Network of Quality Assurance Agencies in Higher Education'ın tam üyesidir.İlgili dökümana <Link href="doc/CEENQA_Application_HEPDAK_Decision.pdf"><a><strong>buradan</strong></a></Link> ulaşabilirsiniz.</p><p><strong>HEPDAK Yönetim Kurulu</strong></p></div>
+                <div className="main-top-second-content"><p>HEPDAK, 15 Mayıs 2020 tarihinden itibaren CEENQA - Central and Eastern European Network of Quality Assurance Agencies in Higher Education'ın tam üyesidir.İlgili dökümana <Link href="doc/CEENQA_Application_HEPDAK_Decision.pdf"><a><strong>buradan</strong></a></Link> ulaşabilirsiniz.</p><p><h4>HEPDAK Yönetim Kurulu</h4></p></div>
               </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">Hemşirelik Haftası Kutlaması</div>
-                <div className="main-top-second-content"><p>Hemşireler, Covid-19 ile mücadele sürecinde en ön saflarda görev alarak hemşirelik mesleğinin tüm toplum için vazgeçilmez olduğunun kanıtladılar.</p><p>Tüm meslektaşlarımızın hemşirelik haftasını kutluyor, sağlıklı günler diliyoruz.</p><p><strong>HEPDAK Yönetim Kurulu</strong></p></div>
+                <div className="main-top-second-content"><p>Hemşireler, Covid-19 ile mücadele sürecinde en ön saflarda görev alarak hemşirelik mesleğinin tüm toplum için vazgeçilmez olduğunun kanıtladılar.</p><p>Tüm meslektaşlarımızın hemşirelik haftasını kutluyor, sağlıklı günler diliyoruz.</p><p><h4>HEPDAK Yönetim Kurulu</h4></p></div>
               </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">YÖKAK Saha Ziyareti</div>
@@ -201,11 +202,13 @@ const Anasayfa = () => (
       <div className="col-sm-12 col-md-12">
         <Link href="/hepdak-degerlendirme-2020-21"><a><button className="main-top-button">HEPDAK 2020-2021 Değerlendirme Planı (04.05.2020)</button></a></Link>
       </div>
+      {/*
       <div className="col-sm-12 col-md-12">
         <div className="covid-p"><Link href="/doc/b14_v1.docx"><a>HEPDAK Uzaktan Eğitim Standartları</a></Link> - 19 Haziran 2020</div>
         <div className="covid-p"><Link href="/corona-virus-pandemisi-sureci"><a>Corona Virüs Pandemisi Sürecinde Hemşirelik Eğitim Programlarının Akreditasyonu için HEPDAK Planı</a></Link> - 4 Mayıs 2020</div>
         <div className="covid-p"><Link href="/hepdak-degerlendirme-2020-21"><a>HEPDAK 2020-2021 Değerlendirme Planı</a></Link> - 4 Mayıs 2020</div>
       </div>
+      */}
       <div className="col-sm-12 col-md-4">
         <Link href="/doc/b1-basvuru-word_v5.doc"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faCheck}/>Başvuru</button></a></Link>
       </div>
