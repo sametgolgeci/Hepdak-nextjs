@@ -28,13 +28,6 @@ const Anasayfa = () => (
               <div className="carousel-inner">
                 <div className="carousel-item active">
                   <Link href="/webinar#last"><a>
-                    <div className="main-top-one-title">HEPDAK UZAKTAN EĞİTİM STANDARTLARI (19 Haziran 2020)</div>
-                    <div className="main-top-one-content"><p> İlgili dosyaya buradan ulaşabilirsiniz</p></div>
-                    <div className="main-top-one-continue">Devamı -></div>
-                  </a></Link>
-                </div>
-                <div className="carousel-item">
-                  <Link href="/doc/b14_v1.docx"><a>
                     <div className="main-top-one-title">COVİD-19 SÜRECİNDE HEMŞİRELİK EĞİTİMİ (17 Haziran 2020) WEBİNAR </div>
                     <div className="main-top-one-content"><p>17 Haziran 2020 tarihinde gerçekleştirmiş olduğumuz webinar toplantımıza buradan ulaşabilirsiniz</p></div>
                     <div className="main-top-one-continue">Devamı -></div>
