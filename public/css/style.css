@@ -366,6 +366,7 @@ table{
 .footer-item-link > a:hover{
 	color: white;
 	opacity: 1.0;
+	padding-left: 0.1rem;
 }
 .footer-item-title{
 	margin-bottom: 0.75rem;

@@ -6,10 +6,10 @@ const Navigation = () => (
 		<div className="navigation-nav">
 			<ul className="nav nav-pills">
 				<li className="nav-item">
-	        <a className="nav-link header-nav-link" href="/">Anasayfa</a>
+	        <a className="nav-link header-nav-link" href="/">ANASAYFA</a>
 	      </li>
 				<li className="nav-item dropdown">
-					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">Hakkımızda</a>
+					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">HAKKIMIZDA</a>
 					<div className="dropdown-menu">
 						<Link href="/misyon"><a className="dropdown-item">Misyon</a></Link>
 						<Link href="/amac-ve-faaliyetler"><a className="dropdown-item">Amaç ve Faaliyetler</a></Link>
@@ -29,7 +29,7 @@ const Navigation = () => (
 					</div>
 				</li>
 				<li className="nav-item dropdown">
-					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">Akreditasyon</a>
+					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">AKREDİTASYON</a>
 					<div className="dropdown-menu">
 						<Link href="/surec"><a className="dropdown-item">Süreç</a></Link>
 						<Link href="/doc/b1-basvuru-word_v5.doc"><a className="dropdown-item">Başvuru</a></Link>
@@ -40,7 +40,7 @@ const Navigation = () => (
 					</div>
 				</li>
         <li className="nav-item dropdown">
-					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">Çalıştay</a>
+					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">ÇALIŞTAY</a>
 					<div className="dropdown-menu">
 						<Link href="/kurumlar-icin-egitim-calistayi"><a className="dropdown-item">Kurumlar için Eğitim Çalıştayı</a></Link>
 						<Link href="/degerlendirici-egitimi-calistayi"><a className="dropdown-item">Değerlendirici Eğitimi Çalıştayı</a></Link>
@@ -48,10 +48,10 @@ const Navigation = () => (
 					</div>
 				</li>
 				<li className="nav-item">
-	        <Link href="/webinar"><a className="nav-link header-nav-link">Webinar</a></Link>
+	        <Link href="/webinar"><a className="nav-link header-nav-link">WEBİNAR</a></Link>
 	      </li>
         <li className="nav-item dropdown">
-					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">Toplantılar</a>
+					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">TOPLANTILAR</a>
 					<div className="dropdown-menu">
 						<Link href="/heak-ve-komisyon-toplantilari"><a className="dropdown-item">HEAK ve Komisyon Toplantıları</a></Link>
 						<Link href="/tutarlilik-komisyonu-toplantilari"><a className="dropdown-item">Tutarlılık Komisyonu Toplantıları</a></Link>
@@ -63,10 +63,10 @@ const Navigation = () => (
 					</div>
 				</li>
         <li className="nav-item">
-	        <Link href="/yayinlar"><a className="nav-link header-nav-link disabled">Yayınlar</a></Link>
+	        <Link href="/yayinlar"><a className="nav-link header-nav-link disabled">YAYINLAR</a></Link>
 	      </li>
 	      <li className="nav-item">
-	        <Link href="/iletisim"><a className="nav-link header-nav-link">İletişim</a></Link>
+	        <Link href="/iletisim"><a className="nav-link header-nav-link">İLETİŞİM</a></Link>
 	      </li>
 	      <li className="nav-item">
 	        <Link href="/sss"><a className="nav-link header-nav-link disabled">SSS</a></Link>
