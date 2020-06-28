@@ -27,6 +27,10 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
+                  <div className="main-top-one-title">HEPDAK DEĞERLENDİRİCİ EĞİTİMİ (10-12 AĞUSTOS 2020)</div>
+                  <div className="main-top-one-content"><p>Eğitim programı online olarak yürütülecektir.</p></div>
+                </div>
+                <div className="carousel-item">
                   <Link href="/doc/CEENQA_Application_HEPDAK_Decision.pdf"><a target="_blank">
                     <div className="main-top-one-title">CEENQA ÜYELİĞİ HAKKINDA</div>
                     <div className="main-top-one-content"><p>HEPDAK, 15 Mayıs 2020 tarihinden itibaren CEENQA - Central and Eastern European Network of Quality Assurance Agencies in Higher Education'ın tam üyesidir.</p></div>
