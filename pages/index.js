@@ -84,12 +84,16 @@ const Anasayfa = () => (
           </ul>
           <div className="tab-content">
             <div id="yirmi" className="container tab-pane active">
-            <div className="main-top-second">
+              <div className="main-top-second">
+                <div className="main-top-second-title">HEPDAK Değerlendirici Eğitimi (10-12 Ağustos 2020)</div>
+                <div className="main-top-second-content">Eğitim programı online olarak yürütülecektir</div>
+              </div>
+              <div className="main-top-second">
                 <div className="main-top-second-title">HEPDAK Uzaktan Eğitim Standartları</div>
                 <div className="main-top-second-content">İlgili dosyaya <Link href="/doc/b14_v1.docx"><a><strong>buradan</strong></a></Link> ulaşabilirsiniz</div>
               </div>
               <div className="main-top-second">
-                <div className="main-top-second-title">Corona Virüs Pandemisi Sürecinde Hemşirelik Eğitim Programlarının Akreditasyonu için HEPDAK Planı</div>
+                <div className="main-top-second-title">Corona Virüs Pandemisi Sürecinde Hemşirelik Eğitim Programlarının Akreditasyonu için HEPDAK Planı (4 Mayıs 2020)</div>
                 <div className="main-top-second-content">
                 <p>HEPDAK, ülkemizde CORONA virüs mücadele sürecinde, üniversitelerde hemşirelik eğitiminin aksamaması için uzaktan eğitim uygulamaları kapsamında yürüttükleri planları ve çabaları izlemektedir. Akreditasyon için başvuran ve halen değerlendirme sürecinde olan hemşirelik programlarının kuramsal ve uygulamalı eğitimleri için HEPDAK önerileri aşağıda belirtilmiştir. HEPDAK olarak kurumlardan beklentimiz eğitim programlarının yürütülmesinde eğitim faaliyetlerinin HEPDAK standartları ile uyumunu korumalarıdır.</p>
                 <p>Aşağıdaki bilgilerin, eğitim programlarınızı gözden geçirmede rehberlik edeceğini umarız. HEPDAK, hemşirelik eğitiminde meslek derslerinin uzaktan yapılmasını desteklememektedir. Bu nedenle, uzaktan eğitimle ilgili önerilerimizin, pandemi sürecinde yaşanan eğitim sorunlarının çözümüne katkı amacı taşıdığını ve bir geçiş süreci planı olduğunu vurgulamak isteriz.</p>
@@ -103,7 +107,7 @@ const Anasayfa = () => (
                 <p><h4>HEPDAK Yönetim Kurulu</h4></p></div>
               </div>
               <div className="main-top-second">
-                <div className="main-top-second-title">Hepdak 2020-2021 Değerlendirme Planı</div>
+                <div className="main-top-second-title">Hepdak 2020-2021 Değerlendirme Planı (4 Mayıs 2020)</div>
                 <div className="main-top-second-content"><p><h5>Ara değerlendirme için başvuran programlar</h5>İlgili programların, mevcut akreditasyon süreçlerinin kesintiye uğramaması için uzaktan değerlendirme yapılması planlanmıştır. Takımların, bu programların özdeğerlendirme raporlarını incelemesinden sonra saha ziyaretleri uzaktan yapılacak ve gerekirse pandemi sonrası ileri bir tarihte kurum ziyareti planlanacaktır.</p>
                 <p><h5>Yeniden genel değerlendirme için başvuran programlar</h5>İlgili programların, mevcut akreditasyon süreçlerinin devamını desteklemek üzere yeniden değerlendirme yapılacak olan programlara özdeğerlendirme raporlarının incelenmesinden sonra uzaktan ziyaret yapılacak ve pandemi koşullarına göre ileri bir tarihte kurum ziyareti planlanacaktır.</p>
                 <p>Ara değerlendirme ve yeniden genel değerlendirme sürecine devam etmeme kararı alan programların akreditasyon tarihi dolduktan sonra programın akreditasyonu devam etmez.</p>
@@ -186,13 +190,11 @@ const Anasayfa = () => (
       </div>
     </div>
     <div className="main-middle">
-      <div className="row">
-        <div className="col-md-6 col-sm-12">
-          <p><a href="https://us02web.zoom.us/meeting/register/tZElcO6vrTwpH9zra8_9HDH4XiWEunjGb5vA"><img className="webinar-afis-ana" src="/img/webinar/webinar_afis_2.jpg"></img></a></p>
-        </div>
-        <div className="col-md-6 col-sm-12">
-          <iframe width="100%" height="360px" src="https://www.youtube.com/embed/BGs8vR3mzbE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </div>
+      <div className="col-sm-12 col-md-6">
+        <p><a href="https://us02web.zoom.us/meeting/register/tZElcO6vrTwpH9zra8_9HDH4XiWEunjGb5vA"><img className="webinar-afis-ana" src="/img/webinar/webinar_afis_2.jpg"></img></a></p>
+      </div>
+      <div className="col-sm-12 col-md-6">
+        <iframe width="100%" height="360px" src="https://www.youtube.com/embed/BGs8vR3mzbE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
       <div className="col-sm-12 col-md-12 covid-index">
         <Link href="/covid-19"><a>Covid-19 Haberleri</a></Link>
