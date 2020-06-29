@@ -628,6 +628,7 @@ table{
 }
 .covid-index > a:hover{
 	border-bottom: 1px solid #008ac3;
+	color: #008ac3;
 }
 .covid-p{
 	text-align: left;

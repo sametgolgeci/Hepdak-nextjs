@@ -85,11 +85,15 @@ const Anasayfa = () => (
           <div className="tab-content">
             <div id="yirmi" className="container tab-pane active">
               <div className="main-top-second">
+                <div className="main-top-second-title">HEMED Uzaktan Eğitim Konusunda Görüşü (29 Haziran 2020)</div>
+                <div className="main-top-second-content">İlgili dosyaya <Link href="/doc/HEMED_uzaktan_eğitim_görüş_yazısı.pdf"><a><strong>buradan</strong></a></Link> ulaşabilirsiniz</div>
+              </div>
+              <div className="main-top-second">
                 <div className="main-top-second-title">HEPDAK Değerlendirici Eğitimi (10-12 Ağustos 2020)</div>
                 <div className="main-top-second-content">Eğitim programı online olarak yürütülecektir</div>
               </div>
               <div className="main-top-second">
-                <div className="main-top-second-title">HEPDAK Uzaktan Eğitim Standartları</div>
+                <div className="main-top-second-title">HEPDAK Uzaktan Eğitim Standartları (19 Haziran 2020)</div>
                 <div className="main-top-second-content">İlgili dosyaya <Link href="/doc/b14_v1.docx"><a><strong>buradan</strong></a></Link> ulaşabilirsiniz</div>
               </div>
               <div className="main-top-second">
@@ -198,6 +202,9 @@ const Anasayfa = () => (
       </div>
       <div className="col-sm-12 col-md-12 covid-index">
         <Link href="/covid-19"><a>Covid-19 Haberleri</a></Link>
+      </div>
+      <div className="col-sm-12 col-md-12">
+        <Link href="/doc/HEMED_uzaktan_eğitim_görüş_yazısı.pdf"><a><button className="main-top-button">HEMED Uzaktan Eğitim Konusunda Görüşü (29.06.2020)</button></a></Link>
       </div>
       <div className="col-sm-12 col-md-12">
         <Link href="/doc/b14_v1.docx"><a><button className="main-top-button">HEPDAK Uzaktan Eğitim Standartları (19.06.2020)</button></a></Link>
