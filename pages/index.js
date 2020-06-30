@@ -85,16 +85,20 @@ const Anasayfa = () => (
           <div className="tab-content">
             <div id="yirmi" className="container tab-pane active">
               <div className="main-top-second">
+                <div className="main-top-second-title">Türk Hemşireler Derneği ve Özel Dal Derneklerinden Yaz Okulu Açıklaması (30 Haziran 2020)</div>
+                <div className="main-top-second-content">İlgili dosyaya <Link href="https://www.thder.org.tr/uploads/files/uzaktan-egitim-aciklama.pdf"><a><strong>buradan</strong></a></Link> ulaşabilirsiniz.</div>
+              </div>
+              <div className="main-top-second">
                 <div className="main-top-second-title">HEMED Uzaktan Eğitim Konusunda Görüşü (29 Haziran 2020)</div>
-                <div className="main-top-second-content">İlgili dosyaya <Link href="/doc/HEMED_uzaktan_eğitim_görüş_yazısı.pdf"><a><strong>buradan</strong></a></Link> ulaşabilirsiniz</div>
+                <div className="main-top-second-content">İlgili dosyaya <Link href="/doc/HEMED_uzaktan_eğitim_görüş_yazısı.pdf"><a><strong>buradan</strong></a></Link> ulaşabilirsiniz.</div>
               </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">HEPDAK Değerlendirici Eğitimi (10-12 Ağustos 2020)</div>
-                <div className="main-top-second-content">Eğitim programı online olarak yürütülecektir</div>
+                <div className="main-top-second-content">Eğitim programı online olarak yürütülecektir.</div>
               </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">HEPDAK Uzaktan Eğitim Standartları (19 Haziran 2020)</div>
-                <div className="main-top-second-content">İlgili dosyaya <Link href="/doc/b14_v1.docx"><a><strong>buradan</strong></a></Link> ulaşabilirsiniz</div>
+                <div className="main-top-second-content">İlgili dosyaya <Link href="/doc/b14_v1.docx"><a><strong>buradan</strong></a></Link> ulaşabilirsiniz.</div>
               </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">Corona Virüs Pandemisi Sürecinde Hemşirelik Eğitim Programlarının Akreditasyonu için HEPDAK Planı (4 Mayıs 2020)</div>
@@ -204,6 +208,9 @@ const Anasayfa = () => (
         <Link href="/covid-19"><a>Covid-19 Haberleri</a></Link>
       </div>
       <div className="col-sm-12 col-md-12">
+        <Link href="https://www.thder.org.tr/uploads/files/uzaktan-egitim-aciklama.pdf"><a><button className="main-top-button">Türk Hemşireler Derneği ve Özel Dal Derneklerinden Yaz Okulu Açıklaması (30.06.2020)</button></a></Link>
+      </div>
+      <div className="col-sm-12 col-md-12">
         <Link href="/doc/HEMED_uzaktan_eğitim_görüş_yazısı.pdf"><a><button className="main-top-button">HEMED Uzaktan Eğitim Konusunda Görüşü (29.06.2020)</button></a></Link>
       </div>
       <div className="col-sm-12 col-md-12">
@@ -222,6 +229,7 @@ const Anasayfa = () => (
         <div className="covid-p"><Link href="/hepdak-degerlendirme-2020-21"><a>HEPDAK 2020-2021 Değerlendirme Planı</a></Link> - 4 Mayıs 2020</div>
       </div>
       */}
+      {/*
       <div className="col-sm-12 col-md-4">
         <Link href="/doc/b1-basvuru-word_v5.doc"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faCheck}/>Başvuru</button></a></Link>
       </div>
@@ -231,6 +239,7 @@ const Anasayfa = () => (
       <div className="col-sm-12 col-md-4">
         <Link href="/belgeler"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faFileAlt}/>Belgeler</button></a></Link>
       </div>
+      */}
     </div>
   <div className="main-bottom-title">Şikayet ve Öneriler</div>
   {/* This is a comment */}
