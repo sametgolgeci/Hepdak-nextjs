@@ -13,6 +13,10 @@ const Webinar = () => (
 	    </div>
 	    <div className="webinar-bottom" id="last">Tamamlanan Webinarlar</div>
 	    <div className="webinar-bottom-up">
+	    	<div className="webinar-bottom-up-title">- Pandemi Sürecinde Üniversitelerde Dijital Dönüşüm (30 Haziran 2020) -</div>
+	    	<iframe width="640" height="360" src="https://www.youtube.com/embed/2t3_5Sbsgi8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	    </div>
+	    <div className="webinar-bottom-up">
 	    	<div className="webinar-bottom-up-title">- Covid-19 Sürecinde Hemşirelik Eğitimi (17 Haziran 2020) -</div>
 	    	<iframe width="640" height="360" src="https://www.youtube.com/embed/BGs8vR3mzbE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	    </div>
