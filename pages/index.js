@@ -84,6 +84,10 @@ const Anasayfa = () => (
           </ul>
           <div className="tab-content">
             <div id="yirmi" className="container tab-pane active">
+            <div className="main-top-second">
+                <div className="main-top-second-title">SABDEK Uzaktan Eğitim Çalışmaları ve Yaz Okulu Açıklaması (02 Temmuz 2020)</div>
+                <div className="main-top-second-content">İlgili dosyaya <Link href="/doc/SABDEK_covid.doc"><a><strong>buradan</strong></a></Link> ulaşabilirsiniz.</div>
+              </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">Türk Hemşireler Derneği ve Özel Dal Derneklerinden Yaz Okulu Açıklaması (30 Haziran 2020)</div>
                 <div className="main-top-second-content">İlgili dosyaya <Link href="https://www.thder.org.tr/uploads/files/uzaktan-egitim-aciklama.pdf"><a><strong>buradan</strong></a></Link> ulaşabilirsiniz.</div>
@@ -210,6 +214,9 @@ const Anasayfa = () => (
       <div className="col-sm-12 col-md-3"></div>
       <div className="col-sm-12 col-md-12 covid-index">
         <Link href="/covid-19"><a>Covid-19 Haberleri</a></Link>
+      </div>
+      <div className="col-sm-12 col-md-12">
+        <Link href="/doc/SABDEK_covid.doc"><a><button className="main-top-button">SABDEK Uzaktan Eğitim Çalışmaları ve Yaz Okulu Açıklaması (02.07.2020)</button></a></Link>
       </div>
       <div className="col-sm-12 col-md-12">
         <Link href="https://www.thder.org.tr/uploads/files/uzaktan-egitim-aciklama.pdf"><a><button className="main-top-button">Türk Hemşireler Derneği ve Özel Dal Derneklerinden Yaz Okulu Açıklaması (30.06.2020)</button></a></Link>
