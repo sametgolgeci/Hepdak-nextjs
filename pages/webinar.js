@@ -9,7 +9,9 @@ const Webinar = () => (
 	    </Head>
 	    <div className="genel">
 	    	<h1>HEPDAK Webinar</h1>
-	    	{/*<p><a href="https://us02web.zoom.us/meeting/register/tZElcO6vrTwpH9zra8_9HDH4XiWEunjGb5vA"><img className="webinar-afis" src="/img/webinar/webinar_afis_2.jpg"></img></a></p>*/}
+	    	<div className="webinar-genel">
+	    		<p><a href="https://us02web.zoom.us/meeting/register/tZEpcOuoqj0iHNb9aPc9tE2wa_G9BbbARcXo"><img className="webinar-afis" src="/img/webinar/webinar_afis_3"></img></a></p>
+	    	</div>
 	    </div>
 	    <div className="webinar-bottom" id="last">Tamamlanan Webinarlar</div>
 	    <div className="webinar-bottom-up">

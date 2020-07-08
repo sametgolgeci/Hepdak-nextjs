@@ -579,10 +579,13 @@ table{
 .kurul-title{
 	color: #008ac3;
 }
+.webinar-genel{
+	text-align: center;
+}
 .webinar-afis{
-	width: 68.75rem;
+	width: 640px;
 	height: auto;
-	margin-bottom: 3rem;
+	margin-bottom: 1rem;
 }
 .webinar-afis-ana{
 	width: 100%;

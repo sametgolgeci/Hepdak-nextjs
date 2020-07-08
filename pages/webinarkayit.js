@@ -6,7 +6,7 @@ const Webinar = () => (
     <MasterPage>
 	    <Head>
 	      <title>HEPDAK | Webinar</title>
-	      <meta http-equiv="Refresh" content="0; URL=https://us02web.zoom.us/meeting/register/tZElcO6vrTwpH9zra8_9HDH4XiWEunjGb5vA"/>
+	      <meta http-equiv="Refresh" content="0; URL=https://us02web.zoom.us/meeting/register/tZEpcOuoqj0iHNb9aPc9tE2wa_G9BbbARcXo"/>
 	    </Head>
 	    <div className="genel">
 	    	<h1>HEPDAK Webinar</h1>
