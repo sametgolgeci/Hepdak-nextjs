@@ -27,7 +27,7 @@ const Calistay = () => (
 		    <a className="nav-link calistay-button" href="doc/18ocak2020_egitim_calistayi_katlimcilar.pdf">Katılımcı Listesi</a>
 		  </li>
 		  <li className="nav-item">
-		    <a className="nav-link calistay-button" href="doc/kurum_egitim_slayt_18ocak2020.pdf">Değerlendirme</a>
+		    <a className="nav-link calistay-button" href="doc/kurum_egitim_slayt_18ocak2020.pdf">Eğitim İçeriği</a>
 		  </li>
 		</ul>
 		<h6><span className="badge badge-custom">6</span> 21 Aralık 2019 (İzmir)</h6>
