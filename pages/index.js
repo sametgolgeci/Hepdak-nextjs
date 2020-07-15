@@ -203,11 +203,11 @@ const Anasayfa = () => (
     </div>
     <div className="main-middle">
       <div className="col-sm-12 col-md-6">
-        <p><a href="https://us02web.zoom.us/meeting/register/tZEpcOuoqj0iHNb9aPc9tE2wa_G9BbbARcXo"><img className="webinar-afis-ana" src="/img/webinar/webinar_afis_3"></img></a></p>
+        <p><a href="https://us02web.zoom.us/meeting/register/tZMvcOispjkuGt3Xv2sm9Pmj2WdlLTikMRwH"><img className="webinar-afis-ana" src="/img/webinar/webinar_afis_4.jpg"></img></a></p>
       </div>
       {/*<div className="col-sm-12 col-md-3"></div>*/}
       <div className="col-sm-12 col-md-6">
-        <iframe width="100%" height="360px" src="https://www.youtube.com/embed/2t3_5Sbsgi8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="100%" height="360" src="https://www.youtube.com/embed/eh-QFSJ-WuE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
       {/*<div className="col-sm-12 col-md-3"></div>*/}
       <div className="col-sm-12 col-md-12 covid-index">
