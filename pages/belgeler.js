@@ -77,7 +77,7 @@ const Belgeler = () => (
                 </tr>
                 <tr>
                   <th scope="row">6</th>
-                  <td>Program Değerlendiricisi Raporu <Link href="doc/b6_v1.pdf"><a>Sürüm 1.0</a></Link> | <Link href="doc/b6_v2.pdf"><a>Sürüm 2.0</a></Link> | <strong>Sürüm 3.0</strong> (<Link href="doc/b6_v3.pdf"><a>PDF</a></Link> | <Link href="doc/b6_v3.doc"><a>Word</a></Link>) | <strong>Sürüm 4.0</strong> (<Link href="doc/b6_v4.pdf"><a>PDF</a></Link> | <Link href="doc/b6_v3.doc"><a>Word</a></Link>)</td>
+                  <td>Program Değerlendiricisi Raporu <Link href="doc/b6_v1.pdf"><a>Sürüm 1.0</a></Link> | <Link href="doc/b6_v2.pdf"><a>Sürüm 2.0</a></Link> | <strong>Sürüm 3.0</strong> (<Link href="doc/b6_v3.pdf"><a>PDF</a></Link> | <Link href="doc/b6_v3.doc"><a>Word</a></Link>) | <strong>Sürüm 4.0</strong> (<Link href="doc/b6_v4.pdf"><a>PDF</a></Link> | <Link href="doc/b6_v4.doc"><a>Word</a></Link>)</td>
                 </tr>
                 <tr>
                   <th scope="row">7</th>
