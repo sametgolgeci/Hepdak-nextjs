@@ -56,7 +56,7 @@ const Belgeler = () => (
               </thead>
               <tbody>
                 <tr>
-                  <th scope="row">1</th>
+                  <th scope="row" width="10px">1</th>
                   <td><p>HEPDAK 2020-2021 Dönemi Program Değerlendirme Başvuru Formu <Link href="doc/b1-basvuru-pdf_v5.pdf"><a>PDF</a></Link> | <Link href="doc/b1-basvuru-word_v5.doc"><a>Word</a></Link></p></td>
                 </tr>
                 <tr>
@@ -105,7 +105,7 @@ const Belgeler = () => (
                 </tr>
                 <tr>
                   <th scope="row">13</th>
-                  <td>HEPDAK Akredite Eğitim Programları İçin Gelişim Raporu Hazırlama Rehberi <strong>Sürüm 1.0</strong> (<Link href="doc/b13_v1.pdf"><a>PDF</a></Link> | <Link href="doc/b13_v1.doc"><a>Word</a></Link>)</td>
+                  <td>HEPDAK Akredite Eğitim Programları İçin Gelişim Raporu Hazırlama Rehberi <strong>Sürüm 1.0</strong> (<Link href="doc/b13_v1.pdf"><a>PDF</a></Link> | <Link href="doc/b13_v1.doc"><a>Word</a></Link>) | <strong>Sürüm 2.0</strong> (<Link href="doc/b13_v2.pdf"><a>PDF</a></Link> | <Link href="doc/b13_v2.docx"><a>Word</a></Link>)</td>
                 </tr>
                 <tr>
                   <th scope="row">14</th>
@@ -125,7 +125,7 @@ const Belgeler = () => (
               </thead>
               <tbody>
                 <tr>
-                  <th scope="row">1</th>
+                  <th scope="row" width="10px">1</th>
                   <td> HEPDAK Raporları Yazım Kuralları <Link href="doc/c1_v1.pdf"><a>Sürüm 1.0</a></Link></td>
                 </tr>
                 <tr>
