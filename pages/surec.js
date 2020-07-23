@@ -48,7 +48,7 @@ const Surec = () => (
                     <td>ÖDR’nun takımlar tarafından değerlendirilmesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">1 Kasım – 20 Aralık</th>
+                    <th scope="row">15 Kasım – 20 Aralık</th>
                     <td>Kurum ziyareti</td>
                   </tr>
                   <tr>
@@ -58,6 +58,7 @@ const Surec = () => (
                 </tbody>
               </table>
             </div>
+            <img className="surec-akis-img" src="/img/surec-akis.png"></img>
           </div>
 	    	</div>
 	    </div>
