@@ -217,6 +217,9 @@ const Anasayfa = () => (
         <Link href="/covid-19"><a>Covid-19 Haberleri</a></Link>
       </div>
       <div className="col-sm-12 col-md-12">
+        <Link href="/doc/HEPDAK_uzaktan_degerlendirme_yonergesi_25_7_2020.pdf"><a><button className="main-top-button">HEPDAK Uzaktan Değerlendirme ve Saha Ziyareti Yönergesi (25.07.2020)</button></a></Link>
+      </div>
+      <div className="col-sm-12 col-md-12">
         <Link href="/doc/SABDEK_covid.doc"><a><button className="main-top-button">SABDEK Uzaktan Eğitim Çalışmaları ve Yaz Okulu Açıklaması (02.07.2020)</button></a></Link>
       </div>
       <div className="col-sm-12 col-md-12">
