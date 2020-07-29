@@ -205,14 +205,14 @@ const Anasayfa = () => (
       </div>
     </div>
     <div className="main-middle">
-      <div className="col-sm-12 col-md-6">
+      {/*<div className="col-sm-12 col-md-6">
         <p><a href="https://us02web.zoom.us/meeting/register/tZMvcOispjkuGt3Xv2sm9Pmj2WdlLTikMRwH"><img className="webinar-afis-ana" src="/img/webinar/webinar_afis_4.jpg"></img></a></p>
-      </div>
-      {/*<div className="col-sm-12 col-md-3"></div>*/}
+      </div>*/}
+      <div className="col-sm-12 col-md-3"></div>
       <div className="col-sm-12 col-md-6">
-        <iframe width="100%" height="360" src="https://www.youtube.com/embed/eh-QFSJ-WuE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="100%" height="300" src="https://www.youtube.com/embed/VD9C3UzderE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
-      {/*<div className="col-sm-12 col-md-3"></div>*/}
+      <div className="col-sm-12 col-md-3"></div>
       <div className="col-sm-12 col-md-12 covid-index">
         <Link href="/covid-19"><a>Covid-19 Haberleri</a></Link>
       </div>
