@@ -16,8 +16,21 @@ const Calistay = () => (
 		<p className="madde-p">• Değerlendirme becerisini geliştirme</p>
 		<p className="madde-p">• Değerlendirici davranışını geliştirme</p>
 		<p className="madde-p">• Değerlendirmeler arası tutarlılığı sağlama</p>
-		<p className="madde-p">• Değerlendirme raporu yazma becerisini geliştirme</p>
+		<p className="madde-p">• Değerlendirme raporu yazma becerisini geliştirmee</p>
 		<h6><span className="badge badge-custom">5</span> HEPDAK Değerlendirici Eğitim Çalıştayı 10-12 Ağustos 2020 (İzmir)</h6>
+		<p>
+			<ul className="nav calistay-nav">
+			  <li className="nav-item">
+			    <a className="nav-link calistay-button" href="doc/degerlendirici_egitim_5/degerlendirici_egitim_5_program.docx">Program</a>
+			  </li>
+			  <li className="nav-item">
+			    <a className="nav-link calistay-button" href="doc/degerlendirici_egitim_5/degerlendirici_egitim_5_katilim_listesi.docx">Katılımcı Listesi</a>
+			  </li>
+			  {/*<li className="nav-item" disabled>
+			    <a className="nav-link calistay-button" href="">Değerlendirme</a>
+			  </li>*/} 
+			</ul>
+		</p>
 		<p><strong>-> Sunumlar</strong></p>
 		<p className="madde-p"><a href="/doc/degerlendirici_egitim_5/1.acılıs.pptx">1. Çalıştay Açılışı</a><br/>
 		<a href="/doc/degerlendirici_egitim_5/2.akreditasyon_sureci.ppt">2. Akreditasyon Süreci</a><br/>

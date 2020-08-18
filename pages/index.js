@@ -26,10 +26,26 @@ const Anasayfa = () => (
           <div className="main-top-one">
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
-                <div className="carousel-item active">
-                  <Link href="/doc/HEPDAK-degerlendirici-egitim-prog-10-12-agustos-2020.pdf"><a target="_blank">
-                    <div className="main-top-one-title">HEPDAK DEĞERLENDİRİCİ EĞİTİMİ (10-12 AĞUSTOS 2020)</div>
-                    <div className="main-top-one-content"><p>Eğitim programı online olarak yürütülecektir. Programa buradan ulaşabilirsiniz.</p></div>
+               <div className="carousel-item active">
+                  <Link href="/cevrimici_degerlendirici_egitimi"><a target="_blank">
+                    <div className="main-top-one-title">ÇEVRİMİÇİ DEĞERLENDİRİCİ EĞİTİMİ</div>
+                    <div className="main-top-one-content">
+                      <div className="main-top-one-content-side">
+                        <div className="main-top-one-content-one">
+                          <p>HEPDAK, tarafından 10-12 Ağustos 2020 tarihinde Zoom üzerinden “Çevrimiçi Değerlendirici Eğitimi” yapılmıştır. Eğitime 15 eski değerlendirici, 17 yeni değerlendirici adayı olmak üzere toplam 32 öğretim üyesi katılmıştır...</p>
+                        </div>
+                        <div className="main-top-one-content-two">
+                          <img className="slider-img" src="img/degerlendirici_egitim_5/toplanti_1.png"/>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="main-top-one-continue">Devamı -></div>
+                  </a></Link>
+                </div>
+                <div className="carousel-item">
+                  <Link href="/doc/CEENQA_Application_HEPDAK_Decision.pdf"><a target="_blank">
+                    <div className="main-top-one-title">ÇEVRİMİÇİ DEĞERLENDİRİCİ EĞİTİMİ</div>
+                    <div className="main-top-one-content"><p>HEPDAK, tarafından 10-12 Ağustos 2020 tarihinde Zoom üzerinden “Çevrimiçi Değerlendirici Eğitimi” yapılmıştır. Eğitime 15 eski değerlendirici, 17 yeni değerlendirici adayı olmak üzere toplam 32 öğretim üyesi katılmıştır...</p></div>
                     <div className="main-top-one-continue">Devamı -></div>
                   </a></Link>
                 </div>
@@ -39,10 +55,6 @@ const Anasayfa = () => (
                     <div className="main-top-one-content"><p>HEPDAK, 15 Mayıs 2020 tarihinden itibaren CEENQA - Central and Eastern European Network of Quality Assurance Agencies in Higher Education'ın tam üyesidir.</p></div>
                     <div className="main-top-one-continue">Devamı -></div>
                   </a></Link>
-                </div>
-                <div className="carousel-item">
-                  <div className="main-top-one-title">HEMŞİRELİK HAFTASI KUTLAMASI</div>
-                  <div className="main-top-one-content"><p>Hemşireler, Covid-19 ile mücadele sürecinde en ön saflarda görev alarak hemşirelik mesleğinin tüm toplum için vazgeçilmez olduğunun kanıtladılar.</p><p>Tüm meslektaşlarımızın hemşirelik haftasını kutluyor, sağlıklı günler diliyoruz.</p><p><strong>HEPDAK Yönetim Kurulu</strong></p></div>
                 </div>
                 <div className="carousel-item">
                   <Link href="/webinar#last"><a href="yokak-saha-ziyareti">
@@ -207,12 +219,12 @@ const Anasayfa = () => (
     <div className="main-middle">
       {/*<div className="col-sm-12 col-md-6">
         <p><a href="https://us02web.zoom.us/meeting/register/tZMvcOispjkuGt3Xv2sm9Pmj2WdlLTikMRwH"><img className="webinar-afis-ana" src="/img/webinar/webinar_afis_4.jpg"></img></a></p>
-      </div>*/}
+      </div>
       <div className="col-sm-12 col-md-3"></div>
       <div className="col-sm-12 col-md-6">
         <iframe width="100%" height="300" src="https://www.youtube.com/embed/VD9C3UzderE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
-      <div className="col-sm-12 col-md-3"></div>
+      <div className="col-sm-12 col-md-3"></div>*/}
       <div className="col-sm-12 col-md-12 covid-index">
         <Link href="/covid-19"><a>Covid-19 Haberleri</a></Link>
       </div>

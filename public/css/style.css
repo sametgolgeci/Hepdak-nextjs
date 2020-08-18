@@ -162,6 +162,27 @@ table{
 	font-weight: 500;
 	color: #212529;
 }
+.main-top-one-content-side{
+	font-family: 'Roboto', sans-serif;
+	font-size: 1rem;
+	font-weight: 500;
+	color: #212529;
+	display: flex;
+}
+.main-top-one-content-one{
+	font-family: 'Roboto', sans-serif;
+	font-size: 1rem;
+	font-weight: 500;
+	color: #212529;
+	width: 75%;
+}
+.main-top-one-content-two{
+	font-family: 'Roboto', sans-serif;
+	font-size: 1rem;
+	font-weight: 500;
+	color: #212529;
+	width: 25%;
+}
 .main-top-one-content > a{
 	font-weight: 900;
 	color: black;
@@ -646,11 +667,13 @@ table{
 .nav-item {
 	letter-spacing: 0.03125rem;
 }
-
 .surec-akis-img{
 	width: 100%;
 }
-
+.slider-img{
+	width: 100%;
+	height: auto;
+}
 
 
 
