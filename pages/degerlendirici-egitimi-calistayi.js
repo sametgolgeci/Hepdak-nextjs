@@ -26,11 +26,15 @@ const Calistay = () => (
 			  <li className="nav-item">
 			    <a className="nav-link calistay-button" href="doc/degerlendirici_egitim_5/degerlendirici_egitim_5_katilim_listesi.docx">Katılımcı Listesi</a>
 			  </li>
-			  {/*<li className="nav-item" disabled>
-			    <a className="nav-link calistay-button" href="">Değerlendirme</a>
-			  </li>*/} 
+			  <li className="nav-item">
+			    <a className="nav-link calistay-button" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">Sunumlar</a>
+			  </li>
+			  <li className="nav-item" disabled>
+			    <a className="nav-link calistay-button" href="doc/degerlendirici_egitim_5/degerlendirici_egitim_5_degerlendirme.pdf">Değerlendirme</a>
+			  </li>
 			</ul>
 		</p>
+		<div className="collapse" id="collapseExample">
 		<p><strong>-> Sunumlar</strong></p>
 		<p className="madde-p"><a href="/doc/degerlendirici_egitim_5/1.acılıs.pptx">1. Çalıştay Açılışı</a><br/>
 		<a href="/doc/degerlendirici_egitim_5/2.akreditasyon_sureci.ppt">2. Akreditasyon Süreci</a><br/>
@@ -43,6 +47,7 @@ const Calistay = () => (
 		<a href="/doc/degerlendirici_egitim_5/9.davranıssal_boyut.ppt">9. Davranışsal Boyut</a><br/>
 		<a href="/doc/degerlendirici_egitim_5/10.uzaktan_degerlendirme.ppt">10. Uzaktan Değerlendirme</a><br/>
 		<a href="/doc/degerlendirici_egitim_5/11.degerlendirme_raporu_yazımı_ve_cıkıs_gorusmesi.ppt">11. Değerlendirme Raporu Yazımı ve Çıkış Görüşmesi</a></p>
+		</div>
 		<h6><span className="badge badge-custom">4</span> HEPDAK Değerlendirici Eğitim Çalıştayı 03-04 Eylül 2018 (İzmir)</h6>
 		<ul className="nav calistay-nav">
 		  <li className="nav-item">
