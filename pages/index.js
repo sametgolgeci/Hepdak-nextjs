@@ -44,13 +44,6 @@ const Anasayfa = () => (
                 </div>
                 <div className="carousel-item">
                   <Link href="/doc/CEENQA_Application_HEPDAK_Decision.pdf"><a target="_blank">
-                    <div className="main-top-one-title">ÇEVRİMİÇİ DEĞERLENDİRİCİ EĞİTİMİ</div>
-                    <div className="main-top-one-content"><p>HEPDAK, tarafından 10-12 Ağustos 2020 tarihinde Zoom üzerinden “Çevrimiçi Değerlendirici Eğitimi” yapılmıştır. Eğitime 15 eski değerlendirici, 17 yeni değerlendirici adayı olmak üzere toplam 32 öğretim üyesi katılmıştır...</p></div>
-                    <div className="main-top-one-continue">Devamı -></div>
-                  </a></Link>
-                </div>
-                <div className="carousel-item">
-                  <Link href="/doc/CEENQA_Application_HEPDAK_Decision.pdf"><a target="_blank">
                     <div className="main-top-one-title">CEENQA ÜYELİĞİ HAKKINDA</div>
                     <div className="main-top-one-content"><p>HEPDAK, 15 Mayıs 2020 tarihinden itibaren CEENQA - Central and Eastern European Network of Quality Assurance Agencies in Higher Education'ın tam üyesidir.</p></div>
                     <div className="main-top-one-continue">Devamı -></div>
