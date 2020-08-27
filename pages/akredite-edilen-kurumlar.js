@@ -38,7 +38,7 @@ const Akredite = () => (
                   <td><p>01.05.2016</p>
                   <p>30.09.2018</p></td>
                   <td><p>01.05.2016</p>
-                  <p>30.09.2018</p></td>
+                  <p>30.09.2021</p></td>
                 </tr>
                 <tr>
                   <th scope="row">Sakarya Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü | <Link  href="doc/rapor-sakarya.pdf"><a className="akreditasyon-rapor">Genel Değerlendirme Kesin Raporu İçin</a></Link></th>
