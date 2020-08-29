@@ -26,7 +26,12 @@ const Anasayfa = () => (
           <div className="main-top-one">
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
-               <div className="carousel-item active">
+                <div className="carousel-item active">              
+                  <div className="main-top-one-content-full">
+                    <img className="slider-full-img" src="img/duyurular/30agustos2020.jpg"/>
+                  </div>
+                </div>
+               <div className="carousel-item">
                   <Link href="/cevrimici_degerlendirici_egitimi"><a target="_blank">
                     <div className="main-top-one-title">ÇEVRİMİÇİ DEĞERLENDİRİCİ EĞİTİMİ</div>
                     <div className="main-top-one-content">

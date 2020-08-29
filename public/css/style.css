@@ -183,6 +183,15 @@ table{
 	color: #212529;
 	width: 25%;
 }
+.main-top-one-content-full{
+	font-family: 'Roboto', sans-serif;
+	font-size: 1rem;
+	font-weight: 500;
+	color: #212529;
+	/*width: 100%;*/
+	margin-top: -3.125rem;
+	text-align: center; 
+}
 .main-top-one-content > a{
 	font-weight: 900;
 	color: black;
@@ -673,6 +682,10 @@ table{
 .slider-img{
 	width: 100%;
 	height: auto;
+}
+.slider-full-img{
+	width: auto;
+	height: 300px;
 }
 
 
