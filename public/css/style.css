@@ -35,8 +35,8 @@ table{
 	align-items: center;
 }
 .header-logo-img{
-	height: 6.25rem;
-	width: auto;
+	width: 100%;
+	height: auto;
 }
 .header-nav{
 	font-family: 'Roboto', sans-serif;
@@ -72,6 +72,10 @@ table{
 	.diss{
 		pointer-events: none;
 		cursor: default;
+	}
+	.header-logo-img{
+		height: 6.25rem;
+		width: auto;
 	}
 }
 
@@ -273,8 +277,16 @@ table{
 	padding-bottom: 0.3125rem;
 }
 .main-bottom{
+	display: none;
 	margin-top: 6.25rem;
 	margin-bottom: -6rem;
+}
+@media (min-width: 768px){
+	.main-bottom{
+		display: block;
+		margin-top: 6.25rem;
+		margin-bottom: -6rem;
+	}
 }
 .main-bottom-slider{
   position: relative;
