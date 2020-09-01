@@ -271,29 +271,33 @@ const Anasayfa = () => (
   <div className="iletisim-mesaj">
     <form action="" method="post">
       <div className="row">
-        <div className="col-4">
-          <div className="form-group iletisim-mesaj-input">
+        <div className="col-md-4 col-sm-12">
+          <div className="form-group iletisim-mesaj-mobil">
             <label for="exampleInputEmail">Ad Soyad</label>
             <input type="text" className="form-control form-control-sm" disabled/>
           </div>
-          <div className="form-group iletisim-mesaj-input">
+          <div className="form-group iletisim-mesaj-mobil">
             <label for="exampleInputEmail">Mail Adresiniz</label>
             <input type="email" className="form-control form-control-sm" id="exampleInputEmail1" aria-describedby="emailHelp" disabled/>
           </div>
         </div>
-        <div className="col-4">
-          <div className="form-group">
+        <div className="col-md-4 col-sm-12">
+          <div className="form-group iletisim-mesaj-mobil">
             <label for="exampleFormControlTextarea1">Mesaj</label>
             <textarea className="form-control" id="exampleFormControlTextarea1" rows="4" disabled></textarea>
           </div>
         </div>
-        <div className="col-4">
+        <div className="col-md-4 col-sm-12 iletisim-mesaj-logo">
           <img className="main-bottom-tanınma" src="img/duyurular/YOKAK_tescil.png" title="Yükseköğretim Akademik Değerlendirme ve Kalite Geliştirme Komisyonu"/>
           <img className="main-bottom-tanınma" src="img/duyurular/CEENQA_tescil.png" title="Yükseköğretim Akademik Değerlendirme ve Kalite Geliştirme Komisyonu"/>
         </div>
       </div>
-      <button type="submit" className="iletisim-button btn" disabled>Gönder</button>
+      <button type="submit" className="iletisim-button btn iletisim-mesaj-mobil" disabled>Gönder</button>
     </form>
+    <div className="col-md-4 col-sm-12 iletisim-mesaj-logo-mobil">
+      <img className="main-bottom-tanınma" src="img/duyurular/YOKAK_tescil.png" title="Yükseköğretim Akademik Değerlendirme ve Kalite Geliştirme Komisyonu"/>
+      <img className="main-bottom-tanınma" src="img/duyurular/CEENQA_tescil.png" title="Yükseköğretim Akademik Değerlendirme ve Kalite Geliştirme Komisyonu"/>
+    </div>
   </div>
     <div className="main-bottom">
       <div className="main-bottom-title"><a href="/ilgili-kuruluslar">İlgili Kuruluşlar</a></div>

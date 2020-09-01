@@ -595,8 +595,13 @@ table{
 .iletisim-mesaj{
 	margin: 1.25rem 0rem;
 }
-.iletisim-mesaj-input{
-	margin-right: 2rem;
+.iletisim-mesaj-mobil{
+	margin: 0rem 1rem;
+}
+@media (min-width: 768px){
+	.iletisim-mesaj-mobil{
+		margin: 0rem;
+	}
 }
 .iletisim-button{
 	
@@ -699,6 +704,20 @@ table{
 	width: auto;
 	height: 300px;
 }
-
+.iletisim-mesaj-logo{
+	display: none;
+}
+.iletisim-mesaj-logo-mobil{
+	display: block;
+	margin-top: 3rem;
+}
+@media (min-width: 768px){
+	.iletisim-mesaj-logo{
+		display: block;
+	}
+	.iletisim-mesaj-logo-mobil{
+		display: none;
+	}
+}
 
 
