@@ -572,7 +572,7 @@ table{
 }
 .iletisim-adres{
 	border-right: 0.0625rem solid #dddddd;
-	padding: 1rem 0rem;
+	padding: 1rem 0.9375rem;
 	margin-top: 2rem;
 }
 .iletisim-info{
