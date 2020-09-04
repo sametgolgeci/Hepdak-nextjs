@@ -6,7 +6,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faPhone,faEnvelope,faMapMarkerAlt,faChevronRight } from '@fortawesome/free-solid-svg-icons'
 
 
-const İletisim = () => (
+const Iletisim = () => (
 <MasterPage>
 	<Head>
 		<title>HEPDAK | İletişim</title>
@@ -37,4 +37,4 @@ const İletisim = () => (
 	{/* This is a comment */}
 </MasterPage>
 )
-export default İletisim
+export default Iletisim
