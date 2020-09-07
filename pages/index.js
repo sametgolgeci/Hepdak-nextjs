@@ -26,55 +26,57 @@ const Anasayfa = () => (
           <div className="main-top-one">
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
-                <div className="carousel-item active">              
-                  <div className="main-top-one-content-full">
-                    <img className="slider-full-img" src="img/duyurular/30agustos2020.jpg"/>
-                  </div>
+                <div className="carousel-item active">
+                  <Link href="/doc/24_Ekim_2020_kurum_tanitim_egitimi_calistayi.doc"><a target="_blank">
+                    <div className="main-top-one-title">24 EKİM 2020 KURUMLAR İÇİN EĞİTİM ÇALIŞTAYI</div>
+                    <div className="main-top-one-content">* Eğitim online yapılacaktır.<br/>* Kontenjan 50 kişidir. Eğitime her kurumdan en fazla 3 kişi katılabilecektir.<br/>* Eğitim ücreti 100₺'dir.<br/>* Son kayıt tarihi 5 Ekim 2020</div>
+                    <div className="main-top-one-continue">Kayıt formu için tıklayınız</div>
+                  </a></Link>
                 </div>
-               <div className="carousel-item">
-                  <Link href="/cevrimici_degerlendirici_egitimi"><a target="_blank">
-                    <div className="main-top-one-title">ÇEVRİMİÇİ DEĞERLENDİRİCİ EĞİTİMİ</div>
-                    <div className="main-top-one-content">
-                      <div className="main-top-one-content-side">
-                        <div className="main-top-one-content-one">
-                          <p>HEPDAK, tarafından 10-12 Ağustos 2020 tarihinde Zoom üzerinden “Çevrimiçi Değerlendirici Eğitimi” yapılmıştır. Eğitime 15 eski değerlendirici, 17 yeni değerlendirici adayı olmak üzere toplam 32 öğretim üyesi katılmıştır...</p>
-                        </div>
-                        <div className="main-top-one-content-two">
-                          <img className="slider-img" src="img/degerlendirici_egitim_5/toplanti_1.png"/>
+                 <div className="carousel-item">
+                    <Link href="/cevrimici_degerlendirici_egitimi"><a target="_blank">
+                      <div className="main-top-one-title">ÇEVRİMİÇİ DEĞERLENDİRİCİ EĞİTİMİ</div>
+                      <div className="main-top-one-content">
+                        <div className="main-top-one-content-side">
+                          <div className="main-top-one-content-one">
+                            <p>HEPDAK, tarafından 10-12 Ağustos 2020 tarihinde Zoom üzerinden “Çevrimiçi Değerlendirici Eğitimi” yapılmıştır. Eğitime 15 eski değerlendirici, 17 yeni değerlendirici adayı olmak üzere toplam 32 öğretim üyesi katılmıştır...</p>
+                          </div>
+                          <div className="main-top-one-content-two">
+                            <img className="slider-img" src="img/degerlendirici_egitim_5/toplanti_1.png"/>
+                          </div>
                         </div>
                       </div>
-                    </div>
-                    <div className="main-top-one-continue">Devamı -></div>
-                  </a></Link>
+                      <div className="main-top-one-continue">Devamı -></div>
+                    </a></Link>
+                  </div>
+                  <div className="carousel-item">
+                    <Link href="/doc/CEENQA_Application_HEPDAK_Decision.pdf"><a target="_blank">
+                      <div className="main-top-one-title">CEENQA ÜYELİĞİ HAKKINDA</div>
+                      <div className="main-top-one-content"><p>HEPDAK, 15 Mayıs 2020 tarihinden itibaren CEENQA - Central and Eastern European Network of Quality Assurance Agencies in Higher Education'ın tam üyesidir.</p></div>
+                      <div className="main-top-one-continue">Devamı -></div>
+                    </a></Link>
+                  </div>
+                  <div className="carousel-item">
+                    <Link href="/webinar#last"><a href="yokak-saha-ziyareti">
+                      <div className="main-top-one-title">YÖKAK SAHA ZİYARETİ</div>
+                      <div className="main-top-one-content">Yüksek Öğretim Kalite Kurulu (YÖKAK), "Dış Değerlendirme ve Akreditasyon Kuruluşlarının Yetkilendirilmesi, Tanınması ve İzlenmesine İlişkin Kılavuz, 2019" kapsamında Kalite Değerlendirme Tescil Belgesi'ne sahip ulusal akreditasyon kuruluşları için 2020 yılından itibaren saha ziyareti uygulamasını başlatmıştır...</div>
+                      <div className="main-top-one-continue">Devamı -></div>
+                    </a></Link>
+                  </div>
+                  <div className="carousel-item">
+                    <Link href="https://yokak.gov.tr/akreditasyon-kuruluslari/tescil-suresi-devam-edenler"><a target="_blank">
+                      <div className="main-top-one-title">HEPDAK, 2023 YILINA KADAR TESCİL EDİLDİ</div>
+                      <div className="main-top-one-content">Hemşirelik Eğitim Programları Değerlendirme ve Akreditasyon Derneği (HEPDAK) Yükseköğretim Kalite Kurulu tarafından 25.12.2023 tarihine kadar beş yıllığına tescil edilmiştir.</div>
+                    </a></Link>
+                  </div>
+                  <div className="carousel-item">
+                    <Link href="/ucretler"><a>
+                      <div className="main-top-one-title">HEPDAK DEĞERLENDİRME VE AKREDİTASYON ÜCRETLERİ</div>
+                      <div className="main-top-one-content">2020-2021 Değerlendirme Dönemi Akreditasyon Bedelleri Belirlenmiştir.</div>
+                      <div className="main-top-one-continue">Devamı -></div>
+                    </a></Link>
+                  </div>
                 </div>
-                <div className="carousel-item">
-                  <Link href="/doc/CEENQA_Application_HEPDAK_Decision.pdf"><a target="_blank">
-                    <div className="main-top-one-title">CEENQA ÜYELİĞİ HAKKINDA</div>
-                    <div className="main-top-one-content"><p>HEPDAK, 15 Mayıs 2020 tarihinden itibaren CEENQA - Central and Eastern European Network of Quality Assurance Agencies in Higher Education'ın tam üyesidir.</p></div>
-                    <div className="main-top-one-continue">Devamı -></div>
-                  </a></Link>
-                </div>
-                <div className="carousel-item">
-                  <Link href="/webinar#last"><a href="yokak-saha-ziyareti">
-                    <div className="main-top-one-title">YÖKAK SAHA ZİYARETİ</div>
-                    <div className="main-top-one-content">Yüksek Öğretim Kalite Kurulu (YÖKAK), "Dış Değerlendirme ve Akreditasyon Kuruluşlarının Yetkilendirilmesi, Tanınması ve İzlenmesine İlişkin Kılavuz, 2019" kapsamında Kalite Değerlendirme Tescil Belgesi'ne sahip ulusal akreditasyon kuruluşları için 2020 yılından itibaren saha ziyareti uygulamasını başlatmıştır...</div>
-                    <div className="main-top-one-continue">Devamı -></div>
-                  </a></Link>
-                </div>
-                <div className="carousel-item">
-                  <Link href="https://yokak.gov.tr/akreditasyon-kuruluslari/tescil-suresi-devam-edenler"><a target="_blank">
-                    <div className="main-top-one-title">HEPDAK, 2023 YILINA KADAR TESCİL EDİLDİ</div>
-                    <div className="main-top-one-content">Hemşirelik Eğitim Programları Değerlendirme ve Akreditasyon Derneği (HEPDAK) Yükseköğretim Kalite Kurulu tarafından 25.12.2023 tarihine kadar beş yıllığına tescil edilmiştir.</div>
-                  </a></Link>
-                </div>
-                <div className="carousel-item">
-                  <Link href="/ucretler"><a>
-                    <div className="main-top-one-title">HEPDAK DEĞERLENDİRME VE AKREDİTASYON ÜCRETLERİ</div>
-                    <div className="main-top-one-content">2020-2021 Değerlendirme Dönemi Akreditasyon Bedelleri Belirlenmiştir.</div>
-                    <div className="main-top-one-continue">Devamı -></div>
-                  </a></Link>
-                </div>
-              </div>
               <a className="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
                 <span aria-hidden="true"><FontAwesomeIcon className="main-carousel-icon" icon={faChevronLeft}/></span>
                 <span className="sr-only">Previous</span>
