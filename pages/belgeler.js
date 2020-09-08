@@ -115,6 +115,10 @@ const Belgeler = () => (
                   <th scope="row">15</th>
                   <td>HEPDAK Uzaktan Eğitim Program Değerlendirme Çizelgesi <Link href="doc/b15_v1.doc"><a>Sürüm 1.0</a></Link></td>
                 </tr>
+                <tr>
+                  <th scope="row">16</th>
+                  <td>HEPDAK Uzaktan Değerlendirme ve Saha Ziyareti Yönergesi <Link href="doc/b16_v1.pdf"><a>Sürüm 1.0</a></Link></td>
+                </tr>
               </tbody>
             </table>
             <table className="table table-striped">

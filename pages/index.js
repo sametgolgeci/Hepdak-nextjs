@@ -28,9 +28,7 @@ const Anasayfa = () => (
               <div className="carousel-inner">
                 <div className="carousel-item active">
                   <Link href="/doc/24_Ekim_2020_kurum_tanitim_egitimi_calistayi.doc"><a target="_blank">
-                    <div className="main-top-one-title">24 EKİM 2020 KURUMLAR İÇİN EĞİTİM ÇALIŞTAYI</div>
-                    <div className="main-top-one-content">* Eğitim online yapılacaktır.<br/>* Kontenjan 50 kişidir. Eğitime her kurumdan en fazla 3 kişi katılabilecektir.<br/>* Eğitim ücreti 100₺'dir.<br/>* Son kayıt tarihi 5 Ekim 2020</div>
-                    <div className="main-top-one-continue">Kayıt formu için tıklayınız</div>
+                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/duyurular/24Ekim2020_duyuru.JPG"/></div>
                   </a></Link>
                 </div>
                  <div className="carousel-item">
@@ -240,9 +238,11 @@ const Anasayfa = () => (
       <div className="col-sm-12 col-md-12">
         <Link href="/doc/HEMED_uzaktan_eğitim_görüş_yazısı.pdf"><a><button className="main-top-button">HEMED Uzaktan Eğitim Konusunda Görüşü (29.06.2020)</button></a></Link>
       </div>
+      {/*
       <div className="col-sm-12 col-md-12">
         <Link href="/doc/b14_v1.docx"><a><button className="main-top-button">HEPDAK Uzaktan Eğitim Standartları (19.06.2020)</button></a></Link>
       </div>
+      */}
       <div className="col-sm-12 col-md-12">
         <Link href="/corona-virus-pandemisi-sureci"><a><button className="main-top-button">Corona Virüs Pandemisi Sürecinde Hemşirelik Eğitim Programlarının Akreditasyonu için HEPDAK Planı (04.05.2020)</button></a></Link>
       </div>

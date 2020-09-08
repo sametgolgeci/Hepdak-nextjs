@@ -193,8 +193,12 @@ table{
 	font-weight: 500;
 	color: #212529;
 	/*width: 100%;*/
-	margin-top: -3.125rem;
+	margin-top: -1.875rem;
 	text-align: center; 
+}
+.slider-full-img{
+	width: auto;
+	height: 15.5rem;
 }
 .main-top-one-content > a{
 	font-weight: 900;
@@ -699,10 +703,6 @@ table{
 .slider-img{
 	width: 100%;
 	height: auto;
-}
-.slider-full-img{
-	width: auto;
-	height: 300px;
 }
 .iletisim-mesaj-logo{
 	display: none;
