@@ -47,6 +47,7 @@ const Anasayfa = () => (
                       <div className="main-top-one-continue">Devamı -></div>
                     </a></Link>
                   </div>
+                  {/*
                   <div className="carousel-item">
                     <Link href="/doc/CEENQA_Application_HEPDAK_Decision.pdf"><a target="_blank">
                       <div className="main-top-one-title">CEENQA ÜYELİĞİ HAKKINDA</div>
@@ -67,6 +68,7 @@ const Anasayfa = () => (
                       <div className="main-top-one-content">Hemşirelik Eğitim Programları Değerlendirme ve Akreditasyon Derneği (HEPDAK) Yükseköğretim Kalite Kurulu tarafından 25.12.2023 tarihine kadar beş yıllığına tescil edilmiştir.</div>
                     </a></Link>
                   </div>
+                  */}
                   <div className="carousel-item">
                     <Link href="/ucretler"><a>
                       <div className="main-top-one-title">HEPDAK DEĞERLENDİRME VE AKREDİTASYON ÜCRETLERİ</div>
@@ -227,9 +229,6 @@ const Anasayfa = () => (
         <Link href="/covid-19"><a>Covid-19 Haberleri</a></Link>
       </div>
       <div className="col-sm-12 col-md-12">
-        <Link href="/doc/HEPDAK_uzaktan_degerlendirme_yonergesi_25_7_2020.pdf"><a><button className="main-top-button">HEPDAK Uzaktan Değerlendirme ve Saha Ziyareti Yönergesi (25.07.2020)</button></a></Link>
-      </div>
-      <div className="col-sm-12 col-md-12">
         <Link href="/doc/SABDEK_covid.doc"><a><button className="main-top-button">SABDEK Uzaktan Eğitim Çalışmaları ve Yaz Okulu Açıklaması (02.07.2020)</button></a></Link>
       </div>
       <div className="col-sm-12 col-md-12">
@@ -238,24 +237,12 @@ const Anasayfa = () => (
       <div className="col-sm-12 col-md-12">
         <Link href="/doc/HEMED_uzaktan_eğitim_görüş_yazısı.pdf"><a><button className="main-top-button">HEMED Uzaktan Eğitim Konusunda Görüşü (29.06.2020)</button></a></Link>
       </div>
-      {/*
-      <div className="col-sm-12 col-md-12">
-        <Link href="/doc/b14_v1.docx"><a><button className="main-top-button">HEPDAK Uzaktan Eğitim Standartları (19.06.2020)</button></a></Link>
-      </div>
-      */}
       <div className="col-sm-12 col-md-12">
         <Link href="/corona-virus-pandemisi-sureci"><a><button className="main-top-button">Corona Virüs Pandemisi Sürecinde Hemşirelik Eğitim Programlarının Akreditasyonu için HEPDAK Planı (04.05.2020)</button></a></Link>
       </div>
       <div className="col-sm-12 col-md-12">
         <Link href="/hepdak-degerlendirme-2020-21"><a><button className="main-top-button">HEPDAK 2020-2021 Değerlendirme Planı (04.05.2020)</button></a></Link>
       </div>
-      {/*
-      <div className="col-sm-12 col-md-12">
-        <div className="covid-p"><Link href="/doc/b14_v1.docx"><a>HEPDAK Uzaktan Eğitim Standartları</a></Link> - 19 Haziran 2020</div>
-        <div className="covid-p"><Link href="/corona-virus-pandemisi-sureci"><a>Corona Virüs Pandemisi Sürecinde Hemşirelik Eğitim Programlarının Akreditasyonu için HEPDAK Planı</a></Link> - 4 Mayıs 2020</div>
-        <div className="covid-p"><Link href="/hepdak-degerlendirme-2020-21"><a>HEPDAK 2020-2021 Değerlendirme Planı</a></Link> - 4 Mayıs 2020</div>
-      </div>
-      */}
       {/*
       <div className="col-sm-12 col-md-4">
         <Link href="/doc/b1-basvuru-word_v5.doc"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faCheck}/>Başvuru</button></a></Link>
