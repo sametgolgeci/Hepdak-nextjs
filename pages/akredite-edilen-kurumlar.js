@@ -37,7 +37,7 @@ const Akredite = () => (
                   <th scope="row">Erciyes Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü</th>
                   <td><p>01.05.2016</p>
                   <p>30.09.2018</p></td>
-                  <td><p>01.05.2016</p>
+                  <td><p>01.05.2018</p>
                   <p>30.09.2021</p></td>
                 </tr>
                 <tr>
