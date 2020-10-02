@@ -11,7 +11,7 @@ const Akredite = () => (
 	    	<div className="col-md-12 akreditasyon-content">
           <div id="akredite" className="akreditasyon-content-item">         
             <div className="akreditasyon-content-title">Akredite Edilen Kurumlar</div>
-            <div className="akreditasyon-content-subtitle">HEPDAK Tarafından Akredite Edilen Hemşirelik Lisans Programları (04.04. 2020 itibariyle)</div>
+            <div className="akreditasyon-content-subtitle">HEPDAK Tarafından Akredite Edilen Hemşirelik Lisans Programları (04.04.2020 itibariyle)</div>
             <table className="table table-striped">
               <thead className="thead-dark">
                 <tr>
@@ -78,17 +78,17 @@ const Akredite = () => (
                 </tr>
                 <tr>
                   <th scope="row">Marmara Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü</th>
-                  <td>04.04.2010</td>
+                  <td>04.04.2020</td>
                   <td>30.09.2022</td>
                 </tr>
                 <tr>
                   <th scope="row">Ondokuz Mayıs Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü</th>
-                  <td>04.04.2010</td>
+                  <td>04.04.2020</td>
                   <td>30.09.2022</td>
                 </tr>
                 <tr>
                   <th scope="row">Akdeniz Üniversitesi Hemşirelik Fakültesi</th>
-                  <td>04.04.2010</td>
+                  <td>04.04.2020</td>
                   <td>30.09.2022</td>
                 </tr>
               </tbody>
