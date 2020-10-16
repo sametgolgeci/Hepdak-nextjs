@@ -18,6 +18,33 @@ const Calistay = () => (
 		<p className="madde-p">• Değerlendirme süreci; Fakülte ve Bölümlerin akreditasyon hazırlıkları</p>
 		<p className="madde-p">• Özdeğerlendirme raporları</p>
 		<p className="madde-p">• Değerlendirme takımlarınca yapılan kurum ziyaretleri</p>
+		<h6><span className="badge badge-custom">8</span> 24 Ekim 2020</h6>
+		<p>
+			<ul className="nav calistay-nav">
+			  <li className="nav-item">
+			    <a className="nav-link calistay-button" href="doc/kurumlar_egitim_8/program.doc">Program</a>
+			  </li>
+			  <li className="nav-item">
+			    <a className="nav-link calistay-button" href="doc/kurumlar_egitim_8/katilimcilar.docx">Katılımcı Listesi</a>
+			  </li>
+			  <li className="nav-item">
+			    <a className="nav-link calistay-button" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">Sunumlar</a>
+			  </li>
+			</ul>
+		</p>
+		<div className="collapse" id="collapseExample">
+		<p><strong>-> Sunumlar</strong></p>
+		<p className="madde-p"><a href="/doc/kurumlar_egitim_8/giris.pptx">1. Çalıştay Açılışı</a><br/>
+		<a href="/doc/kurumlar_egitim_8/akreditasyon_sureci.ppt">2. Akreditasyon Süreci</a><br/>
+		<a href="/doc/kurumlar_egitim_8/program_amaclari.ppt">3. Program Amaçları</a><br/>
+		<a href="/doc/kurumlar_egitim_8/program_ciktilari.ppt">4. Program Çıktıları ve Eğitim Programı</a><br/>
+		<a href="/doc/kurumlar_egitim_8/ogrenciler.ppt">5. Öğrenciler</a><br/>
+		<a href="/doc/kurumlar_egitim_8/ogretim_elemanlari.ppt">6. Öğretim Elemanları ve Eğitim Yönetimi</a><br/>
+		<a href="/doc/kurumlar_egitim_8/fiziksel_altyapi.ppt">7. Fiziksel Altyapı ve Sürekli İyileştirme</a><br/>
+		<a href="/doc/kurumlar_egitim_8/uzaktan_egitim_standartlari.ppt">8. Uzaktan Eğitim Standartları</a><br/>
+		<a href="/doc/kurumlar_egitim_8/uzaktan_degerlendirme.ppt">9. Uzaktan Değerlendirme</a><br/>
+		<a href="/doc/kurumlar_egitim_8/ODR_hazırlamada_dikkat_edilecek_konular.ppt">10. Özdeğerlendirme İçeriğinin Hazırlaması ve Dikkat Edilecek Konular</a></p>
+		</div>
 		<h6><span className="badge badge-custom">7</span> 18 Ocak 2020 (İzmir)</h6>
 		<ul className="nav calistay-nav">
 		  <li className="nav-item">
