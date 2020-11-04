@@ -11,8 +11,8 @@ const Ucretler = () => (
 	    	<div className="col-md-12 akreditasyon-content">
           <div id="ucretler" className="akreditasyon-content-item">         
             <div className="akreditasyon-content-title">Ücretler</div>
-            <div className="akreditasyon-content-subtitle">2020-2021 Değerlendirme Dönemi Akreditasyon Bedelleri</div>
-            <p>2020-2021 döneminde değerlendirilecek programlar için akreditasyon değerlendirme bedelleri aşağıdaki tabloda yer almaktadır.</p>
+            <div className="akreditasyon-content-subtitle">2021-2022 Değerlendirme Dönemi Akreditasyon Bedelleri</div>
+            <p>2021-2022 döneminde değerlendirilecek programlar için akreditasyon değerlendirme bedelleri aşağıdaki tabloda yer almaktadır.</p>
             <table className="table table-striped">
               <thead className="thead-dark">
                 <tr>
@@ -53,7 +53,7 @@ const Ucretler = () => (
             <p>(2) Daha önce yapılan genel değerlendirmesi sonucunda kısa süreli akreditasyon verilmiş olan programların değerlendirmesidir.</p>
             <p>(3) Daha önce yapılan ara veya genel değerlendirmesi sonucunda bir yıl süreli akreditasyon verilmiş olan programların değerlendirmesidir.</p>
             <p>* KDV miktarı %18 üzerinden hesaplanır.</p>
-            <div className="akreditasyon-content-subtitle">2020-2021 Değerlendirme Dönemi Akreditasyon Bedelleri Ödeme Planı</div>
+            <div className="akreditasyon-content-subtitle">2021-2022 Değerlendirme Dönemi Akreditasyon Bedelleri Ödeme Planı</div>
             <table className="table table-striped">
               <thead className="thead-dark">
                 <tr>
@@ -62,19 +62,19 @@ const Ucretler = () => (
               </thead>
               <tbody>
                 <tr>
-                  <th scope="row">Mart 2020 Taksiti</th>
+                  <th scope="row">Mart 2021 Taksiti</th>
                   <td>2.500 TL.+ KDV</td>
                 </tr>
                 <tr>
-                  <th scope="row">Eylül 2020 Taksiti</th>
+                  <th scope="row">Eylül 2021 Taksiti</th>
                   <td>7.500 TL.+ KDV</td>
                 </tr>
                 <tr>
-                  <th scope="row">Ekim 2020 Taksiti</th>
+                  <th scope="row">Ekim 2021 Taksiti</th>
                   <td>7.500 TL.+ KDV</td>
                 </tr>
                 <tr>
-                  <th scope="row">Kasım 2020 Taksiti</th>
+                  <th scope="row">Kasım 2021 Taksiti</th>
                   <td>7.500 TL.+ KDV</td>
                 </tr>
                 <tr>
@@ -91,15 +91,15 @@ const Ucretler = () => (
               </thead>
               <tbody>
                 <tr>
-                  <th scope="row">Mart 2020 Taksiti</th>
+                  <th scope="row">Mart 2021 Taksiti</th>
                   <td>3.000 TL.+ KDV</td>
                 </tr>
                 <tr>
-                  <th scope="row">Ekim 2020 Taksiti</th>
+                  <th scope="row">Ekim 2021 Taksiti</th>
                   <td>3.000 TL.+ KDV</td>
                 </tr>
                 <tr>
-                  <th scope="row">Kasım 2020 Taksiti</th>
+                  <th scope="row">Kasım 2021 Taksiti</th>
                   <td>4.000 TL.+ KDV</td>
                 </tr>
                 <tr>
@@ -116,15 +116,15 @@ const Ucretler = () => (
               </thead>
               <tbody>
                 <tr>
-                  <th scope="row">Mart 2020 Taksiti</th>
+                  <th scope="row">Mart 2021 Taksiti</th>
                   <td>2.000 TL.+ KDV</td>
                 </tr>
                 <tr>
-                  <th scope="row">Ekim 2020 Taksiti</th>
+                  <th scope="row">Ekim 2021 Taksiti</th>
                   <td>2.000 TL.+ KDV</td>
                 </tr>
                 <tr>
-                  <th scope="row">Kasım 2020 Taksiti</th>
+                  <th scope="row">Kasım 2021 Taksiti</th>
                   <td>2.000 TL.+ KDV</td>
                 </tr>
                 <tr>
@@ -144,19 +144,19 @@ const Ucretler = () => (
               </thead>
               <tbody>
                 <tr>
-                  <th scope="row">Mart 2020 Taksiti</th>
+                  <th scope="row">Mart 2021 Taksiti</th>
                   <td>2.500 TL.+ KDV</td>
                 </tr>
                 <tr>
-                  <th scope="row">Eylül 2020 Taksiti</th>
+                  <th scope="row">Eylül 2021 Taksiti</th>
                   <td>5.000 TL.+ KDV</td>
                 </tr>
                 <tr>
-                  <th scope="row">Ekim 2020 Taksiti</th>
+                  <th scope="row">Ekim 2021 Taksiti</th>
                   <td>5.000 TL.+ KDV</td>
                 </tr>
                 <tr>
-                  <th scope="row">Kasım 2020 Taksiti</th>
+                  <th scope="row">Kasım 2021 Taksiti</th>
                   <td>2.500 TL.+ KDV</td>
                 </tr>
                 <tr>

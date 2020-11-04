@@ -27,36 +27,37 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
-                  <div className="main-top-one-content-full"><img className="slider-full-img" src="img/duyurular/29ekim2020.jpg"/></div>
-                </div>
-                <div className="carousel-item">
-                  <Link href="doc/kurumlar_egitim_8/program.docx"><a>
-                    <div className="main-top-one-title">KURUMLAR İÇİN EĞİTİM ÇALIŞTAYI PROGRAMI</div>
-                    <div className="main-top-one-content">24 Ekim 2020 tarihinde gerçekleştirilecek kurumlar için eğitim çalıştayı programına buradan ulaşabilirsiniz.</div>
+                  <Link href="/kurum-egitimi-8"><a target="_blank">
+                    <div className="main-top-one-title">KURUM TANITIM EĞİTİMİ</div>
+                    <div className="main-top-one-content">
+                      <div className="main-top-one-content-side">
+                        <div className="main-top-one-content-one">
+                          <p>HEPDAK değerlendirmesine başvurmayı planlayan hemşirelik lisans programlarının sorumlularına ve eğiticilerine HEPDAK akreditasyonu ile ilgili temel kavramları, HEPDAK standartları ve anlamları, HEPDAK uzaktan eğitim standartları, eğitim amaçları, program çıktıları ve sürekli iyileştirme yaklaşımları, değerlendirme süreci, uzaktan değerlendirme süreci...</p>
+                        </div>
+                        <div className="main-top-one-content-two">
+                          <img className="slider-img" src="img/kurum_egitim_8/photo_1.PNG"/>
+                        </div>
+                      </div>
+                    </div>
                     <div className="main-top-one-continue">Devamı -></div>
                   </a></Link>
                 </div>
                 <div className="carousel-item">
-                  <Link href="/doc/24_Ekim_2020_kurum_tanitim_egitimi_calistayi.doc"><a target="_blank">
-                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/duyurular/24Ekim2020_duyuru.JPG"/></div>
-                  </a></Link>
-                </div>
-                 <div className="carousel-item">
-                    <Link href="/cevrimici_degerlendirici_egitimi"><a target="_blank">
-                      <div className="main-top-one-title">ÇEVRİMİÇİ DEĞERLENDİRİCİ EĞİTİMİ</div>
-                      <div className="main-top-one-content">
-                        <div className="main-top-one-content-side">
-                          <div className="main-top-one-content-one">
-                            <p>HEPDAK, tarafından 10-12 Ağustos 2020 tarihinde Zoom üzerinden “Çevrimiçi Değerlendirici Eğitimi” yapılmıştır. Eğitime 15 eski değerlendirici, 17 yeni değerlendirici adayı olmak üzere toplam 32 öğretim üyesi katılmıştır...</p>
-                          </div>
-                          <div className="main-top-one-content-two">
-                            <img className="slider-img" src="img/degerlendirici_egitim_5/toplanti_1.png"/>
-                          </div>
+                  <Link href="/cevrimici_degerlendirici_egitimi"><a target="_blank">
+                    <div className="main-top-one-title">ÇEVRİMİÇİ DEĞERLENDİRİCİ EĞİTİMİ</div>
+                    <div className="main-top-one-content">
+                      <div className="main-top-one-content-side">
+                        <div className="main-top-one-content-one">
+                          <p>HEPDAK, tarafından 10-12 Ağustos 2020 tarihinde Zoom üzerinden “Çevrimiçi Değerlendirici Eğitimi” yapılmıştır. Eğitime 15 eski değerlendirici, 17 yeni değerlendirici adayı olmak üzere toplam 32 öğretim üyesi katılmıştır...</p>
+                        </div>
+                        <div className="main-top-one-content-two">
+                          <img className="slider-img" src="img/degerlendirici_egitim_5/toplanti_1.png"/>
                         </div>
                       </div>
-                      <div className="main-top-one-continue">Devamı -></div>
-                    </a></Link>
-                  </div>
+                    </div>
+                    <div className="main-top-one-continue">Devamı -></div>
+                  </a></Link>
+                </div>
                   {/*
                   <div className="carousel-item">
                     <Link href="/doc/CEENQA_Application_HEPDAK_Decision.pdf"><a target="_blank">

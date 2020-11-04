@@ -57,7 +57,7 @@ const Belgeler = () => (
               <tbody>
                 <tr>
                   <th scope="row" width="10px">1</th>
-                  <td><p>HEPDAK 2020-2021 Dönemi Program Değerlendirme Başvuru Formu <Link href="doc/b1-basvuru-pdf_v5.pdf"><a>PDF</a></Link> | <Link href="doc/b1-basvuru-word_v5.doc"><a>Word</a></Link></p></td>
+                  <td><p>HEPDAK 2021-2022 Dönemi Program Değerlendirme Başvuru Formu <Link href="doc/b1-basvuru-2021-2022.doc"><a>Word</a></Link></p></td>
                 </tr>
                 <tr>
                   <th scope="row">2</th>

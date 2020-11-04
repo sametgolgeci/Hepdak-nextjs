@@ -32,7 +32,7 @@ const Navigation = () => (
 					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">AKREDİTASYON</a>
 					<div className="dropdown-menu">
 						<Link href="/surec"><a className="dropdown-item">Süreç</a></Link>
-						<Link href="/doc/b1-basvuru-word_v5.doc"><a className="dropdown-item">Başvuru</a></Link>
+						<Link href="/doc/b1-basvuru-2021-2022.doc"><a className="dropdown-item">Başvuru</a></Link>
 						<Link href="/belgeler"><a className="dropdown-item">Belgeler</a></Link>
 						<Link href="/ucretler"><a className="dropdown-item">Ücretler</a></Link>
 						<Link href="/akredite-edilen-kurumlar"><a className="dropdown-item">Akredite Edilen Kurumlar</a></Link>
