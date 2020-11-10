@@ -10,8 +10,9 @@ const Calistay = () => (
 	<div className="row">
 		<div className="genel col-md-12 col-sm-12">
 		<h1 id="degerlendirici">Değerlendirici Eğitimi Çalıştayı</h1>
-		<p><strong>Değerlendirici eğitimi programının amacı</strong> HEPDAK değerlendiricilerinin, akreditasyon sürecinde güvenilir, tutarlı ve uygun karar vermelerine yardımcı olmaktır.</p>
-		<p>Eğitim öncesi çalışmalarda ve eğitim sonunda katılımcıların şunları yapması beklenir:;</p>
+		<p><strong>Değerlendirici eğitimi programının amacı :</strong> HEPDAK değerlendiricilerinin, akreditasyon sürecinde güvenilir, tutarlı ve uygun karar vermelerine yardımcı olmaktır.</p>
+		<p><strong>Hedefler</strong></p>
+		<p>Eğitim öncesi çalışmalarda ve eğitim sonunda katılımcıların şunları yapması beklenir:</p>
 		<p className="madde-p">• Akreditasyon sürecini ve ilkelerini bilme ve tartışabilme</p>
 		<p className="madde-p">• HEPDAK Hemşirelik Lisans Eğitimi Standartlarını kavrama</p>
 		<p className="madde-p">• ÖDR ve eklerini eleştirel olarak değerlendirebilme</p>

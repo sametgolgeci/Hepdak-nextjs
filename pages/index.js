@@ -33,7 +33,6 @@ const Anasayfa = () => (
                     <Link href="doc/sanal_degerlendirme_egitimi_programi.pdf"><a target="_blank">
                       <div className="main-top-one-title">13 KASIM 2020 SANAL DEĞERLENDİRME EĞİTİMİ</div>
                       <div className="main-top-one-content">Sanal değerlendirme eğitimi programı için tıklayınız.</div>
-                      <div className="main-top-one-continue">Devamı -></div>
                     </a></Link>
                   </div>
                 <div className="carousel-item">
