@@ -30,7 +30,7 @@ const Anasayfa = () => (
                   <div className="main-top-one-content-full"><img className="slider-full-img" src="img/duyurular/10kasim2020.png"/></div>
                 </div>
                 <div className="carousel-item">
-                    <Link href="doc/sanal_degerlendirme_egitimi_programi.doc"><a target="_blank">
+                    <Link href="doc/sanal_degerlendirme_egitimi_programi.pdf"><a target="_blank">
                       <div className="main-top-one-title">13 KASIM 2020 SANAL DEĞERLENDİRME EĞİTİMİ</div>
                       <div className="main-top-one-content">Sanal değerlendirme eğitimi programı için tıklayınız.</div>
                       <div className="main-top-one-continue">Devamı -></div>

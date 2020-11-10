@@ -10,13 +10,16 @@ const Calistay = () => (
 	<div className="row">
 		<div className="genel col-md-12 col-sm-12">
 		<h1 id="degerlendirici">Değerlendirici Eğitimi Çalıştayı</h1>
-		<p>HEPDAK değerlendirmelerinde program değerlendiricisi olarak görev alacak olanların değerlendirme öncesinde bir değerlendirici eğitiminden geçmeleri gerekmektedir.</p>
-		<p>Program değerlendirici adaylarına aşağıdaki konularda bilgilendirmek ve eğitmek amaçlı çalıştaylar yapılmaktadır;</p>
-		<p className="madde-p">• HEPDAK ve değerlendirme sürecini daha yakından tanıma</p>
-		<p className="madde-p">• Değerlendirme becerisini geliştirme</p>
-		<p className="madde-p">• Değerlendirici davranışını geliştirme</p>
-		<p className="madde-p">• Değerlendirmeler arası tutarlılığı sağlama</p>
-		<p className="madde-p">• Değerlendirme raporu yazma becerisini geliştirmee</p>
+		<p><strong>Değerlendirici eğitimi programının amacı</strong> HEPDAK değerlendiricilerinin, akreditasyon sürecinde güvenilir, tutarlı ve uygun karar vermelerine yardımcı olmaktır.</p>
+		<p>Eğitim öncesi çalışmalarda ve eğitim sonunda katılımcıların şunları yapması beklenir:;</p>
+		<p className="madde-p">• Akreditasyon sürecini ve ilkelerini bilme ve tartışabilme</p>
+		<p className="madde-p">• HEPDAK Hemşirelik Lisans Eğitimi Standartlarını kavrama</p>
+		<p className="madde-p">• ÖDR ve eklerini eleştirel olarak değerlendirebilme</p>
+		<p className="madde-p">• Değerlendiricinin sorumluluklarını duyarlılıkla yerine getirebilme</p>
+		<p className="madde-p">• Ekiple birlikte değerlendirme çalışmalarını sürdürebilme</p>
+		<p className="madde-p">• HEPDAK standartlarının karşılanma durumuna karar verebilme</p>
+		<p className="madde-p">• Değerlendirme raporu hazırlayabilme</p>
+		<p className="madde-p">• Yerinde ve sanal ziyaret  süreçlerini anlama</p>
 		<h6><span className="badge badge-custom">5</span> HEPDAK Değerlendirici Eğitim Çalıştayı 10-12 Ağustos 2020 (İzmir)</h6>
 		<p>
 			<ul className="nav calistay-nav">
