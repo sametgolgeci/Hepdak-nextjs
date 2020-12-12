@@ -91,6 +91,7 @@ const Anasayfa = () => (
                     </a></Link>
                   </div>
                   */}
+                  {/*
                   <div className="carousel-item">
                     <Link href="/ucretler"><a>
                       <div className="main-top-one-title">HEPDAK DEĞERLENDİRME VE AKREDİTASYON ÜCRETLERİ</div>
@@ -98,6 +99,7 @@ const Anasayfa = () => (
                       <div className="main-top-one-continue">Devamı -></div>
                     </a></Link>
                   </div>
+                  */}
                 </div>
               <a className="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
                 <span aria-hidden="true"><FontAwesomeIcon className="main-carousel-icon" icon={faChevronLeft}/></span>

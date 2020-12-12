@@ -43,7 +43,7 @@ const Footer = () => (
 			<div className="footer-item-link"><Link href="/surec"><a>Süreç</a></Link></div>
 			<div className="footer-item-link"><Link href="/doc/b1-basvuru-word_v5.doc"><a>Başvuru</a></Link></div>
 			<div className="footer-item-link"><Link href="/belgeler"><a>Belgeler</a></Link></div>
-			<div className="footer-item-link"><Link href="/ucretler"><a>Ücretler</a></Link></div>
+			{/*<div className="footer-item-link"><Link href="/ucretler"><a>Ücretler</a></Link></div>*/}
 			<div className="footer-item-link"><Link href="/akredite-edilen-kurumlar"><a>Akredite Edilen Kurumlar</a></Link></div>
 			<div className="footer-item-link"><Link href="/ilgili-kuruluslar"><a>İlgili Kuruluşlar</a></Link></div>
 			<div className="footer-item-title footer-item-title-calistay"><strong>Çalıştay</strong></div>
