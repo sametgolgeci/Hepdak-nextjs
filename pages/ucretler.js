@@ -24,27 +24,27 @@ const Ucretler = () => (
               <tbody>
                 <tr>
                   <th scope="row">Genel Değerlendirme(1)</th>
-                  <td>25.000 TL + KDV*</td>
-                  <td>15.000 TL + KDV*</td>
+                  <td>30.000 TL + KDV*</td>
+                  <td>20.000 TL + KDV*</td>
                 </tr>
                 <tr>
                   <th scope="row">Ziyaretle Ara Değerlendirme(2)</th>
-                  <td>10.000 TL + KDV*</td>
+                  <td>15.000 TL + KDV*</td>
                   <td>10.000 TL + KDV*</td>
                 </tr>
                 <tr>
                   <th scope="row">Raporla Ara Değerlendirme(2)</th>
-                  <td>6.000 TL + KDV*</td>
+                  <td>10.000 TL + KDV*</td>
                   <td>6.000 TL + KDV*</td>
                 </tr>
                 <tr>
                   <th scope="row">Ziyaretle Kanıt Göster(3)</th>
-                  <td>10.000 TL + KDV*</td>
+                  <td>15.000 TL + KDV*</td>
                   <td>10.000 TL + KDV*</td>
                 </tr>
                 <tr>
                   <th scope="row">Raporla Kanıt Göster(3)</th>
-                  <td>6.000 TL + KDV*</td>
+                  <td>10.000 TL + KDV*</td>
                   <td>6.000 TL + KDV*</td>
                 </tr>
               </tbody>
@@ -57,114 +57,99 @@ const Ucretler = () => (
             <table className="table table-striped">
               <thead className="thead-dark">
                 <tr>
-                  <th scope="col" colSpan="2">Genel Değerlendirme</th>
+                  <th scope="col">Genel Değerlendirme</th>
+                  <th scope="col">Normal Öğretim</th>
+                  <th scope="col">İkinci Öğretim</th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
                   <th scope="row">Mart 2021 Taksiti</th>
-                  <td>2.500 TL.+ KDV</td>
+                  <td>5.000 TL.+ KDV</td>
+                  <td>5.000 TL.+ KDV</td>
                 </tr>
                 <tr>
                   <th scope="row">Eylül 2021 Taksiti</th>
-                  <td>7.500 TL.+ KDV</td>
+                  <td>10.000 TL.+ KDV</td>
+                  <td>5.000 TL.+ KDV</td>
                 </tr>
                 <tr>
                   <th scope="row">Ekim 2021 Taksiti</th>
                   <td>7.500 TL.+ KDV</td>
+                  <td>5.000 TL.+ KDV</td>
                 </tr>
                 <tr>
                   <th scope="row">Kasım 2021 Taksiti</th>
                   <td>7.500 TL.+ KDV</td>
+                  <td>5.000 TL.+ KDV</td>
                 </tr>
                 <tr>
                   <th scope="row">TOPLAM</th>
-                  <td>25.000 TL.+ KDV</td>
+                  <td>30.000 TL.+ KDV</td>
+                  <td>20.000 TL.+ KDV</td>
                 </tr>
               </tbody>
-            </table>
-            <table className="table table-striped">
               <thead className="thead-dark">
                 <tr>
-                  <th scope="col" colSpan="2">Ziyaretle Ara Değerlendirme/Ziyaretle Kanıt Göster*</th>
+                  <th scope="col">Ziyaretle Ara Değerlendirme/Ziyaretle Kanıt Göster*</th>
+                  <th scope="col">Normal Öğretim</th>
+                  <th scope="col">İkinci Öğretim</th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
                   <th scope="row">Mart 2021 Taksiti</th>
-                  <td>3.000 TL.+ KDV</td>
+                  <td>5.000 TL.+ KDV</td>
+                  <td>2.500 TL.+ KDV</td>
+                </tr>
+                <tr>
+                  <th scope="row">Ekim 2021 Taksiti</th>
+                  <td>5.000 TL.+ KDV</td>
+                  <td>2.500 TL.+ KDV</td>
+                </tr>
+                <tr>
+                  <th scope="row">Kasım 2021 Taksiti</th>
+                  <td>5.000 TL.+ KDV</td>
+                  <td>5.000 TL.+ KDV</td>
+                </tr>
+                <tr>
+                  <th scope="row">TOPLAM</th>
+                  <td>15.000 TL.+ KDV**</td>
+                  <td>10.000 TL.+ KDV**</td>
+                </tr>
+              </tbody>
+              <thead className="thead-dark">
+                <tr>
+                  <th scope="col">Raporla Ara Değerlendirme/Raporla Kanıt Göster* </th>
+                  <th scope="col">Normal Öğretim</th>
+                  <th scope="col">İkinci Öğretim</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <th scope="row">Mart 2021 Taksiti</th>
+                  <td>4.000 TL.+ KDV</td>
+                  <td>2.000 TL.+ KDV</td>
                 </tr>
                 <tr>
                   <th scope="row">Ekim 2021 Taksiti</th>
                   <td>3.000 TL.+ KDV</td>
+                  <td>2.000 TL.+ KDV</td>
                 </tr>
                 <tr>
                   <th scope="row">Kasım 2021 Taksiti</th>
-                  <td>4.000 TL.+ KDV</td>
+                  <td>3.000 TL.+ KDV</td>
+                  <td>2.000 TL.+ KDV</td>
                 </tr>
                 <tr>
                   <th scope="row">TOPLAM</th>
                   <td>10.000 TL.+ KDV**</td>
-                </tr>
-              </tbody>
-            </table>
-            <table className="table table-striped">
-              <thead className="thead-dark">
-                <tr>
-                  <th scope="col" colSpan="2">Raporla Ara Değerlendirme/Raporla Kanıt Göster* </th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <th scope="row">Mart 2021 Taksiti</th>
-                  <td>2.000 TL.+ KDV</td>
-                </tr>
-                <tr>
-                  <th scope="row">Ekim 2021 Taksiti</th>
-                  <td>2.000 TL.+ KDV</td>
-                </tr>
-                <tr>
-                  <th scope="row">Kasım 2021 Taksiti</th>
-                  <td>2.000 TL.+ KDV</td>
-                </tr>
-                <tr>
-                  <th scope="row">TOPLAM</th>
                   <td>6.000 TL.+ KDV**</td>
                 </tr>
               </tbody>
             </table>
             <p>* Ödeme planını takip etmek kurumun sorumluluğudur.</p>
             <p>** Programların talep etmesi durumunda akreditasyon bedeli Kasım ayında tek seferde tahsil edilebilir.</p>
-            <div className="akreditasyon-content-subtitle">İkinci Öğretim Akreditasyon Bedeli Ödeme Planı</div>
-            <table className="table table-striped">
-              <thead className="thead-dark">
-                <tr>
-                  <th scope="col" colSpan="2">Genel Değerlendirme</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <th scope="row">Mart 2021 Taksiti</th>
-                  <td>2.500 TL.+ KDV</td>
-                </tr>
-                <tr>
-                  <th scope="row">Eylül 2021 Taksiti</th>
-                  <td>5.000 TL.+ KDV</td>
-                </tr>
-                <tr>
-                  <th scope="row">Ekim 2021 Taksiti</th>
-                  <td>5.000 TL.+ KDV</td>
-                </tr>
-                <tr>
-                  <th scope="row">Kasım 2021 Taksiti</th>
-                  <td>2.500 TL.+ KDV</td>
-                </tr>
-                <tr>
-                  <th scope="row">TOPLAM</th>
-                  <td>15.000 TL.+ KDV</td>
-                </tr>
-              </tbody>
-            </table>
           </div>
 	    	</div>
 	    </div>
