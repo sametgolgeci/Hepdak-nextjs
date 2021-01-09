@@ -13,7 +13,7 @@ const Header = () => (
 			<img className="header-ataturk" src="img/ataturk.png"></img>
 		</div>*/}
 		<div className="header-logo">
-			<Link href="/"><a><img className="header-logo-img" src="img/hepdak-logo.png" title="HEPDAK"></img></a></Link>
+			<Link href="/"><a><img className="header-logo-img" src="img/hepdak-yatay.jpg" title="HEPDAK"></img></a></Link>
 		</div>
 	</div>
 </div>
