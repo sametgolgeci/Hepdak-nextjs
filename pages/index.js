@@ -4,7 +4,6 @@ import MasterPage from '../components/master-page'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faHourglassStart,faCheck,faFileAlt,faImages,faChevronRight,faChevronLeft } from '@fortawesome/free-solid-svg-icons'
 
-
 const Anasayfa = () => (
   <MasterPage>
     <Head>
@@ -32,9 +31,9 @@ const Anasayfa = () => (
                 </div>
                 */}
                 <div className="carousel-item active">
-                    <Link href="https://youtu.be/cKAATDtq0K0"><a target="_blank">
-                      <div className="main-top-one-title">13 KASIM 2020 SANAL DEĞERLENDİRME EĞİTİMİ</div>
-                      <div className="main-top-one-content">Eğitim videosuna buradan ulaşabilirsiniz.</div>
+                  <Link href="https://youtu.be/cKAATDtq0K0"><a target="_blank">
+                    <div className="main-top-one-title">13 KASIM 2020 SANAL DEĞERLENDİRME EĞİTİMİ</div>
+                    <div className="main-top-one-content">Eğitim videosuna buradan ulaşabilirsiniz.</div>
                     </a></Link>
                   </div>
                 <div className="carousel-item">
@@ -114,6 +113,9 @@ const Anasayfa = () => (
         </div>
         <div className="tab-pane fade main-second-nav" id="tum">
           <ul className="nav justify-content-center">
+           <li className="nav-item">
+              <a className="nav-link main-second-nav-item" data-toggle="pill" href="#yirmibir">2021</a>
+            </li>
             <li className="nav-item">
               <a className="nav-link main-second-nav-item active" data-toggle="pill" href="#yirmi">2020</a>
             </li>
@@ -122,6 +124,7 @@ const Anasayfa = () => (
             </li>
           </ul>
           <div className="tab-content">
+            <div id="yirmibir" className="container tab-pane fade"></div>
             <div id="yirmi" className="container tab-pane active">
             <div className="main-top-second">
                 <div className="main-top-second-title">SABDEK Uzaktan Eğitim Çalışmaları ve Yaz Okulu Açıklaması (02 Temmuz 2020)</div>
@@ -155,7 +158,7 @@ const Anasayfa = () => (
                 <p>Kuramsal ve klinik eğitim becerilerini kazanma ve program çıktılarına ulaşma durumu uygun ölçme ve değerlendirme yöntemleri ile değerlendirilmelidir.</p>
                 <p>2019-2020 bahar dönemi ile gelecek öğretim yılı/yılları için yapılan planlamalar ve uygulamalar konusunda “karar alma süreçleri, teorik ve uygulamaların nasıl yürütüldüğü, eğitimcilerin uzaktan öğretim becerilerini desteklemek için yapılan eğitici eğitimleri, ölçme değerlendirme ve program çıktılarına ulaşıldığını” gösteren kanıtlar sunulmalıdır.</p>
                 <p><h5>Uzaktan eğitimin değerlendirilmesi</h5>Uzaktan yapılan eğitimler kayıt altına alınarak kanıtları sunulmalıdır. Uzaktan öğretimle yürütülen derslerde YÖKAK’ın belirlediği “uzaktan eğitimde kalite güvencesi” ölçütleri göz önüne alınmalıdır <a href="https://portal.yokak.gov.tr/makale/uzaktan-egitim-ve-kalite-guvence-sistemi/">(https://portal.yokak.gov.tr/makale/uzaktan-egitim-ve-kalite-guvence-sistemi/)</a>. HEPDAK, uzaktan eğitimin nasıl değerlendirileceği konusunda daha ayrıntılı çalışmalarını sürdürmektedir ve sizlere ayrıca bildirecektir.</p>
-                <p><h4>HEPDAK Yönetim Kurulu</h4></p></div>
+                <p><h6>HEPDAK Yönetim Kurulu</h6></p></div>
               </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">Hepdak 2020-2021 Değerlendirme Planı (4 Mayıs 2020)</div>
@@ -175,15 +178,15 @@ const Anasayfa = () => (
                 o Tutarlılık toplantısı: 1-15 Mart 2021<br/>
                 o HEAK karar toplantısı: 1 Nisan 2021</p>
                 <p><h5>2020-2021 dönemi için ilk kez başvuran programlar</h5>Bu dönem, ilk kez başvuran programların değerlendirme süreçleri 2021-2022 dönemine aktarılacaktır. Olağan koşullarda, yeni dönem başvuru tarihi 1-31 Ocak 2021 olmakla birlikte, pandemi durumuna göre başvuru tarihi ve akreditasyon süreci yeniden gözden geçirilebilecektir. Bu dönem için yapılacak diğer başvurularla birlikte olası bir yığılma söz konusu olduğunda 2020 döneminde başvuran kurumlara öncelik verilerek, yeni başvuranların sayısı sınırlandırılabilecektir.</p>
-                <p><h4>HEPDAK Yönetim Kurulu</h4></p></div>
+                <p><h6>HEPDAK Yönetim Kurulu</h6></p></div>
               </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">CEENQA Üyeliği Hakkında</div>
-                <div className="main-top-second-content"><p>HEPDAK, 15 Mayıs 2020 tarihinden itibaren CEENQA - Central and Eastern European Network of Quality Assurance Agencies in Higher Education'ın tam üyesidir.İlgili dökümana <Link href="doc/CEENQA_Application_HEPDAK_Decision.pdf"><a><strong>buradan</strong></a></Link> ulaşabilirsiniz.</p><p><h4>HEPDAK Yönetim Kurulu</h4></p></div>
+                <div className="main-top-second-content"><p>HEPDAK, 15 Mayıs 2020 tarihinden itibaren CEENQA - Central and Eastern European Network of Quality Assurance Agencies in Higher Education'ın tam üyesidir.İlgili dökümana <Link href="doc/CEENQA_Application_HEPDAK_Decision.pdf"><a><strong>buradan</strong></a></Link> ulaşabilirsiniz.</p><p><h6>HEPDAK Yönetim Kurulu</h6></p></div>
               </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">Hemşirelik Haftası Kutlaması</div>
-                <div className="main-top-second-content"><p>Hemşireler, Covid-19 ile mücadele sürecinde en ön saflarda görev alarak hemşirelik mesleğinin tüm toplum için vazgeçilmez olduğunun kanıtladılar.</p><p>Tüm meslektaşlarımızın hemşirelik haftasını kutluyor, sağlıklı günler diliyoruz.</p><p><h4>HEPDAK Yönetim Kurulu</h4></p></div>
+                <div className="main-top-second-content"><p>Hemşireler, Covid-19 ile mücadele sürecinde en ön saflarda görev alarak hemşirelik mesleğinin tüm toplum için vazgeçilmez olduğunun kanıtladılar.</p><p>Tüm meslektaşlarımızın hemşirelik haftasını kutluyor, sağlıklı günler diliyoruz.</p><p><h6>HEPDAK Yönetim Kurulu</h6></p></div>
               </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">YÖKAK Saha Ziyareti</div>
@@ -197,15 +200,15 @@ const Anasayfa = () => (
               </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">29 Ekim Cumhuriyet Bayramı Kutlaması</div>
-                <div className="main-top-second-content"><img src="img/duyurular/29ekim2019.jpg" height="300px"/></div>
+                <div className="main-top-second-content"><img src="img/duyurular/29ekim2019.jpg"/></div>
               </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">30 Ağustos Zafer Bayramı Kutlaması</div>
-                <div className="main-top-second-content"><img src="img/duyurular/30ağustos2019.jpg" height="300px"/></div>
+                <div className="main-top-second-content"><img src="img/duyurular/30ağustos2019.jpg"/></div>
               </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">Kurban Bayramınız Mübarek Olsun</div>
-                <div className="main-top-second-content"><img src="img/duyurular/kurban2019.jpg" height="300px"/></div>
+                <div className="main-top-second-content"><img src="img/duyurular/kurban2019.jpg"/></div>
               </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">CEENQUA'da Sempozyum Haberimiz</div>
@@ -213,19 +216,19 @@ const Anasayfa = () => (
               </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">Ramazan Bayramınız Mübarek Olsun</div>
-                <div className="main-top-second-content"><img src="img/duyurular/ramazan2019.jpg" height="300px"/></div>
+                <div className="main-top-second-content"><img src="img/duyurular/ramazan2019.jpg"/></div>
               </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">19 Mayıs Atütürk'ü Anma, Gençlik ve Spor Bayramı Kutlaması</div>
-                <div className="main-top-second-content"><img src="img/duyurular/19mayis2019.jpg" height="300px"/></div>
+                <div className="main-top-second-content"><img src="img/duyurular/19mayis2019.jpg"/></div>
               </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">12-18 Mayıs Hemşirelik Haftamız Kutlu Olsun</div>
-                <div className="main-top-second-content"><img src="img/duyurular/hemsire2019.jpg" height="300px"/></div>
+                <div className="main-top-second-content"><img src="img/duyurular/hemsire2019.jpg"/></div>
               </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">23 Nisan Ulusal Egemenlik ve Çocuk Bayramı Kutlaması</div>
-                <div className="main-top-second-content"><img src="img/duyurular/23nisan2019.jpg" height="300px"/></div>
+                <div className="main-top-second-content"><img src="img/duyurular/23nisan2019.jpg"/></div>
               </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">Hemşirelik Eğitiminin Geleceği: 19-20 Haziran 2018 Akreditasyon, Standartlar, İyi Uygulama Örnekleri</div>
@@ -233,7 +236,7 @@ const Anasayfa = () => (
               </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">HEPDAK Olarak Yeni Yılınızı Kutlarız</div>
-                <div className="main-top-second-content"><img src="img/duyurular/yeniyil2019.jpg" height="300px"/></div>
+                <div className="main-top-second-content"><img src="img/duyurular/yeniyil2019.jpg"/></div>
               </div>
             </div>
           </div>
@@ -241,14 +244,6 @@ const Anasayfa = () => (
       </div>
     </div>
     <div className="main-middle">
-      {/*<div className="col-sm-12 col-md-6">
-        <p><a href="https://us02web.zoom.us/meeting/register/tZMvcOispjkuGt3Xv2sm9Pmj2WdlLTikMRwH"><img className="webinar-afis-ana" src="/img/webinar/webinar_afis_4.jpg"></img></a></p>
-      </div>
-      <div className="col-sm-12 col-md-3"></div>
-      <div className="col-sm-12 col-md-6">
-        <iframe width="100%" height="300" src="https://www.youtube.com/embed/VD9C3UzderE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      </div>
-      <div className="col-sm-12 col-md-3"></div>*/}
       <div className="col-sm-12 col-md-12 covid-index">
         <Link href="/covid-19"><a>Covid-19 Haberleri</a></Link>
       </div>
@@ -285,31 +280,31 @@ const Anasayfa = () => (
     <form action="" method="post">
       <div className="row">
         <div className="col-md-4 col-sm-12">
-          <div className="form-group iletisim-mesaj-mobil">
+          <div className="form-group">
             <label for="exampleInputEmail">Ad Soyad</label>
             <input type="text" className="form-control form-control-sm" disabled/>
           </div>
-          <div className="form-group iletisim-mesaj-mobil">
+          <div className="form-group">
             <label for="exampleInputEmail">Mail Adresiniz</label>
             <input type="email" className="form-control form-control-sm" id="exampleInputEmail1" aria-describedby="emailHelp" disabled/>
           </div>
         </div>
         <div className="col-md-4 col-sm-12">
-          <div className="form-group iletisim-mesaj-mobil">
+          <div className="form-group">
             <label for="exampleFormControlTextarea1">Mesaj</label>
             <textarea className="form-control" id="exampleFormControlTextarea1" rows="4" disabled></textarea>
           </div>
         </div>
         <div className="col-md-4 col-sm-12 iletisim-mesaj-logo">
-          <img className="main-bottom-tanınma" src="img/duyurular/YOKAK_tescil.png" title="Yükseköğretim Akademik Değerlendirme ve Kalite Geliştirme Komisyonu"/>
-          <img className="main-bottom-tanınma" src="img/duyurular/CEENQA_tescil.png" title="Yükseköğretim Akademik Değerlendirme ve Kalite Geliştirme Komisyonu"/>
+          <div><img className="main-bottom-tanınma" src="img/duyurular/YOKAK_tescil.png" title="Yükseköğretim Akademik Değerlendirme ve Kalite Geliştirme Komisyonu"/></div>
+          <div><img className="main-bottom-tanınma" src="img/duyurular/CEENQA_tescil.png" title="Yükseköğretim Akademik Değerlendirme ve Kalite Geliştirme Komisyonu"/></div>
         </div>
       </div>
-      <button type="submit" className="iletisim-button btn iletisim-mesaj-mobil" disabled>Gönder</button>
+      <button type="submit" className="iletisim-button btn" disabled>Gönder</button>
     </form>
     <div className="col-md-4 col-sm-12 iletisim-mesaj-logo-mobil">
-      <img className="main-bottom-tanınma" src="img/duyurular/YOKAK_tescil.png" title="Yükseköğretim Akademik Değerlendirme ve Kalite Geliştirme Komisyonu"/>
-      <img className="main-bottom-tanınma" src="img/duyurular/CEENQA_tescil.png" title="Yükseköğretim Akademik Değerlendirme ve Kalite Geliştirme Komisyonu"/>
+      <div><img className="main-bottom-tanınma" src="img/duyurular/YOKAK_tescil.png" title="Yükseköğretim Akademik Değerlendirme ve Kalite Geliştirme Komisyonu"/></div>
+      <div><img className="main-bottom-tanınma" src="img/duyurular/CEENQA_tescil.png" title="Yükseköğretim Akademik Değerlendirme ve Kalite Geliştirme Komisyonu"/></div>
     </div>
   </div>
     <div className="main-bottom">
@@ -446,4 +441,3 @@ const Anasayfa = () => (
   </MasterPage>
 )
 export default Anasayfa
-

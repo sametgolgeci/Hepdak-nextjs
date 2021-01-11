@@ -7,7 +7,7 @@ const Yonetim= () => (
 		<Head>
 			<title>HEPDAK | Yönetim ve Denetleme Kurulu</title>
 		</Head>
-		<div className="genel yonetim-text">	
+		<div className="genel">	
 			<h1>HEPDAK Yönetim Kurulu Üyeleri</h1>
 			<div className="col-md-4 col-xs-12">
 				<p className="yonetim-text">Prof. Dr. Gülseren Kocaman<br/><strong>Başkan</strong></p>
