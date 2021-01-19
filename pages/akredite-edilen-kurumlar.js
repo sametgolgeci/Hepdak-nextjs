@@ -77,17 +77,17 @@ const Akredite = () => (
                   <td>30.09.2021</td>
                 </tr>
                 <tr>
-                  <th scope="row">Marmara Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü</th>
+                  <th scope="row">Marmara Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü | <Link  href="doc/rapor-marmara.pdf"><a className="akreditasyon-rapor">Genel Değerlendirme Kesin Raporu İçin</a></Link></th>
                   <td>04.04.2020</td>
                   <td>30.09.2022</td>
                 </tr>
                 <tr>
-                  <th scope="row">Ondokuz Mayıs Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü</th>
+                  <th scope="row">Ondokuz Mayıs Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü | <Link  href="doc/rapor-omu.pdf"><a className="akreditasyon-rapor">Genel Değerlendirme Kesin Raporu İçin</a></Link></th>
                   <td>04.04.2020</td>
                   <td>30.09.2022</td>
                 </tr>
                 <tr>
-                  <th scope="row">Akdeniz Üniversitesi Hemşirelik Fakültesi</th>
+                  <th scope="row">Akdeniz Üniversitesi Hemşirelik Fakültesi | <Link  href="doc/rapor-akdeniz.pdf"><a className="akreditasyon-rapor">Genel Değerlendirme Kesin Raporu İçin</a></Link></th>
                   <td>04.04.2020</td>
                   <td>30.09.2022</td>
                 </tr>
