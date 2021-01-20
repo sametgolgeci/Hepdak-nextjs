@@ -10,6 +10,7 @@ const Rapor = () => (
 	    <div className="genel">
 	    	<h1>Faaliyet Raporları</h1>
 	    	<p className="madde-p">HEPDAK Faaliyet Raporu 2018 için <Link href="doc/hepdak-faaliyet-raporu-2018.pdf"><a>tıklayınız</a></Link></p>
+	    	<p className="madde-p">HEPDAK Faaliyet Raporu 2019 için <Link href="doc/hepdak-faaliyet-raporu-2019.pdf"><a>tıklayınız</a></Link></p>
 	    	</div>
 	    	<div className="safe"></div>
     </MasterPage>
