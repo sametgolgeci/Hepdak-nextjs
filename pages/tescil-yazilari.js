@@ -21,13 +21,15 @@ const Tescil = () => (
 	    		<p><Link href="doc/HEPDAK-2019-TESCIL.jpg"><a>İlgili YÖKAK yazısı için tıklayınız</a></Link></p>
 	    	</div>
 	    	<h1>HEPDAK Tescil Başvuru Yazıları ve YÖKAK Değerlendirme Raporları</h1>	
-	    	<p className="madde-p">• <Link href="doc/2018_yokak_hepdak_degerlendirme_raporu.pdf"><a>2018 YÖKAK HEPDAK Değerlendirme Raporu</a></Link></p>
-	    	<p className="madde-p">• <Link href="doc/2018-hepdak-yokak-tescil-basvuru-raporu.pdf"><a>2018 HEPDAK YÖKAK Tescil Başvuru Raporu</a></Link></p>
-	    	<p className="madde-p">• <Link href="doc/2018-hepdak-raporunda-yer-alan-belgeler.pdf"><a>2018 HEPDAK Raporunda Yer Alan Belgeler</a></Link></p>
-	    	<p className="madde-p">• <Link href="doc/2016-yokak-hepdak-degerlendirme-raporu.pdf"><a>2016 YÖK HEPDAK Değerlendirme Raporu</a></Link></p>
-	    	<p className="madde-p">• <Link href="doc/2016-hepdak-tescil-basvuru-revize-raporu.pdf"><a>2016 HEPDAK Tescil Başvuru Raporu</a></Link></p>
-	    	<p className="madde-p">• <Link href="doc/2013-hepdak-tescil-basvuru-raporu.pdf"><a>2013 YÖK HEPDAK Tescil Başvuru Raporu</a></Link></p>
-	    	
+	    	<h6>2018</h6>	
+	    	<p className="madde-p">• <Link href="doc/2018_yokak_hepdak_degerlendirme_raporu.pdf"><a>YÖKAK HEPDAK Değerlendirme Raporu</a></Link></p>
+	    	<p className="madde-p">• <Link href="doc/2018-hepdak-yokak-tescil-basvuru-raporu.pdf"><a>HEPDAK YÖKAK Tescil Başvuru Raporu</a></Link></p>
+	    	<p className="madde-p">• <Link href="doc/2018-hepdak-raporunda-yer-alan-belgeler.pdf"><a>HEPDAK Raporunda Yer Alan Belgeler</a></Link></p>
+	    	<h6>2016</h6>
+	    	<p className="madde-p">• <Link href="doc/2016-yokak-hepdak-degerlendirme-raporu.pdf"><a>YÖK HEPDAK Değerlendirme Raporu</a></Link></p>
+	    	<p className="madde-p">• <Link href="doc/2016-hepdak-tescil-basvuru-revize-raporu.pdf"><a>HEPDAK Tescil Başvuru Raporu</a></Link></p>
+	    	<h6>2013</h6>
+	    	<p className="madde-p">• <Link href="doc/2013-hepdak-tescil-basvuru-raporu.pdf"><a>YÖK HEPDAK Tescil Başvuru Raporu</a></Link></p>
 	    </div>
     </MasterPage>
 )
