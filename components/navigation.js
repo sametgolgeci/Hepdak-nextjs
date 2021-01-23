@@ -16,7 +16,8 @@ const Navigation = () => (
 						<Link href="/kalite-politikasi"><a className="dropdown-item">Kalite Politikası</a></Link>
 						<Link href="/yonetim-ve-denetleme-kurulu"><a className="dropdown-item">Yönetim ve Denetleme Kurulu</a></Link>
 						<Link href="/kurul-ve-komisyonlar"><a className="dropdown-item">Kurul ve Komisyonlar</a></Link>
-						<Link href="/uluslararasi-uyelik-ve-tescil-yazilari"><a className="dropdown-item">Uluslararası Üyelik ve Tescil Yazıları</a></Link>
+						<Link href="/uluslararasi-uyelik"><a className="dropdown-item">Uluslararası Üyelik</a></Link>
+						<Link href="/tescil-yazilari"><a className="dropdown-item">Tescil Yazıları</a></Link>
 			      <Link href="/uye-listesi"><a className="dropdown-item">Üye Listesi</a></Link>
 			      <Link href="/hepdak-genel-kurulu-ve-raporlari"><a className="dropdown-item">Genel Kurul ve Raporları</a></Link>
 						<Link href="/tematik-analiz-raporu"><a className="dropdown-item">Tematik Analiz Raporu</a></Link>

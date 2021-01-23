@@ -31,11 +31,17 @@ const Anasayfa = () => (
                 </div>
                 */}
                 <div className="carousel-item active">
+                  <Link href="https://www.youtube.com/channel/UC96oXHHypl1WFXpOkvwwj9A"><a target="_blank">
+                    <div className="main-top-one-title">DUYURU</div>
+                    <div className="main-top-one-content">Uzaktan eğitim sürecine yönelik eğitimleri ve sanal değerlendirme eğitimi videolarını <strong>HEPDAK Youtube kanalımızdan</strong> izleyebilirsiniz.</div>
+                  </a></Link>
+                </div>
+                <div className="carousel-item">
                   <Link href="https://youtu.be/cKAATDtq0K0"><a target="_blank">
                     <div className="main-top-one-title">13 KASIM 2020 SANAL DEĞERLENDİRME EĞİTİMİ</div>
                     <div className="main-top-one-content">Eğitim videosuna buradan ulaşabilirsiniz.</div>
-                    </a></Link>
-                  </div>
+                  </a></Link>
+                </div>
                 <div className="carousel-item">
                   <Link href="/kurum-egitimi-8"><a target="_blank">
                     <div className="main-top-one-title">KURUM TANITIM EĞİTİMİ</div>

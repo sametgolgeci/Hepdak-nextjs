@@ -31,7 +31,8 @@ const Footer = () => (
 			<div className="footer-item-link"><Link href="/kalite-politikasi"><a>Kalite Politikası</a></Link></div>
 			<div className="footer-item-link"><Link href="/yonetim-ve-denetleme-kurulu"><a>Yönetim ve Denetleme Kurulu</a></Link></div>
 			<div className="footer-item-link"><Link href="/kurul-ve-komisyonlar"><a>Kurul ve Komisyonlar</a></Link></div>
-			<div className="footer-item-link"><Link href="/uluslararasi-uyelik-ve-tescil-yazilari"><a>Uluslararası Üyelik ve Tescil Yazıları</a></Link></div>
+			<div className="footer-item-link"><Link href="/uluslararasi-uyelik"><a>Uluslararası Üyelik</a></Link></div>
+			<div className="footer-item-link"><Link href="/tescil-yazilari"><a>Tescil Yazıları</a></Link></div>
 			<div className="footer-item-link"><Link href="/uye-listesi"><a>Üye Listesi</a></Link></div>
 			<div className="footer-item-link"><Link href="/hepdak-genel-kurulu-ve-raporlari"><a>Genel Kurul ve Raporları</a></Link></div>
 			<div className="footer-item-link"><Link href="/tematik-analiz-raporu"><a>Tematik Analiz Raporu</a></Link></div>

@@ -15,6 +15,18 @@ const Calistay = () => (
 		<p className="madde-p">• Değerlendirme becerisini geliştirme</p>
 		<p className="madde-p">• Değerlendirici davranışını geliştirme</p>
 		<p className="madde-p">• Öğrenci değerlendiricilerden değerlendirme sürecindeki beklentiler</p>
+		<h6><span className="badge badge-custom">3</span> 22 Şubat 2020 (İzmir)</h6>
+		<ul className="nav calistay-nav">
+		  <li className="nav-item">
+		    <a className="nav-link calistay-button" href="doc/ogrenci_egitim_3/22Subat2020_ogr_program.docx">Program</a>
+		  </li>
+		  <li className="nav-item">
+		    <a className="nav-link calistay-button" href="doc/ogrenci_egitim_3/22Subat2020_ogr_katilimci.docx">Katılımcı Listesi</a>
+		  </li>
+		  <li className="nav-item">
+		    <a className="nav-link calistay-button" href="doc/ogrenci_egitim_3/22Subat2020_egitim_degerlendirme.docx">Değerlendirme</a>
+		  </li>
+		</ul>
 		<h6><span className="badge badge-custom">2</span> 31 Mart 2018 (İzmir)</h6>
 		<ul className="nav calistay-nav">
 		  <li className="nav-item">
