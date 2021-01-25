@@ -25,13 +25,15 @@ const Footer = () => (
 			</div>
 		</div>
 		<div className="col-sm-12 col-md-3 footer-item">
-			<div className="footer-item-title"><strong>Hakkımızda</strong></div>
-			<div className="footer-item-link"><Link href="/misyon"><a>Misyon</a></Link></div>
+			<div className="footer-item-title"><strong>Hakkımızda</strong></div> 
+	{/*	<div className="footer-item-link"><Link href="/misyon"><a>Misyon</a></Link></div> */}
+			<div className="footer-item-link"><Link href="/doc/HEPDAK_STRATEJİK_PLAN_2020.pdf"><a>Misyon, Vizyon ve Stratejik Hedefler</a></Link></div>
 			<div className="footer-item-link"><Link href="/amac-ve-faaliyetler"><a>Amaç ve Faaliyetler</a></Link></div>
 			<div className="footer-item-link"><Link href="/kalite-politikasi"><a>Kalite Politikası</a></Link></div>
 			<div className="footer-item-link"><Link href="/yonetim-ve-denetleme-kurulu"><a>Yönetim ve Denetleme Kurulu</a></Link></div>
 			<div className="footer-item-link"><Link href="/kurul-ve-komisyonlar"><a>Kurul ve Komisyonlar</a></Link></div>
-			<div className="footer-item-link"><Link href="/uluslararasi-uyelik"><a>Uluslararası Üyelik</a></Link></div>
+	{/*	<div className="footer-item-link"><Link href="/uluslararasi-calismalar"><a>Uluslararası Çalışmalar</a></Link></div> */}
+			<div className="footer-item-link"><Link href="/doc/Uluslararasi_Calismalar.pdf"><a>Uluslararası Çalışmalar</a></Link></div>
 			<div className="footer-item-link"><Link href="/tescil-yazilari"><a>Tescil Yazıları</a></Link></div>
 			<div className="footer-item-link"><Link href="/uye-listesi"><a>Üye Listesi</a></Link></div>
 			<div className="footer-item-link"><Link href="/hepdak-genel-kurulu-ve-raporlari"><a>Genel Kurul ve Raporları</a></Link></div>
@@ -51,6 +53,7 @@ const Footer = () => (
 			<div className="footer-item-link"><Link href="/kurumlar-icin-egitim-calistayi"><a>Kurumlar için Eğitim Çalıştayı</a></Link></div>
 			<div className="footer-item-link"><Link href="/degerlendirici-egitimi-calistayi"><a>Değerlendirici Eğitimi Çalıştayı</a></Link></div>
 			<div className="footer-item-link"><Link href="/ogrenci-degerlendirici-egitimi-calistayi"><a>Öğrenci Değerlendirici Eğitimi Çalıştayı</a></Link></div>
+			<div className="footer-item-link"><Link href="/uzaktan-degerlendirme-egitimi-calistayi"><a>Uzaktan Değerlendirme Eğitimi Çalıştayı</a></Link></div>
 		</div>
 		<div className="col-sm-12 col-md-3 footer-item">
 			<div className="footer-item-title"><strong>Toplantılar</strong></div>

@@ -25,15 +25,9 @@ const Anasayfa = () => (
           <div className="main-top-one">
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
-                {/*
-                <div className="carousel-item">
-                  <div className="main-top-one-content-full"><img className="slider-full-img" src="img/duyurular/10kasim2020.png"/></div>
-                </div>
-                */}
                 <div className="carousel-item active">
                   <Link href="https://www.youtube.com/channel/UC96oXHHypl1WFXpOkvwwj9A"><a target="_blank">
-                    <div className="main-top-one-title">DUYURU</div>
-                    <div className="main-top-one-content">Uzaktan eğitim sürecine yönelik eğitimleri ve sanal değerlendirme eğitimi videolarını <strong>HEPDAK Youtube kanalımızdan</strong> izleyebilirsiniz.</div>
+                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/duyurular/youtube-duyuru.png"/></div>
                   </a></Link>
                 </div>
                 <div className="carousel-item">

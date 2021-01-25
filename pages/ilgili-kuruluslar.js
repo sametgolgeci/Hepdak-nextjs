@@ -92,11 +92,9 @@ const Kuruluslar = () => (
                     <td>Peyzaj Mimarlığı Eğitim ve Bilim Derneği, Türkiye</td>
                   </tr>
                   </tbody>
-                </table>
-                <table className="table table-striped">
                   <thead className="thead-dark">
                     <tr>
-                      <th scope="col" colSpan="3">Uluslararası Kuruluşlar</th>
+                      <th scope="col" colSpan="2">Uluslararası Kuruluşlar</th>
                     </tr>
                   </thead>
                   <tbody>

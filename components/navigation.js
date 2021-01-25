@@ -11,12 +11,14 @@ const Navigation = () => (
 				<li className="nav-item dropdown">
 					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">HAKKIMIZDA</a>
 					<div className="dropdown-menu">
-						<Link href="/misyon"><a className="dropdown-item">Misyon</a></Link>
+				{/*	<Link href="/misyon"><a className="dropdown-item">Misyon</a></Link> */}
+						<Link href="/doc/HEPDAK_STRATEJİK_PLAN_2020.pdf"><a className="dropdown-item">Misyon, Vizyon ve Stratejik Hedefler</a></Link>
 						<Link href="/amac-ve-faaliyetler"><a className="dropdown-item">Amaç ve Faaliyetler</a></Link>
 						<Link href="/kalite-politikasi"><a className="dropdown-item">Kalite Politikası</a></Link>
 						<Link href="/yonetim-ve-denetleme-kurulu"><a className="dropdown-item">Yönetim ve Denetleme Kurulu</a></Link>
 						<Link href="/kurul-ve-komisyonlar"><a className="dropdown-item">Kurul ve Komisyonlar</a></Link>
-						<Link href="/uluslararasi-uyelik"><a className="dropdown-item">Uluslararası Üyelik</a></Link>
+				{/*	<Link href="/uluslararasi-calismalar"><a className="dropdown-item">Uluslararası Çalışmalar</a></Link> */}
+						<Link href="/doc/Uluslararasi_Calismalar.pdf"><a className="dropdown-item">Uluslararası Çalışmalar</a></Link>
 						<Link href="/tescil-yazilari"><a className="dropdown-item">Tescil Yazıları</a></Link>
 			      <Link href="/uye-listesi"><a className="dropdown-item">Üye Listesi</a></Link>
 			      <Link href="/hepdak-genel-kurulu-ve-raporlari"><a className="dropdown-item">Genel Kurul ve Raporları</a></Link>
@@ -46,6 +48,7 @@ const Navigation = () => (
 						<Link href="/kurumlar-icin-egitim-calistayi"><a className="dropdown-item">Kurumlar için Eğitim Çalıştayı</a></Link>
 						<Link href="/degerlendirici-egitimi-calistayi"><a className="dropdown-item">Değerlendirici Eğitimi Çalıştayı</a></Link>
 						<Link href="/ogrenci-degerlendirici-egitimi-calistayi"><a className="dropdown-item">Öğrenci Değerlendirici Eğitimi Çalıştayı</a></Link>
+						<Link href="/uzaktan-degerlendirme-egitimi-calistayi"><a className="dropdown-item">Uzaktan Değerlendirme Eğitimi Çalıştayı</a></Link>
 					</div>
 				</li>
 				<li className="nav-item">
