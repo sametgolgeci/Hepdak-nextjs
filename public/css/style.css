@@ -691,13 +691,14 @@ table{
 	font-size: 1.5rem;
 	font-weight: 800;
 }
-.webinar-bottom-up{
+.webinar-bottom{
 	text-align: center;
+	margin-top: 4rem;
 }
-.webinar-bottom-up-title{
+.webinar-bottom-title{
 	font-size: 1.25rem;
 	font-weight: 700;
-	margin: 1rem 0rem;
+	margin: 1rem 0rem 2rem;
 	color: #008ac3;
 }
 .madde-p{
