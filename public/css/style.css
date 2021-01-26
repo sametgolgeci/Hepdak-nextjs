@@ -762,4 +762,23 @@ table{
 	}
 }
 
+/* 404 CSS */
+.dortyuzdort{
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	align-items: center;
+	font-size: 4rem;
+	font-weight: 500;
+	margin-top: 15%;
+}
+.dortyuzdort > h1 {
+	color: #000055;
+}
+
+
+
+
+
+
 

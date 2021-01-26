@@ -26,7 +26,7 @@ const Navigation = () => (
 						<Link href="/faaliyet-raporlari"><a className="dropdown-item">Faaliyet Raporları</a></Link>
 						<Link href="/paydas-gorusleri"><a className="dropdown-item">Paydaş Görüşleri</a></Link>
 						<Link href="/doc/hepdak-faaliyet-belgesi.pdf"><a className="dropdown-item">Dernek Faaliyet Durumu</a></Link>
-			      <Link href="/doc/hepdak_vergi_levhası_2019.pdf"><a className="dropdown-item">İktisadi İşletme</a></Link>
+			      <Link href="/doc/hepdak_iktisadi_isletme.pdf"><a className="dropdown-item">İktisadi İşletme</a></Link>
 			      <Link href="/doc/hepdak-kira-sozlesmesi.pdf"><a className="dropdown-item">Kira Sözleşmesi</a></Link>
 			      <Link href="https://www.facebook.com/pg/hepdak/photos/"><a className="dropdown-item">Fotoğraf Albümü</a></Link>
 					</div>
@@ -66,9 +66,13 @@ const Navigation = () => (
 						<Link href="/cagrili-konusmalar"><a className="dropdown-item">Çağrılı Konuşmalar</a></Link>
 					</div>
 				</li>
-        <li className="nav-item">
-	        <Link href="/yayinlar"><a className="nav-link header-nav-link disabled">YAYINLAR</a></Link>
-	      </li>
+	      <li className="nav-item dropdown">
+					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">KAYNAKLAR</a>
+					<div className="dropdown-menu">
+						<Link href="/akreditasyon-kaynaklari"><a className="dropdown-item">Akreditasyon Kaynakları</a></Link>
+						<Link href="/uzaktan-egitim-kaynaklari"><a className="dropdown-item">Uzaktan Eğitim Kaynakları</a></Link>
+					</div>
+				</li>
 	      <li className="nav-item">
 	        <Link href="/iletisim"><a className="nav-link header-nav-link">İLETİŞİM</a></Link>
 	      </li>
