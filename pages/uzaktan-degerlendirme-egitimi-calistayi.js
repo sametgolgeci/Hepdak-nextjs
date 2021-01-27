@@ -20,13 +20,13 @@ const Calistay = () => (
 			<h6><span className="badge badge-custom">1</span> 13 Kasım 2020</h6>
 			<ul className="nav calistay-nav">
 			  <li className="nav-item">
-			    <a className="nav-link calistay-button" href="doc/uzaktan_calistay_1/13Kasım2020_uzaktan_calistay_program.doc">Program</a>
+			    <a className="nav-link calistay-button" href="doc/uzaktan_calistay_1/13Kasım2020_uzaktan_calistay_program.pdf">Program</a>
 			  </li>
 			  <li className="nav-item">
-			    <a className="nav-link calistay-button" href="doc/uzaktan_calistay_1/13Kasım2020_uzaktan_calistay_katilimci.doc">Katılımcı Listesi</a>
+			    <a className="nav-link calistay-button" href="doc/uzaktan_calistay_1/13Kasım2020_uzaktan_calistay_katilimci.pdf">Katılımcı Listesi</a>
 			  </li>
 			  <li className="nav-item">
-			    <a className="nav-link calistay-button" href="doc/uzaktan_calistay_1/13Kasım2020_uzaktan_calistay_degerlendirme.docx">Değerlendirme</a>
+			    <a className="nav-link calistay-button" href="doc/uzaktan_calistay_1/13Kasım2020_uzaktan_calistay_degerlendirme.pdf">Değerlendirme</a>
 			  </li>
 			</ul>
 		</div>

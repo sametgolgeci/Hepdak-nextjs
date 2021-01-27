@@ -67,9 +67,10 @@ const Navigation = () => (
 					</div>
 				</li>
 	      <li className="nav-item dropdown">
-					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">KAYNAKLAR</a>
+					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">YAYINLAR</a>
 					<div className="dropdown-menu">
 						<Link href="/hepdak-sunumlari"><a className="dropdown-item">HEPDAK Sunumları</a></Link>
+						<Link href="/kaynaklar"><a className="dropdown-item">Kaynaklar</a></Link>
 						{/*
 						<Link href="/akreditasyon-kaynaklari"><a className="dropdown-item">Akreditasyon Kaynakları</a></Link>
 						<Link href="/uzaktan-egitim-kaynaklari"><a className="dropdown-item">Uzaktan Eğitim Kaynakları</a></Link>

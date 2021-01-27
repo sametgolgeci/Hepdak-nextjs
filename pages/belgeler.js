@@ -119,6 +119,18 @@ const Belgeler = () => (
                   <th scope="row">16</th>
                   <td>HEPDAK Uzaktan Değerlendirme ve Saha Ziyareti Yönergesi <strong>Sürüm 1.0</strong> (<Link href="doc/b16_v1.pdf"><a>PDF</a></Link> | <Link href="doc/b16_v1.docx"><a>Word</a></Link>)</td>
                 </tr>
+                <tr>
+                  <th scope="row">17</th>
+                  <td>Genel Değerlendirme - Ziyaret Öncesi Süreçler - Akış <Link href="doc/b17_v1.pdf"><a>Sürüm 1.0</a></Link></td>
+                </tr>
+                <tr>
+                  <th scope="row">18</th>
+                  <td>Genel Değerlendirme - Ziyaret Sırasındaki Süreçler - İş Akışı <Link href="doc/b18_v1.pdf"><a>Sürüm 1.0</a></Link></td>
+                </tr>
+                <tr>
+                  <th scope="row">19</th>
+                  <td>Genel Değerlendirme Kontrol Listesi <Link href="doc/b19_v1.pdf"><a>Sürüm 1.0</a></Link></td>
+                </tr>
               </tbody>
             </table>
             <table className="table table-striped">
