@@ -163,7 +163,7 @@ table{
 }
 .main-top-one-content{
 	font-family: 'Roboto', sans-serif;
-	font-size: 0.75rem;
+	font-size: 3rem;
 	font-weight: 500;
 	color: #212529;
 }
@@ -221,20 +221,20 @@ table{
 	}
 	.main-top-one-content{
 		font-family: 'Roboto', sans-serif;
-		font-size: 1rem;
+		font-size: 1.25rem;
 		font-weight: 500;
 		color: #212529;
 	}
 	.main-top-one-content-one{
 		font-family: 'Roboto', sans-serif;
-		font-size: 1rem;
+		font-size: 1.25rem;
 		font-weight: 500;
 		color: #212529;
 		width: 75%;
 	}
 	.main-top-one-content-two{
 		font-family: 'Roboto', sans-serif;
-		font-size: 1rem;
+		font-size: 1.25rem;
 		font-weight: 500;
 		color: #212529;
 		width: 25%;
@@ -290,7 +290,7 @@ table{
 		padding-left: 0.75rem;
 	}
 	.main-top-second-content{
-		font-size: 1rem;
+		font-size: 1.25rem;
 		font-weight: 400;
 		color: #212529;
 		padding-left: 0.75rem;
@@ -770,7 +770,7 @@ table{
 	align-items: center;
 	font-size: 4rem;
 	font-weight: 500;
-	margin-top: 15%;
+	margin-top: 5%;
 }
 .dortyuzdort > h1 {
 	color: #000055;

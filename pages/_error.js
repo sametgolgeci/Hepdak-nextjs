@@ -2,6 +2,7 @@ function Error({ statusCode }) {
   return (
     <p>
 			<div className="dortyuzdort">
+				<h1>Hata</h1>
 				<h1>{statusCode}</h1>
 				<a href="/">Ana Sayfa</a>
 			</div>

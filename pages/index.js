@@ -31,6 +31,10 @@ const Anasayfa = () => (
                   </a></Link>
                 </div>
                 <div className="carousel-item">
+                    <div className="main-top-one-title">TAKIM BAŞKANLARI TOPLANTISI 2021</div>
+                    <div className="main-top-one-content">2020-2021 HEPDAK Akreditasyon sürecinde çevrimiçi olarak gerçekleştirilen ziyaretlerdeki beş takım başkanı ve HEPDAK Yönetim Kurulu üyeleri 07 Ocak 2021 tarihinde çevrimiçi olarak yapılan toplantıda bir araya geldi. Takım başkanları ve Yönetim Kurulu üyeleri özellikle çevrimiçi ziyaret sürecinin yanı sıra tüm ziyaret süreci ile ilgili olarak karşılıklı bilgi alışverişinde bulundu.</div>
+                </div>
+                 <div className="carousel-item">
                   <Link href="https://youtu.be/cKAATDtq0K0"><a target="_blank">
                     <div className="main-top-one-title">13 KASIM 2020 SANAL DEĞERLENDİRME EĞİTİMİ</div>
                     <div className="main-top-one-content">Eğitim videosuna buradan ulaşabilirsiniz.</div>
@@ -114,19 +118,24 @@ const Anasayfa = () => (
         <div className="tab-pane fade main-second-nav" id="tum">
           <ul className="nav justify-content-center">
            <li className="nav-item">
-              <a className="nav-link main-second-nav-item" data-toggle="pill" href="#yirmibir">2021</a>
+              <a className="nav-link main-second-nav-item active" data-toggle="pill" href="#yirmibir">2021</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link main-second-nav-item active" data-toggle="pill" href="#yirmi">2020</a>
+              <a className="nav-link main-second-nav-item " data-toggle="pill" href="#yirmi">2020</a>
             </li>
             <li className="nav-item">
               <a className="nav-link main-second-nav-item" data-toggle="pill" href="#ondokuz">2019</a>
             </li>
           </ul>
           <div className="tab-content">
-            <div id="yirmibir" className="container tab-pane fade"></div>
-            <div id="yirmi" className="container tab-pane active">
-            <div className="main-top-second">
+            <div id="yirmibir" className="container tab-pane active">
+              <div className="main-top-second">
+                <div className="main-top-second-title">Takım Başkanları Toplantısı 2021</div>
+                <div className="main-top-second-content">2020-2021 HEPDAK Akreditasyon sürecinde çevrimiçi olarak gerçekleştirilen ziyaretlerdeki beş takım başkanı ve HEPDAK Yönetim Kurulu üyeleri 07 Ocak 2021 tarihinde çevrimiçi olarak yapılan toplantıda bir araya geldi. Takım başkanları ve Yönetim Kurulu üyeleri özellikle çevrimiçi ziyaret sürecinin yanı sıra tüm ziyaret süreci ile ilgili olarak karşılıklı bilgi alışverişinde bulundu.</div>
+              </div>
+            </div>
+            <div id="yirmi" className="container tab-pane fade">
+              <div className="main-top-second">
                 <div className="main-top-second-title">SABDEK Uzaktan Eğitim Çalışmaları ve Yaz Okulu Açıklaması (02 Temmuz 2020)</div>
                 <div className="main-top-second-content">İlgili dosyaya <Link href="/doc/SABDEK_covid.doc"><a><strong>buradan</strong></a></Link> ulaşabilirsiniz.</div>
               </div>
