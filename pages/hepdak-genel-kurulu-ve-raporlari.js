@@ -9,9 +9,9 @@ const Rapor = () => (
 	    </Head>
 	    <div className="genel">
 	    	<h1>Genel Kurul ve Raporları</h1>
-	    	<p className="madde-p">11 Ekim 2019 HEPDAK Genel Kurulu Raporları <Link href="doc/hepdak_toplanti_6.docx"><a>Gündem</a></Link></p>
-	    	<p className="madde-p">11 Ekim 2019 HEPDAK Genel Kurulu Raporları <Link href="doc/hepdak_toplanti_7.docx"><a>Çalışma Raporu</a></Link></p>
-	    	<p className="madde-p">11 Ekim 2019 HEPDAK Genel Kurulu Raporları <Link href="doc/hepdak_toplanti_8.docx"><a>Toplantı Raporu</a></Link></p>
+	    	<p className="madde-p">11 Ekim 2019 HEPDAK Genel Kurulu Raporları <Link href="doc/hepdak_toplanti_6.pdf"><a>Gündem</a></Link></p>
+	    	<p className="madde-p">11 Ekim 2019 HEPDAK Genel Kurulu Raporları <Link href="doc/hepdak_toplanti_7.pdf"><a>Çalışma Raporu</a></Link></p>
+	    	<p className="madde-p">11 Ekim 2019 HEPDAK Genel Kurulu Raporları <Link href="doc/hepdak_toplanti_8.pdf"><a>Toplantı Raporu</a></Link></p>
 	    	<p className="madde-p">8 Eylül 2016 HEPDAK Genel Kurulu Raporları <Link href="doc/hepdak_toplanti_3.pdf"><a>Gündem</a></Link></p>
 	    	<p className="madde-p">8 Eylül 2016 HEPDAK Genel Kurulu Raporları <Link href="doc/hepdak_toplanti_4.pdf"><a>Çalışma Raporu</a></Link></p>
 	    	<p className="madde-p">8 Eylül 2016 HEPDAK Genel Kurulu Raporları <Link href="doc/hepdak_toplanti_5.pdf"><a>Toplantı Raporu</a></Link></p>

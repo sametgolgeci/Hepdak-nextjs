@@ -57,7 +57,7 @@ const Calistay = () => (
 		    <a className="nav-link calistay-button" href="doc/kurum_egitim_slayt_18ocak2020.pdf">Eğitim İçeriği</a>
 		  </li>
 		  <li className="nav-item">
-		    <a className="nav-link calistay-button" href="doc/kurum_egitim_degerlendirme_18ocak2020.docx">Değerlendirme</a>
+		    <a className="nav-link calistay-button" href="doc/kurum_egitim_degerlendirme_18ocak2020.pdf">Değerlendirme</a>
 		  </li>
 		</ul>
 		<h6><span className="badge badge-custom">6</span> 21 Aralık 2019 (İzmir)</h6>
@@ -69,7 +69,7 @@ const Calistay = () => (
 		    <a className="nav-link calistay-button" href="doc/21Aralik2019_egitim_calistayi_katlimcilar.pdf">Katılımcı Listesi</a>
 		  </li>
 		  <li className="nav-item">
-		    <a className="nav-link calistay-button" href="doc/21Aralik2019_egitim_calistayi_degerlendirme.docx">Değerlendirme</a>
+		    <a className="nav-link calistay-button" href="doc/21Aralik2019_egitim_calistayi_degerlendirme.pdf">Değerlendirme</a>
 		  </li>
 		</ul>
 		<h6><span className="badge badge-custom">5</span> 1 Aralık 2018 (İzmir)</h6>

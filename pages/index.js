@@ -137,7 +137,7 @@ const Anasayfa = () => (
             <div id="yirmi" className="container tab-pane fade">
               <div className="main-top-second">
                 <div className="main-top-second-title">SABDEK Uzaktan Eğitim Çalışmaları ve Yaz Okulu Açıklaması (02 Temmuz 2020)</div>
-                <div className="main-top-second-content">İlgili dosyaya <Link href="/doc/SABDEK_covid.doc"><a><strong>buradan</strong></a></Link> ulaşabilirsiniz.</div>
+                <div className="main-top-second-content">İlgili dosyaya <Link href="/doc/SABDEK_covid.pdf"><a><strong>buradan</strong></a></Link> ulaşabilirsiniz.</div>
               </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">Türk Hemşireler Derneği ve Özel Dal Derneklerinden Yaz Okulu Açıklaması (30 Haziran 2020)</div>

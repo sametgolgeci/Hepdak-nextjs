@@ -21,7 +21,7 @@ const Kurul = () => (
 	    	<span className="madde-span">• Uzm. Hem. Sevil Erken Uncu, Sağlık Bakanlığı Hastaneleri Temsilcisi</span>
 	    	<span className="madde-span">• <strong>Hemşire:</strong> Uzm. Hem. Serap İleri, Dokuz Eylül Üniversitesi Hastanesi</span>
 	    	<span className="madde-span">• <strong>Toplum Temsilcisi:</strong> Hadiye Akçay, Kadın Haklarını Koruma Derneği</span>
-	    	<span className="madde-span">• <strong>Öğrenci:</strong> Elif Demirdelen, Dokuz Eylül Üniversitesi</span>
+	    	<span className="madde-span">• <strong>Öğrenci:</strong> Aslı Kayar, Acıbadem Mehmet Ali Aydınlar</span>
 
 	    	<h3 className="kurul-title">Standartları Belirleme ve Geliştirme Komisyonu (SBGK)</h3>
 	    	<span className="madde-span">• Prof. Dr. Kadriye Buldukoğlu (Başkan), Akdeniz Üniversitesi</span>

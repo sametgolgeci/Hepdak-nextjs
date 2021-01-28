@@ -10,7 +10,7 @@ const Covid = () => (
 	    <div className="genel">
 	    	<h1>Covid-19 Haberleri</h1>
 	    	<div className="covid-p">• 25 Temmuz 2020 - <Link href="/doc/HEPDAK_uzaktan_degerlendirme_yonergesi_25_7_2020.pdf"><a>HEPDAK Uzaktan Değerlendirme ve Saha Ziyareti Yönergesi</a></Link></div>
-	    	<div className="covid-p">• 2 Temmuz 2020 - <Link href="/doc/SABDEK_covid.doc"><a>SABDEK Uzaktan Eğitim Çalışmaları ve Yaz Okulu Açıklaması</a></Link></div>
+	    	<div className="covid-p">• 2 Temmuz 2020 - <Link href="/doc/SABDEK_covid.pdf"><a>SABDEK Uzaktan Eğitim Çalışmaları ve Yaz Okulu Açıklaması</a></Link></div>
 	    	<div className="covid-p">• 30 Haziran 2020 - <Link href="https://www.thder.org.tr/uploads/files/uzaktan-egitim-aciklama.pdf"><a>Türk Hemşireler Derneği ve Özel Dal Derneklerinden Yaz Okulu Açıklaması</a></Link></div>
 	    	<div className="covid-p">• 29 Haziran 2020 - <Link href="/doc/HEMED_uzaktan_eğitim_görüş_yazısı.pdf"><a>HEMED Uzaktan Eğitim Konusunda Görüşü</a></Link></div>
 	    	{/*<div className="covid-p">• 19 Haziran 2020 - <Link href="/doc/b14_v1.docx"><a>HEPDAK Uzaktan Eğitim Standartları</a></Link></div>*/}

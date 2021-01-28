@@ -109,11 +109,11 @@ const Belgeler = () => (
                 </tr>
                 <tr>
                   <th scope="row">14</th>
-                  <td>HEPDAK Uzaktan Eğitim Standartları <Link href="doc/b14_v1.docx"><a>Sürüm 1.0</a></Link></td>
+                  <td>HEPDAK Uzaktan Eğitim Standartları <strong>Sürüm 1.0</strong> (<Link href="doc/b14_v1.pdf"><a>PDF</a></Link> | <Link href="doc/b14_v1.docx"><a>Word</a></Link>)</td>
                 </tr>
                 <tr>
                   <th scope="row">15</th>
-                  <td>HEPDAK Uzaktan Eğitim Program Değerlendirme Çizelgesi <Link href="doc/b15_v1.doc"><a>Sürüm 1.0</a></Link></td>
+                  <td>HEPDAK Uzaktan Eğitim Program Değerlendirme Çizelgesi <strong>Sürüm 1.0</strong> (<Link href="doc/b15_v1.pdf"><a>PDF</a></Link> | <Link href="doc/b15_v1.doc"><a>Word</a></Link>)</td>
                 </tr>
                 <tr>
                   <th scope="row">16</th>

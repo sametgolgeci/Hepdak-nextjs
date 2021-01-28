@@ -14,11 +14,11 @@ const Toplantilar = () => (
 	      <tbody>
 	      	<tr>
 	          <th scope="row" width="10px">3</th>
-	          <td>Takım Başkanları Toplantısı - <Link href="doc/heak_takim/heak_takim_komisyon_3.docx"><a>7 Ocak 2021</a></Link></td>
+	          <td>Takım Başkanları Toplantısı - <Link href="doc/heak_takim/heak_takim_komisyon_3.pdf"><a>7 Ocak 2021</a></Link></td>
 	        </tr>
 	        <tr>
 	          <th scope="row" width="10px">2</th>
-	          <td>Takım Başkanları Toplantısı - <Link href="doc/heak_takim/heak_takim_komisyon_2.docx"><a>25 Ocak 2019</a></Link></td>
+	          <td>Takım Başkanları Toplantısı - <Link href="doc/heak_takim/heak_takim_komisyon_2.pdf"><a>25 Ocak 2019</a></Link></td>
 	        </tr>
 	        <tr>
 	          <th scope="row">1</th>
