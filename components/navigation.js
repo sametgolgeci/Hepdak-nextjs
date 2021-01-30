@@ -11,8 +11,8 @@ const Navigation = () => (
 				<li className="nav-item dropdown">
 					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">HAKKIMIZDA</a>
 					<div className="dropdown-menu">
-				{/*	<Link href="/misyon"><a className="dropdown-item">Misyon</a></Link> */}
-						<Link href="/doc/hepdak_stratejik_plan_2020.pdf"><a className="dropdown-item">Misyon, Vizyon ve Stratejik Hedefler</a></Link>
+						<Link href="/misyon-vizyon"><a className="dropdown-item">Misyon, Vizyon</a></Link>
+						<Link href="/doc/hepdak_stratejik_plan_2020.pdf"><a className="dropdown-item">Stratejik Plan</a></Link>
 						<Link href="/amac-ve-faaliyetler"><a className="dropdown-item">Amaç ve Faaliyetler</a></Link>
 						<Link href="/kalite-politikasi"><a className="dropdown-item">Kalite Politikası</a></Link>
 						<Link href="/yonetim-ve-denetleme-kurulu"><a className="dropdown-item">Yönetim ve Denetleme Kurulu</a></Link>

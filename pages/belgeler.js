@@ -61,7 +61,7 @@ const Belgeler = () => (
                 </tr>
                 <tr>
                   <th scope="row">2</th>
-                  <td>HEPDAK Değerlendirme ve Akreditasyon Süreci Şeması <Link href="doc/b2_v1.pdf"><a>PDF</a></Link></td>
+                  <td>HEPDAK Değerlendirme ve Akreditasyon Süreci Şeması <Link href="doc/b2_v1.pdf"><a>Sürüm 1.0</a></Link></td>
                 </tr>
                 <tr>
                   <th scope="row">3</th>

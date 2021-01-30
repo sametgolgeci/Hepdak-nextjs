@@ -25,10 +25,10 @@ const Calistay = () => (
 		<p>
 			<ul className="nav calistay-nav">
 			  <li className="nav-item">
-			    <a className="nav-link calistay-button" href="doc/degerlendirici_egitim_5/degerlendirici_egitim_5_program.docx">Program</a>
+			    <a className="nav-link calistay-button" href="doc/degerlendirici_egitim_5/degerlendirici_egitim_5_program.pdf">Program</a>
 			  </li>
 			  <li className="nav-item">
-			    <a className="nav-link calistay-button" href="doc/degerlendirici_egitim_5/degerlendirici_egitim_5_katilim_listesi.docx">Katılımcı Listesi</a>
+			    <a className="nav-link calistay-button" href="doc/degerlendirici_egitim_5/degerlendirici_egitim_5_katilim_listesi.pdf">Katılımcı Listesi</a>
 			  </li>
 			  <li className="nav-item">
 			    <a className="nav-link calistay-button" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">Sunumlar</a>

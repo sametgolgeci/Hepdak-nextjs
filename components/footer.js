@@ -26,8 +26,8 @@ const Footer = () => (
 		</div>
 		<div className="col-sm-12 col-md-3 footer-item">
 			<div className="footer-item-title"><strong>Hakkımızda</strong></div> 
-	{/*	<div className="footer-item-link"><Link href="/misyon"><a>Misyon</a></Link></div> */}
-			<div className="footer-item-link"><Link href="/doc/HEPDAK_STRATEJİK_PLAN_2020.pdf"><a>Misyon, Vizyon ve Stratejik Hedefler</a></Link></div>
+			<div className="footer-item-link"><Link href="/misyon-vizyon"><a>Misyon, Vizyon</a></Link></div>
+			<div className="footer-item-link"><Link href="/doc/HEPDAK_STRATEJİK_PLAN_2020.pdf"><a>Stratejik Plan</a></Link></div>
 			<div className="footer-item-link"><Link href="/amac-ve-faaliyetler"><a>Amaç ve Faaliyetler</a></Link></div>
 			<div className="footer-item-link"><Link href="/kalite-politikasi"><a>Kalite Politikası</a></Link></div>
 			<div className="footer-item-link"><Link href="/yonetim-ve-denetleme-kurulu"><a>Yönetim ve Denetleme Kurulu</a></Link></div>
