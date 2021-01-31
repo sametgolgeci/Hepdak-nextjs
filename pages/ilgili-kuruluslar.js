@@ -91,6 +91,14 @@ const Kuruluslar = () => (
                     <th scope="row"><a href="http://pemder.org.tr" target="_blank">PEMDER</a></th>
                     <td>Peyzaj Mimarlığı Eğitim ve Bilim Derneği, Türkiye</td>
                   </tr>
+                  <tr>
+                    <th scope="row"><a href="http://star.org.tr" target="_blank">STAR</a></th>
+                    <td>Sosyal Beşeri ve Temel Bilimler Akreditasyon ve Rating Derneği, Türkiye</td>
+                  </tr>
+                  <tr>
+                    <th scope="row"><a href="http://zidek.org.tr" target="_blank">ZİDEK</a></th>
+                    <td>Ziraat Fakülteleri Eğitim Programları Değerlendirme ve Akreditasyon Derneği, Türkiye</td>
+                  </tr>
                   </tbody>
                   <thead className="thead-dark">
                     <tr>

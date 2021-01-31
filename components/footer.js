@@ -32,14 +32,9 @@ const Footer = () => (
 			<div className="footer-item-link"><Link href="/kalite-politikasi"><a>Kalite Politikası</a></Link></div>
 			<div className="footer-item-link"><Link href="/yonetim-ve-denetleme-kurulu"><a>Yönetim ve Denetleme Kurulu</a></Link></div>
 			<div className="footer-item-link"><Link href="/kurul-ve-komisyonlar"><a>Kurul ve Komisyonlar</a></Link></div>
-	{/*	<div className="footer-item-link"><Link href="/uluslararasi-calismalar"><a>Uluslararası Çalışmalar</a></Link></div> */}
 			<div className="footer-item-link"><Link href="/doc/Uluslararasi_Calismalar.pdf"><a>Uluslararası Çalışmalar</a></Link></div>
 			<div className="footer-item-link"><Link href="/tescil-yazilari"><a>Tescil Yazıları</a></Link></div>
 			<div className="footer-item-link"><Link href="/uye-listesi"><a>Üye Listesi</a></Link></div>
-			<div className="footer-item-link"><Link href="/hepdak-genel-kurulu-ve-raporlari"><a>Genel Kurul ve Raporları</a></Link></div>
-			<div className="footer-item-link"><Link href="/tematik-analiz-raporu"><a>Tematik Analiz Raporu</a></Link></div>
-			<div className="footer-item-link"><Link href="/faaliyet-raporlari"><a>Faaliyet Raporları</a></Link></div>
-			<div className="footer-item-link"><Link href="/paydas-gorusleri"><a>Paydaş Görüşleri</a></Link></div>
 		</div>	
 		<div className="col-sm-12 col-md-3 footer-item">
 			<div className="footer-item-title"><strong>Akreditasyon</strong></div>
@@ -56,10 +51,16 @@ const Footer = () => (
 			<div className="footer-item-link"><Link href="/uzaktan-degerlendirme-egitimi-calistayi"><a>Uzaktan Değerlendirme Eğitimi Çalıştayı</a></Link></div>
 		</div>
 		<div className="col-sm-12 col-md-3 footer-item">
-			<div className="footer-item-title"><strong>Toplantılar</strong></div>
+			<div className="footer-item-title"><strong>Raporlar</strong></div>
+			<div className="footer-item-link"><Link href="/hepdak-genel-kurulu-ve-raporlari"><a>Genel Kurul ve Raporları</a></Link></div>
+			<div className="footer-item-link"><Link href="/tematik-analiz-raporu"><a>Tematik Analiz Raporu</a></Link></div>
+			<div className="footer-item-link"><Link href="/faaliyet-raporlari"><a>Faaliyet Raporları</a></Link></div>
+			<div className="footer-item-link"><Link href="/paydas-gorusleri"><a>Paydaş Görüşleri</a></Link></div>	
+			<div className="footer-item-title footer-item-title-calistay"><strong>Toplantılar</strong></div>
 			<div className="footer-item-link"><Link href="/heak-ve-komisyon-toplantilari"><a>HEAK ve Komisyon Toplantıları</a></Link></div>
 			<div className="footer-item-link"><Link href="/tutarlilik-komisyonu-toplantilari"><a>Tutarlılık Komisyonu Toplantıları</a></Link></div>
 			<div className="footer-item-link"><Link href="/takim-baskani-toplantilari"><a>Takım Başkanları Toplantıları</a></Link></div>
+			<div className="footer-item-link"><Link href="/webinar"><a>Webinar</a></Link></div>
 			<div className="footer-item-link"><Link href="/sempozyumlar"><a>Sempozyumlar</a></Link></div>
 			<div className="footer-item-link"><Link href="/egitim-etkinlikleri"><a>Eğitim Etkinlikleri</a></Link></div>
 			<div className="footer-item-link"><Link href="/cagrili-konusmalar"><a>Çağrılı Konuşmalar</a></Link></div>

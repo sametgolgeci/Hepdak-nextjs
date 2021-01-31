@@ -17,15 +17,10 @@ const Navigation = () => (
 						<Link href="/kalite-politikasi"><a className="dropdown-item">Kalite Politikası</a></Link>
 						<Link href="/yonetim-ve-denetleme-kurulu"><a className="dropdown-item">Yönetim ve Denetleme Kurulu</a></Link>
 						<Link href="/kurul-ve-komisyonlar"><a className="dropdown-item">Kurul ve Komisyonlar</a></Link>
-				{/*	<Link href="/uluslararasi-calismalar"><a className="dropdown-item">Uluslararası Çalışmalar</a></Link> */}
 						<Link href="/doc/Uluslararasi_Calismalar.pdf"><a className="dropdown-item">Uluslararası Çalışmalar</a></Link>
 						<Link href="/tescil-yazilari"><a className="dropdown-item">Tescil Yazıları</a></Link>
 			      <Link href="/uye-listesi"><a className="dropdown-item">Üye Listesi</a></Link>
-			      <Link href="/hepdak-genel-kurulu-ve-raporlari"><a className="dropdown-item">Genel Kurul ve Raporları</a></Link>
-						<Link href="/tematik-analiz-raporu"><a className="dropdown-item">Tematik Analiz Raporu</a></Link>
-						<Link href="/faaliyet-raporlari"><a className="dropdown-item">Faaliyet Raporları</a></Link>
-						<Link href="/paydas-gorusleri"><a className="dropdown-item">Paydaş Görüşleri</a></Link>
-						<Link href="/doc/hepdak-faaliyet-belgesi.pdf"><a className="dropdown-item">Dernek Faaliyet Durumu</a></Link>
+						<Link href="/doc/hepdak-faaliyet-belgesi.pdf"><a className="dropdown-item">Dernek Faaliyet Belgesi</a></Link>
 			      <Link href="/doc/hepdak_iktisadi_isletme.pdf"><a className="dropdown-item">İktisadi İşletme</a></Link>
 			      <Link href="/doc/hepdak-kira-sozlesmesi.pdf"><a className="dropdown-item">Kira Sözleşmesi</a></Link>
 			      <Link href="https://www.facebook.com/pg/hepdak/photos/"><a className="dropdown-item">Fotoğraf Albümü</a></Link>
@@ -51,9 +46,16 @@ const Navigation = () => (
 						<Link href="/uzaktan-degerlendirme-egitimi-calistayi"><a className="dropdown-item">Uzaktan Değerlendirme Eğitimi Çalıştayı</a></Link>
 					</div>
 				</li>
-				<li className="nav-item">
-	        <Link href="/webinar"><a className="nav-link header-nav-link">WEBİNAR</a></Link>
-	      </li>
+				<li className="nav-item dropdown">
+					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">RAPORLAR</a>
+					<div className="dropdown-menu">
+						<Link href="/hepdak-genel-kurulu-ve-raporlari"><a className="dropdown-item">Genel Kurul ve Raporları</a></Link>
+						<Link href="/tematik-analiz-raporu"><a className="dropdown-item">Tematik Analiz Raporu</a></Link>
+						<Link href="/faaliyet-raporlari"><a className="dropdown-item">Faaliyet Raporları</a></Link>
+						<Link href="/paydas-gorusleri"><a className="dropdown-item">Paydaş Görüşleri</a></Link>
+					</div>
+				</li>
+
         <li className="nav-item dropdown">
 					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">TOPLANTILAR</a>
 					<div className="dropdown-menu">
@@ -61,6 +63,7 @@ const Navigation = () => (
 						<Link href="/tutarlilik-komisyonu-toplantilari"><a className="dropdown-item">Tutarlılık Komisyonu Toplantıları</a></Link>
 						<Link href="/takim-baskani-toplantilari"><a className="dropdown-item">Takım Başkanı Toplantıları</a></Link>
 						<Link href="/standart-belirleme-ve-gelistirme-komisyonu-toplantilari"><a className="dropdown-item">Standart Belirleme ve Geliştirme Komisyonu Toplantıları</a></Link>
+						<Link href="/webinar"><a className="dropdown-item">Webinar</a></Link>
 						<Link href="/sempozyumlar"><a className="dropdown-item">Sempozyumlar</a></Link>
 						<Link href="/egitim-etkinlikleri"><a className="dropdown-item">Eğitim Etkinlikleri</a></Link>
 						<Link href="/cagrili-konusmalar"><a className="dropdown-item">Çağrılı Konuşmalar</a></Link>
@@ -71,10 +74,6 @@ const Navigation = () => (
 					<div className="dropdown-menu">
 						<Link href="/hepdak-sunumlari"><a className="dropdown-item">HEPDAK Sunumları</a></Link>
 						<Link href="/kaynaklar"><a className="dropdown-item">Kaynaklar</a></Link>
-						{/*
-						<Link href="/akreditasyon-kaynaklari"><a className="dropdown-item">Akreditasyon Kaynakları</a></Link>
-						<Link href="/uzaktan-egitim-kaynaklari"><a className="dropdown-item">Uzaktan Eğitim Kaynakları</a></Link>
-						*/}
 					</div>
 				</li>
 	      <li className="nav-item">
