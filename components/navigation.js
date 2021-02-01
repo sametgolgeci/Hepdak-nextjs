@@ -12,8 +12,8 @@ const Navigation = () => (
 					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">HAKKIMIZDA</a>
 					<div className="dropdown-menu">
 						<Link href="/misyon-vizyon"><a className="dropdown-item">Misyon, Vizyon</a></Link>
-						<Link href="/doc/hepdak_stratejik_plan_2020.pdf"><a className="dropdown-item">Stratejik Plan</a></Link>
 						<Link href="/amac-ve-faaliyetler"><a className="dropdown-item">Amaç ve Faaliyetler</a></Link>
+						<Link href="/doc/hepdak_stratejik_plan_2020.pdf"><a className="dropdown-item">Stratejik Plan</a></Link>
 						<Link href="/kalite-politikasi"><a className="dropdown-item">Kalite Politikası</a></Link>
 						<Link href="/yonetim-ve-denetleme-kurulu"><a className="dropdown-item">Yönetim ve Denetleme Kurulu</a></Link>
 						<Link href="/kurul-ve-komisyonlar"><a className="dropdown-item">Kurul ve Komisyonlar</a></Link>
@@ -52,10 +52,9 @@ const Navigation = () => (
 						<Link href="/hepdak-genel-kurulu-ve-raporlari"><a className="dropdown-item">Genel Kurul ve Raporları</a></Link>
 						<Link href="/tematik-analiz-raporu"><a className="dropdown-item">Tematik Analiz Raporu</a></Link>
 						<Link href="/faaliyet-raporlari"><a className="dropdown-item">Faaliyet Raporları</a></Link>
-						<Link href="/paydas-gorusleri"><a className="dropdown-item">Paydaş Görüşleri</a></Link>
+						<Link href="/paydas-gorusleri"><a className="dropdown-item">Paydaş Görüşü Raporları</a></Link>
 					</div>
 				</li>
-
         <li className="nav-item dropdown">
 					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">TOPLANTILAR</a>
 					<div className="dropdown-menu">
@@ -63,7 +62,7 @@ const Navigation = () => (
 						<Link href="/tutarlilik-komisyonu-toplantilari"><a className="dropdown-item">Tutarlılık Komisyonu Toplantıları</a></Link>
 						<Link href="/takim-baskani-toplantilari"><a className="dropdown-item">Takım Başkanı Toplantıları</a></Link>
 						<Link href="/standart-belirleme-ve-gelistirme-komisyonu-toplantilari"><a className="dropdown-item">Standart Belirleme ve Geliştirme Komisyonu Toplantıları</a></Link>
-						<Link href="/webinar"><a className="dropdown-item">Webinar</a></Link>
+						<Link href="/webinar"><a className="dropdown-item">Webinarlar</a></Link>
 						<Link href="/sempozyumlar"><a className="dropdown-item">Sempozyumlar</a></Link>
 						<Link href="/egitim-etkinlikleri"><a className="dropdown-item">Eğitim Etkinlikleri</a></Link>
 						<Link href="/cagrili-konusmalar"><a className="dropdown-item">Çağrılı Konuşmalar</a></Link>
