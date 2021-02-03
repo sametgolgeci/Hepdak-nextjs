@@ -712,6 +712,9 @@ table{
 .sempozyum-title{
 	color: #008ac3;
 }
+.sempozyum-alt{
+	padding-top: 3rem;
+}
 .covid-index{
 	text-align: center;
 	font-size: 1.25rem;
