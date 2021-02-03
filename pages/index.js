@@ -26,6 +26,16 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
+                    <div className="main-top-one-title">HEPDAK Değerlendirici Eğitimi (27-29 Mayıs 2021)</div>
+                    <div className="main-top-one-content">Eğitim programı çevrimiçi olarak yürütülecektir.</div>
+                </div>
+
+                <div className="carousel-item">
+                    <div className="main-top-one-title">HEPDAK ÖĞRENCİ DEĞERLENDİRİCİLERİ EĞİTİM ÇALIŞTAYI (10 Nisan 2021)</div>
+                    <div className="main-top-one-content">Eğitim programı çevrimiçi olarak yürütülecektir.</div>
+                </div>
+
+                <div className="carousel-item">
                   <Link href="https://www.youtube.com/channel/UC96oXHHypl1WFXpOkvwwj9A"><a target="_blank">
                     <div className="main-top-one-content-full"><img className="slider-full-img" src="img/duyurular/youtube-duyuru.png"/></div>
                   </a></Link>
@@ -34,7 +44,7 @@ const Anasayfa = () => (
                     <div className="main-top-one-title">TAKIM BAŞKANLARI TOPLANTISI 2021</div>
                     <div className="main-top-one-content">2020-2021 HEPDAK Akreditasyon sürecinde çevrimiçi olarak gerçekleştirilen ziyaretlerdeki beş takım başkanı ve HEPDAK Yönetim Kurulu üyeleri 07 Ocak 2021 tarihinde çevrimiçi olarak yapılan toplantıda bir araya geldi. Takım başkanları ve Yönetim Kurulu üyeleri özellikle çevrimiçi ziyaret sürecinin yanı sıra tüm ziyaret süreci ile ilgili olarak karşılıklı bilgi alışverişinde bulundu.</div>
                 </div>
-                 <div className="carousel-item">
+                <div className="carousel-item">
                   <Link href="https://youtu.be/cKAATDtq0K0"><a target="_blank">
                     <div className="main-top-one-title">13 KASIM 2020 SANAL DEĞERLENDİRME EĞİTİMİ</div>
                     <div className="main-top-one-content">Eğitim videosuna buradan ulaşabilirsiniz.</div>
@@ -129,6 +139,14 @@ const Anasayfa = () => (
           </ul>
           <div className="tab-content">
             <div id="yirmibir" className="container tab-pane active">
+               <div className="main-top-second">
+                <div className="main-top-second-title">HEPDAK Değerlendirici Eğitimi (27-29 Mayıs 2021)</div>
+                <div className="main-top-second-content">Eğitim programı çevrimiçi olarak yürütülecektir.</div>
+              </div>
+               <div className="main-top-second">
+                <div className="main-top-second-title">THEPDAK ÖĞRENCİ DEĞERLENDİRİCİLERİ EĞİTİM ÇALIŞTAYI (10 Nisan 2021)</div>
+                <div className="main-top-second-content">Eğitim programı çevrimiçi olarak yürütülecektir.</div>
+              </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">Takım Başkanları Toplantısı 2021</div>
                 <div className="main-top-second-content">2020-2021 HEPDAK Akreditasyon sürecinde çevrimiçi olarak gerçekleştirilen ziyaretlerdeki beş takım başkanı ve HEPDAK Yönetim Kurulu üyeleri 07 Ocak 2021 tarihinde çevrimiçi olarak yapılan toplantıda bir araya geldi. Takım başkanları ve Yönetim Kurulu üyeleri özellikle çevrimiçi ziyaret sürecinin yanı sıra tüm ziyaret süreci ile ilgili olarak karşılıklı bilgi alışverişinde bulundu.</div>

@@ -10,13 +10,7 @@ const Calistay = () => (
 	<div className="row">
 		<div className="genel col-md-12 col-sm-12">
 			<h1 id="uzaktan">Değerlendiriciler ve Kurumlar için Uzaktan Değerlendirme Eğitimi Çalıştayı</h1>
-	{/*
-			<p>HEPDAK değerlendirmelerinde program değerlendiricisi olarak görev alacak olan öğrenci değerlendiricilerin daha önceden bir değerlendirici eğitiminden geçmeleri gerekmektedir. Öğrenci değerlendirici adaylarına bu eğitimlerde aşağıda belirtilen konularında bilgilendirme yapılmaktadır;</p>
-			<p className="madde-p">• HEPDAK ve değerlendirme sürecini yakından tanıma</p>
-			<p className="madde-p">• Değerlendirme becerisini geliştirme</p>
-			<p className="madde-p">• Değerlendirici davranışını geliştirme</p>
-			<p className="madde-p">• Öğrenci değerlendiricilerden değerlendirme sürecindeki beklentiler</p>
-	*/}
+			<p><strong>Eğitimin amacı,</strong> değerlendiricilerin sanal kurum ziyareti aşamalarını deneyimlemelerini sağlayarak uzaktan ziyaret sürecinin kolaylaştırılmasına katkıda bulunmaktır.</p>
 			<h6><span className="badge badge-custom">1</span> 13 Kasım 2020</h6>
 			<ul className="nav calistay-nav">
 			  <li className="nav-item">
