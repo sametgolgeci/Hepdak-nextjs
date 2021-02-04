@@ -2516,7 +2516,7 @@ textarea.form-control {
   display: inline-block;
   font-weight: 400;
   color: #212529;
-  text-align: center;
+  text-align: left;
   vertical-align: middle;
   cursor: pointer;
   -webkit-user-select: none;
@@ -4765,6 +4765,17 @@ input[type="button"].btn-block {
   min-height: 1px;
   padding: 0;
 }
+.card-body-two {
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+  min-height: 1px;
+  padding: 1rem;
+}
+
+.card-body-two > p {
+  font-weight: 500;
+  font-size: 1rem
+} 
 
 .card-title {
   margin-bottom: 0.75rem;

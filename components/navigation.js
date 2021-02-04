@@ -81,7 +81,7 @@ const Navigation = () => (
 	        <Link href="/iletisim"><a className="nav-link header-nav-link">İLETİŞİM</a></Link>
 	      </li>
 	      <li className="nav-item">
-	        <Link href="/sss"><a className="nav-link header-nav-link disabled">SSS</a></Link>
+	        <Link href="/sss"><a className="nav-link header-nav-link">SSS</a></Link>
 	      </li>
 			</ul>
 		</div>
