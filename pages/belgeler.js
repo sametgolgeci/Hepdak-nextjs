@@ -61,7 +61,7 @@ const Belgeler = () => (
                 </tr>
                 <tr>
                   <th scope="row">2</th>
-                  <td>HEPDAK Değerlendirme ve Akreditasyon Süreci<Link href="doc/b2_v1.pdf"><a>Sürüm 1.0</a></Link></td>
+                  <td>HEPDAK Değerlendirme ve Akreditasyon Süreci <Link href="doc/b2_v1.pdf"><a>Sürüm 1.0</a></Link></td>
                 </tr>
                 <tr>
                   <th scope="row">3</th>
@@ -130,7 +130,7 @@ const Belgeler = () => (
               <tbody>
                 <tr>
                   <th scope="row" width="10px">1</th>
-                  <td>Genel Değerlendirme - Ziyaret Öncesi Süreçler - Akış <Link href="doc/d1_v1.pdf"><a>Sürüm 1.0</a></Link></td>
+                  <td>HEPDAK Akreditasyon Süreci Akış Şeması <Link href="doc/d1_v1.pdf"><a>Sürüm 1.0</a></Link></td>
                 </tr>
                 <tr>
                   <th scope="row">2</th>
