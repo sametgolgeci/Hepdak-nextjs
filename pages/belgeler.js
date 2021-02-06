@@ -28,7 +28,7 @@ const Belgeler = () => (
                 </tr>
                 <tr>
                   <th scope="row">3</th>
-                  <td>HEPDAK Değerlendirme ve Akreditasyon Uygulama Esasları Yönergesi <Link href="doc/a3_v1.pdf"><a>Sürüm 1.0</a></Link> | <Link href="doc/a3_v2.pdf"><a>Sürüm 2.0</a></Link> | <Link href="doc/a3_v3.pdf"><a>Sürüm 3.0</a></Link></td>
+                  <td>HEPDAK Değerlendirme ve Akreditasyon Uygulama Esasları Yönergesi <Link href="doc/a3_v1.pdf"><a>Sürüm 1.0</a></Link> | <Link href="doc/a3_v2.pdf"><a>Sürüm 2.0</a></Link> | <Link href="doc/a3_v3.pdf"><a>Sürüm 3.0</a></Link> | <Link href="doc/a3_v4.pdf"><a>Sürüm 4.0</a></Link></td>
                 </tr>
                 <tr>
                   <th scope="row">4</th>
@@ -61,7 +61,7 @@ const Belgeler = () => (
                 </tr>
                 <tr>
                   <th scope="row">2</th>
-                  <td>HEPDAK Değerlendirme ve Akreditasyon Süreci Şeması <Link href="doc/b2_v1.pdf"><a>Sürüm 1.0</a></Link></td>
+                  <td>HEPDAK Değerlendirme ve Akreditasyon Süreci<Link href="doc/b2_v1.pdf"><a>Sürüm 1.0</a></Link></td>
                 </tr>
                 <tr>
                   <th scope="row">3</th>
@@ -134,15 +134,19 @@ const Belgeler = () => (
                 </tr>
                 <tr>
                   <th scope="row">2</th>
-                  <td>Genel Değerlendirme - Ziyaret Sırasındaki Süreçler - İş Akışı <Link href="doc/d2_v1.pdf"><a>Sürüm 1.0</a></Link></td>
+                  <td>Genel Değerlendirme - Ziyaret Öncesi Süreçler - Akış <Link href="doc/d2_v1.pdf"><a>Sürüm 1.0</a></Link></td>
                 </tr>
                 <tr>
                   <th scope="row">3</th>
-                  <td>Genel Değerlendirme Kontrol Listesi <Link href="doc/d3_v1.pdf"><a>Sürüm 1.0</a></Link></td>
+                  <td>Genel Değerlendirme - Ziyaret Sırasındaki Süreçler - İş Akışı <Link href="doc/d3_v1.pdf"><a>Sürüm 1.0</a></Link></td>
                 </tr>
                 <tr>
                   <th scope="row">4</th>
-                  <td>HEPDAK Tutarlılık Süreci <Link href="doc/d4_v1.pdf"><a>Sürüm 1.0</a></Link></td>
+                  <td>Genel Değerlendirme Kontrol Listesi <Link href="doc/d4_v1.pdf"><a>Sürüm 1.0</a></Link></td>
+                </tr>
+                <tr>
+                  <th scope="row">5</th>
+                  <td>HEPDAK Tutarlılık Süreci <Link href="doc/d5_v1.pdf"><a>Sürüm 1.0</a></Link></td>
                 </tr>
               </tbody>
             </table>
