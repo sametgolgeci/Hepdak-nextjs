@@ -45,12 +45,6 @@ const Anasayfa = () => (
                     <div className="main-top-one-content">2020-2021 HEPDAK Akreditasyon sürecinde çevrimiçi olarak gerçekleştirilen ziyaretlerdeki beş takım başkanı ve HEPDAK Yönetim Kurulu üyeleri 07 Ocak 2021 tarihinde çevrimiçi olarak yapılan toplantıda bir araya geldi. Takım başkanları ve Yönetim Kurulu üyeleri özellikle çevrimiçi ziyaret sürecinin yanı sıra tüm ziyaret süreci ile ilgili olarak karşılıklı bilgi alışverişinde bulundu.</div>
                 </div>
                 <div className="carousel-item">
-                  <Link href="https://youtu.be/cKAATDtq0K0"><a target="_blank">
-                    <div className="main-top-one-title">13 KASIM 2020 SANAL DEĞERLENDİRME EĞİTİMİ</div>
-                    <div className="main-top-one-content">Eğitim videosuna buradan ulaşabilirsiniz.</div>
-                  </a></Link>
-                </div>
-                <div className="carousel-item">
                   <Link href="/kurum-egitimi-8"><a target="_blank">
                     <div className="main-top-one-title">KURUM TANITIM EĞİTİMİ</div>
                     <div className="main-top-one-content">
