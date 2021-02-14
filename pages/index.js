@@ -3,6 +3,19 @@ import Link from 'next/link'
 import MasterPage from '../components/master-page'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faHourglassStart,faCheck,faFileAlt,faImages,faChevronRight,faChevronLeft } from '@fortawesome/free-solid-svg-icons'
+import emailjs from 'emailjs-com'
+
+function sendEmail(e) {
+  e.preventDefault();
+
+  emailjs.sendForm('gmail', 'template_4hcz6rf', e.target, 'user_5aJ4lAyl6aNUxJkcF6atP')
+    .then((result) => {
+      console.log(result.text);
+    }, (error) => {
+      console.log(error.text);
+  });
+  e.target.reset();
+}
 
 const Anasayfa = () => (
   <MasterPage>
@@ -298,22 +311,22 @@ const Anasayfa = () => (
   <div className="main-bottom-title">Şikayet ve Öneriler</div>
   {/* This is a comment */}
   <div className="iletisim-mesaj">
-    <form action="" method="post">
+    <form action="" method="post" onSubmit={sendEmail}>
       <div className="row">
         <div className="col-md-4 col-sm-12">
           <div className="form-group">
             <label for="exampleInputEmail">Ad Soyad</label>
-            <input type="text" className="form-control form-control-sm" disabled/>
+            <input type="text" className="form-control form-control-sm" name="name"/>
           </div>
           <div className="form-group">
             <label for="exampleInputEmail">Mail Adresiniz</label>
-            <input type="email" className="form-control form-control-sm" id="exampleInputEmail1" aria-describedby="emailHelp" disabled/>
+            <input type="email" className="form-control form-control-sm" id="exampleInputEmail1" aria-describedby="emailHelp" name="mail"/>
           </div>
         </div>
         <div className="col-md-4 col-sm-12">
           <div className="form-group">
             <label for="exampleFormControlTextarea1">Mesaj</label>
-            <textarea className="form-control" id="exampleFormControlTextarea1" rows="4" disabled></textarea>
+            <textarea className="form-control" id="exampleFormControlTextarea1" rows="4" name="message"></textarea>
           </div>
         </div>
         <div className="col-md-4 col-sm-12 iletisim-mesaj-logo">
@@ -321,7 +334,7 @@ const Anasayfa = () => (
           <div><img className="main-bottom-tanınma" src="img/duyurular/CEENQA_tescil.png" title="Yükseköğretim Akademik Değerlendirme ve Kalite Geliştirme Komisyonu"/></div>
         </div>
       </div>
-      <button type="submit" className="iletisim-button btn" disabled>Gönder</button>
+      <button type="submit" className="iletisim-button btn">Gönder</button>
     </form>
     <div className="col-md-4 col-sm-12 iletisim-mesaj-logo-mobil">
       <div><img className="main-bottom-tanınma" src="img/duyurular/YOKAK_tescil.png" title="Yükseköğretim Akademik Değerlendirme ve Kalite Geliştirme Komisyonu"/></div>
@@ -462,3 +475,4 @@ const Anasayfa = () => (
   </MasterPage>
 )
 export default Anasayfa
+  

@@ -8,7 +8,7 @@ const Footer = () => (
 	<div className="footer-items">
 		<div className="col-sm-12 col-md-3 footer-item">
 			<div className="footer-logo">
-				<Link href="/"><a><img className="footer-img" src="img/hepdak-beyaz.png" title="HEPDAK"></img></a></Link>
+				<Link href="/"><a><img className="footer-img" src="img/hepdak-logo-white.png" title="HEPDAK"></img></a></Link>
 				<div className="footer-info-item"> 
 					<div className="footer-info-icon"><FontAwesomeIcon className="footer-icon" icon={faPhone}/></div>
 					<div className="footer-info-color"><Link href="tel:+90-553-986-4302"><a>+90 (553) 986 43 02</a></Link></div>
