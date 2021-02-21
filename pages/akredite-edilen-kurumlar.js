@@ -55,7 +55,7 @@ const Akredite = () => (
                   <p>30.09.2023</p></td>
                 </tr>
                 <tr>
-                  <th scope="row">İstanbul Medipol Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü</th>
+                  <th scope="row">İstanbul Medipol Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü | <Link  href="doc/rapor-medipol.pdf"><a className="akreditasyon-rapor">Ara Değerlendirme Kesin Raporu İçin</a></Link></th>
                   <td><p>01.04.2018</p>
                   <p>04.04.2020</p></td>
                   <td><p>30.09.2020</p>

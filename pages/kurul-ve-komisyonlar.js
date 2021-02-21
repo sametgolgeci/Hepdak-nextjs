@@ -12,7 +12,7 @@ const Kurul = () => (
 	    	<h3 className="kurul-title">Hemşirelik Eğitim Programları Akreditasyon Kurulu (HEAK)</h3>
 	    	<span className="madde-span">• Prof. Dr. Gülseren Kocaman (Başkan), Emekli Öğretim Üyesi</span>
 	    	<span className="madde-span">• Prof. Dr. Ümit Seviğ, Yakın Doğu Üniversitesi</span>
-	    	<span className="madde-span">• Prof. Dr. Sevgi Hatipoğlu, Lefke Üniversitesi</span>
+	    	<span className="madde-span">• Prof. Dr. Sevgi Hatipoğlu, Karatay Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Kadriye Buldukoğlu, Akdeniz Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Ayla Bayık Temel, Emekli Öğretim Üyesi</span>
 	    	<span className="madde-span">• Prof. Dr. Hülya Okumuş, (Hemşirelik Eğitimi Derneği Temsilcisi) Emekli Öğretim Üyesi,<strong> Türk Hemşireler Derneği ve Özel Hastaneler Temsilcisi</strong></span>
@@ -28,16 +28,18 @@ const Kurul = () => (
 	    	<span className="madde-span">• Doç. Dr. Emine Türkmen (Başkan Yard. - Sekreter), Koç Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Ayla Yava, Hasan Kalyoncu Üniversitesi</span>
 	    	<span className="madde-span">• Doç. Dr. Sergül Duygulu, Hacettepe Üniversitesi</span>
+	    	<span className="madde-span">• Ar. Gör. Dr. Gülçin Uyanık, İzmir Katip Çelebi Üniversitesi</span>
 	    	<span className="madde-span">• Uzm. Demet Gökmen Kavak, Türkiye Sağlık Hizmetleri Kalite Ve Akreditasyon Enstitüsü Standart Geliştirme Birim Sorumlusu</span>
-	    	<span className="madde-span">• <strong>Uzm. Hem.</strong> Gülnur Gül, İzmir SBÜ Dr. Suat Seren Göğüs Hastalıkları ve Cerrahisi Eğitim ve Araştırma Hastanesi</span>
-	    	<span className="madde-span">• <strong>Öğrenci:</strong> Çigdem Sabıkma, Manisa Celal Bayar Üniversitesi</span>
+	    	<span className="madde-span">• Uzm. Hem. Gülnur Gül, İzmir SBÜ Dr. Suat Seren Göğüs Hastalıkları ve Cerrahisi Eğitim ve Araştırma Hastanesi</span>
+	    	<span className="madde-span">• <strong>Öğrenci:</strong> Mervenur Doğan, Ondokuz Mayıs Üniversitesi</span>
 
 	    	<h3 className="kurul-title">Program Değerlendirme ve İzleme Komisyonu (PDİK)</h3>
 	    	<span className="madde-span">• Prof. Dr. Ayla Bayık Temel (Başkan), Ege Üniversitesi</span>
 	    	<span className="madde-span">• Dr. Öğ. Üyesi Serap Sökmen (Başkan Yard. - Sekreter), Erzincan Üniversitesi</span>
 	    	<span className="madde-span">• Doç. Dr. Dilek Özmen, Manisa Celal Bayar Üniversitesi</span>
 	    	<span className="madde-span">• Doç. Dr. Aklime Sarıkaya, Sebahattin Zaim Üniversitesi</span>
-	    	<span className="madde-span">• <strong>Öğrenci:</strong> Şengül İbci, Ege Üniversitesi</span>
+	    	<span className="madde-span">• Öğ. Gör. Dr. Yasin Çetin, Adıyaman Üniversitesi</span>
+	    	<span className="madde-span">• <strong>Öğrenci:</strong> Şerife Cingiz, Akdeniz Üniversitesi</span>
 
 	    	<h3 className="kurul-title">Danışmanlık ve Eğitim Komisyonu (DEK)</h3>
 	    	<span className="madde-span">• Prof. Dr. Ayten Zaybak (Başkan), Ege Üniversitesi</span>
