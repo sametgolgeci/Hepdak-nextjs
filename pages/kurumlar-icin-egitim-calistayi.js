@@ -48,7 +48,7 @@ const Calistay = () => (
 		<h6><span className="badge badge-custom">7</span> 18 Ocak 2020 (İzmir)</h6>
 		<ul className="nav calistay-nav">
 		  <li className="nav-item">
-		    <a className="nav-link calistay-button" href="doc/18ocak2020_egitim_calistayi.pdf">Program </a>
+		    <a className="nav-link calistay-button" href="doc/18ocak2020_egitim_calistayi.pdf">Program</a>
 		  </li>
 		  <li className="nav-item">
 		    <a className="nav-link calistay-button" href="doc/18ocak2020_egitim_calistayi_katlimcilar.pdf">Katılımcı Listesi</a>
