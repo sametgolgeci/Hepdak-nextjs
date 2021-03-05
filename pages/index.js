@@ -39,7 +39,7 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
-                    <div className="main-top-one-title">HEPDAK Değerlendirici Eğitimi (27-29 Mayıs 2021)</div>
+                    <div className="main-top-one-title">HEPDAK Değerlendirici Eğitimi (20-21 Mayıs 2021)</div>
                     <div className="main-top-one-content">Eğitim programı çevrimiçi olarak yürütülecektir.</div>
                 </div>
 
@@ -147,7 +147,7 @@ const Anasayfa = () => (
           <div className="tab-content">
             <div id="yirmibir" className="container tab-pane active">
                <div className="main-top-second">
-                <div className="main-top-second-title">HEPDAK Değerlendirici Eğitimi (27-29 Mayıs 2021)</div>
+                <div className="main-top-second-title">HEPDAK Değerlendirici Eğitimi (20-21 Mayıs 2021)</div>
                 <div className="main-top-second-content">Eğitim programı çevrimiçi olarak yürütülecektir.</div>
               </div>
                <div className="main-top-second">
