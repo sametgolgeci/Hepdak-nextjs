@@ -39,6 +39,9 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
+                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/duyurular/webinar.png"/></div>
+                </div>
+                <div className="carousel-item">
                     <div className="main-top-one-title">HEPDAK Değerlendirici Eğitimi (20-21 Mayıs 2021)</div>
                     <div className="main-top-one-content">Eğitim programı çevrimiçi olarak yürütülecektir.</div>
                 </div>
@@ -47,7 +50,6 @@ const Anasayfa = () => (
                     <div className="main-top-one-title">HEPDAK Öğrenci Değerlendiricileri Eğitim Çalıştayı (27 Mart 2021)</div>
                     <div className="main-top-one-content">Eğitim programı çevrimiçi olarak yürütülecektir.</div>
                 </div>
-
                 <div className="carousel-item">
                   <Link href="https://www.youtube.com/channel/UC96oXHHypl1WFXpOkvwwj9A"><a target="_blank">
                     <div className="main-top-one-content-full"><img className="slider-full-img" src="img/duyurular/youtube-duyuru.png"/></div>
