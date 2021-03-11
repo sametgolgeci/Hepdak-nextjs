@@ -28,9 +28,11 @@ const Kurul = () => (
 	    	<span className="madde-span">• Doç. Dr. Emine Türkmen (Başkan Yard. - Sekreter), Koç Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Ayla Yava, Hasan Kalyoncu Üniversitesi</span>
 	    	<span className="madde-span">• Doç. Dr. Sergül Duygulu, Hacettepe Üniversitesi</span>
+	    	<span className="madde-span">• Prof. Dr. Hülya Kaya, İstanbul Üniversitesi - Cerrahpaşa</span>
 	    	<span className="madde-span">• Ar. Gör. Dr. Gülçin Uyanık, İzmir Katip Çelebi Üniversitesi</span>
 	    	<span className="madde-span">• Uzm. Demet Gökmen Kavak, Türkiye Sağlık Hizmetleri Kalite Ve Akreditasyon Enstitüsü Standart Geliştirme Birim Sorumlusu</span>
 	    	<span className="madde-span">• Uzm. Hem. Gülnur Gül, İzmir SBÜ Dr. Suat Seren Göğüs Hastalıkları ve Cerrahisi Eğitim ve Araştırma Hastanesi</span>
+	    	<span className="madde-span">• Öğ. Gör. Dr. Yasin Çetin, Adıyaman Üniversitesi</span>
 	    	<span className="madde-span">• <strong>Öğrenci:</strong> Mervenur Doğan, Ondokuz Mayıs Üniversitesi</span>
 
 	    	<h3 className="kurul-title">Program Değerlendirme ve İzleme Komisyonu (PDİK)</h3>
@@ -57,6 +59,9 @@ const Kurul = () => (
 	    	<span className="madde-span">• Prof. Dr. İnci Erefe (Başkan), Ege Üniversitesi, Emekli</span>
 	    	<span className="madde-span">• Prof. Dr. Ayla Bayık Temel, Emekli Öğretim Üyesi</span>
 	    	<span className="madde-span">• Ayhan Lash Professor, Northern Illinois Üniversitesi Emekli Öğretim Üyesi</span>
+	    	<span className="madde-span">• Doç. Dr. Sergül Duygulu, Hacettepe Üniversitesi</span>
+	    	<span className="madde-span">• Doç. Dr. Fatoş Korkmaz, Hacettepe Üniversitesi</span>
+	    	<span className="madde-span">• Doç. Dr. Merlinda Aluş Tokat, Dokuz Eylül Üniversitesi</span>
 	    	<span className="madde-span">• Dr. Öğ. Üyesi Nilay Özkütük, Ege Üniversitesi</span>
 
 	    	<h3 className="kurul-title">Yükseklisans Akreditasyonuna Hazırlık Komisyonu</h3>
