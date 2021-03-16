@@ -779,6 +779,14 @@ table{
 .dortyuzdort > h1 {
 	color: #000055;
 }
+/* İndex Duyuru */
+.main-middle-duyuru {
+	border: 1px solid rgba(0, 138, 195, 0.2);
+	padding: 1rem;
+}
+.main-middle-duyuru > h4 {
+	text-align: center;
+}
 
 
 
