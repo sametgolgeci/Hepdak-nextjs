@@ -148,11 +148,17 @@ const Anasayfa = () => (
           </ul>
           <div className="tab-content">
             <div id="yirmibir" className="container tab-pane active">
-               <div className="main-top-second">
+              <div className="main-top-second">
+                <div className="main-top-second-title">Yükseköğretim Kalite Kurulu 2021 Yılı HEPDAK İzleme Ziyareti</div>
+                <div className="main-top-second-content">YÖKAK Dış Değerlendirme ve Akreditasyon Kuruluşlarını İzleme çalışmaları kapsamında 2020 yılı faaliyetlerimizi izlemek üzere görevlendirilen YÖKAK izleme yetkilisi Sayın Prof. Dr. Sina Ercan 25 Şubat 2021 tarihinde Derneğimize çevrimiçi izleme ziyaretini gerçekleştirmiştir. Dernek yönetim kurulu üyelerinin de (Prof. Dr. Ayla Bayık Temel, Doç. Dr. Dilek Özmen, Doç. Dr. Şenay Ünsal Atan, Prof. Dr. Ayten Zaybak) katıldığı ilk oturumda Yönetim Kurulu Başkanımız Prof. Dr. Gülseren Kocaman 2020 yılı HEPDAK faaliyetlerine yönelik bir sunum yapmıştır. İkinci oturumda ise, yönetim kurulu üyelerinin yanı sıra, HEAK üyeleri (Prof. Dr. Sevgi Hatipoğlu, Prof. Dr. Hülya Okumuş), Standartları Belirleme ve Geliştirme Komisyonu üyeleri (Prof. Dr. Kadriye Buldukoğlu, Doç. Dr. Sergül Duygulu), Tutarlılık Komisyonu üyeleri (Doç. Dr. Dilek Özmen, Doç. Dr. Şenay Ünsal Atan), öğrenci değerlendiriciler (Öğ. Aslı Kayar, Öğ. Mervenur Doğan) ve 2020 yılı faaliyetlerinde görev almış 2 değerlendiricinin (Prof. Dr. Ümit Seviğ, Prof. Dr. Medine Yılmaz) katılımı ile odak grup görüşmeleri yapılmıştır. Karşılıklı bilgi alışverişinin olduğu toplantı öneriler ve iyi dilekler ile tamamlanmıştır.</div>
+                <div className="main-top-second-content"><img src="img/yok_ziyaret_2021/photo_1.jpg"/></div>
+                <div className="main-top-second-content"><img src="img/yok_ziyaret_2021/photo_2.jpg"/></div>
+              </div>
+              <div className="main-top-second">
                 <div className="main-top-second-title">HEPDAK Değerlendirici Eğitimi (20-21 Mayıs 2021)</div>
                 <div className="main-top-second-content">Eğitim programı çevrimiçi olarak yürütülecektir.</div>
               </div>
-               <div className="main-top-second">
+              <div className="main-top-second">
                 <div className="main-top-second-title">HEPDAK Öğrenci Değerlendiricileri Eğitimi Çalıştayı (27 Mart 2021)</div>
                 <div className="main-top-second-content">Eğitim programı çevrimiçi olarak yürütülecektir.</div>
               </div>
