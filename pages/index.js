@@ -47,7 +47,7 @@ const Anasayfa = () => (
                 </div>
 
                 <div className="carousel-item">
-                    <div className="main-top-one-title">HEPDAK Öğrenci Değerlendiricileri Eğitim Çalıştayı (27 Mart 2021)</div>
+                    <div className="main-top-one-title">HEPDAK Öğrenci Değerlendiricileri Eğitim Çalıştayı (28 Mart 2021)</div>
                     <div className="main-top-one-content">Eğitim programı çevrimiçi olarak yürütülecektir.</div>
                 </div>
                 <div className="carousel-item">
@@ -159,7 +159,7 @@ const Anasayfa = () => (
                 <div className="main-top-second-content">Eğitim programı çevrimiçi olarak yürütülecektir.</div>
               </div>
               <div className="main-top-second">
-                <div className="main-top-second-title">HEPDAK Öğrenci Değerlendiricileri Eğitimi Çalıştayı (27 Mart 2021)</div>
+                <div className="main-top-second-title">HEPDAK Öğrenci Değerlendiricileri Eğitimi Çalıştayı (28 Mart 2021)</div>
                 <div className="main-top-second-content">Eğitim programı çevrimiçi olarak yürütülecektir.</div>
               </div>
               <div className="main-top-second">
