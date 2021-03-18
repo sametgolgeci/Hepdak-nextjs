@@ -39,6 +39,22 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
+                  <Link href="/yok-ziyaret-2021"><a target="_blank">
+                    <div className="main-top-one-title">YÖKAK 2021 YILI HEPDAK İZLEME ZİYARETİ</div>
+                    <div className="main-top-one-content">
+                      <div className="main-top-one-content-side">
+                        <div className="main-top-one-content-one">
+                          <p>YÖKAK Dış Değerlendirme ve Akreditasyon Kuruluşlarını İzleme çalışmaları kapsamında 2020 yılı faaliyetlerimizi izlemek üzere görevlendirilen YÖKAK izleme yetkilisi Sayın Prof. Dr. Sina Ercan 25 Şubat 2021 tarihinde Derneğimize çevrimiçi izleme ziyaretini gerçekleştirmiştir...</p>
+                        </div>
+                        <div className="main-top-one-content-two">
+                          <img className="slider-img" src="img/yok_ziyaret_2021/photo_1.jpg"/>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="main-top-one-continue">Devamı -></div>
+                  </a></Link>
+                </div>
+                <div className="carousel-item">
                     <div className="main-top-one-content-full"><img className="slider-full-img" src="img/duyurular/webinar.png"/></div>
                 </div>
                 <div className="carousel-item">
