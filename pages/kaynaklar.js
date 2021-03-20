@@ -60,6 +60,10 @@ const Kaynaklar = () => (
 	                    <th scope="row">10</th>
 	                    <td><Link href="https://www.sciencedirect.com/science/article/abs/pii/S026069170090474X"><a>Pope, R., Garrett, R., & Graham, L. (2000). Quality assurance for nursing and midwifery education: an analysis of the approach in England. Nurse Education Today, 20(5), 341-349</a></Link></td>
 	                  </tr>
+	                  <tr>
+	                    <th scope="row">11</th>
+	                    <td><Link href="/doc/kaynak_11.pdf"><a>Program Çıktılarının Değerlendirilmesi</a></Link></td>
+	                  </tr>
 	                </tbody>
 	              </table>
 				      </div>
