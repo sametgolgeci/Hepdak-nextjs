@@ -687,14 +687,15 @@ table{
 }
 .webinar-bottom{
 	text-align: center;
+	margin-top: 4rem;
 	margin-bottom: 3rem;
 	color: #000055;
 	font-size: 1.5rem;
 	font-weight: 800;
 }
-.webinar-bottom{
-	text-align: center;
-	margin-top: 4rem;
+.webinar-bottom img {
+	width: 100%;
+	height: auto;
 }
 .webinar-bottom-title{
 	font-size: 1.25rem;
