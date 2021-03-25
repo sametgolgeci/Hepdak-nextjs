@@ -15,6 +15,38 @@ const Calistay = () => (
 		<p className="madde-p">• Değerlendirme becerisini geliştirme</p>
 		<p className="madde-p">• Değerlendirici davranışını geliştirme</p>
 		<p className="madde-p">• Öğrenci değerlendiricilerden değerlendirme sürecindeki beklentiler</p>
+		<h6><span className="badge badge-custom">4</span> 28 Mart 2021</h6>
+		<p>
+			<ul className="nav calistay-nav">
+			  <li className="nav-item">
+			    <a className="nav-link calistay-button" href="doc/ogrenci_egitim_4/program.pdf" target="_blank">Program</a>
+			  </li>
+			  <li className="nav-item">
+			    <a className="nav-link calistay-button" href="doc/ogrenci_egitim_4/katilimcilar.pdf" target="_blank">Katılımcı Listesi</a>
+			  </li>
+			  <li className="nav-item">
+			    <a className="nav-link calistay-button" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">Sunumlar</a>
+			  </li>
+			{/*
+			  <li className="nav-item">
+			    <a className="nav-link calistay-button disable" href="#" target="_blank">Değerlendirme</a>
+			  </li>
+			  */}
+			</ul>
+		</p>
+		<div className="collapse" id="collapseExample">
+		<p><strong>-> Sunumlar</strong></p>
+		<p className="madde-p">
+			<a href="/doc/ogrenci_egitim_4/belge_1.ppt">1. Çalıştayın Amaçları</a><br/>
+			<a href="/doc/ogrenci_egitim_4/belge_2.ppt">2. Akreditasyon Süreci</a><br/>
+			<a href="/doc/ogrenci_egitim_4/belge_3.ppt">3. HEPDAK  Hemşirelik Lisans Eğitim Programı Standartları (Sürüm 4.0)</a><br/>
+			<a href="/doc/ogrenci_egitim_4/belge_4.ppt">4. Öğrenci Değerlendirici Standartları</a><br/>
+			<a href="/doc/ogrenci_egitim_4/belge_5.ppt">5. Öğrenci Değerlendiricilerin Sürece Katılımı</a><br/>
+			<a href="/doc/ogrenci_egitim_4/belge_6.ppt">6. Davranışsal Boyut</a><br/>
+			<a href="/doc/ogrenci_egitim_4/belge_7.ppt">7. Tutarlılık</a><br/>
+			<a href="/doc/ogrenci_egitim_4/belge_8.ppt">8. Rapor Yazımı</a>
+		</p>
+		</div>
 		<h6><span className="badge badge-custom">3</span> 22 Şubat 2020 (İzmir)</h6>
 		<ul className="nav calistay-nav">
 		  <li className="nav-item">
