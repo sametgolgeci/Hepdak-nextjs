@@ -14,14 +14,14 @@ const Webinar = () => (
 	    	</div>
 	    </div>
 	    <div className="webinar-bottom">
-	  {/*
-	    	<iframe width="560" height="315" src="https://www.youtube.com/embed/VD9C3UzderE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	    	<div className="webinar-bottom-title">- Uzaktan Eğitimde Öğrenci Merkezli Eğitimi Başarabilir Miyiz (22 Temmuz 2020) -</div>
-	  */}
+	    	<iframe width="560" height="315" src="https://www.youtube.com/embed/lk88f6wosCg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	    	<div className="webinar-bottom-title">- Avustralya Hemşirelik ve Ebelik Akreditasyon Derneği ve Hemşirelik Okullarının Yükümlülükleri -</div>
+	 {/*
 		  	<Link href="/doc/webinar/webinar-1.pptx"><a target="_blank">
 		  		<img src="/doc/webinar/webinar-1.png" alt=""/>
 		  		<div className="webinar-bottom-title">- Avustralya Hemşirelik ve Ebelik Akreditasyon Derneği ve Hemşirelik Okullarının Yükümlülükleri -</div>
 		  	</a></Link>
+		  	 */}
 	    </div>
 	    <div className="row">
 	    	<div className="col-md-4">
