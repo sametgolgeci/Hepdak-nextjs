@@ -58,7 +58,7 @@ const Anasayfa = () => (
                     <div className="main-top-one-content-full"><img className="slider-full-img" src="img/duyurular/webinar.png"/></div>
                 </div>
                 <div className="carousel-item">
-                    <div className="main-top-one-title">HEPDAK Değerlendirici Eğitimi (20-21 Mayıs 2021)</div>
+                    <div className="main-top-one-title">HEPDAK Değerlendirici Eğitimi (20-22 Mayıs 2021)</div>
                     <div className="main-top-one-content">Eğitim programı çevrimiçi olarak yürütülecektir.</div>
                 </div>
 
@@ -171,7 +171,7 @@ const Anasayfa = () => (
                 <div className="main-top-second-content"><img src="img/yok_ziyaret_2021/photo_2.jpg"/></div>
               </div>
               <div className="main-top-second">
-                <div className="main-top-second-title">HEPDAK Değerlendirici Eğitimi (20-21 Mayıs 2021)</div>
+                <div className="main-top-second-title">HEPDAK Değerlendirici Eğitimi (20-22 Mayıs 2021)</div>
                 <div className="main-top-second-content">Eğitim programı çevrimiçi olarak yürütülecektir.</div>
               </div>
               <div className="main-top-second">
