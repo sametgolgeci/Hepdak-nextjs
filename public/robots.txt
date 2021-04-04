@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /akreditasyon/
+Disallow: /deneme/
+Disallow: /hepdak_raporlari/
+Disallow: /surec/
+Disallow: /toplantilar/
+
+

@@ -7,10 +7,10 @@ const Kuruluslar = () => (
       <Head>
 	      <title>HEPDAK | İlgili Kuruluşlar</title>
 	    </Head>
+      <div className="genel"><h1>İlgili Kuruluşlar</h1></div>
 	    <div className="row akreditasyon">
 	    	<div className="col-md-12 akreditasyon-content">
           <div id="surec" className="akreditasyon-content-item">    
-            <div className="akreditasyon-content-title">İlgili Kuruluşlar</div>
             <div>
               <table className="table table-striped">
                 <thead className="thead-dark">

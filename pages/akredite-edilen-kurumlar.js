@@ -7,10 +7,10 @@ const Akredite = () => (
       <Head>
 	      <title>HEPDAK | Akredite Edilen Kurumlar</title>
 	    </Head>
+      <div className="genel"><h1>Akredite Edilen Kurumlar</h1></div>
 	    <div className="row akreditasyon">
 	    	<div className="col-md-12 akreditasyon-content">
           <div id="akredite" className="akreditasyon-content-item">         
-            <div className="akreditasyon-content-title">Akredite Edilen Kurumlar</div>
             <div className="akreditasyon-content-subtitle">HEPDAK Tarafından Akredite Edilen Hemşirelik Lisans Programları (04.04.2020 itibariyle)</div>
             <table className="table table-striped">
               <thead className="thead-dark">

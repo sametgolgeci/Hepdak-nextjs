@@ -7,10 +7,10 @@ const Belgeler = () => (
       <Head>
 	      <title>HEPDAK | Belgeler</title>
 	    </Head>
+      <div className="genel"><h1>Belgeler</h1></div>
 	    <div className="row akreditasyon">
 	    	<div className="col-md-12 akreditasyon-content">
           <div id="belgeler" className="akreditasyon-content-item">         
-            <div className="akreditasyon-content-title">Belgeler</div>
             <table className="table table-striped">
               <thead className="thead-dark">
                 <tr>

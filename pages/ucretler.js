@@ -7,10 +7,10 @@ const Ucretler = () => (
       <Head>
 	      <title>HEPDAK | Ücretler</title>
 	    </Head>
+      <div className="genel"><h1>Ücretler</h1></div>
 	    <div className="row akreditasyon">
 	    	<div className="col-md-12 akreditasyon-content">
           <div id="ucretler" className="akreditasyon-content-item">         
-            <div className="akreditasyon-content-title">Ücretler</div>
             <div className="akreditasyon-content-subtitle">2021-2022 Değerlendirme Dönemi Akreditasyon Bedelleri</div>
             <p>2021-2022 döneminde değerlendirilecek programlar için akreditasyon değerlendirme bedelleri aşağıdaki tabloda yer almaktadır.</p>
             <table className="table table-striped">
