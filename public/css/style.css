@@ -767,6 +767,10 @@ table{
 	}
 }
 
+.belge-span {
+	color: red;
+}
+
 /* 404 CSS */
 .dortyuzdort{
 	display: flex;
