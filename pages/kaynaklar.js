@@ -62,7 +62,7 @@ const Kaynaklar = () => (
 	                  </tr>
 	                  <tr>
 	                    <th scope="row">11</th>
-	                    <td><Link href="/doc/kaynak_11.pdf"><a>Program Çıktılarının Değerlendirilmesi</a></Link></td>
+	                    <td><Link href="/doc/kaynak_11.pdf"><a>KIRKAVAK, N., ÖZAKTAŞ, H., & ERTEM, M. A. (2019). Program Çıktıları için Alternarif Bir Ölçme - Değerlendirme Modeli: MÜDEK Karnesi. Endüstri Mühendisliği, 30(1), 32-48.</a></Link></td>
 	                  </tr>
 	                </tbody>
 	              </table>
