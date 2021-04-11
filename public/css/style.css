@@ -618,6 +618,11 @@ table{
 .calistay-button:hover{
 	color: #fff !important;
 }
+.calistay-img {
+	width: 100%;
+	height: auto;
+	padding: 8px;
+}
 /* İletişim CSS */
 .iletisim > p > a{
 	font-weight: 400;
