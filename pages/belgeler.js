@@ -65,7 +65,7 @@ const Belgeler = () => (
                 </tr>
                 <tr>
                   <th scope="row">3</th>
-                  <td>Hemşirelik Lisans Eğitim Programı Standartları <Link href="doc/b3_v1.pdf"><a>Sürüm 1.0</a></Link> | <Link href="doc/b3_v2.pdf"><a>Sürüm 2.0</a></Link> | <Link href="doc/b3_v3.pdf"><a>Sürüm 3.0</a></Link> | <Link href="doc/b3_v4.pdf"><a>Sürüm 4.0</a></Link> | <Link href="doc/b3_v4_1.pdf"><a>Sürüm 4.1  <span className="belge-span">Güncel</span></a></Link></td>
+                  <td>Hemşirelik Lisans Eğitim Programı Standartları <Link href="doc/b3_v1.pdf"><a>Sürüm 1.0</a></Link> | <Link href="doc/b3_v2.pdf"><a>Sürüm 2.0</a></Link> | <Link href="doc/b3_v3.pdf"><a>Sürüm 3.0</a></Link> | <Link href="doc/b3_v4.pdf"><a>Sürüm 4.0</a></Link> | <Link href="doc/b3_v4_1.doc"><a>Sürüm 4.1  <span className="belge-span">Güncel</span></a></Link></td>
                 </tr>
                 <tr>
                   <th scope="row">4</th>
@@ -105,11 +105,11 @@ const Belgeler = () => (
                 </tr>
                 <tr>
                   <th scope="row">13</th>
-                  <td>HEPDAK Akredite Eğitim Programları İçin Gelişim Raporu Hazırlama Rehberi <strong>Sürüm 1.0</strong> (<Link href="doc/b13_v1.pdf"><a>PDF</a></Link> | <Link href="doc/b13_v1.doc"><a>Word</a></Link>) | <strong>Sürüm 2.0</strong> (<Link href="doc/b13_v2.pdf"><a>PDF</a></Link> | <Link href="doc/b13_v2.docx"><a>Word</a></Link>)</td>
+                  <td>HEPDAK Akredite Eğitim Programları İçin Gelişim Raporu Hazırlama Rehberi <strong>Sürüm 1.0</strong> (<Link href="doc/b13_v1.pdf"><a>PDF</a></Link> | <Link href="doc/b13_v1.doc"><a>Word</a></Link>) | <strong>Sürüm 2.0</strong> (<Link href="doc/b13_v2.pdf"><a>PDF</a></Link> | <Link href="doc/b13_v2.docx"><a>Word</a></Link>) | <strong>Sürüm 2.1</strong> (<Link href="doc/b13_v2_1.pdf"><a>PDF</a></Link> | <Link href="doc/b13_v2_1.docx"><a>Word</a></Link>)</td>
                 </tr>
                 <tr>
                   <th scope="row">14</th>
-                  <td>HEPDAK Uzaktan Eğitim Standartları <strong>Sürüm 1.0</strong> (<Link href="doc/b14_v1.pdf"><a>PDF</a></Link> | <Link href="doc/b14_v1.docx"><a>Word</a></Link>) | <strong>Sürüm 1.1 <span className="belge-span">Güncel</span></strong> (<Link href="doc/b14_v1_1.pdf"><a>PDF</a></Link> | <Link href="doc/b14_v1_1.docx"><a>Word</a></Link>)</td>
+                  <td>HEPDAK Uzaktan Eğitim Standartları <strong>Sürüm 1.0</strong> (<Link href="doc/b14_v1.pdf"><a>PDF</a></Link> | <Link href="doc/b14_v1.docx"><a>Word</a></Link>) | <strong>Sürüm 4.1 <span className="belge-span">Güncel</span></strong> (<Link href="doc/b14_v4_1.pdf"><a>PDF</a></Link> | <Link href="doc/b14_v4_1.doc"><a>Word</a></Link>)</td>
                 </tr>
                 <tr>
                   <th scope="row">15</th>
