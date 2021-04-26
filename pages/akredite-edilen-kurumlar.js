@@ -11,7 +11,7 @@ const Akredite = () => (
 	    <div className="row akreditasyon">
 	    	<div className="col-md-12 akreditasyon-content">
           <div id="akredite" className="akreditasyon-content-item">         
-            <div className="akreditasyon-content-subtitle">HEPDAK Tarafından Akredite Edilen Hemşirelik Lisans Programları (04.04.2020 itibariyle)</div>
+            <div className="akreditasyon-content-subtitle">HEPDAK Tarafından Akredite Edilen Hemşirelik Lisans Programları (04.04.2021 itibariyle)</div>
             <table className="table table-striped">
               <thead className="thead-dark">
                 <tr>
@@ -29,16 +29,20 @@ const Akredite = () => (
                 <tr>
                   <th scope="row">Ege Üniversitesi Hemşirelik Fakültesi</th>
                   <td><p>01.05.2016</p>
-                  <p>30.09.2018</p></td>
+                  <p>01.05.2018</p>
+                  <p>02.04.2021</p></td>
                   <td><p>30.09.2018</p>
-                  <p>30.09.2021</p></td>
+                  <p>30.09.2021</p>
+                  <p>30.09.2026</p></td>
                 </tr>
                 <tr>
                   <th scope="row">Erciyes Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü</th>
                   <td><p>01.05.2016</p>
-                  <p>30.09.2018</p></td>
-                  <td><p>01.05.2018</p>
-                  <p>30.09.2021</p></td>
+                  <p>01.05.2018</p>
+                  <p>02.04.2021</p></td>
+                  <td><p>30.09.2018</p>
+                  <p>30.09.2021</p>
+                  <p>30.09.2023</p></td>
                 </tr>
                 <tr>
                   <th scope="row">Sakarya Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü | <Link  href="doc/rapor-sakarya.pdf"><a className="akreditasyon-rapor">Ara Değerlendirme Kesin Raporu İçin</a></Link></th>
@@ -63,18 +67,24 @@ const Akredite = () => (
                 </tr>
                 <tr>
                   <th scope="row">Dokuz Eylül Üniversitesi Hemşirelik Fakültesi | <Link href="doc/rapor-dokuz-eylul.pdf"><a className="akreditasyon-rapor">Genel Değerlendirme Kesin Raporu İçin</a></Link></th>
-                  <td>04.04.2019</td>
-                  <td>30.09.2021</td>
+                  <td><p>04.04.2019</p>
+                  <p>01.04.2021</p></td>
+                  <td><p>30.09.2021</p>
+                  <p>30.09.2024</p></td>
                 </tr>
                 <tr>
                   <th scope="row">Acıbadem Mehmet Ali Aydınlar Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü | <Link href="doc/rapor-acibadem.pdf"><a className="akreditasyon-rapor">Genel Değerlendirme Kesin Raporu İçin</a></Link></th>
-                  <td>04.04.2019</td>
-                  <td>30.09.2021</td>
+                  <td><p>04.04.2019</p>
+                  <p>01.04.2021</p></td>
+                  <td><p>30.09.2021</p>
+                  <p>30.09.2024</p></td>
                 </tr>
                 <tr>
                   <th scope="row">Trakya Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü | <Link href="doc/rapor-trakya.pdf"><a className="akreditasyon-rapor">Genel Değerlendirme Kesin Raporu İçin</a></Link></th>
-                  <td>04.04.2019</td>
-                  <td>30.09.2021</td>
+                  <td><p>04.04.2019</p>
+                  <p>01.04.2021</p></td>
+                  <td><p>30.09.2021</p>
+                  <p>30.09.2024</p></td>
                 </tr>
                 <tr>
                   <th scope="row">Marmara Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü | <Link  href="doc/rapor-marmara.pdf"><a className="akreditasyon-rapor">Genel Değerlendirme Kesin Raporu İçin</a></Link></th>
