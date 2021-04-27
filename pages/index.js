@@ -39,6 +39,12 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
+                <Link href="/doc/HEPDAK_AIC_agenda.docx"><a target="_blank">
+                    <div className="main-top-one-title">DUYURU</div>
+                    <div className="main-top-one-content">HEPDAK Uluslararası Dış Değerlendirme Çalışma Grubu, 27-28 Nisan 2021 tarihinde AIKA/AIC - Estonya akreditasyon ajansı ile CEENQA ONLINE STAFF EXCHANGE PROGRAM 'ı gerçekleştirmiştir.</div>
+                </a></Link>
+                </div>
+                <div className="carousel-item">
                   <Link href="https://www.youtube.com/channel/UC96oXHHypl1WFXpOkvwwj9A"><a target="_blank">
                     <div className="main-top-one-content-full"><img className="slider-full-img" src="img/duyurular/23nisan2021.jpg"/></div>
                   </a></Link>
