@@ -32,15 +32,15 @@ const Belgeler = () => (
                 </tr>
                 <tr>
                   <th scope="row">4</th>
-                  <td>Standartları Belirleme ve Geliştirme Komisyonu Çalışma Yönergesi <Link href="doc/a4.pdf"><a>Sürüm 1.0</a></Link></td>
+                  <td>HEPDAK Standartları Belirleme ve Geliştirme Komisyonu Çalışma Yönergesi <Link href="doc/a4.pdf"><a>Sürüm 1.0</a></Link></td>
                 </tr>
                 <tr>
                   <th scope="row">5</th>
-                  <td>Danışmanlık ve Eğitim Komisyonu Çalışma Yönergesi <Link href="doc/a5_v1.pdf"><a>Sürüm 1.0</a></Link> | <Link href="doc/a5_v2.docx"><a>Sürüm 2.0</a></Link></td>
+                  <td>HEPDAK Eğitim Komisyonu Çalışma Yönergesi <Link href="doc/a5_v1.pdf"><a>Sürüm 1.0</a></Link> | <Link href="doc/a5_v2.pdf"><a>Sürüm 2.0</a></Link></td>
                 </tr>
                 <tr>
                   <th scope="row">6</th>
-                  <td>Program Değerlendirme ve İzleme Komisyonu Çalışma Yönergesi <Link href="doc/a6.pdf"><a>Sürüm 1.0</a></Link></td>
+                  <td>HEPDAK Program Değerlendirme ve İzleme Komisyonu Çalışma Yönergesi <Link href="doc/a6.pdf"><a>Sürüm 1.0</a></Link></td>
                 </tr>
                 <tr>
                   <th scope="row">7</th>
