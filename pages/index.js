@@ -41,14 +41,16 @@ const Anasayfa = () => (
                 <div className="carousel-item active">
                 <Link href="/doc/HEPDAK_AIC_agenda.docx"><a target="_blank">
                     <div className="main-top-one-title">DUYURU</div>
-                    <div className="main-top-one-content">HEPDAK Uluslararası Dış Değerlendirme Çalışma Grubu, 27-28 Nisan 2021 tarihinde AIKA/AIC - Estonya akreditasyon ajansı ile CEENQA ONLINE STAFF EXCHANGE PROGRAM 'ı gerçekleştirmiştir.</div>
+                    <div className="main-top-one-content">HEPDAK Uluslararası Dış Değerlendirme Çalışma Grubu, 27-28 Nisan 2021 tarihinde AIKA/AIC - Letonya akreditasyon ajansı ile CEENQA ONLINE STAFF EXCHANGE PROGRAM 'ı gerçekleştirmiştir.</div>
                 </a></Link>
                 </div>
+              {/*
                 <div className="carousel-item">
                   <Link href="https://www.youtube.com/channel/UC96oXHHypl1WFXpOkvwwj9A"><a target="_blank">
                     <div className="main-top-one-content-full"><img className="slider-full-img" src="img/duyurular/23nisan2021.jpg"/></div>
                   </a></Link>
                 </div>
+                */}
                 <div className="carousel-item">
                   <Link href="/yok-ziyaret-2021"><a target="_blank">
                     <div className="main-top-one-title">YÖKAK 2021 YILI HEPDAK İZLEME ZİYARETİ</div>
@@ -65,18 +67,21 @@ const Anasayfa = () => (
                     <div className="main-top-one-continue">Devamı -></div>
                   </a></Link>
                 </div>
+                {/*
                 <div className="carousel-item">
                     <div className="main-top-one-content-full"><img className="slider-full-img" src="img/duyurular/webinar.png"/></div>
                 </div>
+                */}
                 <div className="carousel-item">
-                    <div className="main-top-one-title">HEPDAK Değerlendirici Eğitimi (03-05 Haziran 2021)</div>
+                    <div className="main-top-one-title">HEPDAK Değerlendirici Eğitimi (10-12 Haziran 2021)</div>
                     <div className="main-top-one-content">Eğitim programı çevrimiçi olarak yürütülecektir.</div>
                 </div>
-
+                {/*
                 <div className="carousel-item">
                     <div className="main-top-one-title">HEPDAK Öğrenci Değerlendiricileri Eğitim Çalıştayı (28 Mart 2021)</div>
                     <div className="main-top-one-content">Eğitim programı çevrimiçi olarak yürütülecektir.</div>
                 </div>
+                */}
                 <div className="carousel-item">
                   <Link href="https://www.youtube.com/channel/UC96oXHHypl1WFXpOkvwwj9A"><a target="_blank">
                     <div className="main-top-one-content-full"><img className="slider-full-img" src="img/duyurular/youtube-duyuru.png"/></div>
@@ -186,7 +191,7 @@ const Anasayfa = () => (
                 <div className="main-top-second-content"><img src="img/yok_ziyaret_2021/photo_2.jpg"/></div>
               </div>
               <div className="main-top-second">
-                <div className="main-top-second-title">HEPDAK Değerlendirici Eğitimi (03-05 Haziran 2021)</div>
+                <div className="main-top-second-title">HEPDAK Değerlendirici Eğitimi (10-12 Haziran 2021)</div>
                 <div className="main-top-second-content">Eğitim programı çevrimiçi olarak yürütülecektir.</div>
               </div>
               <div className="main-top-second">
@@ -319,7 +324,7 @@ const Anasayfa = () => (
     <div className="main-middle">
       <div className="col-sm-12 col-md-12 main-middle-duyuru">
         <h4>HEPDAK Değerlendirici Eğitimi Çağrısı : 2021</h4>
-        <p>Değerli Hemşire Akademisyenler, HEPDAK, hemşirelik lisans eğitim programlarının akreditasyon sürecinde değerlendirme takımında görev alacak değerlendirici adayları aramaktadır. Değerlendirici olmak için HEPDAK değerlendirici eğitim programı çalıştayına katılmak ve tamamlamak gerekmektedir. HEPDAK, değerlendirici eğitimi, 03 - 05 Haziran 2021 tarihlerinde çevrimiçi olarak yapılacaktır. Koşulları sağladığınızdan emin olduktan sonra başvurularınızı, HEPDAK Akademisyen Değerlendirici Adayı Başvuru Formunu doldurarak <strong>1 Nisan 2021</strong> tarihine kadar <strong>hepdakegitim@gmail.com</strong> adresine yollamanız durumunda size en kısa sürede geri dönüş yapılacaktır.İlgili forma <Link href="doc/aday_formu.doc"><a>buradan</a></Link> ulaşabilirsiniz.</p>
+        <p>Değerli Hemşire Akademisyenler, HEPDAK, hemşirelik lisans eğitim programlarının akreditasyon sürecinde değerlendirme takımında görev alacak değerlendirici adayları aramaktadır. Değerlendirici olmak için HEPDAK değerlendirici eğitim programı çalıştayına katılmak ve tamamlamak gerekmektedir. HEPDAK, değerlendirici eğitimi, 10 - 12 Haziran 2021 tarihlerinde çevrimiçi olarak yapılacaktır. Koşulları sağladığınızdan emin olduktan sonra başvurularınızı, HEPDAK Akademisyen Değerlendirici Adayı Başvuru Formunu doldurarak <strong>1 Nisan 2021</strong> tarihine kadar <strong>hepdakegitim@gmail.com</strong> adresine yollamanız durumunda size en kısa sürede geri dönüş yapılacaktır.İlgili forma <Link href="doc/aday_formu.doc"><a>buradan</a></Link> ulaşabilirsiniz.</p>
         <p>İlginize teşekkür ederiz.</p>
         <h6>HEPDAK Yönetim Kurulu</h6>
       </div>
