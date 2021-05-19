@@ -39,6 +39,9 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
+                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/duyurular/hemsire2021.png"/></div>
+                </div>
+                <div className="carousel-item">
                 <Link href="/doc/HEPDAK_AIC_agenda.docx"><a target="_blank">
                     <div className="main-top-one-title">DUYURU</div>
                     <div className="main-top-one-content">HEPDAK Uluslararası Dış Değerlendirme Çalışma Grubu, 27-28 Nisan 2021 tarihinde AIKA/AIC - Letonya akreditasyon ajansı ile CEENQA ONLINE STAFF EXCHANGE PROGRAM 'ı gerçekleştirmiştir.</div>
@@ -82,6 +85,7 @@ const Anasayfa = () => (
                     <div className="main-top-one-content">Eğitim programı çevrimiçi olarak yürütülecektir.</div>
                 </div>
                 */}
+                {/*
                 <div className="carousel-item">
                   <Link href="https://www.youtube.com/channel/UC96oXHHypl1WFXpOkvwwj9A"><a target="_blank">
                     <div className="main-top-one-content-full"><img className="slider-full-img" src="img/duyurular/youtube-duyuru.png"/></div>
@@ -123,7 +127,7 @@ const Anasayfa = () => (
                     <div className="main-top-one-continue">Devamı -></div>
                   </a></Link>
                 </div>
-                  {/*
+                  
                   <div className="carousel-item">
                     <Link href="/doc/CEENQA_Application_HEPDAK_Decision.pdf"><a target="_blank">
                       <div className="main-top-one-title">CEENQA ÜYELİĞİ HAKKINDA</div>
@@ -180,6 +184,10 @@ const Anasayfa = () => (
           </ul>
           <div className="tab-content">
             <div id="yirmibir" className="container tab-pane active">
+              <div className="main-top-second">
+                <div className="main-top-second-title">12-18 Mayıs 2021 Hemşirelik Haftamız Kutlu Olsun.</div>
+                <div className="main-top-second-content"><img src="img/duyurular/hemsire2021.png"/></div>
+              </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">23 Nisan Ulusal Egemenlik ve Çocuk Bayramı Kutlaması</div>
                 <div className="main-top-second-content"><img src="img/duyurular/23nisan2021.jpg"/></div>
@@ -322,12 +330,14 @@ const Anasayfa = () => (
       </div>
     </div>
     <div className="main-middle">
+  {/*
       <div className="col-sm-12 col-md-12 main-middle-duyuru">
         <h4>HEPDAK Değerlendirici Eğitimi Çağrısı : 2021</h4>
         <p>Değerli Hemşire Akademisyenler, HEPDAK, hemşirelik lisans eğitim programlarının akreditasyon sürecinde değerlendirme takımında görev alacak değerlendirici adayları aramaktadır. Değerlendirici olmak için HEPDAK değerlendirici eğitim programı çalıştayına katılmak ve tamamlamak gerekmektedir. HEPDAK, değerlendirici eğitimi, 10 - 12 Haziran 2021 tarihlerinde çevrimiçi olarak yapılacaktır. Koşulları sağladığınızdan emin olduktan sonra başvurularınızı, HEPDAK Akademisyen Değerlendirici Adayı Başvuru Formunu doldurarak <strong>1 Nisan 2021</strong> tarihine kadar <strong>hepdakegitim@gmail.com</strong> adresine yollamanız durumunda size en kısa sürede geri dönüş yapılacaktır.İlgili forma <Link href="doc/aday_formu.doc"><a>buradan</a></Link> ulaşabilirsiniz.</p>
         <p>İlginize teşekkür ederiz.</p>
         <h6>HEPDAK Yönetim Kurulu</h6>
       </div>
+      */}
       <div className="col-sm-12 col-md-12 covid-index">
         <Link href="/covid-19"><a>Covid-19 Haberleri</a></Link>
       </div>

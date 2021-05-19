@@ -43,7 +43,7 @@ const Kurul = () => (
 	    	<span className="madde-span">• Öğ. Gör. Dr. Yasin Çetin, Adıyaman Üniversitesi</span>
 	    	<span className="madde-span">• <strong>Öğrenci:</strong> Şerife Cingiz, Akdeniz Üniversitesi</span>
 
-	    	<h3 className="kurul-title">Danışmanlık ve Eğitim Komisyonu (DEK)</h3>
+	    	<h3 className="kurul-title">Eğitim Komisyonu (EK)</h3>
 	    	<span className="madde-span">• Prof. Dr. Ayten Zaybak (Başkan), Ege Üniversitesi</span>
 	    	<span className="madde-span">• Doç. Dr. Şenay Ünsal (Başkan Yard. - Sekreter), Ege Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Ayla Keçeci, Düzce Üniversitesi</span>

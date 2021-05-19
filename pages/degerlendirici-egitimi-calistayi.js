@@ -58,10 +58,10 @@ const Calistay = () => (
 		    <a className="nav-link calistay-button" href="doc/3-4eylul2018-deg-egitim-programi.pdf">Program</a>
 		  </li>
 		  <li className="nav-item">
-		    <a className="nav-link calistay-button" href="doc/3-4eylul2018-deg-katilim-listesi.pdf">Katılımcı Listesi</a>
+		    <a className="nav-link calistay-button" href="doc/2018_katilimci.pdf">Katılımcı Listesi</a>
 		  </li>
 		  <li className="nav-item">
-		    <a className="nav-link calistay-button" href="doc/3-4eylul2018-degerlendirme-sonuclari.pdf">Değerlendirme</a>
+		    <a className="nav-link calistay-button" href="doc/2018_degerlendirme.pdf">Değerlendirme</a>
 		  </li>
 		</ul>
 		<h6><span className="badge badge-custom">3</span> HEPDAK Değerlendirici Eğitim Çalıştayı 19-20 Ocak 2017 (İzmir)</h6>
