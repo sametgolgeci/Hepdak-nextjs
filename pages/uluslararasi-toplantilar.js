@@ -15,12 +15,16 @@ const Calistay = () => (
 				<a href="/doc/uluslararasi-2/belge_1.pdf" target="_blank">1. 19 May 2021: Fifth bi-monthly CEENQA meeting</a><br/>
 				<a href="/doc/uluslararasi-2/belge_2.pdf" target="_blank">2. GESIQA</a><br/>
 			</p>
-		<h6><span className="badge badge-custom">1</span> CEENQA Online Staff Exchange Program</h6>
+		<h6><span className="badge badge-custom">1</span> CEENQA Çevrimiçi Değerlendirici Değişim Programı</h6>
 			<p className="madde-p">
 				<a href="/doc/uluslararasi-1/belge_1.pdf" target="_blank">1. CEENQA Online Staff Exchange Program</a><br/>
 				<a href="/doc/uluslararasi-1/belge_2.pdf" target="_blank">2. HEPDAK Association for Evaluation and Accreditation of Nursing Education Programs</a><br/>
 				<a href="/doc/uluslararasi-1/belge_3.pdf" target="_blank">3. HEPDAK : Response to COVID-19 Pandemic QUALITY ASSURANCE ACTIVITIES OF HEPDAK FOR DISTANCE EVALUATION</a><br/>
 				<a href="/doc/uluslararasi-1/belge_4.pdf" target="_blank">4. Council of Higher Education - Turkey</a><br/>
+				<a href="/doc/uluslararasi-1/belge_5.pdf" target="_blank">5. Distance Evaluation AIC AIKA</a><br/>
+				<a href="/doc/uluslararasi-1/belge_6.pdf" target="_blank">6. Introduction AIC AIKA</a><br/>
+				<a href="/doc/uluslararasi-1/belge_7.pdf" target="_blank">7. Stakeholders AIC AIKA</a><br/>
+				<a href="/doc/uluslararasi-1/belge_8.pdf" target="_blank">8. Steps of assessment procedures AIC AIKA</a><br/>
 			</p>
 			<div className="container">
 				<div className="row">

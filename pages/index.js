@@ -42,9 +42,6 @@ const Anasayfa = () => (
                     <div className="main-top-one-content">HEPDAK Değerlendiricilerimizden ve aynı zamanda HEPDAK Uluslararası Dış Değerlendirme Çalışma Grubu üyelerimizden Doç.Dr.Sergül Duygulu ve Doç.Dr.Fatoş Korkmaz HEPDAK’ın üyesi olduğu CEENQA’nın (Orta ve Doğu Avrupa Yükseköğretim Kalite Güvence Ajansları Ağı) bir diğer üyesi olan ve HEPDAK’ın Değerlendirici Değişim Programı (CEENQA Staff Exchange Program) gerçekleştirdiği Letonya Akreditasyon Ajansı AIC (Academic Information Center)-/AIKA (Quality Agency for Higher Education ) yönetim kurulu tarafından 12.05.2021 tarihinde Dış Değerlendirici olarak seçilmiştir. Değerlendirici hocalarımızı tebrik eder başarılı çalışmalar yürütmelerini dileriz.</div>
                 </div>
                 <div className="carousel-item">
-                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/duyurular/hemsire2021.png"/></div>
-                </div>
-                <div className="carousel-item">
                 <Link href="/doc/HEPDAK_AIC_agenda.docx"><a target="_blank">
                     <div className="main-top-one-title">DUYURU</div>
                     <div className="main-top-one-content">HEPDAK Uluslararası Dış Değerlendirme Çalışma Grubu, 27-28 Nisan 2021 tarihinde AIKA/AIC - Letonya akreditasyon ajansı ile CEENQA ONLINE STAFF EXCHANGE PROGRAM 'ı gerçekleştirmiştir.</div>
