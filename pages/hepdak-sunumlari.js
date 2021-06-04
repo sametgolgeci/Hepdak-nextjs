@@ -35,6 +35,14 @@ const Kaynak = () => (
                     <th scope="row">6</th>
                     <td><Link href="doc/hepdak_sunumlari/belge_6.pdf"><a target="_blank">2021 - 2022 Dönemi Başvuran Kurumlarla Toplantı (18.03.2021)</a></Link></td>
                   </tr>
+                  <tr>
+                    <th scope="row">7</th>
+                    <td><Link href="doc/hepdak_sunumlari/belge_7.pdf"><a target="_blank">Prof. Dr. Gülseren Kocaman - Pandemide Hemşirelik Eğitim Programlarının Akreditasyonu</a></Link></td>
+                  </tr>
+                  <tr>
+                    <th scope="row">8</th>
+                    <td><Link href="doc/hepdak_sunumlari/belge_8.pdf"><a target="_blank">Doç. Dr. Şenay Ünsal Atan - Hemşirelik Haftası Etkinliği (12.05.2021)</a></Link></td>
+                  </tr>
                 </tbody>
               </table>
             </div>
