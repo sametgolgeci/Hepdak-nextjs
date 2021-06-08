@@ -10,17 +10,52 @@ const Calistay = () => (
 	<div className="row">
 		<div className="genel col-md-12 col-sm-12">
 		<h1 id="degerlendirici">Değerlendirici Eğitimi Çalıştayı</h1>
-		<p><strong>Değerlendirici eğitimi programının amacı :</strong> HEPDAK değerlendiricilerinin, akreditasyon sürecinde güvenilir, tutarlı ve uygun karar vermelerine yardımcı olmaktır.</p>
+		<p><strong>Değerlendirici eğitimi programının amacı :</strong>HEPDAK değerlendiricilerinin, akreditasyon sürecinde güvenilir, tutarlı ve uygun karar vermelerine yardımcı olmaktır.</p>
 		<p><strong>Hedefler</strong></p>
 		<p>Eğitim öncesi çalışmalarda ve eğitim sonunda katılımcıların şunları yapması beklenir:</p>
 		<p className="madde-p">• Akreditasyon sürecini ve ilkelerini bilme ve tartışabilme</p>
 		<p className="madde-p">• HEPDAK Hemşirelik Lisans Eğitimi Standartlarını kavrama</p>
-		<p className="madde-p">• ÖDR ve eklerini eleştirel olarak değerlendirebilme</p>
+		<p className="madde-p">• ÖDR ve eklerini eleştirel olarak değerlendirebilme</p>
 		<p className="madde-p">• Değerlendiricinin sorumluluklarını duyarlılıkla yerine getirebilme</p>
 		<p className="madde-p">• Ekiple birlikte değerlendirme çalışmalarını sürdürebilme</p>
 		<p className="madde-p">• HEPDAK standartlarının karşılanma durumuna karar verebilme</p>
 		<p className="madde-p">• Değerlendirme raporu hazırlayabilme</p>
 		<p className="madde-p">• Yerinde ve sanal ziyaret  süreçlerini anlama</p>
+		<h6><span className="badge badge-custom">6</span> HEPDAK Değerlendirici Eğitim Çalıştayı 10-12 Haziran 2021</h6>
+		<p>
+			<ul className="nav calistay-nav">
+			  <li className="nav-item">
+			    <a className="nav-link calistay-button" href="doc/degerlendirici_egitim_6/program.pdf">Program</a>
+			  </li>
+			  <li className="nav-item">
+			    <a className="nav-link calistay-button" href="doc/degerlendirici_egitim_6/katilim-listesi.pdf">Katılımcı Listesi</a>
+			  </li>
+			{/*
+			  <li className="nav-item">
+			    <a className="nav-link calistay-button" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">Sunumlar</a>
+			  </li>
+			  <li className="nav-item" disabled>
+			    <a className="nav-link calistay-button" href="doc/degerlendirici_egitim_5/degerlendirici_egitim_5_degerlendirme.pdf">Değerlendirme</a>
+			  </li>
+			  */}
+			</ul>
+		</p>
+	{/*
+		<div className="collapse" id="collapseExample">
+		<p><strong>-> Sunumlar</strong></p>
+		<p className="madde-p"><a href="/doc/degerlendirici_egitim_5/1.acılıs.pptx">1. Çalıştay Açılışı</a><br/>
+		<a href="/doc/degerlendirici_egitim_5/2.akreditasyon_sureci.ppt">2. Akreditasyon Süreci</a><br/>
+		<a href="/doc/degerlendirici_egitim_5/3.HEPDAK_hemsirelik_lisans_egitim_programı_standartları.ppt">3. Hemşirelik Lisans Eğitim Standartları</a><br/>
+		<a href="/doc/degerlendirici_egitim_5/4.uzaktan_egitim_standartları.ppt">4. Uzaktan Eğitim Standartları</a><br/>
+		<a href="/doc/degerlendirici_egitim_5/5.ziyaret_oncesi_planlama.ppt">5. Ziyaret Öncesi Planlama</a><br/>
+		<a href="/doc/degerlendirici_egitim_5/6.ziyaret_sureci_ve_sonrası_etkinlikler.ppt">6. Ziyaret Süreci ve Sonrası Etkinlikler</a><br/>
+		<a href="/doc/degerlendirici_egitim_5/7.takım_baskanının_sorumlulukları.pptx">7. Takım Başkanının Sorumlulukları</a><br/>
+		<a href="/doc/degerlendirici_egitim_5/8.tutarlılık.ppt">8. Tutarlılık</a><br/>
+		<a href="/doc/degerlendirici_egitim_5/9.davranıssal_boyut.ppt">9. Davranışsal Boyut</a><br/>
+		<a href="/doc/degerlendirici_egitim_5/10.uzaktan_degerlendirme.ppt">10. Uzaktan Değerlendirme</a><br/>
+		<a href="/doc/degerlendirici_egitim_5/11.degerlendirme_raporu_yazımı_ve_cıkıs_gorusmesi.ppt">11. Değerlendirme Raporu Yazımı ve Çıkış Görüşmesi</a></p>
+		</div>
+		*/}
 		<h6><span className="badge badge-custom">5</span> HEPDAK Değerlendirici Eğitim Çalıştayı 10-12 Ağustos 2020 (İzmir)</h6>
 		<p>
 			<ul className="nav calistay-nav">
