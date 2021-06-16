@@ -30,6 +30,9 @@ const Calistay = () => (
 			  <li className="nav-item">
 			    <a className="nav-link calistay-button" href="doc/degerlendirici_egitim_6/katilim-listesi.pdf">Katılımcı Listesi</a>
 			  </li>
+			  <li className="nav-item">
+			    <a className="nav-link calistay-button" data-toggle="collapse" href="#collapseExampleFoto6" role="button" aria-expanded="false" aria-controls="collapseExampleFoto6">Fotoğraflar</a>
+			  </li>
 			{/*
 			  <li className="nav-item">
 			    <a className="nav-link calistay-button" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">Sunumlar</a>
@@ -56,6 +59,28 @@ const Calistay = () => (
 		<a href="/doc/degerlendirici_egitim_5/11.degerlendirme_raporu_yazımı_ve_cıkıs_gorusmesi.ppt">11. Değerlendirme Raporu Yazımı ve Çıkış Görüşmesi</a></p>
 		</div>
 		*/}
+		<div className="collapse" id="collapseExampleFoto6">
+			<p><strong>-> Fotoğraflar</strong></p>
+			<div className="container">
+				<div className="row">
+					<div className="col-md-3 col-sm-12"><a href="/doc/degerlendirici_egitim_6/1.JPG" target="_blank"><img className="calistay-img" src="/doc/degerlendirici_egitim_6/1.JPG" alt="Değerlendirici Eğitimi 6"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/degerlendirici_egitim_6/2.PNG" target="_blank"><img className="calistay-img" src="/doc/degerlendirici_egitim_6/2.PNG" alt="Değerlendirici Eğitimi 6"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/degerlendirici_egitim_6/3.PNG" target="_blank"><img className="calistay-img" src="/doc/degerlendirici_egitim_6/3.PNG" alt="Değerlendirici Eğitimi 6"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/degerlendirici_egitim_6/4.PNG" target="_blank"><img className="calistay-img" src="/doc/degerlendirici_egitim_6/4.PNG" alt="Değerlendirici Eğitimi 6"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/degerlendirici_egitim_6/5.PNG" target="_blank"><img className="calistay-img" src="/doc/degerlendirici_egitim_6/5.PNG" alt="Değerlendirici Eğitimi 6"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/degerlendirici_egitim_6/6.PNG" target="_blank"><img className="calistay-img" src="/doc/degerlendirici_egitim_6/6.PNG" alt="Değerlendirici Eğitimi 6"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/degerlendirici_egitim_6/7.PNG" target="_blank"><img className="calistay-img" src="/doc/degerlendirici_egitim_6/7.PNG" alt="Değerlendirici Eğitimi 6"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/degerlendirici_egitim_6/8.PNG" target="_blank"><img className="calistay-img" src="/doc/degerlendirici_egitim_6/8.PNG" alt="Değerlendirici Eğitimi 6"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/degerlendirici_egitim_6/9.PNG" target="_blank"><img className="calistay-img" src="/doc/degerlendirici_egitim_6/9.PNG" alt="Değerlendirici Eğitimi 6"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/degerlendirici_egitim_6/10.PNG" target="_blank"><img className="calistay-img" src="/doc/degerlendirici_egitim_6/10.PNG" alt="Değerlendirici Eğitimi 6"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/degerlendirici_egitim_6/11.PNG" target="_blank"><img className="calistay-img" src="/doc/degerlendirici_egitim_6/11.PNG" alt="Değerlendirici Eğitimi 6"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/degerlendirici_egitim_6/12.PNG" target="_blank"><img className="calistay-img" src="/doc/degerlendirici_egitim_6/12.PNG" alt="Değerlendirici Eğitimi 6"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/degerlendirici_egitim_6/13.png" target="_blank"><img className="calistay-img" src="/doc/degerlendirici_egitim_6/13.png" alt="Değerlendirici Eğitimi 6"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/degerlendirici_egitim_6/14.jpg" target="_blank"><img className="calistay-img" src="/doc/degerlendirici_egitim_6/14.jpg" alt="Değerlendirici Eğitimi 6"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/degerlendirici_egitim_6/15.jpg" target="_blank"><img className="calistay-img" src="/doc/degerlendirici_egitim_6/15.jpg" alt="Değerlendirici Eğitimi 6"/></a></div>
+				</div>
+			</div>
+		</div>
 		<h6><span className="badge badge-custom">5</span> HEPDAK Değerlendirici Eğitim Çalıştayı 10-12 Ağustos 2020 (İzmir)</h6>
 		<p>
 			<ul className="nav calistay-nav">
