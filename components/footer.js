@@ -15,7 +15,7 @@ const Footer = () => (
 				</div>
 				<div className="footer-info-item"> 
 					<div className="footer-info-icon"><FontAwesomeIcon className="footer-icon" icon={faEnvelope}/></div>
-					<div className="footer-info-color"><Link href="mailto:hepdak2013@gmail.com"><a>hepdak2013@gmail.com</a></Link></div>
+					<div className="footer-info-color"><Link href="mailto:hepdak2013@gmail.com"><a>info@hepdak.org.tr</a></Link></div>
 				</div>
 				<div className="footer-info-item"> 
 					<div className="footer-info-icon"><FontAwesomeIcon className="footer-icon" icon={faMapMarkerAlt}/></div>

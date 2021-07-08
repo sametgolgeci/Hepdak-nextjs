@@ -11,8 +11,10 @@ function sendEmail(e) {
   emailjs.sendForm('gmail', 'template_4hcz6rf', e.target, 'user_5aJ4lAyl6aNUxJkcF6atP')
     .then((result) => {
       console.log(result.text);
+      alert('Mesajınız gönderilmiştir!');
     }, (error) => {
       console.log(error.text);
+      alert('Bir hata oluştu');
   });
   e.target.reset();
 }
@@ -38,9 +40,15 @@ const Anasayfa = () => (
           <div className="main-top-one">
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
+            {/*
+                <div className="carousel-item active">
+                  <div className="main-top-one-title">Kurumlara Yönelik Eğitim Çalıştayı</div>
+                  <div className="main-top-one-content">Hemşirelik Lisans Eğitimi Veren Yükseköğretim Kurumlarına Yönelik Eğitim Çalıştayı 10 Eylül 2021  Cuma günü çevrimiçi olarak  gerçekleştirilecektir. Çalıştay başvuru formuna <a href="doc/2021_kurum_calistay_basvuru_form.doc">buradan</a> ulaşabilirsiniz.</div>
+                </div>
+                */}
                 <div className="carousel-item active">
                   <Link href="/degerlendirici-egitimi-calistayi"><a>
-                    <div className="main-top-one-title">DUYURU</div>
+                    <div className="main-top-one-title">Duyuru</div>
                     <div className="main-top-one-content">HEPDAK Değerlendirici Adayı Eğitimi Çalıştayı 10-12 Haziran 2021 tarihleri arasında çevrimiçi olarak gerçekleştirilmiştir. Çalıştaya 21 yeni değerlendirici adayı katılmıştır. Eğitimde grup çalışmalarında takım başkanı olarak dört, grup çalışmaları gözlemcisi olarak iki deneyimli HEPDAK değerlendiricisi yer almıştır. Üç günlük çalıştay küçük grup ve ana salon çalışmaları ile interaktif olarak yürütülmüştür.</div>
                     <div className="main-top-one-continue">Devamı -></div>
                   </a></Link>
@@ -49,11 +57,11 @@ const Anasayfa = () => (
                   <div className="main-top-one-content-full"><img className="slider-full-img" src="img/duyurular/hemsire-sempozyum-2021.jpg"/></div>
                 </div>
                 <div className="carousel-item">
-                  <div className="main-top-one-title">DUYURU</div>
+                  <div className="main-top-one-title">Duyuru</div>
                   <div className="main-top-one-content">HEPDAK Akreditasyon değerlendirmeleri sonucu 2021 yılında akredite olmaya hak kazanan kurumlardan Ege Üniversitesi Hemşirelik Fakültesi ve Erciyes Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümüne  31 Mayıs 2021, Dokuz Eylül Üniversitesi Hemşirelik Fakültesi ve Acıbadem Üniversitesi  Sağlık Bilimleri Fakültesi Hemşirelik Bölümüne 1 Haziran 2021, Trakya Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümüne 2 Haziran 2021 tarihlerinde yapılan online toplantı ile akreditasyon belgeleri takdim edilmiştir.</div>
                 </div>
                 <div className="carousel-item">
-                  <div className="main-top-one-title">DUYURU</div>
+                  <div className="main-top-one-title">Duyuru</div>
                   <div className="main-top-one-content">HEPDAK değerlendiricilerimizden Doç. Dr. Sergül Duygulu ve Doç. Dr. Fatoş Korkmaz  ARACİS- Romanya Yüksek Öğretim Kalite Güvenlik Kurumu (Romanian Agency for Quality Assurance in Higher Education) tarafından Uluslararası Değerlendirmeci olarak seçilmişlerdir. Değerlendirmecilerimizi kutluyor, başarılar diliyoruz.<h6>HEPDAK Yönetim Kurulu</h6></div>
                 </div>
                 <div className="carousel-item">
@@ -61,7 +69,7 @@ const Anasayfa = () => (
                 </div>
                 <div className="carousel-item">
                   <Link href="/doc/HEPDAK_AIC_agenda.docx"><a target="_blank">
-                    <div className="main-top-one-title">DUYURU</div>
+                    <div className="main-top-one-title">Duyuru</div>
                     <div className="main-top-one-content">HEPDAK Uluslararası Dış Değerlendirme Çalışma Grubu, 27-28 Nisan 2021 tarihinde AIKA/AIC - Letonya akreditasyon ajansı ile CEENQA ONLINE STAFF EXCHANGE PROGRAM 'ı gerçekleştirmiştir.</div>
                   </a></Link>
                 </div>
@@ -203,7 +211,11 @@ const Anasayfa = () => (
           <div className="tab-content">
             <div id="yirmibir" className="container tab-pane active">
               <div className="main-top-second">
-                <div className="main-top-second-title">DUYURU</div>
+                <div className="main-top-second-title">Kurumlara Yönelik Eğitim Çalıştayı</div>
+                <div className="main-top-second-content">Hemşirelik Lisans Eğitimi Veren Yükseköğretim Kurumlarına Yönelik Eğitim Çalıştayı 10 Eylül 2021  Cuma günü çevrimiçi olarak  gerçekleştirilecektir. Çalıştay başvuru formuna <a href="doc/2021_kurum_calistay_basvuru_form.doc">buradan</a> ulaşabilirsiniz.</div>
+              </div>
+              <div className="main-top-second">
+                <div className="main-top-second-title">Duyuru</div>
                 <div className="main-top-second-content"><p>HEPDAK Akreditasyon değerlendirmeleri sonucu  2021 yılında akredite olmaya hak kazanan kurumlardan Ege Üniversitesi Hemşirelik Fakültesi ve Erciyes Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümüne  31 Mayıs 2021, Dokuz Eylül Üniversitesi Hemşirelik Fakültesi ve Acıbadem Üniversitesi  Sağlık Bilimleri Fakültesi Hemşirelik Bölümüne 1 Haziran 2021, Trakya Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümüne 2 Haziran 2021 tarihlerinde yapılan online toplantı ile akreditasyon belgeleri takdim edilmiştir.</p>
                   <div className="row">
                     <div className="col-md-4"><a href="img/duyurular/akreditasyon-2021/Acibadem.PNG" target="_blank"><img className="second-content-img" src="img/duyurular/akreditasyon-2021/Acibadem.PNG"/></a></div>
@@ -215,11 +227,11 @@ const Anasayfa = () => (
                 </div>
               </div>
               <div className="main-top-second">
-                <div className="main-top-second-title">DUYURU</div>
+                <div className="main-top-second-title">Duyuru</div>
                 <div className="main-top-second-content">HEPDAK değerlendiricilerimizden Doç. Dr. Sergül Duygulu ve Doç. Dr. Fatoş Korkmaz  ARACİS- Romanya Yüksek Öğretim Kalite Güvenlik Kurumu (Romanian Agency for Quality Assurance in Higher Education) tarafından Uluslararası Değerlendirmeci olarak seçilmişlerdir. Değerlendirmecilerimizi kutluyor, başarılar diliyoruz.<h6>HEPDAK Yönetim Kurulu</h6></div>
               </div>
               <div className="main-top-second">
-                <div className="main-top-second-title">DUYURU</div>
+                <div className="main-top-second-title">Duyuru</div>
                 <div className="main-top-second-content">HEPDAK Değerlendiricilerimizden ve aynı zamanda HEPDAK Uluslararası Dış Değerlendirme Çalışma Grubu üyelerimizden Doç.Dr.Sergül Duygulu ve Doç.Dr.Fatoş Korkmaz HEPDAK’ın üyesi olduğu CEENQA’nın (Orta ve Doğu Avrupa Yükseköğretim Kalite Güvence Ajansları Ağı) bir diğer üyesi olan ve HEPDAK’ın Değerlendirici Değişim Programı (CEENQA Staff Exchange Program) gerçekleştirdiği Letonya Akreditasyon Ajansı AIC (Academic Information Center)-/AIKA (Quality Agency for Higher Education ) yönetim kurulu tarafından 12.05.2021 tarihinde Dış Değerlendirici olarak seçilmiştir. Değerlendirici hocalarımızı tebrik eder başarılı çalışmalar yürütmelerini dileriz.<p><h6>HEPDAK Yönetim Kurulu</h6></p></div>
               </div>
               <div className="main-top-second">
