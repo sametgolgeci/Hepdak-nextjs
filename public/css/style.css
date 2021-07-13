@@ -729,9 +729,13 @@ table{
 	margin-bottom: 2rem;
 	margin-top: 2rem;
 }
+.covid-index > h2{
+	font-size: 3rem;
+}
 .covid-index > a{
 	color: #000055;
 	padding: 0.25rem 0.5rem;
+	font-size: 1.5rem;
 }
 .covid-index > a:hover{
 	border-bottom: 3px solid #008ac3;
@@ -793,9 +797,11 @@ table{
 .main-middle-duyuru {
 	border: 1px solid rgba(0, 138, 195, 0.2);
 	padding: 1rem;
+	width: 100%;
 }
 .main-middle-duyuru > h4 {
 	text-align: center;
+	width: 100%;
 }
 .second-content-img {
 	width: 100%;

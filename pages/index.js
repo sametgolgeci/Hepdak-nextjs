@@ -40,13 +40,17 @@ const Anasayfa = () => (
           <div className="main-top-one">
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
-            {/*
                 <div className="carousel-item active">
-                  <div className="main-top-one-title">Kurumlara Yönelik Eğitim Çalıştayı</div>
-                  <div className="main-top-one-content">Hemşirelik Lisans Eğitimi Veren Yükseköğretim Kurumlarına Yönelik Eğitim Çalıştayı 10 Eylül 2021  Cuma günü çevrimiçi olarak  gerçekleştirilecektir. Çalıştay başvuru formuna <a href="doc/2021_kurum_calistay_basvuru_form.doc">buradan</a> ulaşabilirsiniz.</div>
+                  <a href="/doc/2021_takvim.pdf" target="_blank">
+                  <div className="main-top-one-title">HEPDAK 2021-2022 Dönemi Akreditasyon Takvimi</div>
+                  <div className="main-top-one-content">HEPDAK 2021-2022 dönemi akreditasyon takvimine ulaşmak için tıklayınız.</div>
+                  </a>
                 </div>
-                */}
-                <div className="carousel-item active">
+                <div className="carousel-item ">
+                  <div className="main-top-one-title">Kurumlara Yönelik Eğitim Çalıştayı</div>
+                  <div className="main-top-one-content">Hemşirelik Lisans Eğitimi Veren Yükseköğretim Kurumlarına Yönelik Eğitim Çalıştayı 9-10 Eylül 2021 tarihlerinde çevrimiçi olarak gerçekleştirilecektir. <a href="doc/2021_kurum_program.pdf"><strong>Çalıştay Programı</strong></a>, <a href="doc/2021_kurum_form.doc"><strong>Başvuru Formu</strong></a> ve <a href="doc/2021_kurum_duyuru.pdf"><strong>Duyuru Metni</strong></a>'ne buradan ulaşabilirsiniz.</div>
+                </div>
+                <div className="carousel-item">
                   <Link href="/degerlendirici-egitimi-calistayi"><a>
                     <div className="main-top-one-title">Duyuru</div>
                     <div className="main-top-one-content">HEPDAK Değerlendirici Adayı Eğitimi Çalıştayı 10-12 Haziran 2021 tarihleri arasında çevrimiçi olarak gerçekleştirilmiştir. Çalıştaya 21 yeni değerlendirici adayı katılmıştır. Eğitimde grup çalışmalarında takım başkanı olarak dört, grup çalışmaları gözlemcisi olarak iki deneyimli HEPDAK değerlendiricisi yer almıştır. Üç günlük çalıştay küçük grup ve ana salon çalışmaları ile interaktif olarak yürütülmüştür.</div>
@@ -73,13 +77,6 @@ const Anasayfa = () => (
                     <div className="main-top-one-content">HEPDAK Uluslararası Dış Değerlendirme Çalışma Grubu, 27-28 Nisan 2021 tarihinde AIKA/AIC - Letonya akreditasyon ajansı ile CEENQA ONLINE STAFF EXCHANGE PROGRAM 'ı gerçekleştirmiştir.</div>
                   </a></Link>
                 </div>
-              {/*
-                <div className="carousel-item">
-                  <Link href="https://www.youtube.com/channel/UC96oXHHypl1WFXpOkvwwj9A"><a target="_blank">
-                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/duyurular/23nisan2021.jpg"/></div>
-                  </a></Link>
-                </div>
-                */}
                 <div className="carousel-item">
                   <Link href="/yok-ziyaret-2021"><a target="_blank">
                     <div className="main-top-one-title">YÖKAK 2021 YILI HEPDAK İZLEME ZİYARETİ</div>
@@ -96,47 +93,23 @@ const Anasayfa = () => (
                     <div className="main-top-one-continue">Devamı -></div>
                   </a></Link>
                 </div>
-                {/*
-                <div className="carousel-item">
-                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/duyurular/webinar.png"/></div>
-                </div>
-                */}
                 <div className="carousel-item">
                     <div className="main-top-one-title">HEPDAK Değerlendirici Eğitimi (10-12 Haziran 2021)</div>
                     <div className="main-top-one-content">Eğitim programı çevrimiçi olarak yürütülecektir.</div>
                 </div>
                 {/*
-                <div className="carousel-item">
-                    <div className="main-top-one-title">HEPDAK Öğrenci Değerlendiricileri Eğitim Çalıştayı (28 Mart 2021)</div>
-                    <div className="main-top-one-content">Eğitim programı çevrimiçi olarak yürütülecektir.</div>
-                </div>
-                */}
-                {/*
+                *** Desing 5 ***
                 <div className="carousel-item">
                   <Link href="https://www.youtube.com/channel/UC96oXHHypl1WFXpOkvwwj9A"><a target="_blank">
                     <div className="main-top-one-content-full"><img className="slider-full-img" src="img/duyurular/youtube-duyuru.png"/></div>
                   </a></Link>
                 </div>
+                *** Design 4 ***
                 <div className="carousel-item">
-                    <div className="main-top-one-title">TAKIM BAŞKANLARI TOPLANTISI 2021</div>
-                    <div className="main-top-one-content">2020-2021 HEPDAK Akreditasyon sürecinde çevrimiçi olarak gerçekleştirilen ziyaretlerdeki beş takım başkanı ve HEPDAK Yönetim Kurulu üyeleri 07 Ocak 2021 tarihinde çevrimiçi olarak yapılan toplantıda bir araya geldi. Takım başkanları ve Yönetim Kurulu üyeleri özellikle çevrimiçi ziyaret sürecinin yanı sıra tüm ziyaret süreci ile ilgili olarak karşılıklı bilgi alışverişinde bulundu.</div>
+                  <div className="main-top-one-title">TAKIM BAŞKANLARI TOPLANTISI 2021</div>
+                  <div className="main-top-one-content">2020-2021 HEPDAK Akreditasyon sürecinde çevrimiçi olarak gerçekleştirilen ziyaretlerdeki beş takım başkanı ve HEPDAK Yönetim Kurulu üyeleri 07 Ocak 2021 tarihinde çevrimiçi olarak yapılan toplantıda bir araya geldi. Takım başkanları ve Yönetim Kurulu üyeleri özellikle çevrimiçi ziyaret sürecinin yanı sıra tüm ziyaret süreci ile ilgili olarak karşılıklı bilgi alışverişinde bulundu.</div>
                 </div>
-                <div className="carousel-item">
-                  <Link href="/kurum-egitimi-8"><a target="_blank">
-                    <div className="main-top-one-title">KURUM TANITIM EĞİTİMİ</div>
-                    <div className="main-top-one-content">
-                      <div className="main-top-one-content-side">
-                        <div className="main-top-one-content-one">
-                          <p>HEPDAK değerlendirmesine başvurmayı planlayan hemşirelik lisans programlarının sorumlularına ve eğiticilerine HEPDAK akreditasyonu ile ilgili temel kavramları, HEPDAK standartları ve anlamları, HEPDAK uzaktan eğitim standartları, eğitim amaçları, program çıktıları ve sürekli iyileştirme yaklaşımları, değerlendirme süreci, uzaktan değerlendirme süreci...</p>
-                        </div>
-                        <div className="main-top-one-content-two">
-                          <img className="slider-img" src="img/kurum_egitim_8/photo_1.PNG"/>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="main-top-one-continue">Devamı -></div>
-                  </a></Link>
-                </div>
+                *** Desing 3 ***
                 <div className="carousel-item">
                   <Link href="/cevrimici_degerlendirici_egitimi"><a target="_blank">
                     <div className="main-top-one-title">ÇEVRİMİÇİ DEĞERLENDİRİCİ EĞİTİMİ</div>
@@ -153,37 +126,22 @@ const Anasayfa = () => (
                     <div className="main-top-one-continue">Devamı -></div>
                   </a></Link>
                 </div>
-                  
-                  <div className="carousel-item">
-                    <Link href="/doc/CEENQA_Application_HEPDAK_Decision.pdf"><a target="_blank">
-                      <div className="main-top-one-title">CEENQA ÜYELİĞİ HAKKINDA</div>
-                      <div className="main-top-one-content"><p>HEPDAK, 15 Mayıs 2020 tarihinden itibaren CEENQA - Central and Eastern European Network of Quality Assurance Agencies in Higher Education'ın tam üyesidir.</p></div>
-                      <div className="main-top-one-continue">Devamı -></div>
-                    </a></Link>
-                  </div>
-                  <div className="carousel-item">
-                    <Link href="/webinar#last"><a href="yokak-saha-ziyareti">
-                      <div className="main-top-one-title">YÖKAK SAHA ZİYARETİ</div>
-                      <div className="main-top-one-content">Yüksek Öğretim Kalite Kurulu (YÖKAK), "Dış Değerlendirme ve Akreditasyon Kuruluşlarının Yetkilendirilmesi, Tanınması ve İzlenmesine İlişkin Kılavuz, 2019" kapsamında Kalite Değerlendirme Tescil Belgesi'ne sahip ulusal akreditasyon kuruluşları için 2020 yılından itibaren saha ziyareti uygulamasını başlatmıştır...</div>
-                      <div className="main-top-one-continue">Devamı -></div>
-                    </a></Link>
-                  </div>
-                  <div className="carousel-item">
-                    <Link href="https://yokak.gov.tr/akreditasyon-kuruluslari/tescil-suresi-devam-edenler"><a target="_blank">
-                      <div className="main-top-one-title">HEPDAK, 2023 YILINA KADAR TESCİL EDİLDİ</div>
-                      <div className="main-top-one-content">Hemşirelik Eğitim Programları Değerlendirme ve Akreditasyon Derneği (HEPDAK) Yükseköğretim Kalite Kurulu tarafından 25.12.2023 tarihine kadar beş yıllığına tescil edilmiştir.</div>
-                    </a></Link>
-                  </div>
-                  */}
-                  {/*
-                  <div className="carousel-item">
-                    <Link href="/ucretler"><a>
-                      <div className="main-top-one-title">HEPDAK DEĞERLENDİRME VE AKREDİTASYON ÜCRETLERİ</div>
-                      <div className="main-top-one-content">2020-2021 Değerlendirme Dönemi Akreditasyon Bedelleri Belirlenmiştir.</div>
-                      <div className="main-top-one-continue">Devamı -></div>
-                    </a></Link>
-                  </div>
-                  */}
+                *** Design 2 ***
+                <div className="carousel-item">
+                  <Link href="/doc/CEENQA_Application_HEPDAK_Decision.pdf"><a target="_blank">
+                    <div className="main-top-one-title">CEENQA ÜYELİĞİ HAKKINDA</div>
+                    <div className="main-top-one-content"><p>HEPDAK, 15 Mayıs 2020 tarihinden itibaren CEENQA - Central and Eastern European Network of Quality Assurance Agencies in Higher Education'ın tam üyesidir.</p></div>
+                    <div className="main-top-one-continue">Devamı -></div>
+                  </a></Link>
+                </div>
+                *** Design 1 ***
+                <div className="carousel-item">
+                  <Link href="https://yokak.gov.tr/akreditasyon-kuruluslari/tescil-suresi-devam-edenler"><a target="_blank">
+                    <div className="main-top-one-title">HEPDAK, 2023 YILINA KADAR TESCİL EDİLDİ</div>
+                    <div className="main-top-one-content">Hemşirelik Eğitim Programları Değerlendirme ve Akreditasyon Derneği (HEPDAK) Yükseköğretim Kalite Kurulu tarafından 25.12.2023 tarihine kadar beş yıllığına tescil edilmiştir.</div>
+                  </a></Link>
+                </div>
+                */}
                 </div>
               <a className="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
                 <span aria-hidden="true"><FontAwesomeIcon className="main-carousel-icon" icon={faChevronLeft}/></span>
@@ -211,8 +169,12 @@ const Anasayfa = () => (
           <div className="tab-content">
             <div id="yirmibir" className="container tab-pane active">
               <div className="main-top-second">
+                <div className="main-top-second-title">HEPDAK 2021-2022 Dönemi Akreditasyon Takvimi</div>
+                <div className="main-top-second-content">İlgili dosyaya <Link href="/doc/2021_takvim.pdf"><a target="_blank"><strong>buradan</strong></a></Link> ulaşabilirsiniz.</div>
+              </div>
+              <div className="main-top-second">
                 <div className="main-top-second-title">Kurumlara Yönelik Eğitim Çalıştayı</div>
-                <div className="main-top-second-content">Hemşirelik Lisans Eğitimi Veren Yükseköğretim Kurumlarına Yönelik Eğitim Çalıştayı 10 Eylül 2021  Cuma günü çevrimiçi olarak  gerçekleştirilecektir. Çalıştay başvuru formuna <a href="doc/2021_kurum_calistay_basvuru_form.doc">buradan</a> ulaşabilirsiniz.</div>
+                <div className="main-top-second-content">Hemşirelik Lisans Eğitimi Veren Yükseköğretim Kurumlarına Yönelik Eğitim Çalıştayı 9-10 Eylül 2021 tarihlerinde çevrimiçi olarak gerçekleştirilecektir. <a href="doc/2021_kurum_program.pdf"><strong>Çalıştay Programı</strong></a>, <a href="doc/2021_kurum_form.doc"><strong>Başvuru Formu</strong></a> ve <a href="doc/2021_kurum_duyuru.pdf"><strong>Duyuru Metni</strong></a>'ne buradan ulaşabilirsiniz.</div>
               </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">Duyuru</div>
@@ -389,24 +351,18 @@ const Anasayfa = () => (
       </div>
       */}
       <div className="col-sm-12 col-md-12 covid-index">
+        <h2>HEMSİS</h2>
+        <Link href="http://hemsis.hepdak.org.tr/"><a target="_blank">Giriş için tıklayınız</a></Link>
+      </div>
+    {/*
+      <div className="col-sm-12 col-md-12 covid-index">
         <Link href="/covid-19"><a>Covid-19 Haberleri</a></Link>
       </div>
+      
       <div className="col-sm-12 col-md-12">
         <Link href="/doc/SABDEK_covid.pdf"><a><button className="main-top-button">SABDEK Uzaktan Eğitim Çalışmaları ve Yaz Okulu Açıklaması (02.07.2020)</button></a></Link>
       </div>
-      <div className="col-sm-12 col-md-12">
-        <Link href="https://www.thder.org.tr/uploads/files/uzaktan-egitim-aciklama.pdf"><a><button className="main-top-button">Türk Hemşireler Derneği ve Özel Dal Derneklerinden Yaz Okulu Açıklaması (30.06.2020)</button></a></Link>
-      </div>
-      <div className="col-sm-12 col-md-12">
-        <Link href="/doc/HEMED_uzaktan_eğitim_görüş_yazısı.pdf"><a><button className="main-top-button">HEMED Uzaktan Eğitim Konusunda Görüşü (29.06.2020)</button></a></Link>
-      </div>
-      <div className="col-sm-12 col-md-12">
-        <Link href="/corona-virus-pandemisi-sureci"><a><button className="main-top-button">Corona Virüs Pandemisi Sürecinde Hemşirelik Eğitim Programlarının Akreditasyonu için HEPDAK Planı (04.05.2020)</button></a></Link>
-      </div>
-      <div className="col-sm-12 col-md-12">
-        <Link href="/hepdak-degerlendirme-2020-21"><a><button className="main-top-button">HEPDAK 2020-2021 Değerlendirme Planı (04.05.2020)</button></a></Link>
-      </div>
-      {/*
+      
       <div className="col-sm-12 col-md-4">
         <Link href="/doc/b1-basvuru-word_v5.doc"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faCheck}/>Başvuru</button></a></Link>
       </div>
