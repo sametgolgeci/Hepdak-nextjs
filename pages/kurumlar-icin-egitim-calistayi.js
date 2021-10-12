@@ -18,6 +18,49 @@ const Calistay = () => (
 		<p className="madde-p">• Değerlendirme süreci; Fakülte ve Bölümlerin akreditasyon hazırlıkları</p>
 		<p className="madde-p">• Özdeğerlendirme raporları</p>
 		<p className="madde-p">• Değerlendirme takımlarınca yapılan kurum ziyaretleri</p>
+		<h6><span className="badge badge-custom">9</span> 9 - 10 Eylül 2021</h6>
+		<p>
+			<ul className="nav calistay-nav">
+			  <li className="nav-item">
+			    <a className="nav-link calistay-button" href="doc/kurumlar_egitim_9/program.pdf">Program</a>
+			  </li>
+			  <li className="nav-item">
+			    <a className="nav-link calistay-button" data-toggle="collapse" href="#collapseDokuz" role="button" aria-expanded="false" aria-controls="collapseDokuz">Sunumlar</a>
+			  </li>
+			  <li className="nav-item">
+			    <a className="nav-link calistay-button" data-toggle="collapse" href="#collapseExampleFoto9" role="button" aria-expanded="false" aria-controls="collapseExampleFoto9">Fotoğraflar</a>
+			  </li>
+			</ul>
+		</p>
+		<div className="collapse" id="collapseDokuz">
+		<p><strong>-> Sunumlar</strong></p>
+		<p className="madde-p">
+		<a href="/doc/kurumlar_egitim_9/kurum9_1.pdf">1. Giriş</a><br/>
+		<a href="/doc/kurumlar_egitim_9/kurum9_2.pdf">2. Akreditasyon Süreci</a><br/>
+		<a href="/doc/kurumlar_egitim_9/kurum9_3.pdf">3. Standart 1</a><br/>
+		<a href="/doc/kurumlar_egitim_9/kurum9_4.pdf">4. Standart 2-3</a><br/>
+		<a href="/doc/kurumlar_egitim_9/kurum9_5.pdf">5. Standart 4</a><br/>
+		<a href="/doc/kurumlar_egitim_9/kurum9_6.pdf">6. Standart 5-6</a><br/>
+		<a href="/doc/kurumlar_egitim_9/kurum9_7.pdf">7. Standart 7-8</a><br/>
+		<a href="/doc/kurumlar_egitim_9/kurum9_8.pdf">8. Özdeğerlendirme İçeriğinin Hazırlaması ve Dikkat Edilecek Konular</a></p>
+		</div>
+		<div className="collapse" id="collapseExampleFoto9">
+			<p><strong>-> Fotoğraflar</strong></p>
+			<div className="container">
+				<div className="row">
+					<div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_9/photo-1.PNG" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_9/photo-1.PNG" alt="Kurumlar için Eğitim Çalıştayı 9"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_9/photo-2.PNG" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_9/photo-2.PNG" alt="Kurumlar için Eğitim Çalıştayı 9"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_9/photo-3.PNG" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_9/photo-3.PNG" alt="Kurumlar için Eğitim Çalıştayı 9"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_9/photo-4.PNG" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_9/photo-4.PNG" alt="Kurumlar için Eğitim Çalıştayı 9"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_9/photo-5.PNG" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_9/photo-5.PNG" alt="Kurumlar için Eğitim Çalıştayı 9"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_9/photo-6.PNG" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_9/photo-6.PNG" alt="Kurumlar için Eğitim Çalıştayı 9"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_9/photo-7.PNG" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_9/photo-7.PNG" alt="Kurumlar için Eğitim Çalıştayı 9"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_9/photo-8.PNG" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_9/photo-8.PNG" alt="Kurumlar için Eğitim Çalıştayı 9"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_9/photo-9.PNG" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_9/photo-9.PNG" alt="Kurumlar için Eğitim Çalıştayı 9"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_9/photo-10.PNG" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_9/photo-10.PNG" alt="Kurumlar için Eğitim Çalıştayı 9"/></a></div>
+				</div>
+			</div>
+		</div>
 		<h6><span className="badge badge-custom">8</span> 24 Ekim 2020</h6>
 		<p>
 			<ul className="nav calistay-nav">

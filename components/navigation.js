@@ -78,6 +78,7 @@ const Navigation = () => (
 					<div className="dropdown-menu">
 						<Link href="/hepdak-sunumlari"><a className="dropdown-item">HEPDAK Sunumları</a></Link>
 						<Link href="/kaynaklar"><a className="dropdown-item">Kaynaklar</a></Link>
+						<Link href="/sempozyum-kitaplari"><a className="dropdown-item">Sempozyum Kitapları</a></Link>
 					</div>
 				</li>
 	      <li className="nav-item">
