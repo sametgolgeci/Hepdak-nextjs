@@ -45,10 +45,10 @@ table{
 	padding-top: 0.375rem;
 }
 .header-nav-link{
-	color: #000055 !important;
+	color: #2a2c55 !important;
 }
 .header-name{
-	color: #000055;
+	color: #2a2c55;
 	font-size: 1rem;
 	font-weight: 800;
 	text-align: center;
@@ -84,15 +84,14 @@ table{
 	margin-bottom: 3.125rem;
 }
 .navigation-nav{
-	font-family: 'Constantia','Roboto', sans-serif;
+	font-family: 'Roboto', sans-serif;
 	font-size: 1rem;
-	font-weight: 600;
+	font-weight: 500;
 	padding-top: 0.375rem;
 }
 .navigation-items{
 	display: flex;
 	justify-content: center;
-	max-width: 68.75rem;
 	margin: 1.5rem auto;
 }
 /* Main CSS */
@@ -102,6 +101,9 @@ table{
 }
 .main-top{
 	margin-top: 1.25rem;
+	display: flex;
+	flex-direction: row-reverse;
+	flex-wrap: wrap;
 }
 .main-top-button{
 	width: 100%;
@@ -126,7 +128,24 @@ table{
 	}
 }
 .main-top-nav{
-	margin-top: 3.125rem; 
+	margin-top: 30px; 
+	width: 20%;
+	border-top: 1px solid rgba(0, 138, 195, 0.2);
+	/*border-bottom: 1px solid rgba(0, 138, 195, 0.2);*/
+}
+.tab-content{
+	width: 80%;
+}
+.main-top-akredite{
+	display: flex;
+	list-style: none;
+	flex-wrap: wrap;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	height: 398px;
+	margin-bottom: 0 !important;
+	padding-left: 0;
 }
 .main-nav{
 	font-family: 'Roboto', sans-serif;
@@ -200,7 +219,7 @@ table{
 }
 .slider-full-img{
 	width: auto;
-	height: 15.5rem;
+	height: 400px;
 }
 .main-top-one-content > a{
 	font-weight: 900;
@@ -221,7 +240,7 @@ table{
 	}
 	.main-top-one-content{
 		font-family: 'Roboto', sans-serif;
-		font-size: 1.25rem;
+		font-size: 18px;
 		font-weight: 500;
 		color: #212529;
 	}
@@ -312,23 +331,27 @@ table{
 }
 .main-middle-button{
 	width: 100%;
-	height: 6.25rem;
+	height: 100%;
 	background: rgb(0,180,219);
 	border-radius: 0.3125rem;
 	border: 0.0625rem solid #00b4db;
 	color: white;
-	font-size: 1.75rem;
+	font-size: 14px;
 	font-family: 'Raleway', sans-serif;
-	font-weight: 700;
-	margin: 0.73rem 0rem;
+	font-weight: 600;
+	margin: 0;
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: column;
+	align-items: center;
+	justify-content: flex-start;
 }
 .main-middle-button:hover{
 	background: linear-gradient(135deg, rgba(0,180,219,1) 0%, rgba(0,131,176,1) 100%);
 }
 .main-middle-icon{
-	height: 2rem;
-	padding-right: 1.25rem;
-	padding-bottom: 0.3125rem;
+	height: 1.5rem;
+	margin: 16px 0 8px;
 }
 .main-bottom{
 	display: none;
@@ -368,16 +391,16 @@ table{
 	font-size: 1.25rem;
 	font-weight: 900;
 	color: #000055;
-	margin: 0 1rem 1rem 1rem;
+	margin: 0 0 1rem;
 	border-bottom: 0.25rem solid #000055;
 }
 .main-bottom-title > a{
 	color: #000055;
 }
 .main-bottom-tanınma{
-	width: auto;
-	height: 5.5rem;
-	margin: 0rem auto;
+	width: 90%;
+	height: auto;
+	margin: 1rem auto;
 	justify-content: center;
 	display: flex;
 }
@@ -413,7 +436,7 @@ table{
 	padding-top: 1rem;
 	border-top: 0.0625rem solid #eaeaea;
 	width: 100%;
-	font-size: 1rem;
+	font-size: 14px;
 }
 .footer-items{
 	display: flex;
@@ -423,7 +446,7 @@ table{
 }
 .footer-img{
 	width: 100%;
-	max-width: 20rem;
+	max-width: 12rem;
 	margin-bottom: 2.5rem;
 }
 .footer-info-item{
@@ -751,7 +774,7 @@ table{
 	color: #008ac3;
 }
 .nav-item {
-	letter-spacing: 0.03125rem;
+	letter-spacing: 0.04rem;
 }
 .surec-akis-img{
 	width: 100%;
@@ -809,8 +832,115 @@ table{
 	margin: 1rem 0;
 }
 
+/* Fast Akredite */
+.main-fast-akredite{
+	background-color: #f5f5f5;
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+	align-items: center;
+	justify-content: flex-end;
+	padding: 16px;
+}
+.fast-akredite-button{
+	margin: 16px 8px;
+	width: 100px;
+	height: 100px;
+}
 
+/* Duyuru, Etkinlik, Haber */
 
+.main-new{
+	background-color: #f5f5f5;
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+	padding: 24px 0;
+	justify-content: center;
+}
 
+.main-new-block{
+	border: 1px solid #fefefe;
+	border-radius: 10px;
+	background-color: #fff;
+	margin: 0 16px;
+}
 
+.main-block-title{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: space-between;
+	padding: 16px;
+}
+
+.block-title-main {
+	font-size: 20px;
+	color: #163c73;
+	font-weight: 700;
+}
+
+.block-title-all{
+	font-size: 12px;
+	color: darkgray;
+	font-weight: 400;
+	cursor: pointer;
+}
+
+.block-title-all:hover{
+	color: black;
+}
+
+.main-block-subtitle {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: flex-start;
+	padding: 16px;
+	border-top: 1px solid #f5f5f5;
+	cursor: pointer;
+}
+
+.main-block-subtitle:hover .block-subtitle-text {
+	padding-left: 12px;
+	transition: 0.3s;
+}
+
+.block-subtitle-date {
+	width: 64px;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: center;
+	border-right: 1px solid #f5f5f5;
+	padding-right: 8px;
+}
+
+.date-day{
+	font-size: 20px;
+	color: #163c73;
+	font-weight: 800;
+}
+
+.date-month{
+	font-size: 16px;
+	color: #555;
+	font-weight: 700;
+}
+
+.date-year{
+	font-size: 12px;
+	color: darkgray;
+	font-weight: 600;
+}
+
+.block-subtitle-text {
+	padding-left: 8px;
+	font-size: 16px;
+	font-weight: 600;
+	transition: 0.3s;
+}
 

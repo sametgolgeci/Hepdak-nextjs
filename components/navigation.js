@@ -6,22 +6,17 @@ const Navigation = () => (
 		<div className="navigation-nav">
 			<ul className="nav nav-pills">
 				<li className="nav-item dropdown">
-					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">HAKKIMIZDA</a>
+					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">KURUMSAL</a>
 					<div className="dropdown-menu">
 						<Link href="/misyon-vizyon"><a className="dropdown-item">Misyon, Vizyon</a></Link>
 						<Link href="/doc/hepdak_stratejik_plan_2020.pdf"><a className="dropdown-item">Stratejik Plan</a></Link>
 						<Link href="/amac-ve-faaliyetler"><a className="dropdown-item">Amaç ve Faaliyetler</a></Link>
 						<Link href="/kalite-politikasi"><a className="dropdown-item">Kalite Politikası</a></Link>
 						<Link href="/doc/hepdak_org_sema.pdf"><a className="dropdown-item">HEPDAK Organizasyon Şeması</a></Link>
-						<Link href="/yonetim-ve-denetleme-kurulu"><a className="dropdown-item">Yönetim ve Denetleme Kurulu</a></Link>
 						<Link href="/kurul-ve-komisyonlar"><a className="dropdown-item">Kurul ve Komisyonlar</a></Link>
 						<Link href="/uye-listesi"><a className="dropdown-item">Üye Listesi</a></Link>
-						<Link href="/doc/Uluslararasi_Calismalar.pdf"><a className="dropdown-item">Uluslararası Çalışmalar</a></Link>
 						<Link href="/tescil-yazilari"><a className="dropdown-item">Tescil Yazıları</a></Link>
-						<Link href="/doc/hepdak-faaliyet-belgesi.pdf"><a className="dropdown-item">Dernek Faaliyet Belgesi</a></Link>
-			      <Link href="/doc/hepdak_iktisadi_isletme.pdf"><a className="dropdown-item">İktisadi İşletme</a></Link>
-			      <Link href="/doc/hepdak-kira-sozlesmesi.pdf"><a className="dropdown-item">Kira Sözleşmesi</a></Link>
-			      <Link href="https://www.facebook.com/pg/hepdak/photos/"><a className="dropdown-item">Fotoğraf Albümü</a></Link>
+			      <Link href="/dernek-belgeleri"><a className="dropdown-item">Dernek Belgeleri</a></Link>
 					</div>
 				</li>
 				<li className="nav-item dropdown">
@@ -36,7 +31,7 @@ const Navigation = () => (
 					</div>
 				</li>
         <li className="nav-item dropdown">
-					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">ÇALIŞTAY</a>
+					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">ÇALIŞTAYLAR</a>
 					<div className="dropdown-menu">
 						<Link href="/kurumlar-icin-egitim-calistayi"><a className="dropdown-item">Kurumlar için Eğitim Çalıştayı</a></Link>
 						<Link href="/degerlendirici-egitimi-calistayi"><a className="dropdown-item">Değerlendirici Eğitimi Çalıştayı</a></Link>
@@ -64,6 +59,7 @@ const Navigation = () => (
 						<Link href="/paydas-toplantilari"><a className="dropdown-item">Paydaş Toplantıları</a></Link>
 					</div>
 				</li>
+			
 				<li className="nav-item dropdown">
 					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">EĞİTİMLER</a>
 					<div className="dropdown-menu">

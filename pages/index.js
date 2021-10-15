@@ -1,6 +1,9 @@
 import Head from 'next/head'
 import Link from 'next/link'
 import MasterPage from '../components/master-page'
+import Header from '../components/header'
+import Footer from '../components/footer'
+import Navigation from '../components/navigation'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faHourglassStart,faCheck,faFileAlt,faImages,faChevronRight,faChevronLeft } from '@fortawesome/free-solid-svg-icons'
 import emailjs from 'emailjs-com'
@@ -20,18 +23,27 @@ function sendEmail(e) {
 }
 
 const Anasayfa = () => (
-  <MasterPage>
+  <div>
     <Head>
       <title>HEPDAK | Anasayfa</title>
+      <meta name="viewport" content="initial-scale=1.0, width=device-width"/>
+      <meta name="description" content="HEPDAK olarak amacımız; hemşirelik eğitim programları için akreditasyon, değerlendirme vebilgilendirme çalışmaları yaparak Türkiye'de hemşirelik eğitiminin kalitesinin yükseltilmesine, daha iyi eğitilmiş ve daha nitelikli hemşireler yetiştirilerek güvenli ve etkili bakım sunulması ve toplumun sağlığının geliştirilmesine katkıda bulunmaktır."/>
+      <meta name="keywords" content="hepdak,eğitim,uzaktan,değerlendirme,akreditasyon,hemşirelik,hemşirelik eğitim programları,eğitim programları,hemşirelik akreditasyon,dernek,hemşirelik dernek,akreditasyon dernek,değerlendirme,uzaktan eğitim,çalıştay,hepdak çalıştay"/>
+      <link rel="icon" href="img/faviconnew.png"/>
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+      <script src="js/bootstrap.js"></script>
     </Head>
+    <Header/>
+    <Navigation/>
     <div className="main-top">
       <div className="main-top-nav">
-        <ul className="nav nav-pills nav-justified">
+        <ul className="main-top-akredite">
           <li className="nav-item">
-            <a className="nav-link main-nav active" data-toggle="pill" href="#son">Son Duyurular</a>
+            <div><img className="main-bottom-tanınma" src="img/duyurular/YOKAK_tescil.png" title="Yükseköğretim Akademik Değerlendirme ve Kalite Geliştirme Komisyonu"/></div>
           </li>
           <li className="nav-item">
-            <a className="nav-link main-nav" data-toggle="pill" href="#tum">Tüm Duyurular</a>
+            <div><img className="main-bottom-tanınma" src="img/duyurular/CEENQA_tescil.png" title="Yükseköğretim Akademik Değerlendirme ve Kalite Geliştirme Komisyonu"/></div>
           </li>
         </ul>
       </div>
@@ -311,6 +323,29 @@ const Anasayfa = () => (
         </div>
       </div>
     </div>
+    <div className="main-fast-akredite">
+      <div className="fast-akredite-text">
+        <h3>Hızlı Erişim</h3>
+      </div>
+       <div className="fast-akredite-button">
+        <Link href="/doc/b1-basvuru-word_v5.doc"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faCheck}/>Başvuru</button></a></Link>
+      </div>
+      <div className="fast-akredite-button">
+        <Link href="/surec"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faHourglassStart}/>Süreç</button></a></Link>
+      </div>
+      <div className="fast-akredite-button">
+        <Link href="/belgeler"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faFileAlt}/>Belgeler</button></a></Link>
+      </div>
+      <div className="fast-akredite-button">
+        <Link href="/doc/b1-basvuru-word_v5.doc"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faCheck}/>Başvuru</button></a></Link>
+      </div>
+      <div className="fast-akredite-button">
+        <Link href="/surec"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faHourglassStart}/>Süreç</button></a></Link>
+      </div>
+      <div className="fast-akredite-button">
+        <Link href="/belgeler"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faFileAlt}/>Belgeler</button></a></Link>
+      </div>
+    </div>
     <div className="main-middle">
   {/*
       <div className="col-sm-12 col-md-12 main-middle-duyuru">
@@ -332,20 +367,11 @@ const Anasayfa = () => (
       <div className="col-sm-12 col-md-12">
         <Link href="/doc/SABDEK_covid.pdf"><a><button className="main-top-button">SABDEK Uzaktan Eğitim Çalışmaları ve Yaz Okulu Açıklaması (02.07.2020)</button></a></Link>
       </div>
-      
-      <div className="col-sm-12 col-md-4">
-        <Link href="/doc/b1-basvuru-word_v5.doc"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faCheck}/>Başvuru</button></a></Link>
-      </div>
-      <div className="col-sm-12 col-md-4">
-        <Link href="/surec"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faHourglassStart}/>Süreç</button></a></Link>
-      </div>
-      <div className="col-sm-12 col-md-4">
-        <Link href="/belgeler"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faFileAlt}/>Belgeler</button></a></Link>
-      </div>
       */}
     </div>
+    {/* 
   <div className="main-bottom-title">Şikayet ve Öneriler</div>
-  {/* This is a comment */}
+  This is a comment 
   <div className="iletisim-mesaj">
     <form action="" method="post" onSubmit={sendEmail}>
       <div className="row">
@@ -377,6 +403,147 @@ const Anasayfa = () => (
       <div><img className="main-bottom-tanınma" src="img/duyurular/CEENQA_tescil.png" title="Yükseköğretim Akademik Değerlendirme ve Kalite Geliştirme Komisyonu"/></div>
     </div>
   </div>
+  */}
+    <div className="main-new">
+      <div className="main-new-block col-md-3 col-sm-12">
+        <div className="main-block-title">
+          <div className="block-title-main">Son Duyurular</div>
+          <div className="block-title-all">Tüm Duyurular</div>
+        </div>
+        <div className="main-block-subtitle">
+          <div className="block-subtitle-date">
+            <div className="date-day">28</div>
+            <div className="date-month">Mart</div>
+            <div className="date-year">2021</div>
+          </div>
+          <div className="block-subtitle-text">Duyuru</div>
+        </div>
+        <div className="main-block-subtitle">
+          <div className="block-subtitle-date">
+            <div className="date-day">28</div>
+            <div className="date-month">Mart</div>
+            <div className="date-year">2021</div>
+          </div>
+          <div className="block-subtitle-text">Duyuru</div>
+        </div>
+        <div className="main-block-subtitle">
+          <div className="block-subtitle-date">
+            <div className="date-day">28</div>
+            <div className="date-month">Mart</div>
+            <div className="date-year">2021</div>
+          </div>
+          <div className="block-subtitle-text">Duyuru</div>
+        </div>
+        <div className="main-block-subtitle">
+          <div className="block-subtitle-date">
+            <div className="date-day">28</div>
+            <div className="date-month">Mart</div>
+            <div className="date-year">2021</div>
+          </div>
+          <div className="block-subtitle-text">Duyuru</div>
+        </div>
+        <div className="main-block-subtitle">
+          <div className="block-subtitle-date">
+            <div className="date-day">28</div>
+            <div className="date-month">Mart</div>
+            <div className="date-year">2021</div>
+          </div>
+          <div className="block-subtitle-text">Duyuru</div>
+        </div>
+      </div>
+      <div className="main-new-block col-md-3 col-sm-12">
+        <div className="main-block-title">
+          <div className="block-title-main">Son Etkinlikler</div>
+          <div className="block-title-all">Tüm Etkinlikler</div>
+        </div>
+        <div className="main-block-subtitle">
+          <div className="block-subtitle-date">
+            <div className="date-day">28</div>
+            <div className="date-month">Mart</div>
+            <div className="date-year">2021</div>
+          </div>
+          <div className="block-subtitle-text">Etkinlik</div>
+        </div>
+        <div className="main-block-subtitle">
+          <div className="block-subtitle-date">
+            <div className="date-day">28</div>
+            <div className="date-month">Mart</div>
+            <div className="date-year">2021</div>
+          </div>
+          <div className="block-subtitle-text">Etkinlik</div>
+        </div>
+        <div className="main-block-subtitle">
+          <div className="block-subtitle-date">
+            <div className="date-day">28</div>
+            <div className="date-month">Mart</div>
+            <div className="date-year">2021</div>
+          </div>
+          <div className="block-subtitle-text">Etkinlik</div>
+        </div>
+        <div className="main-block-subtitle">
+          <div className="block-subtitle-date">
+            <div className="date-day">28</div>
+            <div className="date-month">Mart</div>
+            <div className="date-year">2021</div>
+          </div>
+          <div className="block-subtitle-text">Etkinlik</div>
+        </div>
+        <div className="main-block-subtitle">
+          <div className="block-subtitle-date">
+            <div className="date-day">28</div>
+            <div className="date-month">Mart</div>
+            <div className="date-year">2021</div>
+          </div>
+          <div className="block-subtitle-text">Etkinlik</div>
+        </div>
+      </div>
+      <div className="main-new-block col-md-3 col-sm-12">
+        <div className="main-block-title">
+          <div className="block-title-main">Son Haberler</div>
+          <div className="block-title-all">Tüm Haberler</div>
+        </div>
+        <div className="main-block-subtitle">
+          <div className="block-subtitle-date">
+            <div className="date-day">28</div>
+            <div className="date-month">Mart</div>
+            <div className="date-year">2021</div>
+          </div>
+          <div className="block-subtitle-text">Haber</div>
+        </div>
+        <div className="main-block-subtitle">
+          <div className="block-subtitle-date">
+            <div className="date-day">28</div>
+            <div className="date-month">Mart</div>
+            <div className="date-year">2021</div>
+          </div>
+          <div className="block-subtitle-text">Haber</div>
+        </div>
+        <div className="main-block-subtitle">
+          <div className="block-subtitle-date">
+            <div className="date-day">28</div>
+            <div className="date-month">Mart</div>
+            <div className="date-year">2021</div>
+          </div>
+          <div className="block-subtitle-text">Haber</div>
+        </div>
+        <div className="main-block-subtitle">
+          <div className="block-subtitle-date">
+            <div className="date-day">28</div>
+            <div className="date-month">Mart</div>
+            <div className="date-year">2021</div>
+          </div>
+          <div className="block-subtitle-text">Haber</div>
+        </div>
+        <div className="main-block-subtitle">
+          <div className="block-subtitle-date">
+            <div className="date-day">28</div>
+            <div className="date-month">Mart</div>
+            <div className="date-year">2021</div>
+          </div>
+          <div className="block-subtitle-text">Haber</div>
+        </div>
+      </div>
+    </div>
     <div className="main-bottom">
       <div className="main-bottom-title"><a href="/ilgili-kuruluslar">İlgili Kuruluşlar</a></div>
       <div className="main-bottom-slider">
@@ -508,7 +675,8 @@ const Anasayfa = () => (
         </div>
       </div>
     </div>
-  </MasterPage>
+    <Footer/>
+  </div>
 )
 export default Anasayfa
   

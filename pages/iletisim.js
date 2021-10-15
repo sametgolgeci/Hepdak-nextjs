@@ -5,6 +5,19 @@ import ReactDOM from 'react-dom'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faPhone,faEnvelope,faMapMarkerAlt,faChevronRight } from '@fortawesome/free-solid-svg-icons'
 
+function sendEmail(e) {
+  e.preventDefault();
+
+  emailjs.sendForm('gmail', 'template_4hcz6rf', e.target, 'user_5aJ4lAyl6aNUxJkcF6atP')
+    .then((result) => {
+      console.log(result.text);
+      alert('Mesajınız gönderilmiştir!');
+    }, (error) => {
+      console.log(error.text);
+      alert('Bir hata oluştu');
+  });
+  e.target.reset();
+}
 
 const Iletisim = () => (
 <MasterPage>
@@ -34,6 +47,36 @@ const Iletisim = () => (
 			<p><strong>Sayman</strong><br/>Doç. Dr. Şenay Ünsal ATAN<br/><Link href="mailto:senay.unsal.atan@gmail.com"><a>senay.unsal.atan@gmail.com</a></Link></p>
 		</div>
 	</div>
+	<div className="genel">
+		<h5>Şikayet ve Öneriler</h5>
+		<div className="iletisim-mesaj">
+	    <form action="" method="post" onSubmit={sendEmail}>
+	      <div className="row">
+	        <div className="col-md-6 col-sm-12">
+	          <div className="form-group">
+	            <label for="exampleInputEmail">Ad Soyad</label>
+	            <input type="text" className="form-control form-control-sm" name="name"/>
+	          </div>
+	          <div className="form-group">
+	            <label for="exampleInputEmail">Mail Adresiniz</label>
+	            <input type="email" className="form-control form-control-sm" id="exampleInputEmail1" aria-describedby="emailHelp" name="mail"/>
+	          </div>
+	        </div>
+	        <div className="col-md-6 col-sm-12">
+	          <div className="form-group">
+	            <label for="exampleFormControlTextarea1">Mesaj</label>
+	            <textarea className="form-control" id="exampleFormControlTextarea1" rows="4" name="message"></textarea>
+	          </div>
+	        </div>
+	      </div>
+	      <button type="submit" className="iletisim-button btn">Gönder</button>
+	    </form>
+	    <div className="col-md-4 col-sm-12 iletisim-mesaj-logo-mobil">
+	      <div><img className="main-bottom-tanınma" src="img/duyurular/YOKAK_tescil.png" title="Yükseköğretim Akademik Değerlendirme ve Kalite Geliştirme Komisyonu"/></div>
+	      <div><img className="main-bottom-tanınma" src="img/duyurular/CEENQA_tescil.png" title="Yükseköğretim Akademik Değerlendirme ve Kalite Geliştirme Komisyonu"/></div>
+	    </div>
+	  </div>
+  </div>
 	{/* This is a comment */}
 </MasterPage>
 )

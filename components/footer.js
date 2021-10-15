@@ -24,21 +24,16 @@ const Footer = () => (
 			</div>
 		</div>
 		<div className="col-sm-12 col-md-3 footer-item">
-			<div className="footer-item-title"><strong>Hakkımızda</strong></div> 
+			<div className="footer-item-title"><strong>Kurumsal</strong></div> 
 			<div className="footer-item-link"><Link href="/misyon-vizyon"><a>Misyon, Vizyon</a></Link></div>
 			<div className="footer-item-link"><Link href="/doc/HEPDAK_STRATEJİK_PLAN_2020.pdf"><a>Stratejik Plan</a></Link></div>
 			<div className="footer-item-link"><Link href="/amac-ve-faaliyetler"><a>Amaç ve Faaliyetler</a></Link></div>
 			<div className="footer-item-link"><Link href="/kalite-politikasi"><a>Kalite Politikası</a></Link></div>
 			<div className="footer-item-link"><Link href="/doc/hepdak_org_sema.pdf"><a>HEPDAK Organizasyon Şeması</a></Link></div>
-			<div className="footer-item-link"><Link href="/yonetim-ve-denetleme-kurulu"><a>Yönetim ve Denetleme Kurulu</a></Link></div>
 			<div className="footer-item-link"><Link href="/kurul-ve-komisyonlar"><a>Kurul ve Komisyonlar</a></Link></div>
 			<div className="footer-item-link"><Link href="/uye-listesi"><a>Üye Listesi</a></Link></div>
-			<div className="footer-item-link"><Link href="/doc/Uluslararasi_Calismalar.pdf"><a>Uluslararası Çalışmalar</a></Link></div>
 			<div className="footer-item-link"><Link href="/tescil-yazilari"><a>Tescil Yazıları</a></Link></div>
-			<div className="footer-item-link"><Link href="/doc/hepdak-faaliyet-belgesi.pdf"><a>Dernek Faaliyet Belgesi</a></Link></div>
-			<div className="footer-item-link"><Link href="/doc/hepdak_iktisadi_isletme.pdf"><a>İktisadi İşletme</a></Link></div>
-			<div className="footer-item-link"><Link href="/doc/hepdak-kira-sozlesmesi.pdf"><a>Kira Sözleşmesi</a></Link></div>
-			<div className="footer-item-link"><Link href="/https://www.facebook.com/pg/hepdak/photos/"><a>Fotoğraf Albümü</a></Link></div>
+			<div className="footer-item-link"><Link href="/dernek-belgeleri"><a>Dernek Belgeleri</a></Link></div>
 		</div>	
 		<div className="col-sm-12 col-md-3 footer-item">
 			<div className="footer-item-title"><strong>Akreditasyon</strong></div>
@@ -48,7 +43,7 @@ const Footer = () => (
 			<div className="footer-item-link"><Link href="/ucretler"><a>Ücretler</a></Link></div>
 			<div className="footer-item-link"><Link href="/akredite-edilen-kurumlar"><a>Akredite Edilen Kurumlar</a></Link></div>
 			<div className="footer-item-link"><Link href="/ilgili-kuruluslar"><a>İlgili Kuruluşlar</a></Link></div>
-			<div className="footer-item-title footer-item-title-calistay"><strong>Çalıştay</strong></div>
+			<div className="footer-item-title footer-item-title-calistay"><strong>Çalıştaylar</strong></div>
 			<div className="footer-item-link"><Link href="/kurumlar-icin-egitim-calistayi"><a>Kurumlar için Eğitim Çalıştayı</a></Link></div>
 			<div className="footer-item-link"><Link href="/degerlendirici-egitimi-calistayi"><a>Değerlendirici Eğitimi Çalıştayı</a></Link></div>
 			<div className="footer-item-link"><Link href="/ogrenci-degerlendirici-egitimi-calistayi"><a>Öğrenci Değerlendirici Eğitimi Çalıştayı</a></Link></div>
@@ -64,11 +59,13 @@ const Footer = () => (
 			<div className="footer-item-link"><Link href="/heak-ve-komisyon-toplantilari"><a>HEAK ve Komisyon Toplantıları</a></Link></div>
 			<div className="footer-item-link"><Link href="/tutarlilik-komisyonu-toplantilari"><a>Tutarlılık Komisyonu Toplantıları</a></Link></div>
 			<div className="footer-item-link"><Link href="/takim-baskani-toplantilari"><a>Takım Başkanları Toplantıları</a></Link></div>
+			{/*
 			<div className="footer-item-title footer-item-title-calistay"><strong>Eğitimler</strong></div>
 			<div className="footer-item-link"><Link href="/webinar"><a>Webinarlar</a></Link></div>
 			<div className="footer-item-link"><Link href="/sempozyumlar"><a>Sempozyumlar</a></Link></div>
 			<div className="footer-item-link"><Link href="/egitim-etkinlikleri"><a>Eğitim Etkinlikleri</a></Link></div>
 			<div className="footer-item-link"><Link href="/cagrili-konusmalar"><a>Çağrılı Konuşmalar</a></Link></div>
+			*/}
 		</div>		
 	</div>
 	<div className="footer-copy">

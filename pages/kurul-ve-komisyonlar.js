@@ -8,7 +8,17 @@ const Kurul = () => (
 	      <title>HEPDAK | Kurul ve Komisyonlar</title>
 	    </Head>
 	    <div className="genel">
-	    <h1>Kurul ve Komisyonlar</h1>
+	    <h1>Kurullar</h1>
+	    	<h3 className="kurul-title">HEPDAK Yönetim Kurulu</h3>
+	    	<span className="madde-span">• Prof. Dr. Gülseren Kocaman (Başkan), Emekli Öğretim Üyesi</span>
+	    	<span className="madde-span">• Prof. Dr. Ayla Bayık Temel (Başkan Yardımcısı), Emekli Öğretim Üyesi</span>
+	    	<span className="madde-span">• Doç. Dr. Dilek Özmen (Sekreter), Manisa Celal Bayar Üniversitesi</span>
+	    	<span className="madde-span">• Doç. Dr. Şenay Ünsal (Sayman), Ege Üniversitesi</span>
+	    	<span className="madde-span">• Prof. Dr. Ayten Zaybak (Üye), Ege Üniversitesi</span>
+	    	<h3 className="kurul-title">HEPDAK Denetleme Kurulu</h3>
+	    	<span className="madde-span">• Doç. Dr. Fatma Orgun, Ege Üniversitesi</span>
+	    	<span className="madde-span">• Uzm. Hem. Sevil Erken Uncu, Sağlık Bakanlığı Hastaneleri Temsilcisi</span>
+	    	<span className="madde-span">• Uzm. Hem. Serap İleri, Dokuz Eylül Üniversitesi Hastanesi</span>
 	    	<h3 className="kurul-title">Hemşirelik Eğitim Programları Akreditasyon Kurulu (HEAK)</h3>
 	    	<span className="madde-span">• Prof. Dr. Gülseren Kocaman (Başkan), Emekli Öğretim Üyesi</span>
 	    	<span className="madde-span">• Prof. Dr. Ümit Seviğ, Yakın Doğu Üniversitesi</span>
@@ -22,7 +32,7 @@ const Kurul = () => (
 	    	<span className="madde-span">• <strong>Hemşire:</strong> Uzm. Hem. Serap İleri, Dokuz Eylül Üniversitesi Hastanesi</span>
 	    	<span className="madde-span">• <strong>Toplum Temsilcisi:</strong> Hadiye Akçay, Kadın Haklarını Koruma Derneği</span>
 	    	<span className="madde-span">• <strong>Öğrenci:</strong> Şerife Cingiz, Akdeniz Üniversitesi</span>
-
+	    <h1>Komisyonlar</h1>
 	    	<h3 className="kurul-title">Standartları Belirleme ve Geliştirme Komisyonu (SBGK)</h3>
 	    	<span className="madde-span">• Prof. Dr. Kadriye Buldukoğlu (Başkan), Akdeniz Üniversitesi</span>
 	    	<span className="madde-span">• Doç. Dr. Emine Türkmen (Başkan Yard. - Sekreter), Koç Üniversitesi</span>
