@@ -77,9 +77,11 @@ const Navigation = () => (
 						<Link href="/sempozyum-kitaplari"><a className="dropdown-item">Sempozyum Kitapları</a></Link>
 					</div>
 				</li>
+			{/*
 	      <li className="nav-item">
 	        <Link href="/sss"><a className="nav-link header-nav-link">SSS</a></Link>
 	      </li>
+	     */}
 	      <li className="nav-item">
 	        <Link href="/iletisim"><a className="nav-link header-nav-link">İLETİŞİM</a></Link>
 	      </li>

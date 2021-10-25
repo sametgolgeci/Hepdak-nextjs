@@ -6468,8 +6468,9 @@ a.close.disabled {
     transition: transform 0.6s ease-in-out;
     transition: transform 0.6s ease-in-out, -webkit-transform 0.6s ease-in-out;
     padding: 20px 90px 0px;
-    border-top: 1px solid rgba(0, 138, 195, 0.2);
-    /*border-bottom: 1px solid rgba(0, 138, 195, 0.2);*/
+    border-top: 1px solid rgba(37, 41, 84, 0.2);
+    /*border-top: 1px solid rgba(0, 138, 195, 0.2);
+    border-bottom: 1px solid rgba(0, 138, 195, 0.2);*/
   }
 }
 

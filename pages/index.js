@@ -30,6 +30,7 @@ const Anasayfa = () => (
       <meta name="description" content="HEPDAK olarak amacımız; hemşirelik eğitim programları için akreditasyon, değerlendirme vebilgilendirme çalışmaları yaparak Türkiye'de hemşirelik eğitiminin kalitesinin yükseltilmesine, daha iyi eğitilmiş ve daha nitelikli hemşireler yetiştirilerek güvenli ve etkili bakım sunulması ve toplumun sağlığının geliştirilmesine katkıda bulunmaktır."/>
       <meta name="keywords" content="hepdak,eğitim,uzaktan,değerlendirme,akreditasyon,hemşirelik,hemşirelik eğitim programları,eğitim programları,hemşirelik akreditasyon,dernek,hemşirelik dernek,akreditasyon dernek,değerlendirme,uzaktan eğitim,çalıştay,hepdak çalıştay"/>
       <link rel="icon" href="img/faviconnew.png"/>
+      <link href="http://fonts.cdnfonts.com/css/gotham" rel="stylesheet"/>
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
       <script src="js/bootstrap.js"></script>
@@ -39,6 +40,14 @@ const Anasayfa = () => (
     <div className="main-top">
       <div className="main-top-nav">
         <ul className="main-top-akredite">
+          <li className="nav-item">
+            <div className="nav-item-hemsis">
+              <Link href="http://hemsis.hepdak.org.tr/"><a target="_blank">
+                <h2>HEMSİS</h2>
+                <span>Giriş için Tıklayınız</span>
+              </a></Link>
+            </div>
+          </li>
           <li className="nav-item">
             <div><img className="main-bottom-tanınma" src="img/duyurular/YOKAK_tescil.png" title="Yükseköğretim Akademik Değerlendirme ve Kalite Geliştirme Komisyonu"/></div>
           </li>
@@ -346,20 +355,20 @@ const Anasayfa = () => (
         <Link href="/belgeler"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faFileAlt}/>Belgeler</button></a></Link>
       </div>
     </div>
+    {/*
     <div className="main-middle">
-  {/*
+  
       <div className="col-sm-12 col-md-12 main-middle-duyuru">
         <h4>HEPDAK Değerlendirici Eğitimi Çağrısı : 2021</h4>
         <p>Değerli Hemşire Akademisyenler, HEPDAK, hemşirelik lisans eğitim programlarının akreditasyon sürecinde değerlendirme takımında görev alacak değerlendirici adayları aramaktadır. Değerlendirici olmak için HEPDAK değerlendirici eğitim programı çalıştayına katılmak ve tamamlamak gerekmektedir. HEPDAK, değerlendirici eğitimi, 10 - 12 Haziran 2021 tarihlerinde çevrimiçi olarak yapılacaktır. Koşulları sağladığınızdan emin olduktan sonra başvurularınızı, HEPDAK Akademisyen Değerlendirici Adayı Başvuru Formunu doldurarak <strong>1 Nisan 2021</strong> tarihine kadar <strong>hepdakegitim@gmail.com</strong> adresine yollamanız durumunda size en kısa sürede geri dönüş yapılacaktır.İlgili forma <Link href="doc/aday_formu.doc"><a>buradan</a></Link> ulaşabilirsiniz.</p>
         <p>İlginize teşekkür ederiz.</p>
         <h6>HEPDAK Yönetim Kurulu</h6>
       </div>
-      */}
+      
       <div className="col-sm-12 col-md-12 covid-index">
         <h2>HEMSİS</h2>
         <Link href="http://hemsis.hepdak.org.tr/"><a target="_blank">Giriş için tıklayınız</a></Link>
       </div>
-    {/*
       <div className="col-sm-12 col-md-12 covid-index">
         <Link href="/covid-19"><a>Covid-19 Haberleri</a></Link>
       </div>
@@ -367,8 +376,9 @@ const Anasayfa = () => (
       <div className="col-sm-12 col-md-12">
         <Link href="/doc/SABDEK_covid.pdf"><a><button className="main-top-button">SABDEK Uzaktan Eğitim Çalışmaları ve Yaz Okulu Açıklaması (02.07.2020)</button></a></Link>
       </div>
-      */}
+      
     </div>
+    */}
     {/* 
   <div className="main-bottom-title">Şikayet ve Öneriler</div>
   This is a comment 

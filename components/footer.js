@@ -2,12 +2,14 @@ import Link from 'next/link'
 import ReactDOM from 'react-dom'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faPhone,faEnvelope,faMapMarkerAlt,faChevronRight } from '@fortawesome/free-solid-svg-icons'
+import { faInstagram, faYoutube } from '@fortawesome/free-brands-svg-icons'
 
 const Footer = () => (
 <div className="footer">
 	<div className="footer-items">
 		<div className="col-sm-12 col-md-3 footer-item">
 			<div className="footer-logo">
+				
 				<Link href="/"><a><img className="footer-img" src="img/hepdak-logo-white.png" title="HEPDAK"></img></a></Link>
 				<div className="footer-info-item"> 
 					<div className="footer-info-icon"><FontAwesomeIcon className="footer-icon" icon={faPhone}/></div>
@@ -16,6 +18,14 @@ const Footer = () => (
 				<div className="footer-info-item"> 
 					<div className="footer-info-icon"><FontAwesomeIcon className="footer-icon" icon={faEnvelope}/></div>
 					<div className="footer-info-color"><Link href="mailto:hepdak2013@gmail.com"><a>info@hepdak.org.tr</a></Link></div>
+				</div>
+				<div className="footer-info-item"> 
+					<div className="footer-info-icon"><FontAwesomeIcon className="footer-icon" icon={faYoutube}/></div>
+					<div className="footer-info-color"><Link href="https://www.youtube.com/channel/UC96oXHHypl1WFXpOkvwwj9A/featured"><a>HEPDAK TV</a></Link></div>
+				</div>
+				<div className="footer-info-item"> 
+					<div className="footer-info-icon"><FontAwesomeIcon className="footer-icon" icon={faInstagram}/></div>
+					<div className="footer-info-color"><Link href="https://www.instagram.com/hepdak/"><a>HEPDAK</a></Link></div>
 				</div>
 				<div className="footer-info-item"> 
 					<div className="footer-info-icon"><FontAwesomeIcon className="footer-icon" icon={faMapMarkerAlt}/></div>
