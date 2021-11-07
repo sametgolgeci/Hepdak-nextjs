@@ -5,7 +5,7 @@ import Header from '../components/header'
 import Footer from '../components/footer'
 import Navigation from '../components/navigation'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faHourglassStart,faCheck,faFileAlt,faImages,faChevronRight,faChevronLeft } from '@fortawesome/free-solid-svg-icons'
+import { faHourglassStart,faCheck,faFileAlt,faFile,faImages,faChevronRight,faChevronLeft,faPencilAlt,faBalanceScale } from '@fortawesome/free-solid-svg-icons'
 import emailjs from 'emailjs-com'
 
 function sendEmail(e) {
@@ -333,26 +333,23 @@ const Anasayfa = () => (
       </div>
     </div>
     <div className="main-fast-akredite">
-      <div className="fast-akredite-text">
-        <h3>Hızlı Erişim</h3>
+      <div className="fast-akredite-button col-md-4">
+        <Link href="/doc/b1-basvuru-2021-2022.doc"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faCheck}/>Akreditasyon Başvurusu</button></a></Link>
       </div>
-       <div className="fast-akredite-button">
-        <Link href="/doc/b1-basvuru-word_v5.doc"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faCheck}/>Başvuru</button></a></Link>
+      <div className="fast-akredite-button col-md-4">
+        <Link href="/akreditasyon-sureci"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faHourglassStart}/>Akreditasyon Süreci</button></a></Link>
       </div>
-      <div className="fast-akredite-button">
-        <Link href="/surec"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faHourglassStart}/>Süreç</button></a></Link>
+      <div className="fast-akredite-button col-md-4">
+        <Link href="/ozdegerlendirme-belgeleri"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faFileAlt}/>Özdeğerlendirme Belgeleri</button></a></Link>
       </div>
-      <div className="fast-akredite-button">
-        <Link href="/belgeler"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faFileAlt}/>Belgeler</button></a></Link>
+      <div className="fast-akredite-button col-md-4">
+        <Link href="/basvurular"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faBalanceScale}/>Başvurular / Değerlendirme</button></a></Link>
       </div>
-      <div className="fast-akredite-button">
-        <Link href="/doc/b1-basvuru-word_v5.doc"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faCheck}/>Başvuru</button></a></Link>
+      <div className="fast-akredite-button col-md-4">
+        <Link href="/rapor-hazirlama"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faPencilAlt}/>Rapor Hazırlama</button></a></Link>
       </div>
-      <div className="fast-akredite-button">
-        <Link href="/surec"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faHourglassStart}/>Süreç</button></a></Link>
-      </div>
-      <div className="fast-akredite-button">
-        <Link href="/belgeler"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faFileAlt}/>Belgeler</button></a></Link>
+      <div className="fast-akredite-button col-md-4">
+        <Link href="/diger-belgeler"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faFile}/>Diğer belgeler</button></a></Link>
       </div>
     </div>
     {/*
@@ -417,140 +414,116 @@ const Anasayfa = () => (
     <div className="main-new">
       <div className="main-new-block col-md-3 col-sm-12">
         <div className="main-block-title">
+          <div className="block-title-main">Son Haberler</div>
+          <div className="block-title-all"><a href="/tum-haberler">Tüm Haberler</a></div>
+        </div>
+        <div className="main-block-subtitle">
+          <div className="block-subtitle-date">
+            <div className="date-day">14</div>
+            <div className="date-month">Ekim</div>
+            <div className="date-year">2021</div>
+          </div>
+          <div className="block-subtitle-text">CEENQA'nın Yıllık Genel Kurulu ve Çalıştayı (13 Ekim 2021)</div>
+        </div>
+        <div className="main-block-subtitle">
+          <div className="block-subtitle-date">
+            <div className="date-day">28</div>
+            <div className="date-month">Mart</div>
+            <div className="date-year">2021</div>
+          </div>
+          <div className="block-subtitle-text">İyi Uygulama Örnekleri</div>
+        </div>
+        <div className="main-block-subtitle">
+          <div className="block-subtitle-date">
+            <div className="date-day">28</div>
+            <div className="date-month">Mart</div>
+            <div className="date-year">2021</div>
+          </div>
+          <div className="block-subtitle-text">"Hemşirelik Eğitiminin Geleceği 3” Sempozyumu Gerçekleştirildi</div>
+        </div>
+        <div className="main-block-subtitle">
+          <div className="block-subtitle-date">
+            <div className="date-day">28</div>
+            <div className="date-month">Mart</div>
+            <div className="date-year">2021</div>
+          </div>
+          <div className="block-subtitle-text">CEENQA Paylaşım Toplantısı - 7</div>
+        </div>
+        <div className="main-block-subtitle">
+          <div className="block-subtitle-date">
+            <div className="date-day">28</div>
+            <div className="date-month">Mart</div>
+            <div className="date-year">2021</div>
+          </div>
+          <div className="block-subtitle-text">Kurumlara Yönelik Eğitim Çalıştayı</div>
+        </div>
+      </div>
+      <div className="main-new-block col-md-3 col-sm-12">
+        <div className="main-block-title">
           <div className="block-title-main">Son Duyurular</div>
-          <div className="block-title-all">Tüm Duyurular</div>
+          <div className="block-title-all"><a href="/tum-duyurular">Tüm Duyurular</a></div>
         </div>
+        <Link href="/tum-duyurular#akreditasyon">
         <div className="main-block-subtitle">
           <div className="block-subtitle-date">
-            <div className="date-day">28</div>
+            <div className="date-day">01</div>
+            <div className="date-month">Eylül</div>
+            <div className="date-year">2021</div>
+          </div>
+          <div className="block-subtitle-text">HEPDAK 2021-2022 Dönemi Akreditasyon Takvimi</div>
+        </div>
+        </Link>
+        <Link href="/tum-duyurular#calistay2021">
+        <div className="main-block-subtitle">
+          <div className="block-subtitle-date">
+            <div className="date-day">01</div>
+            <div className="date-month">Ağustos</div>
+            <div className="date-year">2021</div>
+          </div>
+          <div className="block-subtitle-text">Kurumlara Yönelik Eğitim Çalıştayı - 2021</div>
+        </div>
+        </Link>
+        <Link href="/tum-duyurular#degerlendirici">
+        <div className="main-block-subtitle">
+          <div className="block-subtitle-date">
+            <div className="date-day">03</div>
+            <div className="date-month">Haziran</div>
+            <div className="date-year">2021</div>
+          </div>
+          <div className="block-subtitle-text">HEPDAK Değerlendirici Eğitimi (10-12 Haziran 2021)</div>
+        </div>
+        </Link>
+        <Link href="/tum-duyurular#ogrenci">
+        <div className="main-block-subtitle">
+          <div className="block-subtitle-date">
+            <div className="date-day">21</div>
             <div className="date-month">Mart</div>
             <div className="date-year">2021</div>
           </div>
-          <div className="block-subtitle-text">Duyuru</div>
+          <div className="block-subtitle-text">HEPDAK Öğrenci Değerlendiricileri Eğitimi Çalıştayı (28 Mart 2021)</div>
         </div>
-        <div className="main-block-subtitle">
-          <div className="block-subtitle-date">
-            <div className="date-day">28</div>
-            <div className="date-month">Mart</div>
-            <div className="date-year">2021</div>
-          </div>
-          <div className="block-subtitle-text">Duyuru</div>
-        </div>
-        <div className="main-block-subtitle">
-          <div className="block-subtitle-date">
-            <div className="date-day">28</div>
-            <div className="date-month">Mart</div>
-            <div className="date-year">2021</div>
-          </div>
-          <div className="block-subtitle-text">Duyuru</div>
-        </div>
-        <div className="main-block-subtitle">
-          <div className="block-subtitle-date">
-            <div className="date-day">28</div>
-            <div className="date-month">Mart</div>
-            <div className="date-year">2021</div>
-          </div>
-          <div className="block-subtitle-text">Duyuru</div>
-        </div>
-        <div className="main-block-subtitle">
-          <div className="block-subtitle-date">
-            <div className="date-day">28</div>
-            <div className="date-month">Mart</div>
-            <div className="date-year">2021</div>
-          </div>
-          <div className="block-subtitle-text">Duyuru</div>
-        </div>
+        </Link>
       </div>
       <div className="main-new-block col-md-3 col-sm-12">
         <div className="main-block-title">
           <div className="block-title-main">Son Etkinlikler</div>
-          <div className="block-title-all">Tüm Etkinlikler</div>
+          <div className="block-title-all"><a href="tum-etkinlikler">Tüm Etkinlikler</a></div>
         </div>
         <div className="main-block-subtitle">
           <div className="block-subtitle-date">
-            <div className="date-day">28</div>
-            <div className="date-month">Mart</div>
+            <div className="date-day">20</div>
+            <div className="date-month">Eylül</div>
             <div className="date-year">2021</div>
           </div>
-          <div className="block-subtitle-text">Etkinlik</div>
+          <div className="block-subtitle-text">Hemşirelik Eğitiminin Geleceği Sempozyumu (27-29 Eylül 2021)</div>
         </div>
         <div className="main-block-subtitle">
           <div className="block-subtitle-date">
-            <div className="date-day">28</div>
+            <div className="date-day">13</div>
             <div className="date-month">Mart</div>
             <div className="date-year">2021</div>
           </div>
-          <div className="block-subtitle-text">Etkinlik</div>
-        </div>
-        <div className="main-block-subtitle">
-          <div className="block-subtitle-date">
-            <div className="date-day">28</div>
-            <div className="date-month">Mart</div>
-            <div className="date-year">2021</div>
-          </div>
-          <div className="block-subtitle-text">Etkinlik</div>
-        </div>
-        <div className="main-block-subtitle">
-          <div className="block-subtitle-date">
-            <div className="date-day">28</div>
-            <div className="date-month">Mart</div>
-            <div className="date-year">2021</div>
-          </div>
-          <div className="block-subtitle-text">Etkinlik</div>
-        </div>
-        <div className="main-block-subtitle">
-          <div className="block-subtitle-date">
-            <div className="date-day">28</div>
-            <div className="date-month">Mart</div>
-            <div className="date-year">2021</div>
-          </div>
-          <div className="block-subtitle-text">Etkinlik</div>
-        </div>
-      </div>
-      <div className="main-new-block col-md-3 col-sm-12">
-        <div className="main-block-title">
-          <div className="block-title-main">Son Haberler</div>
-          <div className="block-title-all">Tüm Haberler</div>
-        </div>
-        <div className="main-block-subtitle">
-          <div className="block-subtitle-date">
-            <div className="date-day">28</div>
-            <div className="date-month">Mart</div>
-            <div className="date-year">2021</div>
-          </div>
-          <div className="block-subtitle-text">Haber</div>
-        </div>
-        <div className="main-block-subtitle">
-          <div className="block-subtitle-date">
-            <div className="date-day">28</div>
-            <div className="date-month">Mart</div>
-            <div className="date-year">2021</div>
-          </div>
-          <div className="block-subtitle-text">Haber</div>
-        </div>
-        <div className="main-block-subtitle">
-          <div className="block-subtitle-date">
-            <div className="date-day">28</div>
-            <div className="date-month">Mart</div>
-            <div className="date-year">2021</div>
-          </div>
-          <div className="block-subtitle-text">Haber</div>
-        </div>
-        <div className="main-block-subtitle">
-          <div className="block-subtitle-date">
-            <div className="date-day">28</div>
-            <div className="date-month">Mart</div>
-            <div className="date-year">2021</div>
-          </div>
-          <div className="block-subtitle-text">Haber</div>
-        </div>
-        <div className="main-block-subtitle">
-          <div className="block-subtitle-date">
-            <div className="date-day">28</div>
-            <div className="date-month">Mart</div>
-            <div className="date-year">2021</div>
-          </div>
-          <div className="block-subtitle-text">Haber</div>
+          <div className="block-subtitle-text">Avustralya Hemşirelik ve Ebelik Akreditasyon Dernekleri ve Hemşirelik Okullarının Yükümlülükleri (20 Mart 2021)</div>
         </div>
       </div>
     </div>

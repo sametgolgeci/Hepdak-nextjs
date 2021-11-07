@@ -301,7 +301,7 @@ table{
 }
 @media (min-width: 768px){
 	.main-top-second{
-		border-left: 0.375rem solid;
+		border-left: 4px solid;
 		border-color: rgba(51,161,206,0.0);
 		padding: 1rem 0rem;
 	}
@@ -333,11 +333,11 @@ table{
 .main-middle-button{
 	width: 100%;
 	height: 100%;
-	background: rgb(0,180,219);
+	background-color: #f5f5f5;
 	border-radius: 0.3125rem;
-	border: 0.0625rem solid #00b4db;
-	color: white;
-	font-size: 14px;
+	border: 1px solid #f1f1f1;
+	color: #163c73;
+	font-size: 18px;
 	font-family: 'Raleway', sans-serif;
 	font-weight: 600;
 	margin: 0;
@@ -345,13 +345,14 @@ table{
 	flex-wrap: wrap;
 	flex-direction: column;
 	align-items: center;
-	justify-content: flex-start;
+	justify-content: center;
 }
 .main-middle-button:hover{
-	background: linear-gradient(135deg, rgba(0,180,219,1) 0%, rgba(0,131,176,1) 100%);
+	background-color: #163c73;
+	color: white;
 }
 .main-middle-icon{
-	height: 1.5rem;
+	height: 2.25rem;
 	margin: 16px 0 8px;
 }
 .main-bottom{
@@ -622,7 +623,7 @@ table{
 	padding: 0.25rem 0rem;
 }
 .genel > h1{
-	border-bottom: 0.375rem solid #000055;
+	border-bottom: 4px solid #000055;
 	line-height: 1.5;
 	margin-bottom: 2rem !important;
 }
@@ -835,18 +836,15 @@ table{
 
 /* Fast Akredite */
 .main-fast-akredite{
-	background-color: #f5f5f5;
 	display: flex;
 	flex-wrap: wrap;
 	flex-direction: row;
-	align-items: center;
-	justify-content: flex-end;
-	padding: 16px;
+	margin: 30px 9% 90px;
 }
 .fast-akredite-button{
-	margin: 16px 8px;
-	width: 100px;
-	height: 100px;
+	margin: 15px 0;
+	width: 100%;
+	height: 200px;
 }
 
 /* Duyuru, Etkinlik, Haber */
@@ -888,38 +886,45 @@ table{
 	font-weight: 400;
 	cursor: pointer;
 }
-
+.block-title-all a{
+	color: darkgray;
+}
 .block-title-all:hover{
 	color: black;
 }
-
+.block-title-all:hover a{
+	color: black;
+}
 .main-block-subtitle {
 	display: flex;
 	flex-direction: row;
-	flex-wrap: wrap;
+	flex-wrap: nowrap;
 	align-items: center;
 	justify-content: flex-start;
 	padding: 16px;
 	border-top: 1px solid #f5f5f5;
 	cursor: pointer;
+	transition: 0.3s;
+	height: 110px;
 }
-
+.main-block-subtitle:hover{
+	padding-right: 12px;
+	transition: 0.3s;
+}
 .main-block-subtitle:hover .block-subtitle-text {
 	padding-left: 12px;
 	transition: 0.3s;
 }
-
 .block-subtitle-date {
-	width: 64px;
 	display: flex;
 	flex-direction: column;
 	flex-wrap: wrap;
 	align-items: center;
 	justify-content: center;
 	border-right: 1px solid #f5f5f5;
-	padding-right: 8px;
+	padding-right: 16px;
+	width: 100px;
 }
-
 .date-day{
 	font-size: 20px;
 	color: #163c73;
@@ -940,9 +945,10 @@ table{
 
 .block-subtitle-text {
 	padding-left: 8px;
-	font-size: 16px;
+	font-size: 14px;
 	font-weight: 600;
 	transition: 0.3s;
+	width: 100%;
 }
 
 /* Hemsis */
@@ -1016,7 +1022,9 @@ table{
 	height: 20px;
 	padding-right: 6px;
 }
-
+.iletisim-h5 {
+	padding: 0 8px;
+}
 
 
 

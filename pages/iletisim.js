@@ -47,8 +47,8 @@ const Iletisim = () => (
 			<p><strong>Sayman</strong><br/>Doç. Dr. Şenay Ünsal ATAN<br/><Link href="mailto:senay.unsal.atan@gmail.com"><a>senay.unsal.atan@gmail.com</a></Link></p>
 		</div>
 	</div>
-	<div className="genel">
-		<h5>Şikayet ve Öneriler</h5>
+	
+		<h5 className="iletisim-h5">Şikayet ve Öneriler</h5>
 		<div className="iletisim-mesaj">
 	    <form action="" method="post" onSubmit={sendEmail}>
 	      <div className="row">
@@ -76,7 +76,7 @@ const Iletisim = () => (
 	      <div><img className="main-bottom-tanınma" src="img/duyurular/CEENQA_tescil.png" title="Yükseköğretim Akademik Değerlendirme ve Kalite Geliştirme Komisyonu"/></div>
 	    </div>
 	  </div>
-  </div>
+
 	{/* This is a comment */}
 </MasterPage>
 )
