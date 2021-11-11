@@ -240,7 +240,7 @@ table{
 		font-size: 1.75rem;
 	}
 	.main-top-one-content{
-		font-family: 'Roboto', sans-serif;
+		font-family: 'Raleway', sans-serif;
 		font-size: 18px;
 		font-weight: 500;
 		color: #212529;
@@ -285,7 +285,7 @@ table{
 	margin-top: 1rem;
 }
 .main-top-second-content{
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Raleway','Roboto', sans-serif;
 	font-size: 1rem;
 	font-weight: 400;
 	color: #212529;
@@ -306,12 +306,12 @@ table{
 		padding: 1rem 0rem;
 	}
 	.main-top-second-title{
-		font-size: 1.75rem;
+		font-size: 1.5rem;
 		padding-left: 0.75rem;
 	}
 	.main-top-second-content{
-		font-size: 1.25rem;
-		font-weight: 400;
+		font-size: 1rem;
+		font-weight: 500;
 		color: #212529;
 		padding-left: 0.75rem;
 	}
@@ -335,7 +335,7 @@ table{
 	height: 100%;
 	background-color: #f5f5f5;
 	border-radius: 0.3125rem;
-	border: 1px solid #f1f1f1;
+	border: 1px solid rgba(37, 41, 84, 0.2);
 	color: #163c73;
 	font-size: 18px;
 	font-family: 'Raleway', sans-serif;
@@ -854,17 +854,28 @@ table{
 	display: flex;
 	flex-wrap: wrap;
 	flex-direction: row;
-	padding: 24px 0;
 	justify-content: center;
 }
 
 .main-new-block{
+	background-color: #f5f5f5;
+	margin: 15px 0;
+}
+@media (min-width: 768px){
+	.main-new-block{
+		background-color: #f5f5f5;
+		margin: 30px 0;
+	}
+}
+.main-new-block-alt{
+	margin: 0 1px;
 	border: 1px solid #fefefe;
 	border-radius: 10px;
 	background-color: #fff;
-	margin: 0 16px;
+	height: 610px;
+	-webkit-box-shadow: 0px 1px 15px 1px #eee; 
+	box-shadow: 0px 1px 15px 1px #eee;
 }
-
 .main-block-title{
 	display: flex;
 	flex-direction: row;
@@ -945,7 +956,7 @@ table{
 
 .block-subtitle-text {
 	padding-left: 8px;
-	font-size: 14px;
+	font-size: 16px;
 	font-weight: 600;
 	transition: 0.3s;
 	width: 100%;
