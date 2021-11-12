@@ -42,10 +42,26 @@ const Tum = () => (
               <div className="main-top-second" id="kurum">
                 <div className="main-top-second-title">Kurumlara Yönelik Eğitim Çalıştayı</div>
                 <div className="main-top-second-content">Hemşirelik Lisans Eğitimi veren Yükseköğretim Kurumlarına Yönelik Eğitim Çalıştayı 9-10 Eylül 2021 tarihlerinde çevrimiçi olarak gerçekleştirilmiştir. Eğitime 45 kurumdan 122 öğretim elemanı katılım göstermiştir. İki günlük çalıştay ilk gün tartışmaya dayalı anlatımlar, ikinci gün küçük grup çalışmaları ile interaktif olarak yürütülmüştür.</div>
+                <div className="main-top-second-content">
+                  <div className="row">
+                    <div className="col-md-4 col-sm-12"><a href="/doc/kurumlar_egitim_9/photo-1.PNG" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_9/photo-1.PNG" alt="Kurumlar için Eğitim Çalıştayı 9"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/doc/kurumlar_egitim_9/photo-2.PNG" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_9/photo-2.PNG" alt="Kurumlar için Eğitim Çalıştayı 9"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/doc/kurumlar_egitim_9/photo-3.PNG" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_9/photo-3.PNG" alt="Kurumlar için Eğitim Çalıştayı 9"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/doc/kurumlar_egitim_9/photo-4.PNG" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_9/photo-4.PNG" alt="Kurumlar için Eğitim Çalıştayı 9"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/doc/kurumlar_egitim_9/photo-5.PNG" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_9/photo-5.PNG" alt="Kurumlar için Eğitim Çalıştayı 9"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/doc/kurumlar_egitim_9/photo-6.PNG" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_9/photo-6.PNG" alt="Kurumlar için Eğitim Çalıştayı 9"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/doc/kurumlar_egitim_9/photo-7.PNG" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_9/photo-7.PNG" alt="Kurumlar için Eğitim Çalıştayı 9"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/doc/kurumlar_egitim_9/photo-8.PNG" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_9/photo-8.PNG" alt="Kurumlar için Eğitim Çalıştayı 9"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/doc/kurumlar_egitim_9/photo-9.PNG" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_9/photo-9.PNG" alt="Kurumlar için Eğitim Çalıştayı 9"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/doc/kurumlar_egitim_9/photo-10.PNG" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_9/photo-10.PNG" alt="Kurumlar için Eğitim Çalıştayı 9"/></a></div>
+                  </div>
+                </div>
               </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">CEENQA Paylaşım Toplantısı - 6</div>
                 <div className="main-top-second-content">Kalite güvencesi alanında CEENQA’ya üye ajansların kurumlarını, faaliyetlerini tanıttığı ve yenilikçi çalışmaların periodik olarak paylaşıldığı altıncı topplantı 21 Temmuz 2021 tarihinde çevrimiçi olarak gerçekleştirildi.HEPDAK’ı temsilen bu online toplantıya Prof. Dr. Ayla Bayık Temel, Doç. Dr. Sergül Duygulu, Doç. Dr Fatoş Korkmaz ve Doç. Dr. Merlinda Aluş Tokat katılmışlardır. Bu toplantıda Doç. Dr. Sergül Duygulu HEPDAK’IN misyonu, amaçları, değerleri, yapısı program değerlendirme süreçleri, standartları ve geleceğe yönelik planlarını açıklamıştır. Nataliia Stukalo Ukrayna ‘daYüksek Öğrenimde Kalite Güvenliği konulu sunumunda; NAQA ajansının misyonu, amaçları, Ukrayna’da yüksek öğrenim, ajansın üyelikleri, Covid 19 pandemi sürecinde faaliyetler ve ülkeler arası faaliyetleri hakkından açıklamalar yapmıştır. Prof. Dr. Ayla Bayık Temel uzaktan değerlendirme ve uzaktan ziyaretler açısından iyi uygulama örneği olarak HEPDAK’ın değerlendirmeciler için düzenlediği uzaktan eğitim çalıştayı hakkında bilgiler vermiştir.</div>
+                <div className="main-top-second-content"><a href="/doc/ceenqa-6/sunum-1.pdf" target="_blank">- Prof. Dr. Ayla Bayık Temel CEENQA Sunumu</a></div>
+                <div className="main-top-second-content"><a href="/doc/ceenqa-6/sunum-2.pdf" target="_blank">- Doç. Dr. Sergül Duygulu CEENQA Sunumu</a></div>
               </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">Otomasyon Sistemine Geçiş</div>
@@ -53,11 +69,35 @@ const Tum = () => (
               </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">Prof. Dr. Gülseren KOCAMAN’ın Pandeminin Hemşirelik Eğitimine Etkileri</div>
-                <div className="main-top-second-content">Yeni Yüzyıl Üniversitesi Sağlık Bilimleri Fakültesi tarafından düzenlenen Ulusal Hemşirelik Kongresi - 1 14 Haziran 2021 tarihinde düzenlenmiş, HEPDAK Yönetim Kurulu Başkanı Prof.Dr. Gülseren KOCAMAN davetli konuşmacı olarak katılmıştır. Prof.Dr. Kocaman “Pandeminin Hemşirelik Eğitimine Etkileri” konulu bir sunum yapmıştır. İlgili sunuma <a href="https://www.youtube.com/watch?v=ZqxOfyOE4bs">https://www.youtube.com/watch?v=ZqxOfyOE4bs</a> linkinden ulaşabilirsiniz.</div>
+                <div className="main-top-second-content">Yeni Yüzyıl Üniversitesi Sağlık Bilimleri Fakültesi tarafından düzenlenen Ulusal Hemşirelik Kongresi - 1 14 Haziran 2021 tarihinde düzenlenmiş, HEPDAK Yönetim Kurulu Başkanı Prof.Dr. Gülseren KOCAMAN davetli konuşmacı olarak katılmıştır. Prof.Dr. Kocaman “Pandeminin Hemşirelik Eğitimine Etkileri” konulu bir sunum yapmıştır.</div>
+                <div className="main-top-second-content">
+                  <div className="embed-responsive embed-responsive-16by9">
+                    <iframe className="embed-responsive-item" src="https://www.youtube.com/embed/ZqxOfyOE4bs?start=6025" allowFullScreen></iframe>
+                  </div>
+                </div>
               </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">HEPDAK Değerlendirici Adayı Eğitimi Çalıştayı</div>
                 <div className="main-top-second-content">HEPDAK Değerlendirici Adayı Eğitimi Çalıştayı 10-12 Haziran 2021 tarihleri arasında çevrimiçi olarak gerçekleştirilmiştir. Çalıştaya 21 yeni değerlendirici adayı katılmıştır. Eğitimde grup çalışmalarında takım başkanı olarak dört, grup çalışmaları gözlemcisi olarak iki deneyimli HEPDAK değerlendiricisi yer almıştır. Üç günlük çalıştay küçük grup ve ana salon çalışmaları ile interaktif olarak yürütülmüştür.</div>
+                <div className="main-top-second-content">
+                  <div className="row">
+                    <div className="col-md-4 col-sm-12"><a href="/doc/degerlendirici_egitim_6/1.JPG" target="_blank"><img className="calistay-img" src="/doc/degerlendirici_egitim_6/1.JPG" alt="Değerlendirici Eğitimi 6"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/doc/degerlendirici_egitim_6/2.PNG" target="_blank"><img className="calistay-img" src="/doc/degerlendirici_egitim_6/2.PNG" alt="Değerlendirici Eğitimi 6"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/doc/degerlendirici_egitim_6/3.PNG" target="_blank"><img className="calistay-img" src="/doc/degerlendirici_egitim_6/3.PNG" alt="Değerlendirici Eğitimi 6"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/doc/degerlendirici_egitim_6/4.PNG" target="_blank"><img className="calistay-img" src="/doc/degerlendirici_egitim_6/4.PNG" alt="Değerlendirici Eğitimi 6"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/doc/degerlendirici_egitim_6/5.PNG" target="_blank"><img className="calistay-img" src="/doc/degerlendirici_egitim_6/5.PNG" alt="Değerlendirici Eğitimi 6"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/doc/degerlendirici_egitim_6/6.PNG" target="_blank"><img className="calistay-img" src="/doc/degerlendirici_egitim_6/6.PNG" alt="Değerlendirici Eğitimi 6"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/doc/degerlendirici_egitim_6/7.PNG" target="_blank"><img className="calistay-img" src="/doc/degerlendirici_egitim_6/7.PNG" alt="Değerlendirici Eğitimi 6"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/doc/degerlendirici_egitim_6/8.PNG" target="_blank"><img className="calistay-img" src="/doc/degerlendirici_egitim_6/8.PNG" alt="Değerlendirici Eğitimi 6"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/doc/degerlendirici_egitim_6/9.PNG" target="_blank"><img className="calistay-img" src="/doc/degerlendirici_egitim_6/9.PNG" alt="Değerlendirici Eğitimi 6"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/doc/degerlendirici_egitim_6/10.PNG" target="_blank"><img className="calistay-img" src="/doc/degerlendirici_egitim_6/10.PNG" alt="Değerlendirici Eğitimi 6"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/doc/degerlendirici_egitim_6/11.PNG" target="_blank"><img className="calistay-img" src="/doc/degerlendirici_egitim_6/11.PNG" alt="Değerlendirici Eğitimi 6"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/doc/degerlendirici_egitim_6/12.PNG" target="_blank"><img className="calistay-img" src="/doc/degerlendirici_egitim_6/12.PNG" alt="Değerlendirici Eğitimi 6"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/doc/degerlendirici_egitim_6/13.png" target="_blank"><img className="calistay-img" src="/doc/degerlendirici_egitim_6/13.png" alt="Değerlendirici Eğitimi 6"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/doc/degerlendirici_egitim_6/14.jpg" target="_blank"><img className="calistay-img" src="/doc/degerlendirici_egitim_6/14.jpg" alt="Değerlendirici Eğitimi 6"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/doc/degerlendirici_egitim_6/15.jpg" target="_blank"><img className="calistay-img" src="/doc/degerlendirici_egitim_6/15.jpg" alt="Değerlendirici Eğitimi 6"/></a></div>
+                  </div>
+                </div>
               </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">Prof. Dr. Ayla Bayık’ın Hemşirelik Öğrencileri Kongre Konuşması</div>
@@ -89,7 +129,12 @@ const Tum = () => (
               </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">Prof. Dr. Gülseren KOCAMAN’ın Pandemide Hemşirelik Eğitim Programlarının Akreditasyonu Konuşması</div>
-                <div className="main-top-second-content">Ondokuz Mayıs Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü tarafından 28 Ocak 2021 tarihinde düzenlenen IV. Hemşireliği Güçlendirme Sempozyumu’na HEPDAK Yönetim Kurulu Başkanı Prof.Dr. Gülseren KOCAMAN davetli konuşmacı olarak katılmış, “Pandemide Hemşirelik Eğitim Programlarının Akreditasyonu” konulu bir sunum yapmıştır. İlgili sunuma <a href="https://www.youtube.com/watch?v=WfUFV-aq9Iw">https://www.youtube.com/watch?v=WfUFV-aq9Iw</a> linkinden ulaşabilirsiniz.</div>
+                <div className="main-top-second-content">Ondokuz Mayıs Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü tarafından 28 Ocak 2021 tarihinde düzenlenen IV. Hemşireliği Güçlendirme Sempozyumu’na HEPDAK Yönetim Kurulu Başkanı Prof.Dr. Gülseren KOCAMAN davetli konuşmacı olarak katılmış, “Pandemide Hemşirelik Eğitim Programlarının Akreditasyonu” konulu bir sunum yapmıştır.</div>
+                <div className="main-top-second-content">
+                  <div className="embed-responsive embed-responsive-16by9">
+                    <iframe className="embed-responsive-item" src="https://www.youtube.com/embed/WfUFV-aq9Iw?start=4237" allowFullScreen></iframe>
+                  </div>
+                </div>
               </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">Dış Değerlendirici Seçimi</div>
@@ -101,11 +146,41 @@ const Tum = () => (
               </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">Uluslararası Çevrimiçi Değerlendirici Değişim Programı</div>
-                <div className="main-top-second-content">HEPDAK, üyesi olduğu CEENQA (Orta ve Doğu Avrupa Yükseköğretim Kalite Güvence Ajansları Ağı) tarafından 2018 yılından beri üyesi olan ajansları arasında gerçekleştirilen, Personel Değişim Programı (CEENQA Staff Exchange Program) kapsamında 2020 yılında Letonya Riga da yer alan AIC (Academic Information Center)-/AIKA (Quality Agency for Higher Education ) ile eşleştirilmiş ancak 2020 yılı içinde tamamlanması planlanan yüzyüze ziyaret Covid 19 pandemisi nedeni ile ertelenmiş ve 27-28 Nisan 2021 tarihleri arasında online olarak tamamlanmıştır. Toplantı HEPDAK’dan /Türkiye 21, AIC/AIKA’dan/Letonya 14 kişinin katılımı ile gerçekleştirilmiştir. Toplantı, AIC/AIKA başkanı Jolanta Silca, HEPDAK başkanı Prof.Dr. Gülseren Kocaman ve CEENQA Personel Değişim Programı koordinatörü Prof.Dr. Olgun Çiçek’in açılış konuşmaları ile başlamıştır. İkili iş birliğinin yapılandırıldığı toplantıda ilk oturumda; Türkiye’de Yüksek Öğrenim ve Akreditasyon Sistemi (Doç. Dr. Fatoş Korkmaz), HEPDAK’ın amaçları, değerleri, misyonu, akreditasyon süreci (Doç. Dr. Sergül Duygulu) ile ilgili bilgiler paylaşıldı. Toplantının ikinci oturumunda; Letonya’da Yüksek Öğrenim ve Akreditasyon Sistemi ve ajansın rolleri, yapı ve işlevleri, uluslararası işbirliği faaliyetleri, değerlendirme sürecinin adımları, hazırlık, kurum ziyaretleri, rapor yazma ve karar süreçleri hakkında bilgiler paylaşıldı (Ketija ANDERSONE ve Ilva GRIGORJEVA). Üçüncü oturumda; Jolanta SILKA kurumun paydaşlarını tanıtarak paydaşlarla iletişim yollarını açıkladı. Son oturumda; Prof. Ayla BAYIK TEMEL, COVID-19 pandemisi sürecinde HEPDAK’ın akreditasyon faaliyetlerini, uzaktan eğitim yoluyla yürütülen hemşirelik eğitim programlarının akreditasyonunun değerlendirilmesi için hazırlanan uzaktan eğitim standartlarını ve yönergesini tanıtmıştır. Ayrıca hemşirelik eğitim program yöneticilerine yönelik gerçekleştirilen eğitim çalıştayı, HEPDAK değerlendiricilerinin uzaktan değerlendirme sürecine hazırlanmaları için düzenlenen eğitim çalıştayı ve online paydaş görüşlerinin tematik analiz sonuçlarını sunmuştur. Bu oturumda Letonya’da Yüksek Öğretim Kurumlarının dış değerlendirilmesi, tüm yükseköğretim programlarının akreditasyonu, program açma ya da programlardaki her türlü değişikliklerde onay verme ile ilgili faaliyetler, pandemi döneminde uzaktan değerlendirmede yürütülen süreçler Laila LEMKO ve Olga ŠŅUCINA tarafından aktarılmıştır.Toplantının sonunda her iki ajansın katılımcıları HEPDAK ve AIKA/ AIC arasında bu değişim programı ile başlayan iletişimin gelecekte sürdürülmesi konularında görüş birliğine vardılar. Toplantı ikili işbirliğine yönelik kapanış dilekleri ile sonlandırıldı. İlgili sunumlara <strong>buradan</strong> ulaşabilirsiniz.</div>
+                <div className="main-top-second-content">HEPDAK, üyesi olduğu CEENQA (Orta ve Doğu Avrupa Yükseköğretim Kalite Güvence Ajansları Ağı) tarafından 2018 yılından beri üyesi olan ajansları arasında gerçekleştirilen, Personel Değişim Programı (CEENQA Staff Exchange Program) kapsamında 2020 yılında Letonya Riga da yer alan AIC (Academic Information Center)-/AIKA (Quality Agency for Higher Education ) ile eşleştirilmiş ancak 2020 yılı içinde tamamlanması planlanan yüzyüze ziyaret Covid 19 pandemisi nedeni ile ertelenmiş ve 27-28 Nisan 2021 tarihleri arasında online olarak tamamlanmıştır. Toplantı HEPDAK’dan /Türkiye 21, AIC/AIKA’dan/Letonya 14 kişinin katılımı ile gerçekleştirilmiştir. Toplantı, AIC/AIKA başkanı Jolanta Silca, HEPDAK başkanı Prof.Dr. Gülseren Kocaman ve CEENQA Personel Değişim Programı koordinatörü Prof.Dr. Olgun Çiçek’in açılış konuşmaları ile başlamıştır. İkili iş birliğinin yapılandırıldığı toplantıda ilk oturumda; Türkiye’de Yüksek Öğrenim ve Akreditasyon Sistemi (Doç. Dr. Fatoş Korkmaz), HEPDAK’ın amaçları, değerleri, misyonu, akreditasyon süreci (Doç. Dr. Sergül Duygulu) ile ilgili bilgiler paylaşıldı. Toplantının ikinci oturumunda; Letonya’da Yüksek Öğrenim ve Akreditasyon Sistemi ve ajansın rolleri, yapı ve işlevleri, uluslararası işbirliği faaliyetleri, değerlendirme sürecinin adımları, hazırlık, kurum ziyaretleri, rapor yazma ve karar süreçleri hakkında bilgiler paylaşıldı (Ketija ANDERSONE ve Ilva GRIGORJEVA). Üçüncü oturumda; Jolanta SILKA kurumun paydaşlarını tanıtarak paydaşlarla iletişim yollarını açıkladı. Son oturumda; Prof. Ayla BAYIK TEMEL, COVID-19 pandemisi sürecinde HEPDAK’ın akreditasyon faaliyetlerini, uzaktan eğitim yoluyla yürütülen hemşirelik eğitim programlarının akreditasyonunun değerlendirilmesi için hazırlanan uzaktan eğitim standartlarını ve yönergesini tanıtmıştır. Ayrıca hemşirelik eğitim program yöneticilerine yönelik gerçekleştirilen eğitim çalıştayı, HEPDAK değerlendiricilerinin uzaktan değerlendirme sürecine hazırlanmaları için düzenlenen eğitim çalıştayı ve online paydaş görüşlerinin tematik analiz sonuçlarını sunmuştur. Bu oturumda Letonya’da Yüksek Öğretim Kurumlarının dış değerlendirilmesi, tüm yükseköğretim programlarının akreditasyonu, program açma ya da programlardaki her türlü değişikliklerde onay verme ile ilgili faaliyetler, pandemi döneminde uzaktan değerlendirmede yürütülen süreçler Laila LEMKO ve Olga ŠŅUCINA tarafından aktarılmıştır.Toplantının sonunda her iki ajansın katılımcıları HEPDAK ve AIKA/ AIC arasında bu değişim programı ile başlayan iletişimin gelecekte sürdürülmesi konularında görüş birliğine vardılar. Toplantı ikili işbirliğine yönelik kapanış dilekleri ile sonlandırıldı.</div>
+                <div className="main-top-second-content">
+                  <a href="/doc/uluslararasi-1/belge_1.pdf" target="_blank">- CEENQA Online Staff Exchange Program</a><br/>
+                  <a href="/doc/uluslararasi-1/belge_2.pdf" target="_blank">- HEPDAK Association for Evaluation and Accreditation of Nursing Education Programs</a><br/>
+                  <a href="/doc/uluslararasi-1/belge_3.pdf" target="_blank">- HEPDAK : Response to COVID-19 Pandemic QUALITY ASSURANCE ACTIVITIES OF HEPDAK FOR DISTANCE EVALUATION</a><br/>
+                  <a href="/doc/uluslararasi-1/belge_4.pdf" target="_blank">- Council of Higher Education - Turkey</a><br/>
+                  <a href="/doc/uluslararasi-1/belge_5.pdf" target="_blank">- Distance Evaluation AIC AIKA</a><br/>
+                  <a href="/doc/uluslararasi-1/belge_6.pdf" target="_blank">- Introduction AIC AIKA</a><br/>
+                  <a href="/doc/uluslararasi-1/belge_7.pdf" target="_blank">- Stakeholders AIC AIKA</a><br/>
+                  <a href="/doc/uluslararasi-1/belge_8.pdf" target="_blank">- Steps of assessment procedures AIC AIKA</a><br/>              
+                </div>
               </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">HEPDAK Öğrenci Değerlendiricileri Eğitimi Çalıştayı (28 Mart 2021)</div>
                 <div className="main-top-second-content">Öğrenci Değerlendirici Eğitim programı çevrimiçi olarak 28 Mart 2021 tarihinde gerçekleştirilmiştir.Oniki farklı üniversiteden 24 öğrenci ile gerçekleştirilen eğitim grup çalışmaları ile interaktif olarak yürütülmüştür.</div>
+                <div className="main-top-second-content">
+                  <div className="row">
+                    <div className="col-md-4 col-sm-12"><a href="/doc/ogrenci_egitim_4/1.jpg" target="_blank"><img className="calistay-img" src="/doc/ogrenci_egitim_4/1.jpg" alt="Öğrenci Eğitimi 28 Mart 2021"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/doc/ogrenci_egitim_4/2.jpg" target="_blank"><img className="calistay-img" src="/doc/ogrenci_egitim_4/2.jpg" alt="Öğrenci Eğitimi 28 Mart 2021"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/doc/ogrenci_egitim_4/3.jpg" target="_blank"><img className="calistay-img" src="/doc/ogrenci_egitim_4/3.jpg" alt="Öğrenci Eğitimi 28 Mart 2021"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/doc/ogrenci_egitim_4/4.jpg" target="_blank"><img className="calistay-img" src="/doc/ogrenci_egitim_4/4.jpg" alt="Öğrenci Eğitimi 28 Mart 2021"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/doc/ogrenci_egitim_4/5.jpg" target="_blank"><img className="calistay-img" src="/doc/ogrenci_egitim_4/5.jpg" alt="Öğrenci Eğitimi 28 Mart 2021"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/doc/ogrenci_egitim_4/6.jpg" target="_blank"><img className="calistay-img" src="/doc/ogrenci_egitim_4/6.jpg" alt="Öğrenci Eğitimi 28 Mart 2021"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/doc/ogrenci_egitim_4/7.jpg" target="_blank"><img className="calistay-img" src="/doc/ogrenci_egitim_4/7.jpg" alt="Öğrenci Eğitimi 28 Mart 2021"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/doc/ogrenci_egitim_4/8.jpg" target="_blank"><img className="calistay-img" src="/doc/ogrenci_egitim_4/8.jpg" alt="Öğrenci Eğitimi 28 Mart 2021"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/doc/ogrenci_egitim_4/9.jpg" target="_blank"><img className="calistay-img" src="/doc/ogrenci_egitim_4/9.jpg" alt="Öğrenci Eğitimi 28 Mart 2021"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/doc/ogrenci_egitim_4/10.jpg" target="_blank"><img className="calistay-img" src="/doc/ogrenci_egitim_4/10.jpg" alt="Öğrenci Eğitimi 28 Mart 2021"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/doc/ogrenci_egitim_4/11.jpg" target="_blank"><img className="calistay-img" src="/doc/ogrenci_egitim_4/11.jpg" alt="Öğrenci Eğitimi 28 Mart 2021"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/doc/ogrenci_egitim_4/12.jpg" target="_blank"><img className="calistay-img" src="/doc/ogrenci_egitim_4/12.jpg" alt="Öğrenci Eğitimi 28 Mart 2021"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/doc/ogrenci_egitim_4/13.jpg" target="_blank"><img className="calistay-img" src="/doc/ogrenci_egitim_4/13.jpg" alt="Öğrenci Eğitimi 28 Mart 2021"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/doc/ogrenci_egitim_4/14.jpg" target="_blank"><img className="calistay-img" src="/doc/ogrenci_egitim_4/14.jpg" alt="Öğrenci Eğitimi 28 Mart 2021"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/doc/ogrenci_egitim_4/15.jpg" target="_blank"><img className="calistay-img" src="/doc/ogrenci_egitim_4/15.jpg" alt="Öğrenci Eğitimi 28 Mart 2021"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/doc/ogrenci_egitim_4/16.jpg" target="_blank"><img className="calistay-img" src="/doc/ogrenci_egitim_4/16.jpg" alt="Öğrenci Eğitimi 28 Mart 2021"/></a></div>
+                  </div>
+                </div>
               </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">Akreditasyonun Hemşirelik Eğitimindeki Önemi</div>
@@ -123,6 +198,12 @@ const Tum = () => (
               <div className="main-top-second">
                 <div className="main-top-second-title">Yükseköğretim Kalite Kurulu 2021 Yılı HEPDAK İzleme Ziyareti</div>
                 <div className="main-top-second-content">YÖKAK Dış Değerlendirme ve Akreditasyon Kuruluşlarını İzleme çalışmaları kapsamında 2020 yılı faaliyetlerimizi izlemek üzere görevlendirilen YÖKAK izleme yetkilisi Sayın Prof. Dr. Sina Ercan 25 Şubat 2021 tarihinde Derneğimize çevrimiçi izleme ziyaretini gerçekleştirmiştir. Dernek yönetim kurulu üyelerinin de (Prof. Dr. Ayla Bayık Temel, Doç. Dr. Dilek Özmen, Doç. Dr. Şenay Ünsal Atan, Prof. Dr. Ayten Zaybak) katıldığı ilk oturumda Yönetim Kurulu Başkanımız Prof. Dr. Gülseren Kocaman 2020 yılı HEPDAK faaliyetlerine yönelik bir sunum yapmıştır. İkinci oturumda ise, yönetim kurulu üyelerinin yanı sıra, HEAK üyeleri (Prof. Dr. Sevgi Hatipoğlu, Prof. Dr. Hülya Okumuş), Standartları Belirleme ve Geliştirme Komisyonu üyeleri (Prof. Dr. Kadriye Buldukoğlu, Doç. Dr. Sergül Duygulu), Tutarlılık Komisyonu üyeleri (Doç. Dr. Dilek Özmen, Doç. Dr. Şenay Ünsal Atan), öğrenci değerlendiriciler (Öğ. Aslı Kayar, Öğ. Mervenur Doğan) ve 2020 yılı faaliyetlerinde görev almış 2 değerlendiricinin (Prof. Dr. Ümit Seviğ, Prof. Dr. Medine Yılmaz) katılımı ile odak grup görüşmeleri yapılmıştır. Karşılıklı bilgi alışverişinin olduğu toplantı öneriler ve iyi dilekler ile tamamlanmıştır.</div>
+                <div className="main-top-second-content">
+                  <div className="row">
+                    <div className="col-md-6 col-sm-12"><a href="img/yok_ziyaret_2021/photo_1.jpg" target="_blank"><img className="calistay-img" src="img/yok_ziyaret_2021/photo_1.jpg" alt="YÖK Ziyaret"/></a></div>
+                    <div className="col-md-6 col-sm-12"><a href="img/yok_ziyaret_2021/photo_2.jpg" target="_blank"><img className="calistay-img" src="img/yok_ziyaret_2021/photo_2.jpg" alt="YÖK Ziyaret"/></a></div>
+                  </div>
+                </div>
               </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">Prof. Dr. Gülseren KOCAMAN’ın Yükseköğretimde Akreditasyon ve Hemşirelik Örneği Konuşması</div>

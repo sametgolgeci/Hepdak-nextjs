@@ -391,10 +391,10 @@ table{
 	text-align: center;
 	font-family: 'Raleway', sans-serif;
 	font-size: 1.25rem;
-	font-weight: 900;
+	font-weight: 800;
 	color: #000055;
 	margin: 0 0 1rem;
-	border-bottom: 0.25rem solid #000055;
+	border-bottom: 3px solid #000055;
 }
 .main-bottom-title > a{
 	color: #000055;
