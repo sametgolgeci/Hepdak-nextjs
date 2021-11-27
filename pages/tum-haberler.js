@@ -27,9 +27,30 @@ const Tum = () => (
                 <p>“Çevrimiçi Değerlendirmeler ve Dış Kalite Güvencesi” konulu çalıştayda, pandeminin getirdiği değerlendirme prosedürlerinde yapılan değişiklikler ele alınmıştır. Çeşitli Avrupa ülkelerindeki ajansların deneyimlerine dayanarak, hangi deneyimlerin kazanıldığı, değişen koşullara uyum sağlamak için nelerin geliştirilebileceği ve gelecekte kalite güvence prosedürlerinin nasıl yürütüleceği tartışılmıştır. Çalıştayda bu kapsamda Anca Prisacariu “Dış Değerlendirme Güvenliği Süreçlerinin Online Formatta Uyarlanması” konulu sunumunda online değerlendirmede sınırlılıklar, etik durumlar konusunda görüşlerini paylaşmıştır. Nataliia Stukalo, NAQA’nin Ukrayna’da pandemi döneminde kalite güvenliği ile ilgili deneyimlerini açıklamış, bu kapsamda olumlu ve olumsuz denyimler, kalite güvenliği süreçlerinde dijitalizasyon konularında bilgi vermiştir. Klemen Šubic CEENQA adına Olgun Çiçek ile birlikte hazırladıkları HEPDAK’ında öneriler verdiği “Uzaktan Değerlendirmeler İçin Rehber”in (Guidelines For Distance Evaluation) hazırlanma amacı, online değerlendirmede ziyaret öncesi ve ziyaret sürecinde dikkat edilecek hususlar hakkında bilgi vermiştir. Jolanta Silka (AIKA) sunumunda online değerlendirmelerde iletişimin ve geri bildirimin önemi konusunda bilgiler vermiştir. Ayrıca genel kurulda Türkiye’den DEPAD (Diş Hekimliği Eğitimi Programları Akreditasyon Derneği) gözlemci üye ve Azerbeycan’dan TKTA (Azerbaycan Kalite Ajansı) – tam üyelik başvurusu kabul edilmiştir.</p>
                 </div>
               </div>
+              <div className="main-top-second" id="iyi">
+                <div className="main-top-second-title">İyi Uygulama Örnekleri</div>
+                <div className="main-top-second-content">27-29 Eylül 2021 tarihleri arasında düzenlenen “Hemşirelik Eğitiminin Geleceği 3” Sempozyumunda sunulan “İyi Uygulama Örnekleri: Pandemi Sürecinde Çevrimiçi Teorik ve Uygulama Eğitimi” sunumlarına buradan ulaşabilirsiniz.</div>
+                <div className="main-top-second-content">
+                  <div className="embed-responsive embed-responsive-16by9">
+                    <iframe className="embed-responsive-item" src="https://www.youtube.com/embed/MhYcF-1ucy0" allowFullScreen></iframe>
+                  </div>
+                </div>
+                <div className="main-top-second-content">
+                  <div className="embed-responsive embed-responsive-16by9">
+                    <iframe className="embed-responsive-item" src="https://www.youtube.com/embed/qge5DtnNH0A" allowFullScreen></iframe>
+                  </div>
+                </div>
+              </div>
               <div className="main-top-second" id="hemsire">
                 <div className="main-top-second-title">Hemşirelik Eğitiminin Geleceği 3” Sempozyumu gerçekleştirildi</div>
                 <div className="main-top-second-content">HEPDAK ve HEMED iş birliği ile <strong>“Hemşirelik Eğitiminin Geleceği 3: Pandemi Sürecinde Eğitimi İyileştirme Yaklaşımları”</strong> temalı sempozyum <strong>27-29 Eylül 2021</strong> tarihlerinde çevrim içi olarak gerçekleştirilmiştir. Üç gün süren sempozyumda beş kursa toplam 197, sempozyuma 290 kişi katılım göstermiştir.</div>
+                <div className="main-top-second-content">
+                  <div className="row">
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/hemsirelik-egitiminin-gelecegi-3/1.png" target="_blank"><img className="calistay-img" src="/img/haberler/hemsirelik-egitiminin-gelecegi-3/1.png" alt="Hemşirelik Eğitiminin Geleceği 3"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/hemsirelik-egitiminin-gelecegi-3/2.png" target="_blank"><img className="calistay-img" src="/img/haberler/hemsirelik-egitiminin-gelecegi-3/2.png" alt="Hemşirelik Eğitiminin Geleceği 3"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/hemsirelik-egitiminin-gelecegi-3/3.png" target="_blank"><img className="calistay-img" src="/img/haberler/hemsirelik-egitiminin-gelecegi-3/3.png" alt="Hemşirelik Eğitiminin Geleceği 3"/></a></div>
+                  </div>
+                </div>
               </div>
               <div className="main-top-second" id="ceenqayedi">
                 <div className="main-top-second-title">CEENQA Paylaşım Toplantısı - 7</div>
@@ -110,6 +131,11 @@ const Tum = () => (
               <div className="main-top-second">
                 <div className="main-top-second-title">Doç.Dr.Şenay ÜNSAL ATAN’ın Sağlık Profesyonelleri ile Hemşireliğin Dünü, Bugünü, Yarını Konuşması</div>
                 <div className="main-top-second-content">Etkin Kampüs Hemşirelik Haftası Özel Etkinliği kapsamında 16 Mayıs 2021 tarihinde düzenlenen 21.YY MESLEĞİ: HEMŞİRELİK paneline HEPDAK Yönetim Kurulu üyesi Doç. Dr. Şenay ÜNSAL ATAN davetli konuşmacı olarak katılmış ve “Sağlık Profesyonelleri ile Hemşireliğin Dünü, Bugünü, Yarını” başlıklı bir konuşma gerçekleştirmiştir.</div>
+                <div className="main-top-second-content">
+                  <div className="row">
+                    <div className="col-md-6 col-sm-12"><a href="/img/haberler/genel/hemsireligin-dunu-bugunu-yarini.jpeg" target="_blank"><img className="calistay-img" src="/img/haberler/genel/hemsireligin-dunu-bugunu-yarini.jpeg" alt="Hemşireliğin Dünü Bugünü Yarını"/></a></div>
+                  </div>
+                </div>
               </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">Akreditasyon Belge Takdim Törenleri</div>
@@ -194,6 +220,11 @@ const Tum = () => (
               <div className="main-top-second">
                 <div className="main-top-second-title">Kurumlar İçin Bilgilendirme Toplantısı (18 Mart 2021)</div>
                 <div className="main-top-second-content">2021-2022 dönemi HEPDAK akreditasyonu için başvuran kurumlar için bilgilendirme toplantısı 18 Mart 2021 tarihinde gerçekleştirilmiştir. Dokuz üniversiteden 20 katılımcı ile gerçekleştirilen toplantıda “HEPDAK değerleri, Tematik analiz ve HEPDAK beklentileri, ÖDR hazırlarken dikkat edilmesi gerekenler, Eğitim planı analizi, Değerlendirme özeti ve PDÇ tablosu , HEPDAK desteği ve HEPDAK değerlendirme süreci” hakkında HEPDAK Başkanı Prof.Dr. Gülseren KOCAMAN tarafından bir sunum yapılmış, kurum temsilcilerinin soruları yanıtlanmıştır.</div>
+                <div className="main-top-second-content">
+                  <div className="row">
+                    <div className="col-md-6 col-sm-12"><a href="/img/haberler/genel/HEMSİS-bilgilendirme-2021.png" target="_blank"><img className="calistay-img" src="/img/haberler/genel/HEMSİS-bilgilendirme-2021.png" alt="HEMSİS Bilgilendirme 2021"/></a></div>
+                  </div>
+                </div>
               </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">Yükseköğretim Kalite Kurulu 2021 Yılı HEPDAK İzleme Ziyareti</div>
@@ -234,6 +265,12 @@ const Tum = () => (
               <div className="main-top-second">
                 <div className="main-top-second-title">HEPDAK Değerlendirici Eğitimi (10-12 Ağustos 2020)</div>
                 <div className="main-top-second-content">Pandemi sürecinde HEPDAK Değerlendirici Eğitimi 10-12 Ağustos 2020 tarihleri arasında çevrimiçi olarak yürütülmüştür. Eğitime 15 değerlendirici olan / değerlendiricilik eğitim almış (tazelenme eğitimi amacıyla), 17 yeni değerlendirici adayı katılım göstermiştir. Üç günlük programda çeşitli çevrimiçi platformlar kullanılarak interaktif grup çalışmaları yürütülmüştür.</div>
+                <div className="main-top-second-content">
+                  <div className="row">
+                    <div className="col-md-6 col-sm-12"><a href="img/haberler/hepdak-degerlendirici-egitimi-2020/1.jpg" target="_blank"><img className="calistay-img" src="img/haberler/hepdak-degerlendirici-egitimi-2020/1.jpg" alt="HEPDAK Değerlendirici Eğitimi 2020"/></a></div>
+                    <div className="col-md-6 col-sm-12"><a href="img/haberler/hepdak-degerlendirici-egitimi-2020/2.jpg" target="_blank"><img className="calistay-img" src="img/haberler/hepdak-degerlendirici-egitimi-2020/2.jpg" alt="HEPDAK Değerlendirici Eğitimi 2020"/></a></div>
+                  </div>
+                </div>
               </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">HEPDAK Uzaktan Eğitim Standartları (19 Haziran 2020)</div>

@@ -105,7 +105,7 @@ const Belgeler = () => (
                 </tr>
                 <tr>
                   <th scope="row">13</th>
-                  <td>HEPDAK Akredite Eğitim Programları İçin Gelişim Raporu Hazırlama Rehberi <strong>Sürüm 1.0</strong> (<Link href="doc/b13_v1.pdf"><a>PDF</a></Link> | <Link href="doc/b13_v1.doc"><a>Word</a></Link>) | <strong>Sürüm 2.0</strong> (<Link href="doc/b13_v2.pdf"><a>PDF</a></Link> | <Link href="doc/b13_v2.docx"><a>Word</a></Link>) | <strong>Sürüm 2.1 <span className="belge-span">Güncel</span></strong> (<Link href="doc/b13_v2_1.pdf"><a>PDF</a></Link> | <Link href="doc/b13_v2_1.docx"><a>Word</a></Link>)</td>
+                  <td>HEPDAK Akredite Eğitim Programları İçin Gelişim Raporu Hazırlama Rehberi <strong>Sürüm 1.0</strong> (<Link href="doc/b13_v1.pdf"><a>PDF</a></Link> | <Link href="doc/b13_v1.doc"><a>Word</a></Link>) | <strong>Sürüm 2.0</strong> (<Link href="doc/b13_v2.pdf"><a>PDF</a></Link> | <Link href="doc/b13_v2.docx"><a>Word</a></Link>) | <strong>Sürüm 2.1</strong> (<Link href="doc/b13_v2_1.pdf"><a>PDF</a></Link> | <Link href="doc/b13_v2_1.docx"><a>Word</a></Link>) | <strong>Sürüm 2.2 <span className="belge-span">Güncel</span></strong> (<Link href="doc/b13_v2_2.pdf"><a>PDF</a></Link> | <Link href="doc/b13_v2_2.docx"><a>Word</a></Link>)</td>
                 </tr>
                 <tr>
                   <th scope="row">14</th>

@@ -40,6 +40,7 @@ const Anasayfa = () => (
     <div className="main-top">
       <div className="main-top-nav">
         <ul className="main-top-akredite">
+      {/*
           <li className="nav-item">
             <div className="nav-item-hemsis">
               <Link href="http://hemsis.hepdak.org.tr/"><a target="_blank">
@@ -48,6 +49,7 @@ const Anasayfa = () => (
               </a></Link>
             </div>
           </li>
+          */}
           <li className="nav-item">
             <div><img className="main-bottom-tanınma" src="img/duyurular/YOKAK_tescil.png" title="Yükseköğretim Akademik Değerlendirme ve Kalite Geliştirme Komisyonu"/></div>
           </li>
@@ -332,6 +334,12 @@ const Anasayfa = () => (
         </div>
       </div>
     </div>
+    <div className="main-middle">
+      <div className="col-sm-12 col-md-12 covid-index">
+        <h2>HEMSİS</h2>
+        <Link href="http://hemsis.hepdak.org.tr/"><a target="_blank">Giriş için tıklayınız</a></Link>
+      </div>
+    </div>
     <div className="main-fast-akredite">
       <div className="fast-akredite-button col-md-4">
         <Link href="/doc/b1-basvuru-2021-2022.doc"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faCheck}/>Akreditasyon Başvurusu</button></a></Link>
@@ -352,9 +360,8 @@ const Anasayfa = () => (
         <Link href="/belgeler"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faFile}/>Diğer belgeler</button></a></Link>
       </div>
     </div>
+    
     {/*
-    <div className="main-middle">
-  
       <div className="col-sm-12 col-md-12 main-middle-duyuru">
         <h4>HEPDAK Değerlendirici Eğitimi Çağrısı : 2021</h4>
         <p>Değerli Hemşire Akademisyenler, HEPDAK, hemşirelik lisans eğitim programlarının akreditasyon sürecinde değerlendirme takımında görev alacak değerlendirici adayları aramaktadır. Değerlendirici olmak için HEPDAK değerlendirici eğitim programı çalıştayına katılmak ve tamamlamak gerekmektedir. HEPDAK, değerlendirici eğitimi, 10 - 12 Haziran 2021 tarihlerinde çevrimiçi olarak yapılacaktır. Koşulları sağladığınızdan emin olduktan sonra başvurularınızı, HEPDAK Akademisyen Değerlendirici Adayı Başvuru Formunu doldurarak <strong>1 Nisan 2021</strong> tarihine kadar <strong>hepdakegitim@gmail.com</strong> adresine yollamanız durumunda size en kısa sürede geri dönüş yapılacaktır.İlgili forma <Link href="doc/aday_formu.doc"><a>buradan</a></Link> ulaşabilirsiniz.</p>
@@ -362,10 +369,7 @@ const Anasayfa = () => (
         <h6>HEPDAK Yönetim Kurulu</h6>
       </div>
       
-      <div className="col-sm-12 col-md-12 covid-index">
-        <h2>HEMSİS</h2>
-        <Link href="http://hemsis.hepdak.org.tr/"><a target="_blank">Giriş için tıklayınız</a></Link>
-      </div>
+      
       <div className="col-sm-12 col-md-12 covid-index">
         <Link href="/covid-19"><a>Covid-19 Haberleri</a></Link>
       </div>
@@ -373,9 +377,9 @@ const Anasayfa = () => (
       <div className="col-sm-12 col-md-12">
         <Link href="/doc/SABDEK_covid.pdf"><a><button className="main-top-button">SABDEK Uzaktan Eğitim Çalışmaları ve Yaz Okulu Açıklaması (02.07.2020)</button></a></Link>
       </div>
-      
-    </div>
-    */}
+      */}
+    
+    
     {/* 
   <div className="main-bottom-title">Şikayet ve Öneriler</div>
   This is a comment 
@@ -428,6 +432,7 @@ const Anasayfa = () => (
             <div className="block-subtitle-text">CEENQA'nın Yıllık Genel Kurulu ve Çalıştayı</div>
           </div>
           </Link>
+          <Link href="/tum-haberler#iyi">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
               <div className="date-day">30</div>
@@ -436,6 +441,7 @@ const Anasayfa = () => (
             </div>
             <div className="block-subtitle-text">İyi Uygulama Örnekleri</div>
           </div>
+          </Link>
           <Link href="/tum-haberler#hemsire">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
@@ -536,7 +542,7 @@ const Anasayfa = () => (
               <div className="date-month">Mart</div>
               <div className="date-year">2021</div>
             </div>
-            <div className="block-subtitle-text">Avustralya Hemşirelik ve Ebelik Akreditasyon Dernekleri ve Hemşirelik Okullarının Yükümlülükleri</div>
+            <div className="block-subtitle-text">Avustralya Hemşirelik ve Ebelik Akreditasyon Dernekleri ve Okullarının Yükümlülükleri</div>
           </div>
         </div>
       </div>
