@@ -422,7 +422,7 @@ const Anasayfa = () => (
             <div className="block-title-main">Son Haberler</div>
             <div className="block-title-all"><a href="/tum-haberler">Tüm Haberler</a></div>
           </div>
-          <Link href="/tum-haberler#ceenqa">
+          <Link href="/haberler/13-10-2021-CENNQA-genel-kurulu">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
               <div className="date-day">14</div>
@@ -431,8 +431,9 @@ const Anasayfa = () => (
             </div>
             <div className="block-subtitle-text">CEENQA'nın Yıllık Genel Kurulu ve Çalıştayı</div>
           </div>
+
           </Link>
-          <Link href="/tum-haberler#iyi">
+          <Link href="/haberler/30-09-2021-iyi-uygulama-ornekleri">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
               <div className="date-day">30</div>
@@ -442,7 +443,7 @@ const Anasayfa = () => (
             <div className="block-subtitle-text">İyi Uygulama Örnekleri</div>
           </div>
           </Link>
-          <Link href="/tum-haberler#hemsire">
+          <Link href="/haberler/30-10-2021-hemsirelik-egitiminin-gelecegi">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
               <div className="date-day">30</div>
@@ -452,7 +453,7 @@ const Anasayfa = () => (
             <div className="block-subtitle-text">"Hemşirelik Eğitiminin Geleceği 3” Sempozyumu Gerçekleştirildi</div>
           </div>
           </Link>
-          <Link href="/tum-haberler#ceenqayedi">
+          <Link href="/haberler/16-10-2021-CEENQA-paylasim-toplantisi">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
               <div className="date-day">16</div>
@@ -462,7 +463,7 @@ const Anasayfa = () => (
             <div className="block-subtitle-text">CEENQA Paylaşım Toplantısı - 7</div>
           </div>
           </Link>
-          <Link href="/tum-haberler#kurum">
+          <Link href="/haberler/11-10-2021-kurumlara-yonelik-egitim-calistayi">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
               <div className="date-day">11</div>
@@ -480,7 +481,7 @@ const Anasayfa = () => (
             <div className="block-title-main">Son Duyurular</div>
             <div className="block-title-all"><a href="/tum-duyurular">Tüm Duyurular</a></div>
           </div>
-          <Link href="/tum-duyurular#akreditasyon">
+          <Link href="/duyurular/15-06-2021-akreditasyon-takvimi">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
               <div className="date-day">15</div>
@@ -490,7 +491,7 @@ const Anasayfa = () => (
             <div className="block-subtitle-text">HEPDAK 2021-2022 Dönemi Akreditasyon Takvimi</div>
           </div>
           </Link>
-          <Link href="/tum-duyurular#calistay2021">
+          <Link href="/duyurular/15-07-2021-kurumlara-yonelik-egitim-calistayi">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
               <div className="date-day">15</div>
@@ -500,7 +501,7 @@ const Anasayfa = () => (
             <div className="block-subtitle-text">Kurumlara Yönelik Eğitim Çalıştayı - 2021</div>
           </div>
           </Link>
-          <Link href="/tum-duyurular#degerlendirici">
+          <Link href="/duyurular/03-06-2021-degerlendirici-egitimi">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
               <div className="date-day">03</div>
@@ -510,7 +511,7 @@ const Anasayfa = () => (
             <div className="block-subtitle-text">HEPDAK Değerlendirici Eğitimi</div>
           </div>
           </Link>
-          <Link href="/tum-duyurular#ogrenci">
+          <Link href="/duyurular/21-03-2021-ogrenci-degerlendirici-egitimi-calistayi">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
               <div className="date-day">21</div>

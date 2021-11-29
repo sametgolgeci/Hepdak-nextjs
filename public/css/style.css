@@ -1037,6 +1037,8 @@ table{
 	padding: 0 8px;
 }
 
-
+.hover-out:hover {
+	border-left: 4px solid white !important;
+}
 
 
