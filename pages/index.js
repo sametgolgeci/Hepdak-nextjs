@@ -334,12 +334,14 @@ const Anasayfa = () => (
         </div>
       </div>
     </div>
+  {/*
     <div className="main-middle">
       <div className="col-sm-12 col-md-12 covid-index">
         <h2>HEMSİS</h2>
         <Link href="http://hemsis.hepdak.org.tr/"><a target="_blank">Giriş için tıklayınız</a></Link>
       </div>
     </div>
+    */}
     <div className="main-fast-akredite">
       <div className="fast-akredite-button col-md-4">
         <Link href="/doc/b1-basvuru-2021-2022.doc"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faCheck}/>Akreditasyon Başvurusu</button></a></Link>
