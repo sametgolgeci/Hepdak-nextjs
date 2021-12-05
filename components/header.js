@@ -8,7 +8,6 @@ const Header = () => (
 		<div className="header-up-item"><Link href="https://www.instagram.com/hepdak/"><a><FontAwesomeIcon className="header-icon" icon={faInstagram}/>HEPDAK</a></Link></div>
 		<div className="header-up-item"><Link href="https://www.youtube.com/channel/UC96oXHHypl1WFXpOkvwwj9A/featured"><a><FontAwesomeIcon className="header-icon" icon={faYoutube}/>HEPDAK TV</a></Link></div>
 		<div className="header-up-item"><Link href="/sss"><a>SSS</a></Link></div>
-		<div className="header-up-item"><Link href="http://hemsis.hepdak.org.tr/"><a>HEMSİS</a></Link></div>
 	</div>
 	<div className="header-items">
 		<div className="header-logo">

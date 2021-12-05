@@ -81,9 +81,12 @@ const Navigation = () => (
 	      <li className="nav-item">
 	        <Link href="/sss"><a className="nav-link header-nav-link">SSS</a></Link>
 	      </li>
-	     */}
+	     */} 
 	      <li className="nav-item">
 	        <Link href="/iletisim"><a className="nav-link header-nav-link">İLETİŞİM</a></Link>
+	      </li>
+	      <li className="nav-item">
+	        <Link href="http://hemsis.hepdak.org.tr/"><a className="nav-link header-nav-link">HEMSİS</a></Link>
 	      </li>
 			</ul>
 		</div>
