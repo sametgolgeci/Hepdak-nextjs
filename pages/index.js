@@ -40,7 +40,7 @@ const Anasayfa = () => (
     <div className="main-top">
       <div className="main-top-nav">
         <ul className="main-top-akredite">
-      {/*
+          {/*
           <li className="nav-item">
             <div className="nav-item-hemsis">
               <Link href="http://hemsis.hepdak.org.tr/"><a target="_blank">
@@ -70,14 +70,6 @@ const Anasayfa = () => (
                   <div className="main-top-one-content">HEPDAK 2021-2022 dönemi akreditasyon takvimine ulaşmak için tıklayınız.</div>
                   </a>
                 </div>
-                <div className="carousel-item ">
-                  <div className="main-top-one-title">Kurumlara Yönelik Eğitim Çalıştayı</div>
-                  <div className="main-top-one-content">Hemşirelik Lisans Eğitimi Veren Yükseköğretim Kurumlarına Yönelik Eğitim Çalıştayı 9-10 Eylül 2021 tarihlerinde çevrimiçi olarak gerçekleştirilecektir. <a href="doc/2021_kurum_program.pdf"><strong>Çalıştay Programı</strong></a>, <a href="doc/2021_kurum_form.doc"><strong>Başvuru Formu</strong></a> ve <a href="doc/2021_kurum_duyuru.pdf"><strong>Duyuru Metni</strong></a>'ne buradan ulaşabilirsiniz.</div>
-                </div>
-                <div className="carousel-item">
-                  <div className="main-top-one-content-full"><img className="slider-full-img" src="img/duyurular/hemsire-sempozyum-2021.jpg"/></div>
-                </div>
-                
                 <div className="carousel-item">
                   <div className="main-top-one-title">Duyuru</div>
                   <div className="main-top-one-content">HEPDAK değerlendiricilerimizden Doç. Dr. Sergül Duygulu ve Doç. Dr. Fatoş Korkmaz  ARACİS- Romanya Yüksek Öğretim Kalite Güvenlik Kurumu (Romanian Agency for Quality Assurance in Higher Education) tarafından Uluslararası Değerlendirmeci olarak seçilmişlerdir. Değerlendirmecilerimizi kutluyor, başarılar diliyoruz.<h6>HEPDAK Yönetim Kurulu</h6></div>
@@ -131,7 +123,7 @@ const Anasayfa = () => (
                   </a></Link>
                 </div>
                 */}
-                </div>
+              </div>
               <a className="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
                 <span aria-hidden="true"><FontAwesomeIcon className="main-carousel-icon" icon={faChevronLeft}/></span>
                 <span className="sr-only">Previous</span>
@@ -237,52 +229,6 @@ const Anasayfa = () => (
                 <div className="main-top-second-title">HEPDAK Uzaktan Eğitim Standartları (19 Haziran 2020)</div>
                 <div className="main-top-second-content">İlgili dosyaya <Link href="/doc/b14_v1.docx"><a><strong>buradan</strong></a></Link> ulaşabilirsiniz.</div>
               </div>
-              <div className="main-top-second">
-                <div className="main-top-second-title">Corona Virüs Pandemisi Sürecinde Hemşirelik Eğitim Programlarının Akreditasyonu için HEPDAK Planı (4 Mayıs 2020)</div>
-                <div className="main-top-second-content">
-                <p>HEPDAK, ülkemizde CORONA virüs mücadele sürecinde, üniversitelerde hemşirelik eğitiminin aksamaması için uzaktan eğitim uygulamaları kapsamında yürüttükleri planları ve çabaları izlemektedir. Akreditasyon için başvuran ve halen değerlendirme sürecinde olan hemşirelik programlarının kuramsal ve uygulamalı eğitimleri için HEPDAK önerileri aşağıda belirtilmiştir. HEPDAK olarak kurumlardan beklentimiz eğitim programlarının yürütülmesinde eğitim faaliyetlerinin HEPDAK standartları ile uyumunu korumalarıdır.</p>
-                <p>Aşağıdaki bilgilerin, eğitim programlarınızı gözden geçirmede rehberlik edeceğini umarız. HEPDAK, hemşirelik eğitiminde meslek derslerinin uzaktan yapılmasını desteklememektedir. Bu nedenle, uzaktan eğitimle ilgili önerilerimizin, pandemi sürecinde yaşanan eğitim sorunlarının çözümüne katkı amacı taşıdığını ve bir geçiş süreci planı olduğunu vurgulamak isteriz.</p>
-                <p><h5>Kuramsal dersler, klinik/alan uygulamaları ve ölçme-değerlendirme</h5></p>
-                <p>Hemşirelik programları, eğitimlerini YÖK’ün ve kendi üniversitelerinin aldığı kararlar doğrultusunda planlayacaklardır. Uygulanacak çevrimiçi eğitimlerde, YÖK’ün tanımladığı “uzaktan öğretim faaliyetlerinde uyulacak hususlar” çerçevesine uyulmalıdır (18 Mart 2020).</p>
-                <p>Kurumlar, öğrencilerin program çıktılarına ulaşmaları koşuluyla öğrenmelerini sağlayacak uzaktan öğretim yöntemlerini kullanabilirler. COVID-19 konusu ile ilgili teorik ve uygulamalı eğitimler müfredata entegre edilmelidir. Eğiticiler ve özellikle mezuniyet aşamasındaki öğrenciler COVID-19 salgın ve bakım yönetimi, kişisel koruyucu ekipmanların uygun kullanımı ve bulaş konusunda gerekli yetkinliklere sahip olmalıdırlar. Uygulama eğitimi için simülasyon, sanal gerçeklik, klinik bakım öğretimi için online kaynaklar etkili bir şekilde kullanılmalıdır.</p>
-                <p>Uzaktan eğitim yöntemi ile 1, 2. ve 3. sınıf uygulamalarını yürüten programlar, uygulamalarını 2019- 2020 ya da 2020-2021 öğretim yılında sıkıştırılmış programlarla güz ve bahar döneminde sağlık kuruluşlarında ve yüz yüze eğitim ile tekrarlamalıdır. Bu klinik deneyimler öğrencilerin program çıktılarına ulaşmalarını sağlamalıdır.</p>
-                <p>Kuramsal ve klinik eğitim becerilerini kazanma ve program çıktılarına ulaşma durumu uygun ölçme ve değerlendirme yöntemleri ile değerlendirilmelidir.</p>
-                <p>2019-2020 bahar dönemi ile gelecek öğretim yılı/yılları için yapılan planlamalar ve uygulamalar konusunda “karar alma süreçleri, teorik ve uygulamaların nasıl yürütüldüğü, eğitimcilerin uzaktan öğretim becerilerini desteklemek için yapılan eğitici eğitimleri, ölçme değerlendirme ve program çıktılarına ulaşıldığını” gösteren kanıtlar sunulmalıdır.</p>
-                <p><h5>Uzaktan eğitimin değerlendirilmesi</h5>Uzaktan yapılan eğitimler kayıt altına alınarak kanıtları sunulmalıdır. Uzaktan öğretimle yürütülen derslerde YÖKAK’ın belirlediği “uzaktan eğitimde kalite güvencesi” ölçütleri göz önüne alınmalıdır <a href="https://portal.yokak.gov.tr/makale/uzaktan-egitim-ve-kalite-guvence-sistemi/">(https://portal.yokak.gov.tr/makale/uzaktan-egitim-ve-kalite-guvence-sistemi/)</a>. HEPDAK, uzaktan eğitimin nasıl değerlendirileceği konusunda daha ayrıntılı çalışmalarını sürdürmektedir ve sizlere ayrıca bildirecektir.</p>
-                <p><h6>HEPDAK Yönetim Kurulu</h6></p></div>
-              </div>
-              <div className="main-top-second">
-                <div className="main-top-second-title">Hepdak 2020-2021 Değerlendirme Planı (4 Mayıs 2020)</div>
-                <div className="main-top-second-content"><p><h5>Ara değerlendirme için başvuran programlar</h5>İlgili programların, mevcut akreditasyon süreçlerinin kesintiye uğramaması için uzaktan değerlendirme yapılması planlanmıştır. Takımların, bu programların özdeğerlendirme raporlarını incelemesinden sonra saha ziyaretleri uzaktan yapılacak ve gerekirse pandemi sonrası ileri bir tarihte kurum ziyareti planlanacaktır.</p>
-                <p><h5>Yeniden genel değerlendirme için başvuran programlar</h5>İlgili programların, mevcut akreditasyon süreçlerinin devamını desteklemek üzere yeniden değerlendirme yapılacak olan programlara özdeğerlendirme raporlarının incelenmesinden sonra uzaktan ziyaret yapılacak ve pandemi koşullarına göre ileri bir tarihte kurum ziyareti planlanacaktır.</p>
-                <p>Ara değerlendirme ve yeniden genel değerlendirme sürecine devam etmeme kararı alan programların akreditasyon tarihi dolduktan sonra programın akreditasyonu devam etmez.</p>
-                <p>Ara değerlendirme ve yeniden genel değerlendirme için başvuran programların, 2020-2021 dönemi değerlendirme takvimi olası engeller göz önüne alınarak ve bu yıla özgü olmak üzere aşağıdaki şekilde planlanmıştır</p>
-                <p>o Kurumların özdeğerlendirme raporlarını HEPDAK’a yollaması: 10 Eylül 2020<br/>
-                o Rapor önincelemelerinin HEPDAK tarafından yapılması: 11-14 Eylül 2020<br/>
-                o Kurumların ÖDR eksikliklerini tamamlaması: 15-20 Eylül 2020<br/>
-                o HEAK toplantısı: 29 Eylül 2020<br/>
-                o ÖDR’lerin takımlara yollanması: 1-7 Ekim 2020<br/>
-                o ÖDR’lerin takımlar tarafından incelenmesi: 7 Ekim-30 Kasım 2020<br/>
-                o Programların uzaktan ziyareti: 1-31 Aralık 2020<br/>
-                o Kurumların 30. Gün yanıtlarının gönderilmesi: 1-30 Ocak 2021<br/>
-                o Takımların 60. Gün raporlarını HEPDAK’a yollaması: 1- 28 Şubat 2021<br/>
-                o Tutarlılık toplantısı: 1-15 Mart 2021<br/>
-                o HEAK karar toplantısı: 1 Nisan 2021</p>
-                <p><h5>2020-2021 dönemi için ilk kez başvuran programlar</h5>Bu dönem, ilk kez başvuran programların değerlendirme süreçleri 2021-2022 dönemine aktarılacaktır. Olağan koşullarda, yeni dönem başvuru tarihi 1-31 Ocak 2021 olmakla birlikte, pandemi durumuna göre başvuru tarihi ve akreditasyon süreci yeniden gözden geçirilebilecektir. Bu dönem için yapılacak diğer başvurularla birlikte olası bir yığılma söz konusu olduğunda 2020 döneminde başvuran kurumlara öncelik verilerek, yeni başvuranların sayısı sınırlandırılabilecektir.</p>
-                <p><h6>HEPDAK Yönetim Kurulu</h6></p></div>
-              </div>
-              <div className="main-top-second">
-                <div className="main-top-second-title">CEENQA Üyeliği Hakkında</div>
-                <div className="main-top-second-content"><p>HEPDAK, 15 Mayıs 2020 tarihinden itibaren CEENQA - Central and Eastern European Network of Quality Assurance Agencies in Higher Education'ın tam üyesidir.İlgili dökümana <Link href="doc/CEENQA_Application_HEPDAK_Decision.pdf"><a><strong>buradan</strong></a></Link> ulaşabilirsiniz.</p><p><h6>HEPDAK Yönetim Kurulu</h6></p></div>
-              </div>
-              <div className="main-top-second">
-                <div className="main-top-second-title">Hemşirelik Haftası Kutlaması</div>
-                <div className="main-top-second-content"><p>Hemşireler, Covid-19 ile mücadele sürecinde en ön saflarda görev alarak hemşirelik mesleğinin tüm toplum için vazgeçilmez olduğunun kanıtladılar.</p><p>Tüm meslektaşlarımızın hemşirelik haftasını kutluyor, sağlıklı günler diliyoruz.</p><p><h6>HEPDAK Yönetim Kurulu</h6></p></div>
-              </div>
-              <div className="main-top-second">
-                <div className="main-top-second-title">YÖKAK Saha Ziyareti</div>
-                <div className="main-top-second-content"><p>Yüksek Öğretim Kalite Kurulu (YÖKAK), "Dış Değerlendirme ve Akreditasyon Kuruluşlarının Yetkilendirilmesi, Tanınması ve İzlenmesine İlişkin Kılavuz, 2019" kapsamında Kalite Değerlendirme Tescil Belgesi'ne sahip ulusal akreditasyon kuruluşları için 2020 yılından itibaren saha ziyareti uygulamasını başlatmıştır. Bu bağlamda, YÖKAK tarafından HEPDAK izleme yetkilisi olarak görevlendirilen YÖKAK Üyesi Prof. Dr. İlker Murat Ar, 17 Ocak 2020 tarihinde ofisimizde bir saha ziyareti gerçekleştirmiştir. Toplantıya, HEPDAK Yönetim Kurulu üyeleri yanı sıra, HEAK Başkanı ile bir HEAK üyesi ve bir HEPDAK değerlendiricisi olmak üzere toplam sekiz kişi katılmıştır. HEPDAK Başkanının yaptığı 2019 yılı faaliyetlerini içeren sunumun ardından izleme yetkilisi Prof. Dr. İlker Murat Ar, HEPDAK uygulamalarında güçlü ve geliştirmeye açık yönler konularında önerilerde bulunmuştur. Toplantı, katılımcılarla yapılan yararlı bir görüş alışverişiyle sona ermiştir.</p><p>HEPDAK Yönetim Kurulu, ilk kez yapılan izleme ziyaretini, akreditasyon süreçlerinin iyileştirilmesi açısından yol gösterici olarak değerlendirmiştir.</p></div>
-              </div>
             </div>
             <div id="ondokuz" className="container tab-pane fade">
               <div className="main-top-second">
@@ -334,14 +280,7 @@ const Anasayfa = () => (
         </div>
       </div>
     </div>
-  {/*
-    <div className="main-middle">
-      <div className="col-sm-12 col-md-12 covid-index">
-        <h2>HEMSİS</h2>
-        <Link href="http://hemsis.hepdak.org.tr/"><a target="_blank">Giriş için tıklayınız</a></Link>
-      </div>
-    </div>
-    */}
+  
     <div className="main-fast-akredite">
       <div className="fast-akredite-button col-md-4">
         <Link href="/doc/b1-basvuru-2021-2022.doc"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faCheck}/>Akreditasyon Başvurusu</button></a></Link>
@@ -363,60 +302,6 @@ const Anasayfa = () => (
       </div>
     </div>
     
-    {/*
-      <div className="col-sm-12 col-md-12 main-middle-duyuru">
-        <h4>HEPDAK Değerlendirici Eğitimi Çağrısı : 2021</h4>
-        <p>Değerli Hemşire Akademisyenler, HEPDAK, hemşirelik lisans eğitim programlarının akreditasyon sürecinde değerlendirme takımında görev alacak değerlendirici adayları aramaktadır. Değerlendirici olmak için HEPDAK değerlendirici eğitim programı çalıştayına katılmak ve tamamlamak gerekmektedir. HEPDAK, değerlendirici eğitimi, 10 - 12 Haziran 2021 tarihlerinde çevrimiçi olarak yapılacaktır. Koşulları sağladığınızdan emin olduktan sonra başvurularınızı, HEPDAK Akademisyen Değerlendirici Adayı Başvuru Formunu doldurarak <strong>1 Nisan 2021</strong> tarihine kadar <strong>hepdakegitim@gmail.com</strong> adresine yollamanız durumunda size en kısa sürede geri dönüş yapılacaktır.İlgili forma <Link href="doc/aday_formu.doc"><a>buradan</a></Link> ulaşabilirsiniz.</p>
-        <p>İlginize teşekkür ederiz.</p>
-        <h6>HEPDAK Yönetim Kurulu</h6>
-      </div>
-      
-      
-      <div className="col-sm-12 col-md-12 covid-index">
-        <Link href="/covid-19"><a>Covid-19 Haberleri</a></Link>
-      </div>
-      
-      <div className="col-sm-12 col-md-12">
-        <Link href="/doc/SABDEK_covid.pdf"><a><button className="main-top-button">SABDEK Uzaktan Eğitim Çalışmaları ve Yaz Okulu Açıklaması (02.07.2020)</button></a></Link>
-      </div>
-      */}
-    
-    
-    {/* 
-  <div className="main-bottom-title">Şikayet ve Öneriler</div>
-  This is a comment 
-  <div className="iletisim-mesaj">
-    <form action="" method="post" onSubmit={sendEmail}>
-      <div className="row">
-        <div className="col-md-4 col-sm-12">
-          <div className="form-group">
-            <label for="exampleInputEmail">Ad Soyad</label>
-            <input type="text" className="form-control form-control-sm" name="name"/>
-          </div>
-          <div className="form-group">
-            <label for="exampleInputEmail">Mail Adresiniz</label>
-            <input type="email" className="form-control form-control-sm" id="exampleInputEmail1" aria-describedby="emailHelp" name="mail"/>
-          </div>
-        </div>
-        <div className="col-md-4 col-sm-12">
-          <div className="form-group">
-            <label for="exampleFormControlTextarea1">Mesaj</label>
-            <textarea className="form-control" id="exampleFormControlTextarea1" rows="4" name="message"></textarea>
-          </div>
-        </div>
-        <div className="col-md-4 col-sm-12 iletisim-mesaj-logo">
-          <div><img className="main-bottom-tanınma" src="img/duyurular/YOKAK_tescil.png" title="Yükseköğretim Akademik Değerlendirme ve Kalite Geliştirme Komisyonu"/></div>
-          <div><img className="main-bottom-tanınma" src="img/duyurular/CEENQA_tescil.png" title="Yükseköğretim Akademik Değerlendirme ve Kalite Geliştirme Komisyonu"/></div>
-        </div>
-      </div>
-      <button type="submit" className="iletisim-button btn">Gönder</button>
-    </form>
-    <div className="col-md-4 col-sm-12 iletisim-mesaj-logo-mobil">
-      <div><img className="main-bottom-tanınma" src="img/duyurular/YOKAK_tescil.png" title="Yükseköğretim Akademik Değerlendirme ve Kalite Geliştirme Komisyonu"/></div>
-      <div><img className="main-bottom-tanınma" src="img/duyurular/CEENQA_tescil.png" title="Yükseköğretim Akademik Değerlendirme ve Kalite Geliştirme Komisyonu"/></div>
-    </div>
-  </div>
-  */}
     <div className="main-new">
       <div className="main-new-block col-md-4 col-sm-12">
         <div className="main-new-block-alt">
