@@ -69,7 +69,7 @@ const Anasayfa = () => (
                     <div className="main-top-one-content">HEPDAK tarafından 2022 yılı içinde yapılacak eğitim takvimine ulaşmak için tıklayınız.</div>
                   </a>
                 </div>
-                 <div className="carousel-item active">
+                 <div className="carousel-item">
                   <a href="/doc/2021_takvim.pdf" target="_blank">
                     <div className="main-top-one-title">HEPDAK 2021-2022 Dönemi Akreditasyon Takvimi</div>
                     <div className="main-top-one-content">HEPDAK 2021-2022 dönemi akreditasyon takvimine ulaşmak için tıklayınız.</div>
