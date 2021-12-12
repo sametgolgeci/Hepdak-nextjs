@@ -64,9 +64,15 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
-                  <a href="/doc/2022_takvim.pdf" target="_blank">
-                  <div className="main-top-one-title">HEPDAK 2022 Eğitim Takvimi</div>
-                  <div className="main-top-one-content">HEPDAK tarafından 2022 yılı içinde yapılacak eğitim takvimine ulaşmak için tıklayınız.</div>
+                  <a href="/doc/2022_egitim_takvim.pdf" target="_blank">
+                    <div className="main-top-one-title">HEPDAK 2022 Eğitim Takvimi</div>
+                    <div className="main-top-one-content">HEPDAK tarafından 2022 yılı içinde yapılacak eğitim takvimine ulaşmak için tıklayınız.</div>
+                  </a>
+                </div>
+                 <div className="carousel-item active">
+                  <a href="/doc/2021_takvim.pdf" target="_blank">
+                    <div className="main-top-one-title">HEPDAK 2021-2022 Dönemi Akreditasyon Takvimi</div>
+                    <div className="main-top-one-content">HEPDAK 2021-2022 dönemi akreditasyon takvimine ulaşmak için tıklayınız.</div>
                   </a>
                 </div>
                 <div className="carousel-item">
