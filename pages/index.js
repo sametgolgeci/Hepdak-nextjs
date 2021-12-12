@@ -63,11 +63,10 @@ const Anasayfa = () => (
           <div className="main-top-one">
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
-                
                 <div className="carousel-item active">
-                  <a href="/doc/2021_takvim.pdf" target="_blank">
-                  <div className="main-top-one-title">HEPDAK 2021-2022 Dönemi Akreditasyon Takvimi</div>
-                  <div className="main-top-one-content">HEPDAK 2021-2022 dönemi akreditasyon takvimine ulaşmak için tıklayınız.</div>
+                  <a href="/doc/2022_takvim.pdf" target="_blank">
+                  <div className="main-top-one-title">HEPDAK 2022 Eğitim Takvimi</div>
+                  <div className="main-top-one-content">HEPDAK tarafından 2022 yılı içinde yapılacak eğitim takvimine ulaşmak için tıklayınız.</div>
                   </a>
                 </div>
                 <div className="carousel-item">
@@ -415,6 +414,30 @@ const Anasayfa = () => (
           <div className="main-block-title">
             <div className="block-title-main">Son Etkinlikler</div>
             <div className="block-title-all"><a href="tum-etkinlikler">Tüm Etkinlikler</a></div>
+          </div>
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">15</div>
+              <div className="date-month">Ekim</div>
+              <div className="date-year">2022</div>
+            </div>
+            <div className="block-subtitle-text">Kurumlar İçin Eğitim Çalıştayı</div>
+          </div>
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">23-24</div>
+              <div className="date-month">Haziran</div>
+              <div className="date-year">2022</div>
+            </div>
+            <div className="block-subtitle-text">Değerlendirici Eğitim Çalıştayı</div>
+          </div>
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">05-06</div>
+              <div className="date-month">Şubat</div>
+              <div className="date-year">2022</div>
+            </div>
+            <div className="block-subtitle-text">Öğrenci Değerlendirici Eğitimi</div>
           </div>
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">

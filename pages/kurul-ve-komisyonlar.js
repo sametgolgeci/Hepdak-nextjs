@@ -72,6 +72,7 @@ const Kurul = () => (
 	    	<span className="madde-span">• Doç. Dr. Sergül Duygulu, Hacettepe Üniversitesi</span>
 	    	<span className="madde-span">• Doç. Dr. Fatoş Korkmaz, Hacettepe Üniversitesi</span>
 	    	<span className="madde-span">• Doç. Dr. Merlinda Aluş Tokat, Dokuz Eylül Üniversitesi</span>
+	    	<span className="madde-span">• Doç. Dr. İmatullah Akyar, Hacettepe Üniversitesi</span>
 	    	<span className="madde-span">• Dr. Öğ. Üyesi Nilay Özkütük, Ege Üniversitesi</span>
 
 	    	<h3 className="kurul-title">Yükseklisans Akreditasyonuna Hazırlık Komisyonu</h3>
