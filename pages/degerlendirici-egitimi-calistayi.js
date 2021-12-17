@@ -33,14 +33,9 @@ const Calistay = () => (
 			  <li className="nav-item">
 			    <a className="nav-link calistay-button" data-toggle="collapse" href="#collapseExampleFoto6" role="button" aria-expanded="false" aria-controls="collapseExampleFoto6">Fotoğraflar</a>
 			  </li>
-			{/*
 			  <li className="nav-item">
-			    <a className="nav-link calistay-button" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">Sunumlar</a>
+			    <a className="nav-link calistay-button" href="doc/degerlendirici_egitim_6/degerlendirme.pdf">Değerlendirme</a>
 			  </li>
-			  <li className="nav-item" disabled>
-			    <a className="nav-link calistay-button" href="doc/degerlendirici_egitim_5/degerlendirici_egitim_5_degerlendirme.pdf">Değerlendirme</a>
-			  </li>
-			  */}
 			</ul>
 		</p>
 	{/*
