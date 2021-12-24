@@ -8,6 +8,7 @@ const Ucretler = () => (
 	      <title>HEPDAK | Ücretler</title>
 	    </Head>
       <div className="genel"><h1>Ücretler</h1></div>
+    {/*
 	    <div className="row akreditasyon">
 	    	<div className="col-md-12 akreditasyon-content">
           <div id="ucretler" className="akreditasyon-content-item">         
@@ -138,6 +139,8 @@ const Ucretler = () => (
           </div>
 	    	</div>
 	    </div>
+      */}
+      <div className="update-page">2022-2023  Değerlendirme Dönemi Akreditasyon Ücretleri Güncellenmektedir.</div>
     </MasterPage>
 )
 export default Ucretler

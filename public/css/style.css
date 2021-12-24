@@ -1041,4 +1041,14 @@ table{
 	border-left: 4px solid white !important;
 }
 
-
+.update-page {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 24px;
+	font-weight: 800;
+	width: 100%;
+	height: 350px;
+	text-align: center;
+	padding: 16px;
+}

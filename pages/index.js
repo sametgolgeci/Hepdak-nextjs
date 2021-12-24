@@ -64,6 +64,10 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
+                  <div className="main-top-one-title">Duyuru</div>
+                  <div className="main-top-one-content">HEPDAK 2022 yılı başvuru ücretleri Ocak ayı içerisinde ilan edilecektir.</div>
+                </div>
+                <div className="carousel-item">
                   <a href="/doc/hepdak_toplanti_takvim_2022.pdf" target="_blank">
                     <div className="main-top-one-title">HEPDAK 2022 Yılı Toplantı Takvimi</div>
                     <div className="main-top-one-content">HEPDAK tarafından  2022 yılında yapılacak toplantıların tarihlerine  buradan ulaşabilirsiniz.</div>
