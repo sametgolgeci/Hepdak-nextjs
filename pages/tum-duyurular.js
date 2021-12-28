@@ -21,6 +21,10 @@ const Tum = () => (
           <div className="tab-content">
             <div id="yirmibir" className="container tab-pane active">
               <div className="main-top-second" id="akreditasyon">
+                <div className="main-top-second-title">INQAAHE Üyeliği Hakkında</div>
+                <div className="main-top-second-content">HEPDAK'ın, Yükseköğrenimde Uluslararası Kalite Güvence Ajansları Ağı olarak bilinen <strong>The International Network for Quality Assurance Agencies in Higher Education (INQAAHE)</strong>'a tam üyelik başvurusu kabul edilmiştir.</div>
+              </div>
+              <div className="main-top-second" id="akreditasyon">
                 <div className="main-top-second-title">HEPDAK 2021-2022 Dönemi Akreditasyon Takvimi</div>
                 <div className="main-top-second-content">HEPDAK 2021-2022 dönemi akreditasyon takvimine ulaşmak için <Link href="/doc/2021_takvim.pdf"><a target="_blank"><strong>tıklayınız</strong></a></Link>.</div>
               </div>

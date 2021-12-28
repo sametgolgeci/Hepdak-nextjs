@@ -56,6 +56,9 @@ const Anasayfa = () => (
           <li className="nav-item">
             <div><img className="main-bottom-tanınma" src="img/duyurular/CEENQA_tescil.png" title="Yükseköğretim Akademik Değerlendirme ve Kalite Geliştirme Komisyonu"/></div>
           </li>
+          <li className="nav-item">
+            <div><img className="main-bottom-tanınma" src="img/duyurular/INQAAHE_tescil.png" title="Yükseköğretim Akademik Değerlendirme ve Kalite Geliştirme Komisyonu"/></div>
+          </li>
         </ul>
       </div>
       <div className="tab-content">
@@ -383,6 +386,16 @@ const Anasayfa = () => (
             <div className="block-title-main">Son Duyurular</div>
             <div className="block-title-all"><a href="/tum-duyurular">Tüm Duyurular</a></div>
           </div>
+          <Link href="/duyurular/26-12-2021-INQAAHE-uyeligi-hakkinda">
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">26</div>
+              <div className="date-month">Aralık</div>
+              <div className="date-year">2021</div>
+            </div>
+            <div className="block-subtitle-text">INQAAHE Üyeliği Hakkında</div>
+          </div>
+          </Link>
           <Link href="/duyurular/15-06-2021-akreditasyon-takvimi">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">

@@ -144,9 +144,9 @@ table{
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
-	height: 398px;
 	margin-bottom: 0 !important;
 	padding-left: 0;
+	width: 100%;
 }
 .main-nav{
 	font-family: 'Roboto', sans-serif;

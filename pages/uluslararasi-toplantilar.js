@@ -13,9 +13,9 @@ const Calistay = () => (
 		<h6><span className="badge badge-custom">3</span> 19 Mayıs 2021 - CEENQA Toplantısı </h6>
 			<p className="madde-p">
 				<a href="/doc/uluslararasi-2/belge_1.pdf" target="_blank">1. 19 May 2021: Fifth bi-monthly CEENQA meeting</a><br/>
-				<a href="/doc/uluslararasi-2/belge_2.pdf" target="_blank">2. GESIQA</a><br/>
 			</p>
 		<h6><span className="badge badge-custom">2</span> CEENQA Çevrimiçi Değerlendirici Değişim Programı</h6>
+			<p><strong>- Sunumlar</strong></p>
 			<p className="madde-p">
 				<a href="/doc/uluslararasi-1/belge_1.pdf" target="_blank">1. CEENQA Online Staff Exchange Program</a><br/>
 				<a href="/doc/uluslararasi-1/belge_2.pdf" target="_blank">2. HEPDAK Association for Evaluation and Accreditation of Nursing Education Programs</a><br/>
@@ -26,6 +26,7 @@ const Calistay = () => (
 				<a href="/doc/uluslararasi-1/belge_7.pdf" target="_blank">7. Stakeholders AIC AIKA</a><br/>
 				<a href="/doc/uluslararasi-1/belge_8.pdf" target="_blank">8. Steps of assessment procedures AIC AIKA</a><br/>
 			</p>
+			<p><strong>- Fotoğraflar</strong></p>
 			<div className="container">
 				<div className="row">
 					<div className="col-md-3 col-sm-12"><a href="/doc/uluslararasi-1/foto-1.jpg" target="_blank"><img className="calistay-img" src="/doc/uluslararasi-1/foto-1.jpg"/></a></div>
@@ -45,7 +46,7 @@ const Calistay = () => (
 			</div>
 			<h6><span className="badge badge-custom">1</span> Uluslararası Çalışmalar </h6>
 			<p className="madde-p">
-				<a href="/doc/Uluslararasi_Calismalar.pdf.pdf" target="_blank">- HEPDAK’ın Üye Olduğu CEENQA İçindeki Faaliyetleri: 2020</a><br/>
+				<a href="/doc/Uluslararasi_Calismalar.pdf.pdf" target="_blank">1. HEPDAK’ın Üye Olduğu CEENQA İçindeki Faaliyetleri: 2020</a><br/>
 			</p>
 		{/*
 		<p>
