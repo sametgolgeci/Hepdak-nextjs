@@ -30,6 +30,9 @@ const Calistay = () => (
 			  <li className="nav-item">
 			    <a className="nav-link calistay-button" data-toggle="collapse" href="#collapseExampleFoto9" role="button" aria-expanded="false" aria-controls="collapseExampleFoto9">Fotoğraflar</a>
 			  </li>
+			  <li className="nav-item">
+			    <a className="nav-link calistay-button" href="doc/kurumlar_egitim_9/degerlendirme.pdf">Değerlendirme</a>
+			  </li>
 			</ul>
 		</p>
 		<div className="collapse" id="collapseDokuz">
