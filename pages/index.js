@@ -367,7 +367,7 @@ const Anasayfa = () => (
               <div className="date-month">Eylül</div>
               <div className="date-year">2021</div>
             </div>
-            <div className="block-subtitle-text">CEENQA Paylaşım Toplantısı - 7</div>
+            <div className="block-subtitle-text">CEENQA Paylaşım Toplantısı - 6</div>
           </div>
           </Link>
           <Link href="/haberler/11-10-2021-kurumlara-yonelik-egitim-calistayi">

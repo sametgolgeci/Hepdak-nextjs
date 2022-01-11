@@ -9,12 +9,13 @@ const Calistay = () => (
 	</Head>
 	<div className="row">
 		<div className="genel col-md-12 col-sm-12">
-		<h1>Uluslararası Toplantılar</h1>
-		<h6><span className="badge badge-custom">3</span> 19 Mayıs 2021 - CEENQA Toplantısı </h6>
+		<h1>Uluslararası Toplantılar ve Faaliyetler</h1>
+		<h4>- CEENQA Faaliyetleri</h4>
+		<h6><span className="badge badge-custom">-</span> 19 Mayıs 2021 - CEENQA Toplantısı </h6>
 			<p className="madde-p">
 				<a href="/doc/uluslararasi-2/belge_1.pdf" target="_blank">1. 19 May 2021: Fifth bi-monthly CEENQA meeting</a><br/>
 			</p>
-		<h6><span className="badge badge-custom">2</span> CEENQA Çevrimiçi Değerlendirici Değişim Programı</h6>
+		<h6><span className="badge badge-custom">-</span> CEENQA Çevrimiçi Değerlendirici Değişim Programı</h6>
 			<p><strong>- Sunumlar</strong></p>
 			<p className="madde-p">
 				<a href="/doc/uluslararasi-1/belge_1.pdf" target="_blank">1. CEENQA Online Staff Exchange Program</a><br/>
@@ -44,10 +45,13 @@ const Calistay = () => (
 					<div className="col-md-3 col-sm-12"><a href="/doc/uluslararasi-1/foto-13.jpg" target="_blank"><img className="calistay-img" src="/doc/uluslararasi-1/foto-13.jpg"/></a></div>
 				</div>
 			</div>
-			<h6><span className="badge badge-custom">1</span> Uluslararası Çalışmalar </h6>
+			<h6><span className="badge badge-custom">-</span> Uluslararası Çalışmalar </h6>
 			<p className="madde-p">
-				<a href="/doc/Uluslararasi_Calismalar.pdf.pdf" target="_blank">1. HEPDAK’ın Üye Olduğu CEENQA İçindeki Faaliyetleri: 2020</a><br/>
+				<a href="/doc/hepdak_sunumlari/belge_1.pdf" target="_blank">3. Prof.Dr. Ayla Bayık Temel - CEENQUA 2020 Aralık 2020 Bülten Yazısı</a><br/>
+				<a href="/doc/hepdak_sunumlari/belge_3.pdf" target="_blank">2. Prof.Dr. Ayla Bayık Temel - CEENQUA 2020 Temmuz Bülten Yazısı</a><br/>
+				<a href="/doc/Uluslararasi_Calismalar.pdf" target="_blank">1. HEPDAK’ın Üye Olduğu CEENQA İçindeki Faaliyetleri: 2020</a><br/>
 			</p>
+			<h4>- INQAAHE Faaliyetleri</h4>
 		{/*
 		<p>
 			<ul className="nav calistay-nav">

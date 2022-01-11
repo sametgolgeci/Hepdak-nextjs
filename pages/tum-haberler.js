@@ -56,7 +56,7 @@ const Tum = () => (
                 </div>
               </div>
               <div className="main-top-second" id="ceenqayedi">
-                <div className="main-top-second-title">CEENQA Paylaşım Toplantısı - 7</div>
+                <div className="main-top-second-title">CEENQA Paylaşım Toplantısı - 6</div>
                 <div className="main-top-second-content">
                   <p>Kalite güvencesi alanında CEENQA’ya üye ajansların kurumlarını ve faaliyetlerini tanıttığı, yenilikçi çalışmaların paylaşıldığı periyodik toplantıların yedincisi <strong>15 Eylül 2021</strong> gerçekleştirilmiştir. Çevrimiçi gerçekleştirilen toplantıya HEPDAK’ı temsilen Prof. Dr. Ayla BAYIK TEMEL, Doç. Dr. Sergül DUYGULU, Doç.Dr. Merlinda ALUŞ TOKAT ve Doç. Dr Fatoş KORKMAZ katılmıştır.</p>
                   <p>Toplantıda Stela Guvir,Moldova Cumhuriyeti eğitim ve Araştırma Kalite Güvenliği Ajansı (Ulusal National Agency for Quality Assurance in Education and Research, Republic of Moldova) (ANACIP-ANACEC) ile ilgili organizasyon yapısı, görevler, dış değerlendirme süreci ve standartları, uluslararası işbirliği ve tanınırlık, projeleri konusunda bilgiler vermiştir. Emita Blackdan, Hırvatistan Yüksek Öğrenim ve Bilim için Kalite Ajansı ve Kalite Güvenliği Sistemi (Croatian Agency for Science and Higher Education and QA System in Croatia) AZVO -ASHE ile ilgili olarak Hırvatistan’da yüksek öğretim sistemi, kalite güvenlik sistemi,faaliyetleri, misyon, vizyon ve stratejileri, pandemi sürecinde iş organizasyonu ve geleceğe yönelik planlamalar, uluslararası ilişkileri konusunda açıklamalar yapmıştır.</p>
@@ -82,7 +82,7 @@ const Tum = () => (
                 </div>
               </div>
               <div className="main-top-second">
-                <div className="main-top-second-title">CEENQA Paylaşım Toplantısı - 6</div>
+                <div className="main-top-second-title">CEENQA Paylaşım Toplantısı - 5</div>
                 <div className="main-top-second-content">Kalite güvencesi alanında CEENQA’ya üye ajansların kurumlarını, faaliyetlerini tanıttığı ve yenilikçi çalışmaların periodik olarak paylaşıldığı altıncı topplantı 21 Temmuz 2021 tarihinde çevrimiçi olarak gerçekleştirildi.HEPDAK’ı temsilen bu online toplantıya Prof. Dr. Ayla Bayık Temel, Doç. Dr. Sergül Duygulu, Doç. Dr Fatoş Korkmaz ve Doç. Dr. Merlinda Aluş Tokat katılmışlardır. Bu toplantıda Doç. Dr. Sergül Duygulu HEPDAK’IN misyonu, amaçları, değerleri, yapısı program değerlendirme süreçleri, standartları ve geleceğe yönelik planlarını açıklamıştır. Nataliia Stukalo Ukrayna ‘daYüksek Öğrenimde Kalite Güvenliği konulu sunumunda; NAQA ajansının misyonu, amaçları, Ukrayna’da yüksek öğrenim, ajansın üyelikleri, Covid 19 pandemi sürecinde faaliyetler ve ülkeler arası faaliyetleri hakkından açıklamalar yapmıştır. Prof. Dr. Ayla Bayık Temel uzaktan değerlendirme ve uzaktan ziyaretler açısından iyi uygulama örneği olarak HEPDAK’ın değerlendirmeciler için düzenlediği uzaktan eğitim çalıştayı hakkında bilgiler vermiştir.</div>
                 <div className="main-top-second-content"><a href="/doc/ceenqa-6/sunum-1.pdf" target="_blank">- Prof. Dr. Ayla Bayık Temel CEENQA Sunumu</a></div>
                 <div className="main-top-second-content"><a href="/doc/ceenqa-6/sunum-2.pdf" target="_blank">- Doç. Dr. Sergül Duygulu CEENQA Sunumu</a></div>
