@@ -57,7 +57,7 @@ const Belgeler = () => (
               <tbody>
                 <tr>
                   <th scope="row" width="10px">1</th>
-                  <td><p>HEPDAK 2021-2022 Dönemi Program Değerlendirme Başvuru Formu <Link href="doc/b1-basvuru-2022-2023.doc"><a>Word</a></Link></p></td>
+                  <td><p>HEPDAK Program Değerlendirme Başvuru Formu <Link href="doc/b1-basvuru-2022-2023.doc"><a>Word</a></Link></p></td>
                 </tr>
                 <tr>
                   <th scope="row">2</th>
@@ -101,7 +101,7 @@ const Belgeler = () => (
                 </tr>
                 <tr>
                   <th scope="row">12</th>
-                  <td>HEPDAK Öğrenci Değerlendirici Raporu <Link href="doc/b12_v1.pdf"><a>Sürüm 1.0</a></Link> | <strong>Sürüm 2.0</strong> (<Link href="doc/b12_v2.pdf"><a>PDF</a></Link> | <Link href="doc/b12_v2.doc"><a>Word</a></Link>) | <strong>Sürüm 3.0</strong> (<Link href="doc/b12_v3.pdf"><a>PDF</a></Link> | <Link href="doc/b12_v3.doc"><a>Word</a></Link>) | <strong>Sürüm 4.0</strong> (<Link href="doc/b12_v4.pdf"><a>PDF</a></Link> | <Link href="doc/b12_v4.doc"><a>Word</a></Link>)</td>
+                  <td>HEPDAK Öğrenci Değerlendirici Raporu <Link href="doc/b12_v1.pdf"><a>Sürüm 1.0</a></Link> | <strong>Sürüm 2.0</strong> (<Link href="doc/b12_v2.pdf"><a>PDF</a></Link> | <Link href="doc/b12_v2.doc"><a>Word</a></Link>) | <strong>Sürüm 3.0</strong> (<Link href="doc/b12_v3.pdf"><a>PDF</a></Link> | <Link href="doc/b12_v3.doc"><a>Word</a></Link>) | <Link href="doc/b12_v4.pdf"><a>Sürüm 4.0</a></Link></td>
                 </tr>
                 <tr>
                   <th scope="row">13</th>

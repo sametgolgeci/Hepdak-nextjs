@@ -17,6 +17,9 @@ const Tum = () => (
             <li className="nav-item">
               <a className="nav-link main-second-nav-item " data-toggle="pill" href="#yirmi">2020</a>
             </li>
+            <li className="nav-item">
+              <a className="nav-link main-second-nav-item " data-toggle="pill" href="#ondokuz">2019</a>
+            </li>
           </ul>
           <div className="tab-content">
             <div id="yirmibir" className="container tab-pane active">
@@ -283,6 +286,20 @@ const Tum = () => (
               <div className="main-top-second">
                 <div className="main-top-second-title">CEENQA Üyeliği Hakkında</div>
                 <div className="main-top-second-content"><p>HEPDAK, 15 Mayıs 2020 tarihinden itibaren CEENQA - Central and Eastern European Network of Quality Assurance Agencies in Higher Education'ın tam üyesidir.İlgili dökümana <Link href="doc/CEENQA_Application_HEPDAK_Decision.pdf"><a><strong>buradan</strong></a></Link> ulaşabilirsiniz.</p></div>
+              </div>
+            </div>
+            <div id="ondokuz" className="container tab-pane fade">     
+              <div className="main-top-second">
+                <div className="main-top-second-title">Kurumlara Yönelik Eğitim Çalıştayı</div>
+                <div className="main-top-second-content">Hemşirelik Lisans Eğitimi Veren Yükseköğretim Kurumlarına Yönelik Eğitim Çalıştayı 1 Aralık 2018 Cumartesi günü Anemon Ege Otel (İzmir)'de gerçekleştirilecektir. Çalıştay programına <Link href="doc/kurumlar-icin-egitim-calistayi-1aralik-2018-programi_v2.pdf"><a><strong>buradan</strong></a></Link> ulaşabilirsiniz.</div>
+              </div>
+              <div className="main-top-second">
+                <div className="main-top-second-title">CEENQUA'da Sempozyum Haberimiz</div>
+                <div className="main-top-second-content">CEENQUA'nın Temmuz haber bülteninde HEPDAK&HEMED birlikteliği ile gerçekleştirilen sempozyum haberimiz yer aldı. Habere <Link href="doc/8_1_july_2018.pdf"><a><strong>buradan</strong></a></Link> ulaşabilirsiniz.</div>
+              </div>
+              <div className="main-top-second">
+                <div className="main-top-second-title">Hemşirelik Eğitiminin Geleceği: 19-20 Haziran 2018 Akreditasyon, Standartlar, İyi Uygulama Örnekleri</div>
+                <div className="main-top-second-content"><p>Bilimsel Program, Kayıt & Konaklama, Davet tüm bilgileri <a href="http://www.hemsirelikegitiminingelecegi.com"><strong>buradan</strong></a> erişebilirsiniz.</p> <h6>Sempozyum Yeri ve İletişim</h6><p>Ege Üniversitesi Hemşirelik Fakültesi<br/>Yasemin Şimşek<br/>Dalya Turizm, Kazım Dirik Mah. 372/8 Sk. No:1 Bornova-İzmir, TÜRKİYE<br/>+90 232 464 88 30<br/>yasemin@dalyatur.com</p></div>
               </div>
             </div>
           </div>
