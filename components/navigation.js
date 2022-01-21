@@ -9,7 +9,7 @@ const Navigation = () => (
 					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">KURUMSAL</a>
 					<div className="dropdown-menu">
 						<Link href="/misyon-vizyon"><a className="dropdown-item">Misyon, Vizyon</a></Link>
-						<Link href="/doc/hepdak_stratejik_plan_2020.pdf"><a className="dropdown-item">Stratejik Plan</a></Link>
+						<Link href="/doc/hepdak_stratejik_plan.pdf"><a className="dropdown-item">Stratejik Plan</a></Link>
 						<Link href="/amac-ve-faaliyetler"><a className="dropdown-item">Amaç ve Faaliyetler</a></Link>
 						<Link href="/kalite-politikasi"><a className="dropdown-item">Kalite Politikası</a></Link>
 						<Link href="/doc/hepdak_org_sema.pdf"><a className="dropdown-item">HEPDAK Organizasyon Şeması</a></Link>
