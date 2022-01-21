@@ -12,29 +12,41 @@ const Kaynak = () => (
               <table className="table table-striped">
                 <tbody>
                   <tr>
-                    <th scope="row">6</th>
-                    <td><Link href="doc/hepdak_sunumlari/belge_6.pdf"><a target="_blank">Doç. Dr. Dilek Özmen - EPDAD Kongre Sunumu (05.06.2021)</a></Link></td>
+                    <td><Link href="doc/hepdak_sunumlari/Prof.Dr.GulserenKocaman-YuksekogretimdeKaliteKulturu.pdf"><a target="_blank">- Prof. Dr. Gülseren Kocaman - Yükseköğretimde Kalite Kültürü (27 Kasım 2021)</a></Link></td>
                   </tr>
                   <tr>
-                    <th scope="row">5</th>
-                    <td><Link href="doc/hepdak_sunumlari/belge_5.pdf"><a target="_blank">Doç. Dr. Şenay Ünsal Atan - Hemşirelik Haftası Etkinliği (12.05.2021)</a></Link></td>
+                    <td><Link href="doc/hepdak_sunumlari/Prof.Dr.GulserenKocaman-HemsirelikEgitimindeAkreditasyon.pdf"><a target="_blank">- Prof. Dr. Gülseren Kocaman - Hemşirelik Eğitiminde Akreditasyon (17 Kasım 2021)</a></Link></td>
+                  </tr>  
+                  <tr>
+                    <td><Link href="doc/hepdak_sunumlari/Prof.Dr.AylaBayikTemel-HEPDAK’SExperiences.pdf"><a target="_blank">- Prof. Dr. Ayla Bayık Temel - HEPDAK’S Experiences with Virtual Training Workshops (21 Temmuz 2021)</a></Link></td>
                   </tr>
                   <tr>
-                    <th scope="row">4</th>
-                    <td><Link href="doc/hepdak_sunumlari/belge_4.pdf"><a target="_blank">Prof. Dr. Gülseren Kocaman - Pandemide Hemşirelik Eğitim Programlarının Akreditasyonu</a></Link></td>
+                    <td><Link href="doc/hepdak_sunumlari/Doc.Dr.SergulDuygulu-PresentationofHEPDAK.pdf"><a target="_blank">- Doç. Dr. Sergül Duygulu - Presentation of HEPDAK (21 Temmuz 2021)</a></Link></td>
                   </tr>
                   <tr>
-                    <th scope="row">3</th>
-                    <td><Link href="doc/hepdak_sunumlari/belge_3.pdf"><a target="_blank">Prof. Dr. Ayla Bayık - HEPDAK Short Presentation - General Assambly</a></Link></td>
+                    <td><Link href="doc/hepdak_sunumlari/belge_6.pdf"><a target="_blank">- Doç. Dr. Dilek Özmen - EPDAD Kongre Sunumu (05 Haziran 2021)</a></Link></td>
                   </tr>
                   <tr>
-                    <th scope="row">2</th>
-                    <td><Link href="doc/hepdak_sunumlari/belge_2.pdf"><a target="_blank">Prof. Dr. Gülseren Kocaman - EPDAD IV Uluslararası Öğretmen Eğitimi ve Akreditasyon Kongresi Sunumu (19.12.2020)</a></Link></td>
+                    <td><Link href="doc/hepdak_sunumlari/Prof.Dr.AylaBayikTemel-19.UlusalHemsirelikOgrencileriKongresiSunumu.pdf"><a target="_blank">- Prof. Dr. Ayla Bayık Temel - 19. Ulusal Hemşirelik Öğrencileri Kongresi Sunumu (04 Haziran 2021)</a></Link></td>
                   </tr>
                   <tr>
-                    <th scope="row" width="10px">1</th>
-                    <td><Link href="doc/hepdak_sunumlari/belge_1.pdf"><a target="_blank">Prof. Dr. Ayla Bayık - CEENQA Aralık 2020 Bülten Yazısı</a></Link></td>
+                    <td><Link href="doc/hepdak_sunumlari/belge_4.pdf"><a target="_blank">- Prof. Dr. Gülseren Kocaman - Pandemide Hemşirelik Eğitim Programlarının Akreditasyonu (28 Mayıs 2021)</a></Link></td>
                   </tr>
+                  <tr>
+                    <td><Link href="doc/hepdak_sunumlari/belge_5.pdf"><a target="_blank">- Doç. Dr. Şenay Ünsal Atan - Hemşirelik Haftası Etkinliği (12 Mayıs 2021)</a></Link></td>
+                  </tr>
+                  <tr>
+                    <td><Link href="doc/hepdak_sunumlari/Prof.Dr.AylaBayikTemel-HEPDAKResponsetoCOVID-19Pandemic.pdf"><a target="_blank">- Prof. Dr. Ayla Bayık Temel - HEPDAK Response to COVID-19 Pandemic (28 Nisan 2021)</a></Link></td>
+                  </tr>
+                  <tr>
+                    <td><Link href="doc/hepdak_sunumlari/Doc.Dr.SergulDuygulu-HEPDAK-AIC.pdf"><a target="_blank">- Doç. Dr. Sergül Duygulu - HEPDAK - AIC Staff Exchange Program (27-28 Nisan 2021)</a></Link></td>
+                  </tr>
+                  <tr>
+                    <td><Link href="doc/hepdak_sunumlari/Doc.Dr.FatosKorkmaz-CouncilofHigherEducation.pdf"><a target="_blank">- Doç. Dr. Fatoş Korkmaz - Council of Higher Education (27 Nisan 2021)</a></Link></td>
+                  </tr>
+                  <tr>
+                    <td><Link href="doc/hepdak_sunumlari/belge_2.pdf"><a target="_blank">- Prof. Dr. Gülseren Kocaman - EPDAD IV Uluslararası Öğretmen Eğitimi ve Akreditasyon Kongresi Sunumu (19 Aralık 2020)</a></Link></td>
+                  </tr>                 
                 </tbody>
               </table>
             </div>

@@ -43,8 +43,9 @@ const Iletisim = () => (
 		</div>
 		<div className="col-md-5 col-sm-12 iletisim iletisim-info">
 			<p><strong>Başkan</strong><br/>Prof. Dr. Gülseren KOCAMAN<br/><Link href="mailto:gulseren.kocaman@gmail.com"><a>gulseren.kocaman@gmail.com</a></Link></p>
-			<p><strong>Genel Sekreter</strong><br/>Ümran Yalçın<br/><Link href="mailto:hepdak2013@gmail.com"><a>hepdak2013@gmail.com</a></Link></p>
+			<p><strong>Genel Sekreter</strong><br/>Doç. Dr. Dilek ÖZMEN<br/><Link href="mailto:ozmendilek@yahoo.com"><a>ozmendilek@yahoo.com</a></Link></p>
 			<p><strong>Sayman</strong><br/>Doç. Dr. Şenay Ünsal ATAN<br/><Link href="mailto:senay.unsal.atan@gmail.com"><a>senay.unsal.atan@gmail.com</a></Link></p>
+			<p><strong>Sekreter</strong><br/>Ümran Yalçın<br/><Link href="mailto:hepdak2013@gmail.com"><a>hepdak2013@gmail.com</a></Link></p>
 		</div>
 	</div>
 	
