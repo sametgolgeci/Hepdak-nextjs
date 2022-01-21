@@ -12,7 +12,7 @@ const Kurul = () => (
 	    	<h3 className="kurul-title">HEPDAK Yönetim Kurulu</h3>
 	    	<span className="madde-span">• Prof. Dr. Gülseren Kocaman (Başkan), Emekli Öğretim Üyesi</span>
 	    	<span className="madde-span">• Prof. Dr. Ayla Bayık Temel (Başkan Yardımcısı), Emekli Öğretim Üyesi</span>
-	    	<span className="madde-span">• Doç. Dr. Dilek Özmen (Sekreter), Manisa Celal Bayar Üniversitesi</span>
+	    	<span className="madde-span">• Doç. Dr. Dilek Özmen (Genel Sekreter), Manisa Celal Bayar Üniversitesi</span>
 	    	<span className="madde-span">• Doç. Dr. Şenay Ünsal (Sayman), Ege Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Ayten Zaybak (Üye), Ege Üniversitesi</span>
 	    	<h3 className="kurul-title">HEPDAK Denetleme Kurulu</h3>

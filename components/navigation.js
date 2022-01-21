@@ -66,7 +66,6 @@ const Navigation = () => (
 						<Link href="/webinar"><a className="dropdown-item">Webinarlar</a></Link>
 						<Link href="/sempozyumlar"><a className="dropdown-item">Sempozyumlar</a></Link>
 						<Link href="/egitim-etkinlikleri"><a className="dropdown-item">Eğitim Etkinlikleri</a></Link>
-						<Link href="/cagrili-konusmalar"><a className="dropdown-item">Çağrılı Konuşmalar</a></Link>
 					</div>
 				</li>
 	      <li className="nav-item dropdown">
