@@ -67,6 +67,12 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
+                  <Link href="/doc/ogrenci_egitim_5/program.pdf"><a target="_blank">
+                    <div className="main-top-one-title">Duyuru</div>
+                    <div className="main-top-one-content">Öğrenci Değerlendirici Eğitim programı çevrimiçi olarak 5-6 Şubat 2022 tarihinde yürütülecektir. Programa buradan ulaşabilirsiniz.</div>
+                  </a></Link>
+                </div>
+                <div className="carousel-item">
                   <Link href="/ucretler"><a target="_blank">
                     <div className="main-top-one-title">Duyuru</div>
                     <div className="main-top-one-content">2022-2023 Değerlendirme Dönemi Akreditasyon Ücretleri Güncellenmiştir.</div>
