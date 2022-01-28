@@ -12,8 +12,8 @@ const Kurul = () => (
 	    	<h3 className="kurul-title">HEPDAK Yönetim Kurulu</h3>
 	    	<span className="madde-span">• Prof. Dr. Gülseren Kocaman (Başkan), Emekli Öğretim Üyesi</span>
 	    	<span className="madde-span">• Prof. Dr. Ayla Bayık Temel (Başkan Yardımcısı), Emekli Öğretim Üyesi</span>
-	    	<span className="madde-span">• Doç. Dr. Dilek Özmen (Genel Sekreter), Manisa Celal Bayar Üniversitesi</span>
-	    	<span className="madde-span">• Doç. Dr. Şenay Ünsal (Sayman), Ege Üniversitesi</span>
+	    	<span className="madde-span">• Prof. Dr. Dilek Özmen (Genel Sekreter), Manisa Celal Bayar Üniversitesi</span>
+	    	<span className="madde-span">• Prof. Dr. Şenay Ünsal (Sayman), Ege Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Ayten Zaybak (Üye), Ege Üniversitesi</span>
 	    	<h3 className="kurul-title">HEPDAK Denetleme Kurulu</h3>
 	    	<span className="madde-span">• Doç. Dr. Fatma Orgun, Ege Üniversitesi</span>
@@ -48,14 +48,14 @@ const Kurul = () => (
 	    	<h3 className="kurul-title">Program Değerlendirme ve İzleme Komisyonu (PDİK)</h3>
 	    	<span className="madde-span">• Prof. Dr. Ayla Bayık Temel (Başkan), Ege Üniversitesi</span>
 	    	<span className="madde-span">• Dr. Öğ. Üyesi Serap Sökmen (Başkan Yard. - Sekreter), Erzincan Üniversitesi</span>
-	    	<span className="madde-span">• Doç. Dr. Dilek Özmen, Manisa Celal Bayar Üniversitesi</span>
+	    	<span className="madde-span">• Prof. Dr. Dilek Özmen, Manisa Celal Bayar Üniversitesi</span>
 	    	<span className="madde-span">• Doç. Dr. Aklime Sarıkaya, Sebahattin Zaim Üniversitesi</span>
 	    	<span className="madde-span">• Öğ. Gör. Dr. Yasin Çetin, Adıyaman Üniversitesi</span>
 	    	<span className="madde-span">• <strong>Öğrenci:</strong> Şerife Cingiz, Akdeniz Üniversitesi</span>
 
 	    	<h3 className="kurul-title">Eğitim Komisyonu (EK)</h3>
 	    	<span className="madde-span">• Prof. Dr. Ayten Zaybak (Başkan), Ege Üniversitesi</span>
-	    	<span className="madde-span">• Doç. Dr. Şenay Ünsal (Başkan Yard. - Sekreter), Ege Üniversitesi</span>
+	    	<span className="madde-span">• Prof. Dr. Şenay Ünsal (Başkan Yard. - Sekreter), Ege Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Ayla Keçeci, Düzce Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Hülya Okumuş, Dokuz Eylül Üniversitesi</span>
 	    	<span className="madde-span">• Doç. Dr. Salime Mucuk, Erciyes Üniversitesi</span>

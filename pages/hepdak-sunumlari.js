@@ -24,7 +24,7 @@ const Kaynak = () => (
                     <td><Link href="doc/hepdak_sunumlari/Doc.Dr.SergulDuygulu-PresentationofHEPDAK.pdf"><a target="_blank">- Doç. Dr. Sergül Duygulu - Presentation of HEPDAK (21 Temmuz 2021)</a></Link></td>
                   </tr>
                   <tr>
-                    <td><Link href="doc/hepdak_sunumlari/belge_6.pdf"><a target="_blank">- Doç. Dr. Dilek Özmen - EPDAD Kongre Sunumu (05 Haziran 2021)</a></Link></td>
+                    <td><Link href="doc/hepdak_sunumlari/belge_6.pdf"><a target="_blank">- Prof. Dr. Dilek Özmen - EPDAD Kongre Sunumu (05 Haziran 2021)</a></Link></td>
                   </tr>
                   <tr>
                     <td><Link href="doc/hepdak_sunumlari/Prof.Dr.AylaBayikTemel-19.UlusalHemsirelikOgrencileriKongresiSunumu.pdf"><a target="_blank">- Prof. Dr. Ayla Bayık Temel - 19. Ulusal Hemşirelik Öğrencileri Kongresi Sunumu (04 Haziran 2021)</a></Link></td>
@@ -33,7 +33,7 @@ const Kaynak = () => (
                     <td><Link href="doc/hepdak_sunumlari/belge_4.pdf"><a target="_blank">- Prof. Dr. Gülseren Kocaman - Pandemide Hemşirelik Eğitim Programlarının Akreditasyonu (28 Mayıs 2021)</a></Link></td>
                   </tr>
                   <tr>
-                    <td><Link href="doc/hepdak_sunumlari/belge_5.pdf"><a target="_blank">- Doç. Dr. Şenay Ünsal Atan - Hemşirelik Haftası Etkinliği (12 Mayıs 2021)</a></Link></td>
+                    <td><Link href="doc/hepdak_sunumlari/belge_5.pdf"><a target="_blank">- Prof. Dr. Şenay Ünsal Atan - Hemşirelik Haftası Etkinliği (12 Mayıs 2021)</a></Link></td>
                   </tr>
                   <tr>
                     <td><Link href="doc/hepdak_sunumlari/Prof.Dr.AylaBayikTemel-HEPDAKResponsetoCOVID-19Pandemic.pdf"><a target="_blank">- Prof. Dr. Ayla Bayık Temel - HEPDAK Response to COVID-19 Pandemic (28 Nisan 2021)</a></Link></td>
