@@ -65,7 +65,7 @@ const Kurul = () => (
 	    	<span className="madde-span">• Uzm. Hem. Serap İleri, Dokuz Eylül Üniversitesi Hastanesi</span>
 	    	<span className="madde-span">• Dr. Öğ. Üyesi Hale Sezer, Bakırçay Üniversitesi</span>
 
-	    	<h3 className="kurul-title">Uluslararası Dış Değerlendirme Çalışma Grubu</h3>
+	    	<h3 className="kurul-title">Uluslararası İlişkiler Komisyonu</h3>
 	    	<span className="madde-span">• Prof. Dr. İnci Erefe (Başkan), Ege Üniversitesi, Emekli</span>
 	    	<span className="madde-span">• Prof. Dr. Ayla Bayık Temel, Emekli Öğretim Üyesi</span>
 	    	<span className="madde-span">• Ayhan Lash Professor, Northern Illinois Üniversitesi Emekli Öğretim Üyesi</span>

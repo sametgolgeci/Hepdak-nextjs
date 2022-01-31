@@ -15,7 +15,7 @@ const Webinar = () => (
 	    </div>
 	    <div className="webinar-bottom">
 	    	<iframe width="560" height="315" src="https://www.youtube.com/embed/lk88f6wosCg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	    	<div className="webinar-bottom-title">- Avustralya Hemşirelik ve Ebelik Akreditasyon Derneği ve Hemşirelik Okullarının Yükümlülükleri -</div>
+	    	<div className="webinar-bottom-title">Avustralya Hemşirelik ve Ebelik Akreditasyon Derneği ve Hemşirelik Okullarının Yükümlülükleri (13 Mart 2021)</div>
 	 {/*
 		  	<Link href="/doc/webinar/webinar-1.pptx"><a target="_blank">
 		  		<img src="/doc/webinar/webinar-1.png" alt=""/>
