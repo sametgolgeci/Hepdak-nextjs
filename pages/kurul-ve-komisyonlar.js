@@ -13,7 +13,7 @@ const Kurul = () => (
 	    	<span className="madde-span">• Prof. Dr. Gülseren Kocaman (Başkan), Emekli Öğretim Üyesi</span>
 	    	<span className="madde-span">• Prof. Dr. Ayla Bayık Temel (Başkan Yardımcısı), Emekli Öğretim Üyesi</span>
 	    	<span className="madde-span">• Prof. Dr. Dilek Özmen (Genel Sekreter), Manisa Celal Bayar Üniversitesi</span>
-	    	<span className="madde-span">• Prof. Dr. Şenay Ünsal (Sayman), Ege Üniversitesi</span>
+	    	<span className="madde-span">• Prof. Dr. Şenay Ünsal Atan (Sayman), Ege Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Ayten Zaybak (Üye), Ege Üniversitesi</span>
 	    	<h3 className="kurul-title">HEPDAK Denetleme Kurulu</h3>
 	    	<span className="madde-span">• Doç. Dr. Fatma Orgun, Ege Üniversitesi</span>
@@ -21,7 +21,7 @@ const Kurul = () => (
 	    	<span className="madde-span">• Uzm. Hem. Serap İleri, Dokuz Eylül Üniversitesi Hastanesi</span>
 	    	<h3 className="kurul-title">Hemşirelik Eğitim Programları Akreditasyon Kurulu (HEAK)</h3>
 	    	<span className="madde-span">• Prof. Dr. Gülseren Kocaman (Başkan), Emekli Öğretim Üyesi</span>
-	    	<span className="madde-span">• Prof. Dr. Ümit Seviğ, Yakın Doğu Üniversitesi</span>
+	    	<span className="madde-span">• Prof. Dr. Ümit Seviğ, Emekli Öğretim Üyesi</span>
 	    	<span className="madde-span">• Prof. Dr. Sevgi Hatipoğlu, Karatay Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Kadriye Buldukoğlu, Akdeniz Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Ayla Bayık Temel, Emekli Öğretim Üyesi</span>
@@ -55,7 +55,7 @@ const Kurul = () => (
 
 	    	<h3 className="kurul-title">Eğitim Komisyonu (EK)</h3>
 	    	<span className="madde-span">• Prof. Dr. Ayten Zaybak (Başkan), Ege Üniversitesi</span>
-	    	<span className="madde-span">• Prof. Dr. Şenay Ünsal (Başkan Yard. - Sekreter), Ege Üniversitesi</span>
+	    	<span className="madde-span">• Prof. Dr. Şenay Ünsal Atan (Başkan Yard. - Sekreter), Ege Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Ayla Keçeci, Düzce Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Hülya Okumuş, Dokuz Eylül Üniversitesi</span>
 	    	<span className="madde-span">• Doç. Dr. Salime Mucuk, Erciyes Üniversitesi</span>
@@ -81,7 +81,7 @@ const Kurul = () => (
 	    	<span className="madde-span">• Ayhan Lash Professor, Northern Illinois Üniversitesi Emekli Öğretim Üyesi</span>
 	    	<span className="madde-span">• Prof. Dr. Oya Kavlak, Ege Üniversitesi</span>
 	    	<span className="madde-span">• Doç. Dr. Gülengün Türk, Adnan Menderes Üniversitesi</span>
-	    	<span className="madde-span">• Ar. Gör. Hatice Çamveren, Ege Üniversitesi</span>
+	    	<span className="madde-span">• Ar. Gör. Hatice Çamveren, Kütahya Dumlupınar Üniversitesi</span>
 	    </div>
     </MasterPage>
 )

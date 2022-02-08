@@ -15,6 +15,7 @@ const Navigation = () => (
 						<Link href="/doc/hepdak_org_sema.pdf"><a className="dropdown-item">HEPDAK Organizasyon Şeması</a></Link>
 						<Link href="/kurul-ve-komisyonlar"><a className="dropdown-item">Kurul ve Komisyonlar</a></Link>
 						<Link href="/uye-listesi"><a className="dropdown-item">Üye Listesi</a></Link>
+						<Link href="/idari-personel"><a className="dropdown-item">İdari Personel</a></Link>
 						<Link href="/tescil-yazilari"><a className="dropdown-item">Tescil Yazıları</a></Link>
 			      <Link href="/dernek-belgeleri"><a className="dropdown-item">Dernek Belgeleri</a></Link>
 					</div>
