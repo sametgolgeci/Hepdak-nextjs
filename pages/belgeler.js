@@ -130,23 +130,31 @@ const Belgeler = () => (
               <tbody>
                 <tr>
                   <th scope="row" width="10px">1</th>
-                  <td>HEPDAK Akreditasyon Süreci Akış Şeması <Link href="doc/d1_v1.pdf"><a>Sürüm 1.0</a></Link></td>
+                  <td>HEPDAK Akreditasyon Süreci Akış Şeması <Link href="doc/d1_v1.pdf"><a>Sürüm 1.0</a></Link> | <strong>Sürüm 1.1</strong> (<Link href="doc/d1_v1_1.pdf"><a>PDF</a></Link> | <Link href="doc/d1_v1_1.docx"><a>Word</a></Link>)</td>
                 </tr>
                 <tr>
                   <th scope="row">2</th>
-                  <td>Genel Değerlendirme - Ziyaret Öncesi Süreçler - Akış <Link href="doc/d2_v1.pdf"><a>Sürüm 1.0</a></Link></td>
+                  <td>Genel Değerlendirme - Ziyaret Öncesi Süreçler - Akış <Link href="doc/d2_v1.pdf"><a>Sürüm 1.0</a></Link> | <strong>Sürüm 2.0</strong> (<Link href="doc/d2_v2.pdf"><a>PDF</a></Link> | <Link href="doc/d2_v2.docx"><a>Word</a></Link>)</td>
                 </tr>
                 <tr>
                   <th scope="row">3</th>
-                  <td>Genel Değerlendirme - Ziyaret Sırasındaki Süreçler - İş Akışı <Link href="doc/d3_v1.pdf"><a>Sürüm 1.0</a></Link></td>
+                  <td>Genel Değerlendirme - Ziyaret Sırasındaki Süreçler - İş Akışı <Link href="doc/d3_v1.pdf"><a>Sürüm 1.0</a></Link> | <strong>Sürüm 2.0</strong> (<Link href="doc/d3_v2.pdf"><a>PDF</a></Link> | <Link href="doc/d3_v2.docx"><a>Word</a></Link>)</td>
                 </tr>
                 <tr>
                   <th scope="row">4</th>
-                  <td>Genel Değerlendirme Kontrol Listesi <Link href="doc/d4_v1.pdf"><a>Sürüm 1.0</a></Link></td>
+                  <td>Genel Değerlendirme Kontrol Listesi <Link href="doc/d4_v1.pdf"><a>Sürüm 1.0</a></Link> | <strong>Sürüm 2.0</strong> (<Link href="doc/d4_v2.pdf"><a>PDF</a></Link> | <Link href="doc/d4_v2.docx"><a>Word</a></Link>)</td>
                 </tr>
                 <tr>
                   <th scope="row">5</th>
                   <td>HEPDAK Tutarlılık Süreci <Link href="doc/d5_v1.pdf"><a>Sürüm 1.0</a></Link></td>
+                </tr>
+                <tr>
+                  <th scope="row">6</th>
+                  <td>HEPDAK Öğrenci Değerlendirici Genel İşler Kontrol Listesi <strong>Sürüm 1.0</strong> (<Link href="doc/d6_v1.pdf"><a>PDF</a></Link> | <Link href="doc/d6_v1.docx"><a>Word</a></Link>)</td>
+                </tr>
+                <tr>
+                  <th scope="row">7</th>
+                  <td>HEPDAK Öğrenci Değerlendirici Yerinde Ziyaret Takvimi  <Link href="doc/d7_v1.pdf"><a>Sürüm 1.0</a></Link></td>
                 </tr>
               </tbody>
             </table>
