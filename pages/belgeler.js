@@ -154,7 +154,7 @@ const Belgeler = () => (
                 </tr>
                 <tr>
                   <th scope="row">7</th>
-                  <td>HEPDAK Öğrenci Değerlendirici Yerinde Ziyaret Takvimi  <Link href="doc/d7_v1.pdf"><a>Sürüm 1.0</a></Link></td>
+                  <td>HEPDAK Öğrenci Değerlendirici Yerinde Ziyaret Takvimi <strong>Sürüm 1.0</strong> (<Link href="doc/d7_v1.pdf"><a>PDF</a></Link> | <Link href="doc/d7_v1.docx"><a>Word</a></Link>)</td>
                 </tr>
               </tbody>
             </table>
