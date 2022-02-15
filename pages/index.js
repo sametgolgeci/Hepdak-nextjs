@@ -335,6 +335,17 @@ const Anasayfa = () => (
             <div className="block-title-main">Son Haberler</div>
             <div className="block-title-all"><a href="/tum-haberler">Tüm Haberler</a></div>
           </div>
+          <Link href="/haberler/18-11-2021-CEENQA-paylasim-toplantisi">
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">18</div>
+              <div className="date-month">Kasım</div>
+              <div className="date-year">2021</div>
+            </div>
+            <div className="block-subtitle-text">CEENQA Paylaşım Toplantısı - 8</div>
+          </div>
+          </Link>
+
           <Link href="/haberler/13-10-2021-CENNQA-genel-kurulu">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
@@ -373,17 +384,7 @@ const Anasayfa = () => (
               <div className="date-month">Eylül</div>
               <div className="date-year">2021</div>
             </div>
-            <div className="block-subtitle-text">CEENQA Paylaşım Toplantısı - 6</div>
-          </div>
-          </Link>
-          <Link href="/haberler/11-10-2021-kurumlara-yonelik-egitim-calistayi">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">11</div>
-              <div className="date-month">Eylül</div>
-              <div className="date-year">2021</div>
-            </div>
-            <div className="block-subtitle-text">Kurumlara Yönelik Eğitim Çalıştayı</div>
+            <div className="block-subtitle-text">CEENQA Paylaşım Toplantısı - 7</div>
           </div>
           </Link>
         </div>

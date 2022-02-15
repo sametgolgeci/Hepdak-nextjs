@@ -24,10 +24,28 @@ const Tum = () => (
           <div className="tab-content">
             <div id="yirmibir" className="container tab-pane active">
               <div className="main-top-second" id="ceenqa">
+                <div className="main-top-second-title">CEENQA Paylaşım Toplantısı - 8 (17 Kasım 2021)</div>
+                <div className="main-top-second-content">
+                  <p>CEENQA'NIN iki ayda bir yapılan sekizinci toplantısı 17 Kasım 2021 tarihinde
+gerçekleştirildi. Bu toplantıya HEPDAK’ı temsilen Prof. Dr. Ayla BAYIK TEMEL katıldı.</p>
+                  <p>Azerbeycan da faaliyet gösteren kalite ajansı TİKTA’yı temsilen Ilham Humbatov,
+kuruluşun yapısı, uluslararası üyelikleri, amaçları, kurum değerlendirmeleri konusunda
+bilgiler verdi.</p>
+                  <p>Montenegro (Karadağ) da faaliyet gösteren kalite ajansı AKOKVO,( Agency For Control
+And Quality Assurance Of Higher Education Montenegro ) temsilen Tijana Stanković
+“Quality Assurance of Higher Education in Montenegro -achievements and chalenges”
+konulu sunumunda ajansın yapısı, ülkede yükseköğrenim sistemi, paydaşlar, misyon, vizyon,
+istatistikler, kalite değerlendirme süreçleri ve yaşanan zorluklar konusunda açıklamalar yaptı.</p>
+                  <p>Milica Kavedžić AKOKVO da yürütülen BAQUAL (Better Academıc Qualıfıcatıons
+Through Qualıty Assurance) konulu yaşam boyu öğrenmenin kazandırılması ile ilgili ortak
+projenin planlamalarını açıkladı. <a href="https://www.ceenqa.org/ceenqa-bi-monthly-meetings/">CEENQA Bi-Monthly Meetings</a></p>
+                </div>
+              </div>
+              <div className="main-top-second" id="ceenqa">
                 <div className="main-top-second-title">CEENQA'nın Yıllık Genel Kurulu ve Çalıştayı (13 Ekim 2021)</div>
                 <div className="main-top-second-content">
-                <p>CEENQA'nın yıllık Genel Kurulu ve beraberindeki çalıştayı 13 Ekim 2021'de online gerçekleşmiştir.Toplantıya HEPDAK’ı temsilen Prof. Dr. Ayla BAYIK TEMEL, Doç. Dr. Sergül DUYGULU katılmıştır. CEENQA yeni dönem yönetim kurulu üye seçimi için tam üye olarak oylamaya katılım sağlanmıştır. Genel Kurulda Olgun Çiçek (YÖDAK, Kuzey Kıbrıs) CEENQA'nın yeni Başkan Yardımcısı, Simona Lache (ARACIS, Romanya) ve Benjamin Muhamedbegoviç (HEA, Bosna Hersek) yeni yönetim kurulu üyeleri olarak seçilmişlerdir.</p>
-                <p>“Çevrimiçi Değerlendirmeler ve Dış Kalite Güvencesi” konulu çalıştayda, pandeminin getirdiği değerlendirme prosedürlerinde yapılan değişiklikler ele alınmıştır. Çeşitli Avrupa ülkelerindeki ajansların deneyimlerine dayanarak, hangi deneyimlerin kazanıldığı, değişen koşullara uyum sağlamak için nelerin geliştirilebileceği ve gelecekte kalite güvence prosedürlerinin nasıl yürütüleceği tartışılmıştır. Çalıştayda bu kapsamda Anca Prisacariu “Dış Değerlendirme Güvenliği Süreçlerinin Online Formatta Uyarlanması” konulu sunumunda online değerlendirmede sınırlılıklar, etik durumlar konusunda görüşlerini paylaşmıştır. Nataliia Stukalo, NAQA’nin Ukrayna’da pandemi döneminde kalite güvenliği ile ilgili deneyimlerini açıklamış, bu kapsamda olumlu ve olumsuz denyimler, kalite güvenliği süreçlerinde dijitalizasyon konularında bilgi vermiştir. Klemen Šubic CEENQA adına Olgun Çiçek ile birlikte hazırladıkları HEPDAK’ında öneriler verdiği “Uzaktan Değerlendirmeler İçin Rehber”in (Guidelines For Distance Evaluation) hazırlanma amacı, online değerlendirmede ziyaret öncesi ve ziyaret sürecinde dikkat edilecek hususlar hakkında bilgi vermiştir. Jolanta Silka (AIKA) sunumunda online değerlendirmelerde iletişimin ve geri bildirimin önemi konusunda bilgiler vermiştir. Ayrıca genel kurulda Türkiye’den DEPAD (Diş Hekimliği Eğitimi Programları Akreditasyon Derneği) gözlemci üye ve Azerbeycan’dan TKTA (Azerbaycan Kalite Ajansı) – tam üyelik başvurusu kabul edilmiştir.</p>
+                  <p>CEENQA'nın yıllık Genel Kurulu ve beraberindeki çalıştayı 13 Ekim 2021'de online gerçekleşmiştir.Toplantıya HEPDAK’ı temsilen Prof. Dr. Ayla BAYIK TEMEL, Doç. Dr. Sergül DUYGULU katılmıştır. CEENQA yeni dönem yönetim kurulu üye seçimi için tam üye olarak oylamaya katılım sağlanmıştır. Genel Kurulda Olgun Çiçek (YÖDAK, Kuzey Kıbrıs) CEENQA'nın yeni Başkan Yardımcısı, Simona Lache (ARACIS, Romanya) ve Benjamin Muhamedbegoviç (HEA, Bosna Hersek) yeni yönetim kurulu üyeleri olarak seçilmişlerdir.</p>
+                  <p>“Çevrimiçi Değerlendirmeler ve Dış Kalite Güvencesi” konulu çalıştayda, pandeminin getirdiği değerlendirme prosedürlerinde yapılan değişiklikler ele alınmıştır. Çeşitli Avrupa ülkelerindeki ajansların deneyimlerine dayanarak, hangi deneyimlerin kazanıldığı, değişen koşullara uyum sağlamak için nelerin geliştirilebileceği ve gelecekte kalite güvence prosedürlerinin nasıl yürütüleceği tartışılmıştır. Çalıştayda bu kapsamda Anca Prisacariu “Dış Değerlendirme Güvenliği Süreçlerinin Online Formatta Uyarlanması” konulu sunumunda online değerlendirmede sınırlılıklar, etik durumlar konusunda görüşlerini paylaşmıştır. Nataliia Stukalo, NAQA’nin Ukrayna’da pandemi döneminde kalite güvenliği ile ilgili deneyimlerini açıklamış, bu kapsamda olumlu ve olumsuz denyimler, kalite güvenliği süreçlerinde dijitalizasyon konularında bilgi vermiştir. Klemen Šubic CEENQA adına Olgun Çiçek ile birlikte hazırladıkları HEPDAK’ında öneriler verdiği “Uzaktan Değerlendirmeler İçin Rehber”in (Guidelines For Distance Evaluation) hazırlanma amacı, online değerlendirmede ziyaret öncesi ve ziyaret sürecinde dikkat edilecek hususlar hakkında bilgi vermiştir. Jolanta Silka (AIKA) sunumunda online değerlendirmelerde iletişimin ve geri bildirimin önemi konusunda bilgiler vermiştir. Ayrıca genel kurulda Türkiye’den DEPAD (Diş Hekimliği Eğitimi Programları Akreditasyon Derneği) gözlemci üye ve Azerbeycan’dan TKTA (Azerbaycan Kalite Ajansı) – tam üyelik başvurusu kabul edilmiştir.</p>
                 </div>
               </div>
               <div className="main-top-second" id="iyi">
@@ -56,7 +74,7 @@ const Tum = () => (
                 </div>
               </div>
               <div className="main-top-second" id="ceenqayedi">
-                <div className="main-top-second-title">CEENQA Paylaşım Toplantısı - 6</div>
+                <div className="main-top-second-title">CEENQA Paylaşım Toplantısı - 7</div>
                 <div className="main-top-second-content">
                   <p>Kalite güvencesi alanında CEENQA’ya üye ajansların kurumlarını ve faaliyetlerini tanıttığı, yenilikçi çalışmaların paylaşıldığı periyodik toplantıların yedincisi <strong>15 Eylül 2021</strong> gerçekleştirilmiştir. Çevrimiçi gerçekleştirilen toplantıya HEPDAK’ı temsilen Prof. Dr. Ayla BAYIK TEMEL, Doç. Dr. Sergül DUYGULU, Doç.Dr. Merlinda ALUŞ TOKAT ve Doç. Dr Fatoş KORKMAZ katılmıştır.</p>
                   <p>Toplantıda Stela Guvir,Moldova Cumhuriyeti eğitim ve Araştırma Kalite Güvenliği Ajansı (Ulusal National Agency for Quality Assurance in Education and Research, Republic of Moldova) (ANACIP-ANACEC) ile ilgili organizasyon yapısı, görevler, dış değerlendirme süreci ve standartları, uluslararası işbirliği ve tanınırlık, projeleri konusunda bilgiler vermiştir. Emita Blackdan, Hırvatistan Yüksek Öğrenim ve Bilim için Kalite Ajansı ve Kalite Güvenliği Sistemi (Croatian Agency for Science and Higher Education and QA System in Croatia) AZVO -ASHE ile ilgili olarak Hırvatistan’da yüksek öğretim sistemi, kalite güvenlik sistemi,faaliyetleri, misyon, vizyon ve stratejileri, pandemi sürecinde iş organizasyonu ve geleceğe yönelik planlamalar, uluslararası ilişkileri konusunda açıklamalar yapmıştır.</p>
@@ -82,7 +100,7 @@ const Tum = () => (
                 </div>
               </div>
               <div className="main-top-second">
-                <div className="main-top-second-title">CEENQA Paylaşım Toplantısı - 5</div>
+                <div className="main-top-second-title">CEENQA Paylaşım Toplantısı - 6</div>
                 <div className="main-top-second-content">Kalite güvencesi alanında CEENQA’ya üye ajansların kurumlarını, faaliyetlerini tanıttığı ve yenilikçi çalışmaların periodik olarak paylaşıldığı altıncı topplantı 21 Temmuz 2021 tarihinde çevrimiçi olarak gerçekleştirildi.HEPDAK’ı temsilen bu online toplantıya Prof. Dr. Ayla Bayık Temel, Doç. Dr. Sergül Duygulu, Doç. Dr Fatoş Korkmaz ve Doç. Dr. Merlinda Aluş Tokat katılmışlardır. Bu toplantıda Doç. Dr. Sergül Duygulu HEPDAK’IN misyonu, amaçları, değerleri, yapısı program değerlendirme süreçleri, standartları ve geleceğe yönelik planlarını açıklamıştır. Nataliia Stukalo Ukrayna ‘daYüksek Öğrenimde Kalite Güvenliği konulu sunumunda; NAQA ajansının misyonu, amaçları, Ukrayna’da yüksek öğrenim, ajansın üyelikleri, Covid 19 pandemi sürecinde faaliyetler ve ülkeler arası faaliyetleri hakkından açıklamalar yapmıştır. Prof. Dr. Ayla Bayık Temel uzaktan değerlendirme ve uzaktan ziyaretler açısından iyi uygulama örneği olarak HEPDAK’ın değerlendirmeciler için düzenlediği uzaktan eğitim çalıştayı hakkında bilgiler vermiştir.</div>
                 <div className="main-top-second-content"><a href="/doc/ceenqa-6/sunum-1.pdf" target="_blank">- Prof. Dr. Ayla Bayık Temel CEENQA Sunumu</a></div>
                 <div className="main-top-second-content"><a href="/doc/ceenqa-6/sunum-2.pdf" target="_blank">- Doç. Dr. Sergül Duygulu CEENQA Sunumu</a></div>
@@ -170,7 +188,7 @@ const Tum = () => (
                 <div className="main-top-second-content">HEPDAK Değerlendiricilerimizden ve aynı zamanda HEPDAK Uluslararası Dış Değerlendirme Çalışma Grubu üyelerimizden Doç.Dr.Sergül Duygulu ve Doç.Dr.Fatoş Korkmaz HEPDAK’ın üyesi olduğu CEENQA’nın (Orta ve Doğu Avrupa Yükseköğretim Kalite Güvence Ajansları Ağı) bir diğer üyesi olan ve HEPDAK’ın Değerlendirici Değişim Programı (CEENQA Staff Exchange Program) gerçekleştirdiği Letonya Akreditasyon Ajansı AIC (Academic Information Center)-/AIKA (Quality Agency for Higher Education ) yönetim kurulu tarafından 12.05.2021 tarihinde Dış Değerlendirici olarak seçilmiştir. Değerlendirici hocalarımızı tebrik eder başarılı çalışmalar yürütmelerini dileriz.</div>
               </div>
               <div className="main-top-second">
-                <div className="main-top-second-title">CEENQA Paylaşım Toplantısı - 4</div>
+                <div className="main-top-second-title">CEENQA Paylaşım Toplantısı - 5</div>
                 <div className="main-top-second-content">CEENQA tarafından 2021 yılı etkinlikleri kapsamında iki ayda bir yürütülen 5. bilimsel toplantı 19 Mayıs 2021 tarihinde gerçekleştirilmiş olup, toplantıya HEPDAK’ı temsilen Prof.Dr. Ayla Bayık Temel, Doç. Dr. Sergül Duygulu ve Doç. Dr. Fatoş Korkmaz katılmışlardır.</div>
               </div>
               <div className="main-top-second">

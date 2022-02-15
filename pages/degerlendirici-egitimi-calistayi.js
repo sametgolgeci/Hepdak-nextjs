@@ -76,7 +76,7 @@ const Calistay = () => (
 				</div>
 			</div>
 		</div>
-		<h6><span className="badge badge-custom">6</span> 13 Kasım 2020</h6>
+		<h6><span className="badge badge-custom">6</span> Değerlendiriciler ve Kurumlar için Uzaktan Değerlendirme Eğitimi Çalıştayı 13 Kasım 2020</h6>
 		<ul className="nav calistay-nav">
 		  <li className="nav-item">
 		    <a target="_blank" className="nav-link calistay-button" href="doc/uzaktan_calistay_1/13Kasım2020_uzaktan_calistay_program.pdf">Program</a>

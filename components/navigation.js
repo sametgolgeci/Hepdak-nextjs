@@ -37,7 +37,7 @@ const Navigation = () => (
 						<Link href="/kurumlar-icin-egitim-calistayi"><a className="dropdown-item">Kurumlar için Eğitim Çalıştayı</a></Link>
 						<Link href="/degerlendirici-egitimi-calistayi"><a className="dropdown-item">Değerlendirici Eğitimi Çalıştayı</a></Link>
 						<Link href="/ogrenci-degerlendirici-egitimi-calistayi"><a className="dropdown-item">Öğrenci Değerlendirici Eğitimi Çalıştayı</a></Link>
-						<Link href="/uzaktan-degerlendirme-egitimi-calistayi"><a className="dropdown-item">Uzaktan Değerlendirme Eğitimi Çalıştayı</a></Link>
+			{/*				<Link href="/uzaktan-degerlendirme-egitimi-calistayi"><a className="dropdown-item">Uzaktan Değerlendirme Eğitimi Çalıştayı</a></Link> */}
 					</div>
 				</li>
 				<li className="nav-item dropdown">
