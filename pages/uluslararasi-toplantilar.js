@@ -102,10 +102,6 @@ katılmışlardır. Toplantıda QAA (NAKVIS), Slovenya’dan başkan Franci Dem�
 Kuzey Kıbrıs YÖDAK’ temsilen Akile Gürsoy sunumlar yapmışlardır.</p>
 				</div>
 			</div>
-		<h6><span className="badge badge-custom">-</span> 19 Mayıs 2021 - CEENQA Toplantısı </h6>
-			<p className="madde-p">
-				<a href="/doc/uluslararasi-2/belge_1.pdf" target="_blank">- 19 May 2021: Fifth bi-monthly CEENQA meeting</a><br/>
-			</p>
 		<h6><span className="badge badge-custom">-</span> CEENQA Çevrimiçi Değerlendirici Değişim Programı</h6>
 			<div className="madde-p">
 				<a className="uluslararasi-link" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">- Sunumlar</a>
