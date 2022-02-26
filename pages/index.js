@@ -40,16 +40,6 @@ const Anasayfa = () => (
     <div className="main-top">
       <div className="main-top-nav">
         <ul className="main-top-akredite">
-          {/*
-          <li className="nav-item">
-            <div className="nav-item-hemsis">
-              <Link href="http://hemsis.hepdak.org.tr/"><a target="_blank">
-                <h2>HEMSİS</h2>
-                <span>Giriş için Tıklayınız</span>
-              </a></Link>
-            </div>
-          </li>
-          */}
           <li className="nav-item">
             <div><img className="main-bottom-tanınma" src="img/duyurular/YOKAK_tescil.png" title="Yükseköğretim Akademik Değerlendirme ve Kalite Geliştirme Komisyonu"/></div>
           </li>
@@ -67,12 +57,6 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
-                  <Link href="/doc/ogrenci_egitim_5/program.pdf"><a target="_blank">
-                    <div className="main-top-one-title">Duyuru</div>
-                    <div className="main-top-one-content">Öğrenci Değerlendirici Eğitim programı çevrimiçi olarak 5-6 Şubat 2022 tarihinde yürütülecektir. Programa buradan ulaşabilirsiniz.</div>
-                  </a></Link>
-                </div>
-                <div className="carousel-item">
                   <Link href="/ucretler"><a target="_blank">
                     <div className="main-top-one-title">Duyuru</div>
                     <div className="main-top-one-content">2022-2023 Değerlendirme Dönemi Akreditasyon Ücretleri Güncellenmiştir.</div>
@@ -161,149 +145,6 @@ const Anasayfa = () => (
             </div>
           </div>
         </div>
-        <div className="tab-pane fade main-second-nav" id="tum">
-          <ul className="nav justify-content-center">
-           <li className="nav-item">
-              <a className="nav-link main-second-nav-item active" data-toggle="pill" href="#yirmibir">2021</a>
-            </li>
-            <li className="nav-item">
-              <a className="nav-link main-second-nav-item " data-toggle="pill" href="#yirmi">2020</a>
-            </li>
-            <li className="nav-item">
-              <a className="nav-link main-second-nav-item" data-toggle="pill" href="#ondokuz">2019</a>
-            </li>
-          </ul>
-          <div className="tab-content">
-            <div id="yirmibir" className="container tab-pane active">
-              <div className="main-top-second">
-                <div className="main-top-second-title">HEPDAK 2021-2022 Dönemi Akreditasyon Takvimi</div>
-                <div className="main-top-second-content">İlgili dosyaya <Link href="/doc/2021_takvim.pdf"><a target="_blank"><strong>buradan</strong></a></Link> ulaşabilirsiniz.</div>
-              </div>
-              <div className="main-top-second">
-                <div className="main-top-second-title">Kurumlara Yönelik Eğitim Çalıştayı</div>
-                <div className="main-top-second-content">Hemşirelik Lisans Eğitimi Veren Yükseköğretim Kurumlarına Yönelik Eğitim Çalıştayı 9-10 Eylül 2021 tarihlerinde çevrimiçi olarak gerçekleştirilecektir. <a href="doc/2021_kurum_program.pdf"><strong>Çalıştay Programı</strong></a>, <a href="doc/2021_kurum_form.doc"><strong>Başvuru Formu</strong></a> ve <a href="doc/2021_kurum_duyuru.pdf"><strong>Duyuru Metni</strong></a>'ne buradan ulaşabilirsiniz.</div>
-              </div>
-              <div className="main-top-second">
-                <div className="main-top-second-title">Duyuru</div>
-                <div className="main-top-second-content">HEPDAK Değerlendirici Adayı Eğitimi Çalıştayı 10-12 Haziran 2021 tarihleri arasında çevrimiçi olarak gerçekleştirilmiştir. Çalıştaya 21 yeni değerlendirici adayı katılmıştır. Eğitimde grup çalışmalarında takım başkanı olarak dört, grup çalışmaları gözlemcisi olarak iki deneyimli HEPDAK değerlendiricisi yer almıştır. Üç günlük çalıştay küçük grup ve ana salon çalışmaları ile interaktif olarak yürütülmüştür.</div>
-              </div>
-              <div className="main-top-second">
-                <div className="main-top-second-title">Duyuru</div>
-                <div className="main-top-second-content"><p>HEPDAK Akreditasyon değerlendirmeleri sonucu  2021 yılında akredite olmaya hak kazanan kurumlardan Ege Üniversitesi Hemşirelik Fakültesi ve Erciyes Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümüne  31 Mayıs 2021, Dokuz Eylül Üniversitesi Hemşirelik Fakültesi ve Acıbadem Üniversitesi  Sağlık Bilimleri Fakültesi Hemşirelik Bölümüne 1 Haziran 2021, Trakya Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümüne 2 Haziran 2021 tarihlerinde yapılan online toplantı ile akreditasyon belgeleri takdim edilmiştir.</p>
-                  <div className="row">
-                    <div className="col-md-4"><a href="img/duyurular/akreditasyon-2021/Acibadem.PNG" target="_blank"><img className="second-content-img" src="img/duyurular/akreditasyon-2021/Acibadem.PNG"/></a></div>
-                    <div className="col-md-4"><a href="img/duyurular/akreditasyon-2021/DokuzEylul.PNG" target="_blank"><img className="second-content-img" src="img/duyurular/akreditasyon-2021/DokuzEylul.PNG"/></a></div>
-                    <div className="col-md-4"><a href="img/duyurular/akreditasyon-2021/Ege.PNG" target="_blank"><img className="second-content-img" src="img/duyurular/akreditasyon-2021/Ege.PNG"/></a></div>
-                    <div className="col-md-4"><a href="img/duyurular/akreditasyon-2021/Erciyes.PNG" target="_blank"><img className="second-content-img" src="img/duyurular/akreditasyon-2021/Erciyes.PNG"/></a></div>
-                    <div className="col-md-4"><a href="img/duyurular/akreditasyon-2021/Trakya.PNG" target="_blank"><img className="second-content-img" src="img/duyurular/akreditasyon-2021/Trakya.PNG"/></a></div>
-                  </div>
-                </div>
-              </div>
-              <div className="main-top-second">
-                <div className="main-top-second-title">Duyuru</div>
-                <div className="main-top-second-content">HEPDAK değerlendiricilerimizden Doç. Dr. Sergül Duygulu ve Doç. Dr. Fatoş Korkmaz  ARACİS- Romanya Yüksek Öğretim Kalite Güvenlik Kurumu (Romanian Agency for Quality Assurance in Higher Education) tarafından Uluslararası Değerlendirmeci olarak seçilmişlerdir. Değerlendirmecilerimizi kutluyor, başarılar diliyoruz.<h6>HEPDAK Yönetim Kurulu</h6></div>
-              </div>
-              <div className="main-top-second">
-                <div className="main-top-second-title">Duyuru</div>
-                <div className="main-top-second-content">HEPDAK Değerlendiricilerimizden ve aynı zamanda HEPDAK Uluslararası Dış Değerlendirme Çalışma Grubu üyelerimizden Doç.Dr.Sergül Duygulu ve Doç.Dr.Fatoş Korkmaz HEPDAK’ın üyesi olduğu CEENQA’nın (Orta ve Doğu Avrupa Yükseköğretim Kalite Güvence Ajansları Ağı) bir diğer üyesi olan ve HEPDAK’ın Değerlendirici Değişim Programı (CEENQA Staff Exchange Program) gerçekleştirdiği Letonya Akreditasyon Ajansı AIC (Academic Information Center)-/AIKA (Quality Agency for Higher Education ) yönetim kurulu tarafından 12.05.2021 tarihinde Dış Değerlendirici olarak seçilmiştir. Değerlendirici hocalarımızı tebrik eder başarılı çalışmalar yürütmelerini dileriz.<p><h6>HEPDAK Yönetim Kurulu</h6></p></div>
-              </div>
-              <div className="main-top-second">
-                <div className="main-top-second-title">12-18 Mayıs 2021 Hemşirelik Haftamız Kutlu Olsun.</div>
-                <div className="main-top-second-content"><img src="img/duyurular/hemsire2021.png"/></div>
-              </div>
-              <div className="main-top-second">
-                <div className="main-top-second-title">23 Nisan Ulusal Egemenlik ve Çocuk Bayramı Kutlaması</div>
-                <div className="main-top-second-content"><img src="img/duyurular/23nisan2021.jpg"/></div>
-              </div>
-              <div className="main-top-second">
-                <div className="main-top-second-title">Yükseköğretim Kalite Kurulu 2021 Yılı HEPDAK İzleme Ziyareti</div>
-                <div className="main-top-second-content">YÖKAK Dış Değerlendirme ve Akreditasyon Kuruluşlarını İzleme çalışmaları kapsamında 2020 yılı faaliyetlerimizi izlemek üzere görevlendirilen YÖKAK izleme yetkilisi Sayın Prof. Dr. Sina Ercan 25 Şubat 2021 tarihinde Derneğimize çevrimiçi izleme ziyaretini gerçekleştirmiştir. Dernek yönetim kurulu üyelerinin de (Prof. Dr. Ayla Bayık Temel, Doç. Dr. Dilek Özmen, Doç. Dr. Şenay Ünsal Atan, Prof. Dr. Ayten Zaybak) katıldığı ilk oturumda Yönetim Kurulu Başkanımız Prof. Dr. Gülseren Kocaman 2020 yılı HEPDAK faaliyetlerine yönelik bir sunum yapmıştır. İkinci oturumda ise, yönetim kurulu üyelerinin yanı sıra, HEAK üyeleri (Prof. Dr. Sevgi Hatipoğlu, Prof. Dr. Hülya Okumuş), Standartları Belirleme ve Geliştirme Komisyonu üyeleri (Prof. Dr. Kadriye Buldukoğlu, Doç. Dr. Sergül Duygulu), Tutarlılık Komisyonu üyeleri (Doç. Dr. Dilek Özmen, Doç. Dr. Şenay Ünsal Atan), öğrenci değerlendiriciler (Öğ. Aslı Kayar, Öğ. Mervenur Doğan) ve 2020 yılı faaliyetlerinde görev almış 2 değerlendiricinin (Prof. Dr. Ümit Seviğ, Prof. Dr. Medine Yılmaz) katılımı ile odak grup görüşmeleri yapılmıştır. Karşılıklı bilgi alışverişinin olduğu toplantı öneriler ve iyi dilekler ile tamamlanmıştır.</div>
-                <div className="main-top-second-content"><img src="img/yok_ziyaret_2021/photo_1.jpg"/></div>
-                <div className="main-top-second-content"><img src="img/yok_ziyaret_2021/photo_2.jpg"/></div>
-              </div>
-              <div className="main-top-second">
-                <div className="main-top-second-title">HEPDAK Değerlendirici Eğitimi (10-12 Haziran 2021)</div>
-                <div className="main-top-second-content">Eğitim programı çevrimiçi olarak yürütülecektir.</div>
-              </div>
-              <div className="main-top-second">
-                <div className="main-top-second-title">HEPDAK Öğrenci Değerlendiricileri Eğitimi Çalıştayı (28 Mart 2021)</div>
-                <div className="main-top-second-content">Eğitim programı çevrimiçi olarak yürütülecektir.</div>
-              </div>
-              <div className="main-top-second">
-                <div className="main-top-second-title">Takım Başkanları Toplantısı 2021</div>
-                <div className="main-top-second-content">2020-2021 HEPDAK Akreditasyon sürecinde çevrimiçi olarak gerçekleştirilen ziyaretlerdeki beş takım başkanı ve HEPDAK Yönetim Kurulu üyeleri 07 Ocak 2021 tarihinde çevrimiçi olarak yapılan toplantıda bir araya geldi. Takım başkanları ve Yönetim Kurulu üyeleri özellikle çevrimiçi ziyaret sürecinin yanı sıra tüm ziyaret süreci ile ilgili olarak karşılıklı bilgi alışverişinde bulundu.</div>
-              </div>
-            </div>
-            <div id="yirmi" className="container tab-pane fade">
-              <div className="main-top-second">
-                <div className="main-top-second-title">SABDEK Uzaktan Eğitim Çalışmaları ve Yaz Okulu Açıklaması (02 Temmuz 2020)</div>
-                <div className="main-top-second-content">İlgili dosyaya <Link href="/doc/SABDEK_covid.pdf"><a><strong>buradan</strong></a></Link> ulaşabilirsiniz.</div>
-              </div>
-              <div className="main-top-second">
-                <div className="main-top-second-title">Türk Hemşireler Derneği ve Özel Dal Derneklerinden Yaz Okulu Açıklaması (30 Haziran 2020)</div>
-                <div className="main-top-second-content">İlgili dosyaya <Link href="https://www.thder.org.tr/uploads/files/uzaktan-egitim-aciklama.pdf"><a><strong>buradan</strong></a></Link> ulaşabilirsiniz.</div>
-              </div>
-              <div className="main-top-second">
-                <div className="main-top-second-title">HEMED Uzaktan Eğitim Konusunda Görüşü (29 Haziran 2020)</div>
-                <div className="main-top-second-content">İlgili dosyaya <Link href="/doc/HEMED_uzaktan_eğitim_görüş_yazısı.pdf"><a><strong>buradan</strong></a></Link> ulaşabilirsiniz.</div>
-              </div>
-              <div className="main-top-second">
-                <div className="main-top-second-title">HEPDAK Değerlendirici Eğitimi (10-12 Ağustos 2020)</div>
-                <div className="main-top-second-content">Eğitim programı online olarak yürütülecektir.</div>
-              </div>
-              <div className="main-top-second">
-                <div className="main-top-second-title">HEPDAK Uzaktan Eğitim Standartları (19 Haziran 2020)</div>
-                <div className="main-top-second-content">İlgili dosyaya <Link href="/doc/b14_v1.docx"><a><strong>buradan</strong></a></Link> ulaşabilirsiniz.</div>
-              </div>
-            </div>
-            <div id="ondokuz" className="container tab-pane fade">
-              <div className="main-top-second">
-                <div className="main-top-second-title">Kurumlara Yönelik Eğitim Çalıştayı</div>
-                <div className="main-top-second-content">Hemşirelik Lisans Eğitimi Veren Yükseköğretim Kurumlarına Yönelik Eğitim Çalıştayı 1 Aralık 2018 Cumartesi günü Anemon Ege Otel (İzmir)'de gerçekleştirilecektir. Çalıştay programına <Link href="doc/kurumlar-icin-egitim-calistayi-1aralik-2018-programi_v2.pdf"><a><strong>buradan</strong></a></Link> ulaşabilirsiniz.</div>
-              </div>
-              <div className="main-top-second">
-                <div className="main-top-second-title">29 Ekim Cumhuriyet Bayramı Kutlaması</div>
-                <div className="main-top-second-content"><img src="img/duyurular/29ekim2019.jpg"/></div>
-              </div>
-              <div className="main-top-second">
-                <div className="main-top-second-title">30 Ağustos Zafer Bayramı Kutlaması</div>
-                <div className="main-top-second-content"><img src="img/duyurular/30ağustos2019.jpg"/></div>
-              </div>
-              <div className="main-top-second">
-                <div className="main-top-second-title">Kurban Bayramınız Mübarek Olsun</div>
-                <div className="main-top-second-content"><img src="img/duyurular/kurban2019.jpg"/></div>
-              </div>
-              <div className="main-top-second">
-                <div className="main-top-second-title">CEENQUA'da Sempozyum Haberimiz</div>
-                <div className="main-top-second-content">CEENQUA'nın Temmuz haber bülteninde HEPDAK&HEMED birlikteliği ile gerçekleştirilen sempozyum haberimiz yer aldı. Habere <Link href="doc/8_1_july_2018.pdf"><a><strong>buradan</strong></a></Link> ulaşabilirsiniz.</div>
-              </div>
-              <div className="main-top-second">
-                <div className="main-top-second-title">Ramazan Bayramınız Mübarek Olsun</div>
-                <div className="main-top-second-content"><img src="img/duyurular/ramazan2019.jpg"/></div>
-              </div>
-              <div className="main-top-second">
-                <div className="main-top-second-title">19 Mayıs Atütürk'ü Anma, Gençlik ve Spor Bayramı Kutlaması</div>
-                <div className="main-top-second-content"><img src="img/duyurular/19mayis2019.jpg"/></div>
-              </div>
-              <div className="main-top-second">
-                <div className="main-top-second-title">12-18 Mayıs Hemşirelik Haftamız Kutlu Olsun</div>
-                <div className="main-top-second-content"><img src="img/duyurular/hemsire2019.jpg"/></div>
-              </div>
-              <div className="main-top-second">
-                <div className="main-top-second-title">23 Nisan Ulusal Egemenlik ve Çocuk Bayramı Kutlaması</div>
-                <div className="main-top-second-content"><img src="img/duyurular/23nisan2019.jpg"/></div>
-              </div>
-              <div className="main-top-second">
-                <div className="main-top-second-title">Hemşirelik Eğitiminin Geleceği: 19-20 Haziran 2018 Akreditasyon, Standartlar, İyi Uygulama Örnekleri</div>
-                <div className="main-top-second-content"><p>Bilimsel Program, Kayıt & Konaklama, Davet tüm bilgileri <a href="http://www.hemsirelikegitiminingelecegi.com"><strong>buradan</strong></a> erişebilirsiniz.</p> <h6>Sempozyum Yeri ve İletişim</h6><p>Ege Üniversitesi Hemşirelik Fakültesi<br/>Yasemin Şimşek<br/>Dalya Turizm, Kazım Dirik Mah. 372/8 Sk. No:1 Bornova-İzmir, TÜRKİYE<br/>+90 232 464 88 30<br/>yasemin@dalyatur.com</p></div>
-              </div>
-              <div className="main-top-second">
-                <div className="main-top-second-title">HEPDAK Olarak Yeni Yılınızı Kutlarız</div>
-                <div className="main-top-second-content"><img src="img/duyurular/yeniyil2019.jpg"/></div>
-              </div>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   
@@ -335,56 +176,56 @@ const Anasayfa = () => (
             <div className="block-title-main">Son Haberler</div>
             <div className="block-title-all"><a href="/tum-haberler">Tüm Haberler</a></div>
           </div>
-          <Link href="/haberler/18-11-2021-CEENQA-paylasim-toplantisi">
+          <Link href="/haberler/08-02-2022-takim-baskanlari-standart-komisyon">
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">08</div>
+              <div className="date-month">Şubat</div>
+              <div className="date-year">2022</div>
+            </div>
+            <div className="block-subtitle-text">Takım Başkanları ile Standart Komisyonu Üyeleri Toplantısı</div>
+          </div>
+          </Link>
+
+          <Link href="/haberler/06-02-2022-ogrenci-calistayi">
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">05-06</div>
+              <div className="date-month">Şubat</div>
+              <div className="date-year">2022</div>
+            </div>
+            <div className="block-subtitle-text">Öğrenci Değerlendirici Eğitim Çalıştayı</div>
+          </div>
+
+          </Link>
+          <Link href="/haberler/18-01-2022-ogrenci-geribildirim">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
               <div className="date-day">18</div>
-              <div className="date-month">Kasım</div>
-              <div className="date-year">2021</div>
+              <div className="date-month">Ocak</div>
+              <div className="date-year">2022</div>
             </div>
-            <div className="block-subtitle-text">CEENQA Paylaşım Toplantısı - 8</div>
+            <div className="block-subtitle-text">Öğrenci Değerlendiriciler ile Geribildirim Toplantısı</div>
           </div>
           </Link>
-
-          <Link href="/haberler/13-10-2021-CENNQA-genel-kurulu">
+          <Link href="/haberler/06-01-2022-degerlendirme-takim-toplanti">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
-              <div className="date-day">14</div>
-              <div className="date-month">Ekim</div>
-              <div className="date-year">2021</div>
+              <div className="date-day">06</div>
+              <div className="date-month">Ocak</div>
+              <div className="date-year">2022</div>
             </div>
-            <div className="block-subtitle-text">CEENQA'nın Yıllık Genel Kurulu ve Çalıştayı</div>
-          </div>
-
-          </Link>
-          <Link href="/haberler/30-09-2021-iyi-uygulama-ornekleri">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">30</div>
-              <div className="date-month">Eylül</div>
-              <div className="date-year">2021</div>
-            </div>
-            <div className="block-subtitle-text">İyi Uygulama Örnekleri</div>
+            <div className="block-subtitle-text">Değerlendirme Takım Üyeleri ile Toplantı</div>
           </div>
           </Link>
-          <Link href="/haberler/30-10-2021-hemsirelik-egitiminin-gelecegi">
+          <Link href="/haberler/04-01-2022-takim-baskanlari-toplanti">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
-              <div className="date-day">30</div>
-              <div className="date-month">Eylül</div>
-              <div className="date-year">2021</div>
+              <div className="date-day">04</div>
+              <div className="date-month">Ocak</div>
+              <div className="date-year">2022</div>
             </div>
-            <div className="block-subtitle-text">"Hemşirelik Eğitiminin Geleceği 3” Sempozyumu Gerçekleştirildi</div>
-          </div>
-          </Link>
-          <Link href="/haberler/16-10-2021-CEENQA-paylasim-toplantisi">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">16</div>
-              <div className="date-month">Eylül</div>
-              <div className="date-year">2021</div>
-            </div>
-            <div className="block-subtitle-text">CEENQA Paylaşım Toplantısı - 7</div>
+            <div className="block-subtitle-text">Takım Başkanları Toplantısı</div>
           </div>
           </Link>
         </div>

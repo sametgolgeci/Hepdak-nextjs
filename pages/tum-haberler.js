@@ -11,8 +11,11 @@ const Tum = () => (
         <h1>Tüm Haberler</h1>
         <div>
           <ul className="nav justify-content-center">
-           <li className="nav-item">
-              <a className="nav-link main-second-nav-item active" data-toggle="pill" href="#yirmibir">2021</a>
+            <li className="nav-item">
+              <a className="nav-link main-second-nav-item active" data-toggle="pill" href="#yirmiiki">2022</a>
+            </li>
+            <li className="nav-item">
+              <a className="nav-link main-second-nav-item" data-toggle="pill" href="#yirmibir">2021</a>
             </li>
             <li className="nav-item">
               <a className="nav-link main-second-nav-item " data-toggle="pill" href="#yirmi">2020</a>
@@ -22,7 +25,91 @@ const Tum = () => (
             </li>
           </ul>
           <div className="tab-content">
-            <div id="yirmibir" className="container tab-pane active">
+            <div id="yirmiiki" className="container tab-pane active">
+              <div className="main-top-second">
+                <div className="main-top-second-title">Takım Başkanları ile Standart Komisyonu Üyeleri Toplantısı (8 Şubat 2022)</div>
+                <div className="main-top-second-content">
+                  <p>Takım Başkanları ile Standart Komisyonu Üyeleri toplantısı 8 Şubat 2022 tarihinde çevrimiçi olarak gerçekleştirilmiştir. 2022 Akreditasyon takımlarında yer alan takım başkanları Hemşirelik Lisans Eğitim Programı Standartlarına yönelik takım üyelerinden de alınan görüş ve önerileri paylaşmıştır. Standart Komisyonu gelen görüş ve önerileri komisyonda değerlendireceklerini iletmiştir.</p>
+                </div>
+                <div className="main-top-second-content">
+                  <div className="row">
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/takim-baskanlari-standart-komisyonu-2022/1.png" target="_blank"><img className="calistay-img" src="/img/haberler/takim-baskanlari-standart-komisyonu-2022/1.png" alt="Takım Başkanları ile Standart Komisyonu Üyeleri Toplantısı"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/takim-baskanlari-standart-komisyonu-2022/2.png" target="_blank"><img className="calistay-img" src="/img/haberler/takim-baskanlari-standart-komisyonu-2022/2.png" alt="Takım Başkanları ile Standart Komisyonu Üyeleri Toplantısı"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/takim-baskanlari-standart-komisyonu-2022/3.png" target="_blank"><img className="calistay-img" src="/img/haberler/takim-baskanlari-standart-komisyonu-2022/3.png" alt="Takım Başkanları ile Standart Komisyonu Üyeleri Toplantısı"/></a></div>
+                  </div>
+                </div>  
+              </div>
+              <div className="main-top-second">
+                <div className="main-top-second-title">Öğrenci Değerlendirici Eğitim Çalıştayı (5-6 Şubat 2022)</div>
+                <div className="main-top-second-content">
+                  <p>Öğrenci Değerlendirici Eğitim Çalıştayı 5-6 şubat 2022 tarihlerinde çevrimiçi olarak
+gerçekleştirilmiştir. Onaltı üniversiteden toplam 33 öğrenci çalıştaya katılım sağlamıştır. İki
+günlük çalıştayda ilk gün akreditasyon süreçleri ve öğrenci standartları ile ilgili sunumlar,
+ikinci gün küçük grup çalışmaları ve grup sunumları şeklinde gerçekleştirilmiştir.</p>
+                </div>
+                <div className="main-top-second-content">
+                  <div className="row">
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/ogrenci-calistay-2022/1.png" target="_blank"><img className="calistay-img" src="/img/haberler/ogrenci-calistay-2022/1.png" alt="Öğrenci Değerlendirici Eğitim Çalıştayı"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/ogrenci-calistay-2022/2.png" target="_blank"><img className="calistay-img" src="/img/haberler/ogrenci-calistay-2022/2.png" alt="Öğrenci Değerlendirici Eğitim Çalıştayı"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/ogrenci-calistay-2022/3.png" target="_blank"><img className="calistay-img" src="/img/haberler/ogrenci-calistay-2022/3.png" alt="Öğrenci Değerlendirici Eğitim Çalıştayı"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/ogrenci-calistay-2022/4.png" target="_blank"><img className="calistay-img" src="/img/haberler/ogrenci-calistay-2022/4.png" alt="Öğrenci Değerlendirici Eğitim Çalıştayı"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/ogrenci-calistay-2022/5.png" target="_blank"><img className="calistay-img" src="/img/haberler/ogrenci-calistay-2022/5.png" alt="Öğrenci Değerlendirici Eğitim Çalıştayı"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/ogrenci-calistay-2022/6.png" target="_blank"><img className="calistay-img" src="/img/haberler/ogrenci-calistay-2022/6.png" alt="Öğrenci Değerlendirici Eğitim Çalıştayı"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/ogrenci-calistay-2022/7.png" target="_blank"><img className="calistay-img" src="/img/haberler/ogrenci-calistay-2022/7.png" alt="Öğrenci Değerlendirici Eğitim Çalıştayı"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/ogrenci-calistay-2022/8.png" target="_blank"><img className="calistay-img" src="/img/haberler/ogrenci-calistay-2022/8.png" alt="Öğrenci Değerlendirici Eğitim Çalıştayı"/></a></div>
+                  </div>
+                </div>  
+              </div>
+              <div className="main-top-second">
+                <div className="main-top-second-title">Öğrenci Değerlendiriciler ile Geribildirim Toplantısı (18 Ocak 2022)</div>
+                <div className="main-top-second-content">
+                  <p>2022 yılı akreditasyon süreçlerine katılan öğrenci değerlendiriciler ile 18 Ocak 2022 tarihinde
+çevrimiçi bir toplantı gerçekleştirilmiştir. Toplantıda değerlendirme takımlarında yer alan
+öğrenciler değerlendirme süreçleri, yerinde ziyaret planı ve öğrenci standartlarına ilişkin
+görüş ve öneri paylaşımında bulunmuşlardır.</p>
+                </div>
+                <div className="main-top-second-content">
+                  <div className="row">
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/ogrenci-degerlendirici-geribildirim-2022/1.png" target="_blank"><img className="calistay-img" src="/img/haberler/ogrenci-degerlendirici-geribildirim-2022/1.png" alt="Öğrenci Değerlendiriciler ile Geribildirim Toplantısı "/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/ogrenci-degerlendirici-geribildirim-2022/2.png" target="_blank"><img className="calistay-img" src="/img/haberler/ogrenci-degerlendirici-geribildirim-2022/2.png" alt="Öğrenci Değerlendiriciler ile Geribildirim Toplantısı "/></a></div>
+                  </div>
+                </div>  
+              </div>
+              <div className="main-top-second">
+                <div className="main-top-second-title">Değerlendirme Takım Üyeleri ile Toplantı (6 Ocak 2022)</div>
+                <div className="main-top-second-content">
+                  <p>2022 yılı akreditasyon sürecinde yer alan değerlendirme takım üyeleri ile 6 Ocak 2022
+tarihinde çevrimiçi bir toplantı gerçekleştirilmiştir. Toplantıda değerlendirme
+takımında yer alan değerlendiricilerin Hemşirelik Lisans Eğitim Programı
+Standartlarına, uzaktan ve yerinde ziyaret planı ve işleyişine, akreditasyon
+süreçlerine yönelik görüş ve önerileri alınmıştır.</p>
+                </div>
+                <div className="main-top-second-content">
+                  <div className="row">
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/degerlendirme-takimi-2022/1.png" target="_blank"><img className="calistay-img" src="/img/haberler/degerlendirme-takimi-2022/1.png" alt="Değerlendirme Takımı 2022"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/degerlendirme-takimi-2022/2.png" target="_blank"><img className="calistay-img" src="/img/haberler/degerlendirme-takimi-2022/2.png" alt="Değerlendirme Takımı 2022"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/degerlendirme-takimi-2022/3.png" target="_blank"><img className="calistay-img" src="/img/haberler/degerlendirme-takimi-2022/3.png" alt="Değerlendirme Takımı 2022"/></a></div>
+                  </div>
+                </div>  
+              </div>
+              <div className="main-top-second">
+                <div className="main-top-second-title">Takım Başkanları Toplantısı (4 Ocak 2022)</div>
+                <div className="main-top-second-content">
+                  <p>2022 yılı akreditasyon sürecinde yer alan takım başkanları ile 4 Ocak 2022 tarihinde
+çevrimiçi bir toplantı gerçekleştirilmiştir. Toplantıda takım başkanlarının Hemşirelik
+Lisans Eğitim Programı Standartlarına, uzaktan ve yerinde ziyaret planı ve işleyişine,
+akreditasyon süreçlerinde kullanılan formlara yönelik görüş ve önerileri alınmıştır.</p>
+                </div>
+                <div className="main-top-second-content">
+                  <div className="row">
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/takim-baskanlari-toplantisi-2022/1.jpeg" target="_blank"><img className="calistay-img" src="/img/haberler/takim-baskanlari-toplantisi-2022/1.jpeg" alt="Takım Başkanları Toplantısı"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/takim-baskanlari-toplantisi-2022/2.jpeg" target="_blank"><img className="calistay-img" src="/img/haberler/takim-baskanlari-toplantisi-2022/2.jpeg" alt="Takım Başkanları Toplantısı"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/takim-baskanlari-toplantisi-2022/3.jpeg" target="_blank"><img className="calistay-img" src="/img/haberler/takim-baskanlari-toplantisi-2022/3.jpeg" alt="Takım Başkanları Toplantısı"/></a></div>
+                  </div>
+                </div>  
+              </div>
+            </div>
+            <div id="yirmibir" className="container tab-pane fade">
               <div className="main-top-second" id="ceenqa">
                 <div className="main-top-second-title">CEENQA Paylaşım Toplantısı - 8 (17 Kasım 2021)</div>
                 <div className="main-top-second-content">

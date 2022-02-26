@@ -89,7 +89,7 @@ const Belgeler = () => (
                 </tr>
                 <tr>
                   <th scope="row">9</th>
-                  <td>Özdeğerlendirme Raporu Hazırlarken Dikkat Edilmesi Gereken Noktalar <Link href="doc/b9_v1.pdf"><a>Sürüm 1.0</a></Link> | <Link href="doc/b9_v2.pdf"><a>Sürüm 2.0</a></Link> | <strong>Sürüm 3.0</strong> (<Link href="doc/b9_v3.pdf"><a>PDF</a></Link> | <Link href="doc/b9_v3.docx"><a>Word</a></Link>)</td>
+                  <td>Özdeğerlendirme Raporu Hazırlarken Dikkat Edilmesi Gereken Noktalar <Link href="doc/b9_v1.pdf"><a>Sürüm 1.0</a></Link> | <Link href="doc/b9_v2.pdf"><a>Sürüm 2.0</a></Link> | <strong>Sürüm 3.0 <span className="belge-span">Güncel</span></strong> (<Link href="doc/b9_v3.pdf"><a>PDF</a></Link> | <Link href="doc/b9_v3.docx"><a>Word</a></Link>)</td>
                 </tr>
                 <tr>
                   <th scope="row">10</th>
