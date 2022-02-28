@@ -9,7 +9,7 @@ const sempozyum = () => (
 	    </Head>
 	    <div className="genel">
 	    	<h1>Sempozyumlar</h1>
-	    	<h3 className="sempozyum-title">HHemşirelik Eğitiminin Geleceği 3:Pandemi Sürecinde Eğitimi İyileştirme Yaklaşımları Sempozyumu 27-29 Eylül 2021</h3>
+	    	<h3 className="sempozyum-title">Hemşirelik Eğitiminin Geleceği 3:Pandemi Sürecinde Eğitimi İyileştirme Yaklaşımları Sempozyumu 27-29 Eylül 2021</h3>
 	    	<h5>Çevrimiçi Toplantı</h5>
 	    	<p>Sempozyum programı ve ilgili bilgilere <a href="http://hemsirelikegitiminingelecegi.com/tr/"><strong>buradan</strong></a> ulaşabilirsiniz.</p>
 	    	<h3 className="sempozyum-title sempozyum-alt">Hemşirelik Eğitiminin Geleceği Sempozyum 2: 4-6 Eylül 2019 Ölçme Değerlendirme, Program Değerlendirme ve Sürekli İyileştirme</h3>
