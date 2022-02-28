@@ -12,6 +12,10 @@ const Paydas = () => (
 			<h1>Paydaş Toplantıları</h1>
 			<table className="table table-striped">
 	      <tbody>
+	      	<tr>
+	          <th scope="row">4</th>
+	          <td><Link href="doc/paydas_toplantilari/belge_4.pdf"><a target="_blank">Hemşirelik Lisans Programı Yöneticileri Toplantısı (24.02.2022)</a></Link></td>
+	        </tr>
 	        <tr>
 	          <th scope="row">3</th>
 	          <td><Link href="doc/paydas_toplantilari/belge_3.pdf"><a target="_blank">2021 - 2022 Dönemi Başvuran Kurumlarla Toplantı (18.03.2021)</a></Link></td>
