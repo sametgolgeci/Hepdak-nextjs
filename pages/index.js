@@ -177,6 +177,17 @@ const Anasayfa = () => (
             <div className="block-title-all"><a href="/tum-haberler">Tüm Haberler</a></div>
           </div>
           
+          <Link href="/haberler/01-03-2022-haber">
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">01</div>
+              <div className="date-month">Mart</div>
+              <div className="date-year">2022</div>
+            </div>
+            <div className="block-subtitle-text">2022-2023 Dönemi Akreditasyon İçin Başvuran Kurumlara Yönelik Bilgilendirme Toplantısı</div>
+          </div>
+          </Link>
+
           <Link href="/haberler/24-02-2022-haber">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
@@ -221,16 +232,6 @@ const Anasayfa = () => (
           </div>
           </Link>
 
-          <Link href="/haberler/06-01-2022-degerlendirme-takim-toplanti">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">06</div>
-              <div className="date-month">Ocak</div>
-              <div className="date-year">2022</div>
-            </div>
-            <div className="block-subtitle-text">Değerlendirme Takım Üyeleri ile Toplantı</div>
-          </div>
-          </Link>
         </div>
       </div>
       <div className="main-new-block col-md-4 col-sm-12">
