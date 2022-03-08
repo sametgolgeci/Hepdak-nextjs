@@ -12,6 +12,9 @@ const Kaynak = () => (
               <table className="table table-striped">
                 <tbody>
                   <tr>
+                    <td><Link href="doc/hepdak_sunumlari/Prof.Dr.AylaBayikTemel-HemsirelikEgitimindeAkreditasyon.pdf"><a target="_blank">- Prof. Dr. Ayla Bayık Temel - Türkiye'de Hemşirelik Eğitiminde Akreditasyon (16-18 Aralık 2021)</a></Link></td>
+                  </tr>
+                  <tr>
                     <td><Link href="doc/hepdak_sunumlari/Prof.Dr.GulserenKocaman-YuksekogretimdeKaliteKulturu.pdf"><a target="_blank">- Prof. Dr. Gülseren Kocaman - Yükseköğretimde Kalite Kültürü (27 Kasım 2021)</a></Link></td>
                   </tr>
                   <tr>

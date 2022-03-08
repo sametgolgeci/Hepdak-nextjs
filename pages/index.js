@@ -57,6 +57,12 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
+                  <a href="/doc/HepdakDegerlendiriciBasvuruAdayFormu2022.doc" target="_blank">
+                    <div className="main-top-one-title">Duyuru</div>
+                    <div className="main-top-one-content">HEPDAK Değerlendirici Eğitimi Çalıştayı 23-24 Haziran 2022 tarihleri arasında gerçekleştirilecektir. Değerlendirici eğitim çalıştayına katılmak için başvuru formuna <strong>buradan</strong> ulaşabilirsiniz</div>
+                  </a>
+                </div>
+                <div className="carousel-item">
                   <Link href="/ucretler"><a target="_blank">
                     <div className="main-top-one-title">Duyuru</div>
                     <div className="main-top-one-content">2022-2023 Değerlendirme Dönemi Akreditasyon Ücretleri Güncellenmiştir.</div>
@@ -74,7 +80,7 @@ const Anasayfa = () => (
                     <div className="main-top-one-content">HEPDAK tarafından 2022 yılı içinde yapılacak eğitim takvimine ulaşmak için tıklayınız.</div>
                   </a>
                 </div>
-                 <div className="carousel-item">
+                <div className="carousel-item">
                   <a href="/doc/2021_takvim.pdf" target="_blank">
                     <div className="main-top-one-title">HEPDAK 2021-2022 Dönemi Akreditasyon Takvimi</div>
                     <div className="main-top-one-content">HEPDAK 2021-2022 dönemi akreditasyon takvimine ulaşmak için tıklayınız.</div>
