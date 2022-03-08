@@ -15,6 +15,38 @@ const Calistay = () => (
 		<p className="madde-p">• Değerlendirme becerisini geliştirme</p>
 		<p className="madde-p">• Değerlendirici davranışını geliştirme</p>
 		<p className="madde-p">• Öğrenci değerlendiricilerden değerlendirme sürecindeki beklentiler</p>
+		<h6><span className="badge badge-custom">5</span> 05 - 06 Şubat 2022</h6>
+		<p>
+			<ul className="nav calistay-nav">
+			  <li className="nav-item">
+			    <a className="nav-link calistay-button" href="doc/ogrenci_egitim_5/program.pdf" target="_blank">Program</a>
+			  </li>
+			  <li className="nav-item">
+			    <a className="nav-link calistay-button" href="doc/ogrenci_egitim_5/katilimcilar.pdf" target="_blank">Katılımcı Listesi</a>
+			  </li>
+			  <li className="nav-item">
+			    <a className="nav-link calistay-button" data-toggle="collapse" href="#collapseBesFoto" role="button" aria-expanded="false" aria-controls="collapseBesFoto">Fotoğraflar</a>
+			  </li>
+				<li className="nav-item">
+			    <a className="nav-link calistay-button" href="doc/ogrenci_egitim_5/degerlendirme.pdf" target="_blank">Değerlendirme</a>
+			  </li>
+			</ul>
+		</p>
+		<div className="collapse" id="collapseBesFoto">
+			<p><strong>-> Fotoğraflar</strong></p>
+			<div className="container">
+				<div className="row">
+					<div className="col-md-3 col-sm-12"><a href="/doc/ogrenci_egitim_5/1.png" target="_blank"><img className="calistay-img" src="/doc/ogrenci_egitim_5/1.png" alt="Öğrenci Eğitimi 05 - 06 Şubat 2022"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/ogrenci_egitim_5/2.png" target="_blank"><img className="calistay-img" src="/doc/ogrenci_egitim_5/2.png" alt="Öğrenci Eğitimi 05 - 06 Şubat 2022"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/ogrenci_egitim_5/3.png" target="_blank"><img className="calistay-img" src="/doc/ogrenci_egitim_5/3.png" alt="Öğrenci Eğitimi 05 - 06 Şubat 2022"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/ogrenci_egitim_5/4.png" target="_blank"><img className="calistay-img" src="/doc/ogrenci_egitim_5/4.png" alt="Öğrenci Eğitimi 05 - 06 Şubat 2022"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/ogrenci_egitim_5/5.png" target="_blank"><img className="calistay-img" src="/doc/ogrenci_egitim_5/5.png" alt="Öğrenci Eğitimi 05 - 06 Şubat 2022"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/ogrenci_egitim_5/6.png" target="_blank"><img className="calistay-img" src="/doc/ogrenci_egitim_5/6.png" alt="Öğrenci Eğitimi 05 - 06 Şubat 2022"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/ogrenci_egitim_5/7.png" target="_blank"><img className="calistay-img" src="/doc/ogrenci_egitim_5/7.png" alt="Öğrenci Eğitimi 05 - 06 Şubat 2022"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/ogrenci_egitim_5/8.png" target="_blank"><img className="calistay-img" src="/doc/ogrenci_egitim_5/8.png" alt="Öğrenci Eğitimi 05 - 06 Şubat 2022"/></a></div>
+				</div>
+			</div>
+		</div>
 		<h6><span className="badge badge-custom">4</span> 28 Mart 2021</h6>
 		<p>
 			<ul className="nav calistay-nav">

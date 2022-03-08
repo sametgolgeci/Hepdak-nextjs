@@ -18,7 +18,7 @@ const Calistay = () => (
 		<p className="madde-p">• Değerlendirme süreci; Fakülte ve Bölümlerin akreditasyon hazırlıkları</p>
 		<p className="madde-p">• Özdeğerlendirme raporları</p>
 		<p className="madde-p">• Değerlendirme takımlarınca yapılan kurum ziyaretleri</p>
-		<h6><span className="badge badge-custom">9</span> 9 - 10 Eylül 2021</h6>
+		<h6><span className="badge badge-custom">9</span> 09 - 10 Eylül 2021</h6>
 		<p>
 			<ul className="nav calistay-nav">
 			  <li className="nav-item">
@@ -121,7 +121,7 @@ const Calistay = () => (
 		    <a className="nav-link calistay-button" href="doc/21Aralik2019_egitim_calistayi_degerlendirme.pdf">Değerlendirme</a>
 		  </li>
 		</ul>
-		<h6><span className="badge badge-custom">5</span> 1 Aralık 2018 (İzmir)</h6>
+		<h6><span className="badge badge-custom">5</span> 01 Aralık 2018 (İzmir)</h6>
 		<ul className="nav calistay-nav">
 		  <li className="nav-item">
 		    <a className="nav-link calistay-button" href="doc/1Aralik2018_kurum_program.pdf">Program</a>

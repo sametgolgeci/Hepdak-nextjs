@@ -868,6 +868,7 @@ table{
 	}
 }
 .main-new-block-alt{
+	overflow: auto;
 	margin: 0 1px;
 	border: 1px solid #fefefe;
 	border-radius: 10px;
