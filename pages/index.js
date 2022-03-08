@@ -320,6 +320,29 @@ const Anasayfa = () => (
             </div>
             <div className="block-subtitle-text">Değerlendirici Eğitim Çalıştayı</div>
           </div>
+
+          <Link href="https://us02web.zoom.us/meeting/register/tZApcO6pqjkuGtAsft4V5mUsYU3jb3BLpmDd">
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">23</div>
+              <div className="date-month">Mart</div>
+              <div className="date-year">2022</div>
+            </div>
+            <div className="block-subtitle-text">Webinar: Hemşirelik Eğitim Programlarında Akreditasyon Yolculuğu: Güçlükler-Kazanımlar</div>
+          </div>
+          </Link>
+
+          <Link href="https://us02web.zoom.us/meeting/register/tZwud-6qrz0iHdfTuWwbfxZliDl7F_jmFKwx">
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">15</div>
+              <div className="date-month">Mart</div>
+              <div className="date-year">2022</div>
+            </div>
+            <div className="block-subtitle-text">Webinar: Hemşirelik Eğitiminde İyi Uygulama Örnekleri: Ölçme-Değerlendirme</div>
+          </div>
+          </Link>
+
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
               <div className="date-day">05-06</div>
@@ -328,22 +351,7 @@ const Anasayfa = () => (
             </div>
             <div className="block-subtitle-text">Öğrenci Değerlendirici Eğitimi</div>
           </div>
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">20</div>
-              <div className="date-month">Eylül</div>
-              <div className="date-year">2021</div>
-            </div>
-            <div className="block-subtitle-text">Hemşirelik Eğitiminin Geleceği Sempozyumu</div>
-          </div>
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">13</div>
-              <div className="date-month">Mart</div>
-              <div className="date-year">2021</div>
-            </div>
-            <div className="block-subtitle-text">Avustralya Hemşirelik ve Ebelik Akreditasyon Dernekleri ve Okullarının Yükümlülükleri</div>
-          </div>
+          
         </div>
       </div>
     </div>
