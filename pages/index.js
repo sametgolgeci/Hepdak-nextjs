@@ -57,6 +57,16 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
+                  <Link href="https://us02web.zoom.us/meeting/register/tZwud-6qrz0iHdfTuWwbfxZliDl7F_jmFKwx"><a target="_blank">
+                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/webinar/15mart2022.png"/></div>
+                  </a></Link>
+                </div>
+                <div className="carousel-item">
+                  <Link href="https://us02web.zoom.us/meeting/register/tZApcO6pqjkuGtAsft4V5mUsYU3jb3BLpmDd"><a target="_blank">
+                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/webinar/23mart2022.jpg"/></div>
+                  </a></Link>
+                </div>
+                <div className="carousel-item">
                   <a href="/doc/HepdakDegerlendiriciBasvuruAdayFormu2022.doc" target="_blank">
                     <div className="main-top-one-title">Duyuru</div>
                     <div className="main-top-one-content">HEPDAK Değerlendirici Eğitimi Çalıştayı 23-24 Haziran 2022 tarihleri arasında gerçekleştirilecektir. Değerlendirici eğitim çalıştayına katılmak için başvuru formuna <strong>buradan</strong> ulaşabilirsiniz</div>
@@ -247,6 +257,7 @@ const Anasayfa = () => (
             <div className="block-title-main">Son Duyurular</div>
             <div className="block-title-all"><a href="/tum-duyurular">Tüm Duyurular</a></div>
           </div>
+          
           <Link href="/duyurular/26-12-2021-INQAAHE-uyeligi-hakkinda">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
@@ -257,6 +268,7 @@ const Anasayfa = () => (
             <div className="block-subtitle-text">INQAAHE Üyeliği Hakkında</div>
           </div>
           </Link>
+
           <Link href="/duyurular/15-06-2021-akreditasyon-takvimi">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
@@ -267,6 +279,7 @@ const Anasayfa = () => (
             <div className="block-subtitle-text">HEPDAK 2021-2022 Dönemi Akreditasyon Takvimi</div>
           </div>
           </Link>
+
           <Link href="/duyurular/15-07-2021-kurumlara-yonelik-egitim-calistayi">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
@@ -277,6 +290,7 @@ const Anasayfa = () => (
             <div className="block-subtitle-text">Kurumlara Yönelik Eğitim Çalıştayı - 2021</div>
           </div>
           </Link>
+
           <Link href="/duyurular/03-06-2021-degerlendirici-egitimi">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
@@ -287,6 +301,7 @@ const Anasayfa = () => (
             <div className="block-subtitle-text">HEPDAK Değerlendirici Eğitimi</div>
           </div>
           </Link>
+
           <Link href="/duyurular/21-03-2021-ogrenci-degerlendirici-egitimi-calistayi">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
@@ -297,6 +312,7 @@ const Anasayfa = () => (
             <div className="block-subtitle-text">HEPDAK Öğrenci Değerlendiricileri Eğitimi Çalıştayı</div>
           </div>
           </Link>
+
         </div>
       </div>
       <div className="main-new-block col-md-4 col-sm-12">
@@ -305,33 +321,6 @@ const Anasayfa = () => (
             <div className="block-title-main">Son Etkinlikler</div>
             <div className="block-title-all"><a href="tum-etkinlikler">Tüm Etkinlikler</a></div>
           </div>
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">15</div>
-              <div className="date-month">Ekim</div>
-              <div className="date-year">2022</div>
-            </div>
-            <div className="block-subtitle-text">Kurumlar İçin Eğitim Çalıştayı</div>
-          </div>
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">23-24</div>
-              <div className="date-month">Haziran</div>
-              <div className="date-year">2022</div>
-            </div>
-            <div className="block-subtitle-text">Değerlendirici Eğitim Çalıştayı</div>
-          </div>
-
-          <Link href="https://us02web.zoom.us/meeting/register/tZApcO6pqjkuGtAsft4V5mUsYU3jb3BLpmDd">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">23</div>
-              <div className="date-month">Mart</div>
-              <div className="date-year">2022</div>
-            </div>
-            <div className="block-subtitle-text">Webinar: Hemşirelik Eğitim Programlarında Akreditasyon Yolculuğu: Güçlükler-Kazanımlar</div>
-          </div>
-          </Link>
 
           <Link href="https://us02web.zoom.us/meeting/register/tZwud-6qrz0iHdfTuWwbfxZliDl7F_jmFKwx">
           <div className="main-block-subtitle">
@@ -344,15 +333,35 @@ const Anasayfa = () => (
           </div>
           </Link>
 
+          <Link href="https://us02web.zoom.us/meeting/register/tZApcO6pqjkuGtAsft4V5mUsYU3jb3BLpmDd">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
-              <div className="date-day">05-06</div>
-              <div className="date-month">Şubat</div>
+              <div className="date-day">23</div>
+              <div className="date-month">Mart</div>
               <div className="date-year">2022</div>
             </div>
-            <div className="block-subtitle-text">Öğrenci Değerlendirici Eğitimi</div>
+            <div className="block-subtitle-text">Webinar: Hemşirelik Eğitim Programlarında Akreditasyon Yolculuğu: Güçlükler-Kazanımlar</div>
           </div>
-          
+          </Link>
+
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">23-24</div>
+              <div className="date-month">Haziran</div>
+              <div className="date-year">2022</div>
+            </div>
+            <div className="block-subtitle-text">Değerlendirici Eğitim Çalıştayı</div>
+          </div>
+
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">15</div>
+              <div className="date-month">Ekim</div>
+              <div className="date-year">2022</div>
+            </div>
+            <div className="block-subtitle-text">Kurumlar İçin Eğitim Çalıştayı</div>
+          </div>
+
         </div>
       </div>
     </div>

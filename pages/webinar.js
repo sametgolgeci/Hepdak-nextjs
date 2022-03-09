@@ -10,18 +10,22 @@ const Webinar = () => (
 	    <div className="genel">
 	    	<h1>HEPDAK Webinar</h1>
 	    	<div className="webinar-genel">
-	    		{/*<p><a href="https://us02web.zoom.us/meeting/register/tZMvcOispjkuGt3Xv2sm9Pmj2WdlLTikMRwH"><img className="webinar-afis" src="/img/webinar/webinar_afis_4.jpg"></img></a></p>*/}
+	    		<h4>- Yaklaşan Webinarlar -</h4>
+	    		<div className="row">
+	    			<div className="col-md-6">
+	    				<a href="https://us02web.zoom.us/meeting/register/tZwud-6qrz0iHdfTuWwbfxZliDl7F_jmFKwx"><img className="webinar-afis" src="/img/webinar/15mart2022.png"></img></a>
+	    			</div>
+	    			<div className="col-md-6">
+	    				<a href="https://us02web.zoom.us/meeting/register/tZApcO6pqjkuGtAsft4V5mUsYU3jb3BLpmDd"><img className="webinar-afis" src="/img/webinar/23mart2022.jpg"></img></a>
+	    			</div>
+	    		</div>
+	    		
+	    		<h4>- Tamamlanan Webinarlar -</h4>
 	    	</div>
 	    </div>
 	    <div className="webinar-bottom">
 	    	<iframe width="560" height="315" src="https://www.youtube.com/embed/lk88f6wosCg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	    	<div className="webinar-bottom-title">Avustralya Hemşirelik ve Ebelik Akreditasyon Derneği ve Hemşirelik Okullarının Yükümlülükleri (13 Mart 2021)</div>
-	 {/*
-		  	<Link href="/doc/webinar/webinar-1.pptx"><a target="_blank">
-		  		<img src="/doc/webinar/webinar-1.png" alt=""/>
-		  		<div className="webinar-bottom-title">- Avustralya Hemşirelik ve Ebelik Akreditasyon Derneği ve Hemşirelik Okullarının Yükümlülükleri -</div>
-		  	</a></Link>
-		  	 */}
 	    </div>
 	    <div className="row">
 	    	<div className="col-md-4">

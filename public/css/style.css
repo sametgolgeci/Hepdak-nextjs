@@ -707,9 +707,9 @@ table{
 	text-align: center;
 }
 .webinar-afis{
-	width: 640px;
+	width: 100%;
 	height: auto;
-	margin-bottom: 1rem;
+	margin: 1rem 0; 
 }
 .webinar-afis-ana{
 	width: 100%;
