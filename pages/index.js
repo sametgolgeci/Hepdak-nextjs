@@ -57,11 +57,6 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
-                  <Link href="https://us02web.zoom.us/meeting/register/tZwud-6qrz0iHdfTuWwbfxZliDl7F_jmFKwx"><a target="_blank">
-                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/webinar/15mart2022.png"/></div>
-                  </a></Link>
-                </div>
-                <div className="carousel-item">
                   <Link href="https://us02web.zoom.us/meeting/register/tZApcO6pqjkuGtAsft4V5mUsYU3jb3BLpmDd"><a target="_blank">
                     <div className="main-top-one-content-full"><img className="slider-full-img" src="img/webinar/23mart2022.jpg"/></div>
                   </a></Link>
@@ -194,6 +189,17 @@ const Anasayfa = () => (
             <div className="block-title-all"><a href="/tum-haberler">Tüm Haberler</a></div>
           </div>
           
+          <Link href="/haberler/15-03-2022-webinar-haber">
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">15</div>
+              <div className="date-month">Mart</div>
+              <div className="date-year">2022</div>
+            </div>
+            <div className="block-subtitle-text">Webinar: Hemşirelik Eğitiminde İyi Uygulama Örnekleri: Ölçme-Değerlendirme</div>
+          </div>
+          </Link>
+
           <Link href="/haberler/15-03-2022-haber">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
@@ -332,17 +338,6 @@ const Anasayfa = () => (
             <div className="block-title-main">Son Etkinlikler</div>
             <div className="block-title-all"><a href="tum-etkinlikler">Tüm Etkinlikler</a></div>
           </div>
-
-          <Link href="https://us02web.zoom.us/meeting/register/tZwud-6qrz0iHdfTuWwbfxZliDl7F_jmFKwx">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">15</div>
-              <div className="date-month">Mart</div>
-              <div className="date-year">2022</div>
-            </div>
-            <div className="block-subtitle-text">Webinar: Hemşirelik Eğitiminde İyi Uygulama Örnekleri: Ölçme-Değerlendirme</div>
-          </div>
-          </Link>
 
           <Link href="https://us02web.zoom.us/meeting/register/tZApcO6pqjkuGtAsft4V5mUsYU3jb3BLpmDd">
           <div className="main-block-subtitle">

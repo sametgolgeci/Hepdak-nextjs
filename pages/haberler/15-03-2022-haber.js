@@ -10,8 +10,9 @@ const News = () => (
       <div className="main-top-second hover-out">
          <div className="main-top-second-title">HEPDAK 2021-2022 Dönemi Akreditasyon İçin Ziyaret Edilen Kurumlar ile Değerlendirme Toplantısı (15 Mart 2022)</div>
                 <div className="main-top-second-content">
-                  <p>HEPDAK 2022 yılında akreditasyon için ziyaret edilen 11 kurum ile 15 Mart 2022 tarihinde çevrimiçi bir toplantı gerçekleştirilmiştir. Toplantıda kurum yöneticileri veya temsilcileri ile akreditasyon süreçlerine ve standartlara ilişkin görüş alışverişinde bulunulmuştur</p>
+                  <p>HEPDAK 2022 yılında akreditasyon için ziyaret edilen 11 kurum ile 15 Mart 2022 tarihinde çevrimiçi bir toplantı gerçekleştirilmiştir. Toplantıda kurum yöneticileri veya temsilcileri ile akreditasyon süreçlerine ve standartlara ilişkin görüş alışverişinde bulunulmuştur.</p>
                 </div>
+                <div className="main-top-second-content"><a href="doc/paydas_toplantilari/belge_6.pdf" target="_blank">- 2021-2022 Dönemi Akreditasyon İçin Ziyaret Yapılan Kurumlar ile Toplantı</a></div>
                 <div className="main-top-second-content">
                   <div className="row">
                     <div className="col-md-4 col-sm-12"><a href="/img/haberler/ziyaret-edilen-kurumlar-degerlendirme-2022/1.jpg" target="_blank"><img className="calistay-img" src="/img/haberler/ziyaret-edilen-kurumlar-degerlendirme-2022/1.jpg" alt="HEPDAK 2021-2022 Dönemi Akreditasyon İçin Ziyaret Edilen Kurumlar ile Değerlendirme Toplantısı (15 Mart 2022)"/></a></div>

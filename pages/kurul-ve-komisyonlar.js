@@ -89,7 +89,7 @@ const Kurul = () => (
 	    	<span className="madde-span">• Ayhan Lash Professor, Northern Illinois Üniversitesi Emekli Öğretim Üyesi</span>
 	    	<span className="madde-span">• Prof. Dr. Oya Kavlak, Ege Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Gülengün Türk, Adnan Menderes Üniversitesi</span>
-	    	<span className="madde-span">• Ar. Gör. Hatice Çamveren, Kütahya Sağlık Bilimleri Üniversitesi</span>
+	    	<span className="madde-span">• Dr. Öğr. Üyesi Hatice Çamveren, Kütahya Sağlık Bilimleri Üniversitesi</span>
 	    </div>
     </MasterPage>
 )
