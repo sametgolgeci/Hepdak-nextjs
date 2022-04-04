@@ -14,7 +14,7 @@ const Toplantilar = () => (
 	      <tbody>
 	      	<tr>
 	          <th scope="row" width="10px">7</th>
-	          <td>Tutarlılık Komisyonu Toplantısı - <Link href="doc/heak_tutarlilik/heak_tutarli_komisyon_7.pdf"><a>17-18-19 Mart 2022</a></Link></td>
+	          <td>Tutarlılık Komisyonu Toplantısı - <Link href="doc/heak_tutarlilik/heak_tutarli_komisyon_7.pdf"><a>17-18 Mart 2022</a></Link></td>
 	        </tr>
 	      	<tr>
 	          <th scope="row" width="10px">6</th>

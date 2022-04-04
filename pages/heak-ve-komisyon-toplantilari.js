@@ -13,6 +13,10 @@ const Toplantilar = () => (
 			<table className="table table-striped">
 	      <tbody>
 	      	<tr>
+	          <th scope="row" width="10px">18</th>
+	          <td>HEAK Toplantısı - <Link href="doc/heak/heak_komisyon_18.pdf"><a>2-3 Eylül 2021</a></Link></td>
+	        </tr>
+	      	<tr>
 	          <th scope="row" width="10px">17</th>
 	          <td>HEAK Toplantısı - <Link href="doc/heak/heak_komisyon_17.pdf"><a>1-2 Nisan 2021</a></Link></td>
 	        </tr>

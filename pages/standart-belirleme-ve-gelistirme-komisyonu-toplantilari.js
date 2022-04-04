@@ -13,6 +13,14 @@ const Toplantilar = () => (
 			<table className="table table-striped">
 	      <tbody>
 	        <tr>
+	          <th scope="row" width="140px">8 Şubat 2022</th>
+	          <td><Link href="doc/standart_belirleme_toplanti/standart-1.pdf"><a>2021-2022 yılı Akreditasyon Değerlendirme Takım Başkanları ile Standart Belirleme ve Geliştirme Komisyonu üyeleri ile Hemşirelik Lisans Eğitim Programı Standartları son sürümleri hakkında görüşülmesi</a></Link></td>
+	        </tr>
+	      </tbody>
+	    </table>
+			<table className="table table-striped">
+	      <tbody>
+	        <tr>
 	          <th scope="row" width="140px">2 Kasım 2019 (İzmir)</th>
 	          <td>Hemşirelik Lisans Eğitim Programı Standardının yeni sürümüne (Sürüm 4.0)  ve Özdeğerlendirme Raporu Hazırlama (ÖDR) Kılavuzunun yeni sürümüne  (Sürüm 5.0) son şeklinin verilmesi</td>
 	        </tr>

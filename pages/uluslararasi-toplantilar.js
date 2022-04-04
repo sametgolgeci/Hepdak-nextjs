@@ -13,6 +13,23 @@ const Calistay = () => (
 		<h4>- CEENQA Faaliyetleri</h4>
 		<h6><span className="badge badge-custom">-</span> CEENQA Haberler </h6>
 			<div className="madde-p">
+				<a className="uluslararasi-link" data-toggle="collapse" href="#collapseCEENQA9" role="button" aria-expanded="false" aria-controls="collapseCEENQA9">- CEENQA Paylaşım Toplantısı - 9 (16 Mart 2022)</a>
+				<div className="collapse" id="collapseCEENQA9">
+					<p>CEENQA'NIN iki ayda bir yapılan 10.toplantısı 16 Mart 2022 tarihinde gerçekleştirilmiştir.Bu
+toplantıya HEPDAK’ı temsilen Prof. Dr. Ayla BAYIK TEMEL, Doç. Dr. Fatoş Korkmaz ve Doç. Dr.
+Merlinda Aluş katılmışlardır.</p>
+					<p>Toplantının bu oturumunda CEENQA’ya üye Kazakistan akreditasyon kuruluşu Independent Agency
+For Accreditaiton and Rating (IAAR) temsilcisi Aikyz Bauyrzhankyzy kuruluşun yapısı, faaliyet alanları
+ve uluslararası akreditasyon süreçlerini paylaşmıştır.</p>
+					<p>Estonya kuruluşu Estonian Quality Agency for Higher and Vocational Education (EKKA) temsilcisi Liia
+Lauri 2009 yılından beri faaliyet gösteren kuruluşun yapısı, ülkenin yükseköğrenim sistemi ve
+derneğin faaliyet alanlarını uzaktan eğitim sürecinde zorluklar ve uzaktan eğitimde kalite etiketi
+konularını katılımcılar ile paylaşmıştır.</p>
+					<p>Oturumun son sunumunu Romanya kuruluşu olan The Romanıan Agency For Qualıty Assurance In
+Hıgher Educatıon (ARACIS) Octavian Mădălin Bunoıu temsilcisi gerçekleştirmiştir. Sunumda bu
+kapsamda ülkede akreditasyon süreçlerinin alt yapısını tamamlayan yasal düzenlemeler,
+yükseköğrenim sistemi ve ARACIS’in faaliyet alanları ile kuruluş yapısı sunulmuştur.</p>
+				</div>
 				<a className="uluslararasi-link" data-toggle="collapse" href="#collapseCEENQA8" role="button" aria-expanded="false" aria-controls="collapseCEENQA8">- CEENQA Paylaşım Toplantısı - 8 (17 Kasım 2021)</a>
 				<div className="collapse" id="collapseCEENQA8">
 					<p>CEENQA'NIN iki ayda bir yapılan sekizinci toplantısı 17 Kasım 2021 tarihinde
