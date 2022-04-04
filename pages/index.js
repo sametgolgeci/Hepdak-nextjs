@@ -57,8 +57,19 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
-                  <Link href="https://us02web.zoom.us/meeting/register/tZApcO6pqjkuGtAsft4V5mUsYU3jb3BLpmDd"><a target="_blank">
-                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/webinar/23mart2022.jpg"/></div>
+                  <Link href="/haberler/23-03-2022-webinar-haber"><a target="_blank">
+                    <div className="main-top-one-title">Webinar: Hemşirelik Eğitim Programlarında Akreditasyon Yolculuğu: Güçlükler-Kazanımlar</div>
+                    <div className="main-top-one-content">
+                      <div className="main-top-one-content-side">
+                        <div className="main-top-one-content-one">
+                          <p>Moderatörlüğünü Prof. Dr. Dilek ÖZMEN'in yaptığı toplantıda Ege Üniversitesi Hemşirelik Fakültesi Dekanı Prof. Dr. Ayşegül DÖNMEZ, Başkent Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölüm Başkanı Azize KARAHAN ve Tekirdağ Namık Kemal Üniversitesi Sağlık Yüksekokulu Müdürü Doç.Dr. Tülin YILDIZ, kurumlarının akreditasyon süreçlerinde...</p>
+                        </div>
+                        <div className="main-top-one-content-two">
+                          <img className="slider-img" src="/img/haberler/webinar-23Mart2022/1.PNG"/>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="main-top-one-continue">Devamı -></div>
                   </a></Link>
                 </div>
                 <div className="carousel-item">
@@ -189,6 +200,17 @@ const Anasayfa = () => (
             <div className="block-title-all"><a href="/tum-haberler">Tüm Haberler</a></div>
           </div>
           
+          <Link href="/haberler/23-03-2022-webinar-haber">
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">23</div>
+              <div className="date-month">Mart</div>
+              <div className="date-year">2022</div>
+            </div>
+            <div className="block-subtitle-text">Webinar: Hemşirelik Eğitim Programlarında Akreditasyon Yolculuğu: Güçlükler-Kazanımlar</div>
+          </div>
+          </Link>
+
           <Link href="/haberler/15-03-2022-webinar-haber">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
@@ -339,6 +361,7 @@ const Anasayfa = () => (
             <div className="block-title-all"><a href="tum-etkinlikler">Tüm Etkinlikler</a></div>
           </div>
 
+        {/*
           <Link href="https://us02web.zoom.us/meeting/register/tZApcO6pqjkuGtAsft4V5mUsYU3jb3BLpmDd">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
@@ -349,6 +372,7 @@ const Anasayfa = () => (
             <div className="block-subtitle-text">Webinar: Hemşirelik Eğitim Programlarında Akreditasyon Yolculuğu: Güçlükler-Kazanımlar</div>
           </div>
           </Link>
+        */}
 
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">

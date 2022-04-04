@@ -17,7 +17,7 @@ const News = () => (
                     <div className="col-md-4 col-sm-12"><a href="/img/haberler/webinar-15Mart2022/1.jpg" target="_blank"><img className="calistay-img" src="/img/haberler/webinar-15Mart2022/1.jpg" alt="Webinar: Hemşirelik Eğitiminde İyi Uygulama Örnekleri: Ölçme-Değerlendirme"/></a></div>
                     <div className="col-md-4 col-sm-12"><a href="/img/haberler/webinar-15Mart2022/2.jpg" target="_blank"><img className="calistay-img" src="/img/haberler/webinar-15Mart2022/2.jpg" alt="Webinar: Hemşirelik Eğitiminde İyi Uygulama Örnekleri: Ölçme-Değerlendirme"/></a></div>
                     <div className="col-md-4 col-sm-12"><a href="/img/haberler/webinar-15Mart2022/3.jpg" target="_blank"><img className="calistay-img" src="/img/haberler/webinar-15Mart2022/3.jpg" alt="Webinar: Hemşirelik Eğitiminde İyi Uygulama Örnekleri: Ölçme-Değerlendirme"/></a></div>
-                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/webinar-15Mart2022/3.jpg" target="_blank"><img className="calistay-img" src="/img/haberler/webinar-15Mart2022/3.jpg" alt="Webinar: Hemşirelik Eğitiminde İyi Uygulama Örnekleri: Ölçme-Değerlendirme"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/webinar-15Mart2022/4.jpg" target="_blank"><img className="calistay-img" src="/img/haberler/webinar-15Mart2022/3.jpg" alt="Webinar: Hemşirelik Eğitiminde İyi Uygulama Örnekleri: Ölçme-Değerlendirme"/></a></div>
                   </div>
                 </div>
                 <div className="main-top-second-content">

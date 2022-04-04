@@ -10,21 +10,28 @@ const Webinar = () => (
 	    <div className="genel">
 	    	<h1>HEPDAK Webinar</h1>
 	    	<div className="webinar-genel">
+	    {/*
 	    		<h4>- Yaklaşan Webinarlar -</h4>
 	    		<div className="row">
 	    			<div className="col-md-6">
 	    				<a href="https://us02web.zoom.us/meeting/register/tZApcO6pqjkuGtAsft4V5mUsYU3jb3BLpmDd"><img className="webinar-afis" src="/img/webinar/23mart2022.jpg"></img></a>
 	    			</div>
 	    		</div>
-	    		
+	    */}
 	    		<h4>- Tamamlanan Webinarlar -</h4>
 	    	</div>
 	    </div>
 	    <div className="webinar-bottom">
-	    	<iframe width="560" height="315" src="https://www.youtube.com/embed/SxLWLhF6fTE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	    	<div className="webinar-bottom-title">Hemşirelik Eğitiminde İyi Uygulama Örnekleri: Ölçme - Değerlendirme (15 Mart 2022)</div>
+	    	<iframe width="560" height="315" src="https://www.youtube.com/embed/6gJUMWW9N_Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	    	<div className="webinar-bottom-title">Hemşirelik Eğitim Programlarında Akreditasyon Yolculuğu: Güçlükler-Kazanımlar (23 Mart 2022)</div>
 	    </div>
 	    <div className="row">
+	    	<div className="col-md-4">
+		   		<div className="embed-responsive embed-responsive-16by9">
+					  <iframe className="embed-responsive-item" src="https://www.youtube.com/embed/SxLWLhF6fTE" allowFullScreen></iframe>
+					</div>
+				<div className="webinar-bottom-title">Hemşirelik Eğitiminde İyi Uygulama Örnekleri: Ölçme-Değerlendirme (15 Mart 2022)</div>
+	     	</div>
 	    	<div className="col-md-4">
 		   		<div className="embed-responsive embed-responsive-16by9">
 					  <iframe className="embed-responsive-item" src="https://www.youtube.com/embed/lk88f6wosCg" allowFullScreen></iframe>
