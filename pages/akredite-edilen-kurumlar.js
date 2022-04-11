@@ -117,7 +117,7 @@ const Akredite = () => (
                   <td>30.09.2027</td>
                 </tr>
                 <tr>
-                  <th scope="row">İstanbul Üniversitesi Cerrahpaşa Florance Nightingale Hemşirelik Fakültesi</th>
+                  <th scope="row">İstanbul Üniversitesi Cerrahpaşa Florence Nightingale Hemşirelik Fakültesi</th>
                   <td>04.04.2022</td>
                   <td>30.09.2024</td>
                 </tr>
