@@ -57,6 +57,11 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
+                  <Link href="https://us02web.zoom.us/meeting/register/tZ0vcOmprTIiG9x9mzb6xVg55lJHfrFTtKW3"><a target="_blank">
+                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/webinar/21nisan2022.png"/></div>
+                  </a></Link>
+                </div>
+                <div className="carousel-item">
                   <Link href="/haberler/23-03-2022-webinar-haber"><a target="_blank">
                     <div className="main-top-one-title">Webinar: Hemşirelik Eğitim Programlarında Akreditasyon Yolculuğu: Güçlükler-Kazanımlar</div>
                     <div className="main-top-one-content">
@@ -372,18 +377,18 @@ const Anasayfa = () => (
             <div className="block-title-all"><a href="tum-etkinlikler">Tüm Etkinlikler</a></div>
           </div>
 
-        {/*
-          <Link href="https://us02web.zoom.us/meeting/register/tZApcO6pqjkuGtAsft4V5mUsYU3jb3BLpmDd">
+        
+          <Link href="https://us02web.zoom.us/meeting/register/tZ0vcOmprTIiG9x9mzb6xVg55lJHfrFTtKW3">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
-              <div className="date-day">23</div>
-              <div className="date-month">Mart</div>
+              <div className="date-day">21</div>
+              <div className="date-month">Nisan</div>
               <div className="date-year">2022</div>
             </div>
-            <div className="block-subtitle-text">Webinar: Hemşirelik Eğitim Programlarında Akreditasyon Yolculuğu: Güçlükler-Kazanımlar</div>
+            <div className="block-subtitle-text">Webinar: Hemşirelik Eğitimi Programları Mezunlarını Neden İzlemelidir?</div>
           </div>
           </Link>
-        */}
+        
 
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
