@@ -78,10 +78,8 @@ const Anasayfa = () => (
                   </a></Link>
                 </div>
                 <div className="carousel-item">
-                  <a href="/doc/HepdakDegerlendiriciBasvuruAdayFormu2022.doc" target="_blank">
-                    <div className="main-top-one-title">Duyuru</div>
-                    <div className="main-top-one-content">HEPDAK Değerlendirici Eğitimi Çalıştayı 23-24 Haziran 2022 tarihleri arasında gerçekleştirilecektir. Değerlendirici eğitim çalıştayına katılmak için başvuru formuna <strong>buradan</strong> ulaşabilirsiniz</div>
-                  </a>
+                  <div className="main-top-one-title">Duyuru</div>
+                  <div className="main-top-one-content">HEPDAK Değerlendirici Eğitimi Çalıştayı 23-24 Haziran 2022 tarihleri arasında gerçekleştirilecektir. Eğitime katılım için kontenjanımız dolmuştur. İlginize teşekkür ederiz.</div>
                 </div>
                 <div className="carousel-item">
                   <Link href="/ucretler"><a target="_blank">
