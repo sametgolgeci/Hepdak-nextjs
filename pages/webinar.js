@@ -10,22 +10,28 @@ const Webinar = () => (
 	    <div className="genel">
 	    	<h1>HEPDAK Webinar</h1>
 	    	<div className="webinar-genel">
-	    
+	    	{/*
 	    		<h4>- Yaklaşan Webinarlar -</h4>
 	    		<div className="row">
 	    			<div className="col-md-6">
 	    				<a href="https://us02web.zoom.us/meeting/register/tZ0vcOmprTIiG9x9mzb6xVg55lJHfrFTtKW3"><img className="webinar-afis" src="/img/webinar/21nisan2022.png"></img></a>
 	    			</div>
 	    		</div>
-	    
+	    	*/}
 	    		<h4>- Tamamlanan Webinarlar -</h4>
 	    	</div>
 	    </div>
 	    <div className="webinar-bottom">
-	    	<iframe width="560" height="315" src="https://www.youtube.com/embed/6gJUMWW9N_Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	    	<div className="webinar-bottom-title">Hemşirelik Eğitim Programlarında Akreditasyon Yolculuğu: Güçlükler-Kazanımlar (23 Mart 2022)</div>
+	    	<iframe width="560" height="315" src="https://www.youtube.com/embed/1gM75nsUgp0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	    	<div className="webinar-bottom-title">Hemşirelik Programları Mezunlarını Neden İzlemelidir? : Öğretim Üyesi ve Mezun Görüşleri (21 Nisan 2022)</div>
 	    </div>
 	    <div className="row">
+	    	<div className="col-md-4">
+		   		<div className="embed-responsive embed-responsive-16by9">
+					  <iframe className="embed-responsive-item" src="https://www.youtube.com/embed/6gJUMWW9N_Y" allowFullScreen></iframe>
+					</div>
+				<div className="webinar-bottom-title">Hemşirelik Eğitim Programlarında Akreditasyon Yolculuğu: Güçlükler-Kazanımlar (23 Mart 2022)</div>
+	     	</div>
 	    	<div className="col-md-4">
 		   		<div className="embed-responsive embed-responsive-16by9">
 					  <iframe className="embed-responsive-item" src="https://www.youtube.com/embed/SxLWLhF6fTE" allowFullScreen></iframe>

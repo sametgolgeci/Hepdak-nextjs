@@ -57,8 +57,19 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
-                  <Link href="https://us02web.zoom.us/meeting/register/tZ0vcOmprTIiG9x9mzb6xVg55lJHfrFTtKW3"><a target="_blank">
-                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/webinar/21nisan2022.png"/></div>
+                  <Link href="/haberler/21-04-2022-webinar-haber"><a target="_blank">
+                    <div className="main-top-one-title">Webinar: Hemşirelik Programları Mezunlarını Neden İzlemelidir? : Öğretim Üyesi ve Mezun Görüşleri</div>
+                    <div className="main-top-one-content">
+                      <div className="main-top-one-content-side">
+                        <div className="main-top-one-content-one">
+                          <p>Moderatörlüğünü Prof. Dr. Ayla BAYIK TEMEL'in yürüttüğü toplantıda Ondokuz Mayıs Üniversitesi Sağlık Bilimleri Fakültesi Öğretim Üyesi Prof. Dr. Özen KULAKAÇ ve mezun öğrenci Fatih DİLEK mezun izlemi ile ilgili görüşlerini paylaşmışlardır.</p>
+                        </div>
+                        <div className="main-top-one-content-two">
+                          <img className="slider-img" src="/img/haberler/webinar-21Nisan2022/1.jpg"/>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="main-top-one-continue">Devamı -></div>
                   </a></Link>
                 </div>
                 <div className="carousel-item">
@@ -203,6 +214,17 @@ const Anasayfa = () => (
             <div className="block-title-all"><a href="/tum-haberler">Tüm Haberler</a></div>
           </div>
           
+          <Link href="/haberler/21-04-2022-webinar-haber">
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">21</div>
+              <div className="date-month">Nisan</div>
+              <div className="date-year">2022</div>
+            </div>
+            <div className="block-subtitle-text">Webinar: Hemşirelik Programları Mezunlarını Neden İzlemelidir? : Öğretim Üyesi ve Mezun Görüşleri</div>
+          </div>
+          </Link>
+
           <Link href="/haberler/23-03-2022-webinar-haber">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
@@ -372,21 +394,8 @@ const Anasayfa = () => (
         <div className="main-new-block-alt">
           <div className="main-block-title">
             <div className="block-title-main">Son Etkinlikler</div>
-            <div className="block-title-all"><a href="tum-etkinlikler">Tüm Etkinlikler</a></div>
+            <div className="block-title-all"><a href="/#">Tüm Etkinlikler</a></div>
           </div>
-
-        
-          <Link href="https://us02web.zoom.us/meeting/register/tZ0vcOmprTIiG9x9mzb6xVg55lJHfrFTtKW3">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">21</div>
-              <div className="date-month">Nisan</div>
-              <div className="date-year">2022</div>
-            </div>
-            <div className="block-subtitle-text">Webinar: Hemşirelik Eğitimi Programları Mezunlarını Neden İzlemelidir?</div>
-          </div>
-          </Link>
-        
 
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
