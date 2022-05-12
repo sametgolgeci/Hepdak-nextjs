@@ -11,15 +11,30 @@ const Tum = () => (
         <h1>Tüm Duyurular</h1>
         <div>
           <ul className="nav justify-content-center">
-           <li className="nav-item">
-              <a className="nav-link main-second-nav-item active" data-toggle="pill" href="#yirmibir">2021</a>
+            <li className="nav-item">
+              <a className="nav-link main-second-nav-item active" data-toggle="pill" href="#yirmiiki">2022</a>
+            </li>
+            <li className="nav-item">
+              <a className="nav-link main-second-nav-item" data-toggle="pill" href="#yirmibir">2021</a>
             </li>
             <li className="nav-item">
               <a className="nav-link main-second-nav-item " data-toggle="pill" href="#yirmi">2020</a>
             </li>
           </ul>
           <div className="tab-content">
-            <div id="yirmibir" className="container tab-pane active">
+            <div id="yirmiiki" className="container tab-pane active">
+              <div className="main-top-second">
+                <div className="main-top-second-title">12-18 Mayıs Hemşirelik Haftası</div>
+                <div className="main-top-second-content">
+                  <div className="row">
+                    <div className="col-md-9">
+                      <img className="" src="img/duyurular/12mayis2022.png"/>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div id="yirmibir" className="container tab-pane fade">
               <div className="main-top-second" id="akreditasyon">
                 <div className="main-top-second-title">INQAAHE Üyeliği Hakkında</div>
                 <div className="main-top-second-content">HEPDAK'ın, Yükseköğrenimde Uluslararası Kalite Güvence Ajansları Ağı olarak bilinen <strong>The International Network for Quality Assurance Agencies in Higher Education (INQAAHE)</strong>'a tam üyelik başvurusu kabul edilmiştir.</div>
