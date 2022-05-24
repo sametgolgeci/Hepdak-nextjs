@@ -57,6 +57,22 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
+                  <Link href="/haberler/24-05-2022-haber"><a target="_blank">
+                    <div className="main-top-one-title">YÖKAK tarafından düzenlenen izleme ziyareti gerçekleştirildi</div>
+                    <div className="main-top-one-content">
+                      <div className="main-top-one-content-side">
+                        <div className="main-top-one-content-one">
+                          <p>HEPDAK faaliyetleri her yıl Yükseköğretim Kalite Kurulu (YÖKAK) tarafından izlenmektedir. 2022 yılı izleme toplantısı 24 Mayıs 2022 tarihinde gerçekleştirilmiştir.</p>
+                        </div>
+                        <div className="main-top-one-content-two">
+                          <img className="slider-img" src="/img/haberler/yokak-ziyaret-2022/1.PNG"/>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="main-top-one-continue">Devamı -></div>
+                  </a></Link>
+                </div>
+                <div className="carousel-item">
                   <div className="main-top-one-content-full"><img className="slider-full-img" src="img/duyurular/12mayis2022.png"/></div>
                 </div>
                 <div className="carousel-item">
@@ -217,6 +233,17 @@ const Anasayfa = () => (
             <div className="block-title-all"><a href="/tum-haberler">Tüm Haberler</a></div>
           </div>
           
+          <Link href="/haberler/24-05-2022-haber">
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">24</div>
+              <div className="date-month">Mayıs</div>
+              <div className="date-year">2022</div>
+            </div>
+            <div className="block-subtitle-text">YÖKAK tarafından düzenlenen izleme ziyareti gerçekleştirildi</div>
+          </div>
+          </Link>
+
           <Link href="/haberler/21-04-2022-webinar-haber">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">

@@ -27,6 +27,20 @@ const Tum = () => (
           <div className="tab-content">
             <div id="yirmiiki" className="container tab-pane active">
               <div className="main-top-second">
+                <div className="main-top-second-title">YÖKAK tarafından düzenlenen izleme ziyareti gerçekleştirildi (24 Mayıs 2022)</div>
+                <div className="main-top-second-content">
+                  <p>HEPDAK faaliyetleri her yıl Yükseköğretim Kalite Kurulu (YÖKAK) tarafından izlenmektedir. 2022 yılı izleme toplantısı 24 Mayıs 2022 tarihinde gerçekleştirilmiştir. İlk oturumda izleme yetkilisi ile tanışma sonrası HEPDAK Başkanı Prof. Dr. Gülseren KOCAMAN 2021 yılına ilişkin yürütülen HEPDAK faaliyetleri hakkında bir sunum yapmıştır. Sonraki iki oturumda akreditasyon kurulu ve komisyonlarını temsilen HEPDAK üyeleri ve öğrenci değerlendiriciden oluşan paydaşlar ile odak grup görüşmeleri gerçekleştirilmiştir.</p>
+                </div>
+                <div className="main-top-second-content">
+                  <div className="row">
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/yokak-ziyaret-2022/1.PNG" target="_blank"><img className="calistay-img" src="/img/haberler/yokak-ziyaret-2022/1.PNG" alt="YÖKAK tarafından düzenlenen izleme ziyareti gerçekleştirildi"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/yokak-ziyaret-2022/2.PNG" target="_blank"><img className="calistay-img" src="/img/haberler/yokak-ziyaret-2022/2.PNG" alt="YÖKAK tarafından düzenlenen izleme ziyareti gerçekleştirildi"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/yokak-ziyaret-2022/3.PNG" target="_blank"><img className="calistay-img" src="/img/haberler/yokak-ziyaret-2022/3.PNG" alt="YÖKAK tarafından düzenlenen izleme ziyareti gerçekleştirildi"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/yokak-ziyaret-2022/4.PNG" target="_blank"><img className="calistay-img" src="/img/haberler/yokak-ziyaret-2022/4.PNG" alt="YÖKAK tarafından düzenlenen izleme ziyareti gerçekleştirildi"/></a></div>
+                  </div>
+                </div>  
+              </div>
+              <div className="main-top-second">
                 <div className="main-top-second-title">Webinar: Hemşirelik Programları Mezunlarını Neden İzlemelidir? : Öğretim Üyesi ve Mezun Görüşleri (21 Nisan 2022)</div>
                 <div className="main-top-second-content">
                   <p>Moderatörlüğünü Prof. Dr. Ayla BAYIK TEMEL'in yürüttüğü toplantıda Ondokuz Mayıs Üniversitesi Sağlık Bilimleri Fakültesi Öğretim Üyesi Prof. Dr. Özen KULAKAÇ ve mezun öğrenci Fatih DİLEK mezun izlemi ile ilgili görüşlerini paylaşmışlardır.</p>
