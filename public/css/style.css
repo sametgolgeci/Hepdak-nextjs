@@ -208,6 +208,7 @@ table{
 	color: #212529;
 	width: 25%;
 	display:none;
+	margin-left: 1px;
 }
 .main-top-one-content-full{
 	font-family: 'Roboto', sans-serif;
@@ -259,6 +260,7 @@ table{
 		color: #212529;
 		width: 25%;
 		display: block;
+		margin-left: 4px;
 	}
 	.main-top-one-continue{
 		position: absolute;
