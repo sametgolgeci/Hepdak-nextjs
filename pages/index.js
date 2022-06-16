@@ -105,9 +105,6 @@ const Anasayfa = () => (
                   </a></Link>
                 </div>
                 <div className="carousel-item">
-                  <div className="main-top-one-content-full"><img className="slider-full-img" src="img/duyurular/12mayis2022.png"/></div>
-                </div>
-                <div className="carousel-item">
                   <Link href="/haberler/21-04-2022-webinar-haber"><a target="_blank">
                     <div className="main-top-one-title">Webinar: Hemşirelik Programları Mezunlarını Neden İzlemelidir? : Öğretim Üyesi ve Mezun Görüşleri</div>
                     <div className="main-top-one-content">
@@ -140,16 +137,6 @@ const Anasayfa = () => (
                   </a></Link>
                 </div>
                 <div className="carousel-item">
-                  <div className="main-top-one-title">Duyuru</div>
-                  <div className="main-top-one-content">HEPDAK Değerlendirici Eğitimi Çalıştayı 23-24 Haziran 2022 tarihleri arasında gerçekleştirilecektir. Eğitime katılım için kontenjanımız dolmuştur. İlginize teşekkür ederiz.</div>
-                </div>
-                <div className="carousel-item">
-                  <Link href="/ucretler"><a target="_blank">
-                    <div className="main-top-one-title">Duyuru</div>
-                    <div className="main-top-one-content">2022-2023 Değerlendirme Dönemi Akreditasyon Ücretleri Güncellenmiştir.</div>
-                  </a></Link>
-                </div>
-                <div className="carousel-item">
                   <a href="/doc/hepdak_toplanti_takvim_2022.pdf" target="_blank">
                     <div className="main-top-one-title">HEPDAK 2022 Yılı Toplantı Takvimi</div>
                     <div className="main-top-one-content">HEPDAK tarafından  2022 yılında yapılacak toplantıların tarihlerine  buradan ulaşabilirsiniz.</div>
@@ -160,20 +147,6 @@ const Anasayfa = () => (
                     <div className="main-top-one-title">HEPDAK 2022 Eğitim Takvimi</div>
                     <div className="main-top-one-content">HEPDAK tarafından 2022 yılı içinde yapılacak eğitim takvimine ulaşmak için tıklayınız.</div>
                   </a>
-                </div>
-                <div className="carousel-item">
-                  <a href="/doc/2021_takvim.pdf" target="_blank">
-                    <div className="main-top-one-title">HEPDAK 2021-2022 Dönemi Akreditasyon Takvimi</div>
-                    <div className="main-top-one-content">HEPDAK 2021-2022 dönemi akreditasyon takvimine ulaşmak için tıklayınız.</div>
-                  </a>
-                </div>
-                <div className="carousel-item">
-                  <div className="main-top-one-title">Duyuru</div>
-                  <div className="main-top-one-content">HEPDAK değerlendiricilerimizden Doç. Dr. Sergül Duygulu ve Doç. Dr. Fatoş Korkmaz  ARACİS- Romanya Yüksek Öğretim Kalite Güvenlik Kurumu (Romanian Agency for Quality Assurance in Higher Education) tarafından Uluslararası Değerlendirmeci olarak seçilmişlerdir. Değerlendirmecilerimizi kutluyor, başarılar diliyoruz.<h6>HEPDAK Yönetim Kurulu</h6></div>
-                </div>
-                <div className="carousel-item">
-                  <div className="main-top-one-title">Duyuru</div>
-                  <div className="main-top-one-content">HEPDAK değerlendiricilerimizden ve aynı zamanda HEPDAK Uluslararası Dış Değerlendirme Çalışma Grubu üyelerimizden Doç.Dr.Sergül Duygulu ve Doç.Dr.Fatoş Korkmaz HEPDAK’ın üyesi olduğu CEENQA’nın (Orta ve Doğu Avrupa Yükseköğretim Kalite Güvence Ajansları Ağı) bir diğer üyesi olan ve HEPDAK’ın Değerlendirici Değişim Programı (CEENQA Staff Exchange Program) gerçekleştirdiği Letonya Akreditasyon Ajansı AIC (Academic Information Center)-/AIKA (Quality Agency for Higher Education ) yönetim kurulu tarafından 12.05.2021 tarihinde Dış Değerlendirici olarak seçilmiştir. Değerlendirici hocalarımızı tebrik eder başarılı çalışmalar yürütmelerini dileriz.</div>
                 </div>
                 
                 {/*
