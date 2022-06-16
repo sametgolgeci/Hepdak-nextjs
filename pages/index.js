@@ -57,6 +57,38 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
+                  <Link href="/haberler/02-06-2022-degerlendirici"><a target="_blank">
+                    <div className="main-top-one-title">HEPDAK 2022 yılı Değerlendirici Eğitimi başladı</div>
+                    <div className="main-top-one-content">
+                      <div className="main-top-one-content-side">
+                        <div className="main-top-one-content-one">
+                          <p>Üç aşamalı olarak planlanan HEDPAK 2022 yılı Değerlendirici Eğitiminin ilk aşaması 01 Haziran 2022 tarihinde yapılmıştır...</p>
+                        </div>
+                        <div className="main-top-one-content-two">
+                          <img className="slider-img" src="/img/haberler/hepdak-degerlendirici-egitimi-2022/01.PNG"/>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="main-top-one-continue">Devamı -></div>
+                  </a></Link>
+                </div>
+                <div className="carousel-item">
+                  <Link href="/haberler/01-06-2022-belge"><a target="_blank">
+                    <div className="main-top-one-title">Belge Töreni</div>
+                    <div className="main-top-one-content">
+                      <div className="main-top-one-content-side">
+                        <div className="main-top-one-content-one">
+                          <p>HEPDAK Akreditasyon değerlendirmeleri sonucu 2021-2022 döneminde akredite olmaya hak kazanan kurumlara belge takdim töreni düzenlenmiştir...</p>
+                        </div>
+                        <div className="main-top-one-content-two">
+                          <img className="slider-img" src="/img/haberler/belge-toreni-2022/01.png"/>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="main-top-one-continue">Devamı -></div>
+                  </a></Link>
+                </div>
+                <div className="carousel-item">
                   <Link href="/haberler/24-05-2022-haber"><a target="_blank">
                     <div className="main-top-one-title">YÖKAK tarafından düzenlenen izleme ziyareti gerçekleştirildi</div>
                     <div className="main-top-one-content">
@@ -233,6 +265,28 @@ const Anasayfa = () => (
             <div className="block-title-all"><a href="/tum-haberler">Tüm Haberler</a></div>
           </div>
           
+          <Link href="/haberler/02-06-2022-degerlendirici">
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">02</div>
+              <div className="date-month">Haziran</div>
+              <div className="date-year">2022</div>
+            </div>
+            <div className="block-subtitle-text">HEPDAK 2022 yılı Değerlendirici Eğitimi başladı</div>
+          </div>
+          </Link>
+
+          <Link href="/haberler/01-06-2022-belge">
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">01</div>
+              <div className="date-month">Haziran</div>
+              <div className="date-year">2022</div>
+            </div>
+            <div className="block-subtitle-text">Belge Töreni</div>
+          </div>
+          </Link>
+
           <Link href="/haberler/24-05-2022-haber">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">

@@ -27,6 +27,43 @@ const Tum = () => (
           <div className="tab-content">
             <div id="yirmiiki" className="container tab-pane active">
               <div className="main-top-second">
+                <div className="main-top-second-title">HEPDAK 2022 yılı Değerlendirici Eğitimi başladı (02 Haziran 2022)</div>
+                <div className="main-top-second-content">
+                  <p>Üç aşamalı olarak planlanan HEDPAK 2022 yılı Değerlendirici Eğitiminin ilk aşaması 01 Haziran 2022 tarihinde yapılmıştır. Değerlendirici eğitimine 39 akademisyen katılım göstermiştir. Eğitimin ilk aşaması tanışma ve genel bilgilendirme amacıyla çevrimiçi olarak gerçekleştirilmiştir. İkinci aşamada katılımcılar ön çalışma içeren bireysel hazırlık ve takım başkanları ile grup çalışmaları yürüteceklerdir. Grup çalışmalarının devam edeceği, ikili karşılaştırma etkinliklerinin ve grup sunumlarının yapılacağı üçüncü aşama 23-24 Haziran 2022 tarihleri arasında gerçekleştirilecektir.</p>
+                </div>
+                <div className="main-top-second-content">
+                  <div className="row">
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/hepdak-degerlendirici-egitimi-2022/01.PNG" target="_blank"><img className="calistay-img" src="/img/haberler/hepdak-degerlendirici-egitimi-2022/01.PNG" alt="HEPDAK 2022 yılı Değerlendirici Eğitimi başladı"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/hepdak-degerlendirici-egitimi-2022/02.PNG" target="_blank"><img className="calistay-img" src="/img/haberler/hepdak-degerlendirici-egitimi-2022/02.PNG" alt="HEPDAK 2022 yılı Değerlendirici Eğitimi başladı"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/hepdak-degerlendirici-egitimi-2022/03.PNG" target="_blank"><img className="calistay-img" src="/img/haberler/hepdak-degerlendirici-egitimi-2022/03.PNG" alt="HEPDAK 2022 yılı Değerlendirici Eğitimi başladı"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/hepdak-degerlendirici-egitimi-2022/04.PNG" target="_blank"><img className="calistay-img" src="/img/haberler/hepdak-degerlendirici-egitimi-2022/04.PNG" alt="HEPDAK 2022 yılı Değerlendirici Eğitimi başladı"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/hepdak-degerlendirici-egitimi-2022/05.PNG" target="_blank"><img className="calistay-img" src="/img/haberler/hepdak-degerlendirici-egitimi-2022/05.PNG" alt="HEPDAK 2022 yılı Değerlendirici Eğitimi başladı"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/hepdak-degerlendirici-egitimi-2022/06.PNG" target="_blank"><img className="calistay-img" src="/img/haberler/hepdak-degerlendirici-egitimi-2022/06.PNG" alt="HEPDAK 2022 yılı Değerlendirici Eğitimi başladı"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/hepdak-degerlendirici-egitimi-2022/07.PNG" target="_blank"><img className="calistay-img" src="/img/haberler/hepdak-degerlendirici-egitimi-2022/07.PNG" alt="HEPDAK 2022 yılı Değerlendirici Eğitimi başladı"/></a></div>
+                  </div>
+                </div>  
+              </div>
+              <div className="main-top-second">
+                <div className="main-top-second-title">Belge Töreni (01 Haziran 2022)</div>
+                <div className="main-top-second-content">
+                  <p>HEPDAK Akreditasyon değerlendirmeleri sonucu 2021-2022 döneminde akredite olmaya hak kazanan kurumlara belge takdim töreni düzenlenmiştir. Belge takdim töreni talep eden Tekirdağ Namık Kemal Üniversitesi Sağlık Yüksekokulu Hemşirelik Bölümüne, Akdeniz Üniversitesi Hemşirelik Fakültesine, Sakarya Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümüne, Marmara Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümüne 23-27 Mayıs 2022 tarihleri arasında çevrimiçi; Başkent Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümüne ise yüz yüze tören ile akreditasyon belgeleri takdim edilmiştir. Aynı dönemde akredite edilen, belge takdim töreni talep etmeyen Atatürk Üniversitesi Hemşirelik Fakültesine, Bezmialem Vakıf Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümüne, Gazi Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümüne, İstanbul Cerrahpaşa Üniversitesi Florence Nightingale Hemşirelik Fakültesine, Maltepe Üniversitesi Hemşirelik Yüksekokuluna, Ondokuz Mayıs Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümüne ise akreditasyon belgeleri posta ile gönderilmiştir.</p>
+                </div>
+                <div className="main-top-second-content">
+                  <div className="row">
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/belge-toreni-2022/01.png" target="_blank"><img className="calistay-img" src="/img/haberler/belge-toreni-2022/01.png" alt="Belge Töreni"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/belge-toreni-2022/02.png" target="_blank"><img className="calistay-img" src="/img/haberler/belge-toreni-2022/02.png" alt="Belge Töreni"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/belge-toreni-2022/03.png" target="_blank"><img className="calistay-img" src="/img/haberler/belge-toreni-2022/03.png" alt="Belge Töreni"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/belge-toreni-2022/04.png" target="_blank"><img className="calistay-img" src="/img/haberler/belge-toreni-2022/04.png" alt="Belge Töreni"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/belge-toreni-2022/05.png" target="_blank"><img className="calistay-img" src="/img/haberler/belge-toreni-2022/05.png" alt="Belge Töreni"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/belge-toreni-2022/06.png" target="_blank"><img className="calistay-img" src="/img/haberler/belge-toreni-2022/06.png" alt="Belge Töreni"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/belge-toreni-2022/07.png" target="_blank"><img className="calistay-img" src="/img/haberler/belge-toreni-2022/07.png" alt="Belge Töreni"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/belge-toreni-2022/08.png" target="_blank"><img className="calistay-img" src="/img/haberler/belge-toreni-2022/08.png" alt="Belge Töreni"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/belge-toreni-2022/09.png" target="_blank"><img className="calistay-img" src="/img/haberler/belge-toreni-2022/09.png" alt="Belge Töreni"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/belge-toreni-2022/10.png" target="_blank"><img className="calistay-img" src="/img/haberler/belge-toreni-2022/10.png" alt="Belge Töreni"/></a></div>
+                  </div>
+                </div>  
+              </div>
+              <div className="main-top-second">
                 <div className="main-top-second-title">YÖKAK tarafından düzenlenen izleme ziyareti gerçekleştirildi (24 Mayıs 2022)</div>
                 <div className="main-top-second-content">
                   <p>HEPDAK faaliyetleri her yıl Yükseköğretim Kalite Kurulu (YÖKAK) tarafından izlenmektedir. 2022 yılı izleme toplantısı YÖKAK İzleme Yetkilisi Prof.Dr. Osman Uzun tarafından 24 Mayıs 2022 tarihinde gerçekleştirilmiştir. İlk oturumda izleme yetkilisi Prof. Dr. Osman Uzun ile tanışma sonrası HEPDAK Başkanı Prof.Dr. Gülseren KOCAMAN 2021 yılına ilişkin yürütülen HEPDAK faaliyetleri hakkında bir sunum yapmıştır. Sonraki iki oturumda akreditasyon kurulu ve komisyonlarını temsilen HEPDAK üyeleri ve öğrenci değerlendiriciden oluşan paydaşlar ile odak grup görüşmeleri gerçekleştirilmiştir. Teşekkürler.</p>
