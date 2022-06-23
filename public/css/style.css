@@ -1063,3 +1063,11 @@ table{
 .uluslararasi-link p{
 	padding: 8px 0;
 }
+.kurumsal-img{
+	width: 100%;
+	height: auto;
+	margin: 8px 0 32px;
+}
+.kurumsal-img-blue{
+	background-color: #242857;
+}

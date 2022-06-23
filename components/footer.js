@@ -44,6 +44,7 @@ const Footer = () => (
 			<div className="footer-item-link"><Link href="/uye-listesi"><a>Üye Listesi</a></Link></div>
 			<div className="footer-item-link"><Link href="/tescil-yazilari"><a>Tescil Yazıları</a></Link></div>
 			<div className="footer-item-link"><Link href="/dernek-belgeleri"><a>Dernek Belgeleri</a></Link></div>
+			<div className="footer-item-link"><Link href="/kurumsal-kimlik"><a>Kurumsal Kimlik</a></Link></div>
 		</div>	
 		<div className="col-sm-12 col-md-3 footer-item">
 			<div className="footer-item-title"><strong>Akreditasyon</strong></div>

@@ -18,6 +18,7 @@ const Navigation = () => (
 						<Link href="/idari-personel"><a className="dropdown-item">İdari Personel</a></Link>
 						<Link href="/tescil-yazilari"><a className="dropdown-item">Tescil Yazıları</a></Link>
 			      <Link href="/dernek-belgeleri"><a className="dropdown-item">Dernek Belgeleri</a></Link>
+			      <Link href="/kurumsal-kimlik"><a className="dropdown-item">Kurumsal Kimlik</a></Link>
 					</div>
 				</li>
 				<li className="nav-item dropdown">
