@@ -57,6 +57,22 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
+                  <Link href="/haberler/25-06-2022-degerlendirici"><a target="_blank">
+                    <div className="main-top-one-title">HEPDAK 2022 yılı Değerlendirici Eğitimi tamamlandı</div>
+                    <div className="main-top-one-content">
+                      <div className="main-top-one-content-side">
+                        <div className="main-top-one-content-one">
+                          <p>HEPDAK 2022 yılı Değerlendirici Eğitimi  üç aşamalı olarak çevrimiçi ortamda 1 Haziran, 23-24 Haziran 2022 tarihlerinde gerçekleştirilmiştir. Üç haftalık sürecin ilk aşamasında yarım günlük giriş eğitimi yapılmış, bireysel ve takım çalışmaları ile ilgili bilgilendirme yapılmıştır...</p>
+                        </div>
+                        <div className="main-top-one-content-two">
+                          <img className="slider-img" src="/img/haberler/hepdak-degerlendirici-egitimi-2022/08.PNG"/>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="main-top-one-continue">Devamı -></div>
+                  </a></Link>
+                </div>
+                <div className="carousel-item">
                   <Link href="/haberler/02-06-2022-degerlendirici"><a target="_blank">
                     <div className="main-top-one-title">HEPDAK 2022 yılı Değerlendirici Eğitimi başladı</div>
                     <div className="main-top-one-content">
@@ -238,6 +254,17 @@ const Anasayfa = () => (
             <div className="block-title-all"><a href="/tum-haberler">Tüm Haberler</a></div>
           </div>
           
+          <Link href="/haberler/25-06-2022-degerlendirici">
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">25</div>
+              <div className="date-month">Haziran</div>
+              <div className="date-year">2022</div>
+            </div>
+            <div className="block-subtitle-text">HEPDAK 2022 yılı Değerlendirici Eğitimi tamamlandı</div>
+          </div>
+          </Link>
+
           <Link href="/haberler/02-06-2022-degerlendirici">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">

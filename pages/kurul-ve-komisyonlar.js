@@ -40,6 +40,7 @@ const Kurul = () => (
 	    	<span className="madde-span">• Prof. Dr. Ayla Yava, Hasan Kalyoncu Üniversitesi</span>
 	    	<span className="madde-span">• Doç. Dr. Sergül Duygulu, Hacettepe Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Hülya Kaya, İstanbul Üniversitesi - Cerrahpaşa</span>
+	    	<span className="madde-span">• Dr. Hümeyra Zengin, Hacettepe Üniversitesi Erişkin Hastanesi Hemşire Müdürü</span>
 	    	<span className="madde-span">• Ar. Gör. Dr. Gülçin Uyanık, İzmir Katip Çelebi Üniversitesi</span>
 	    	<span className="madde-span">• Uzm. Demet Gökmen Kavak, Türkiye Sağlık Hizmetleri Kalite Ve Akreditasyon Enstitüsü Standart Geliştirme Birim Sorumlusu</span>
 	    	<span className="madde-span">• Uzm. Hem. Gülnur Gül, İzmir SBÜ Dr. Suat Seren Göğüs Hastalıkları ve Cerrahisi Eğitim ve Araştırma Hastanesi</span>

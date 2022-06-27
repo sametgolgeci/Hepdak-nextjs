@@ -21,6 +21,17 @@ const Calistay = () => (
 		<p className="madde-p">• HEPDAK standartlarının karşılanma durumuna karar verebilme</p>
 		<p className="madde-p">• Değerlendirme raporu hazırlayabilme</p>
 		<p className="madde-p">• Yerinde ve sanal ziyaret süreçlerini anlama</p>
+		<h6><span className="badge badge-custom">8</span> HEPDAK Değerlendirici Eğitim Çalıştayı 1 / 23 - 24 Haziran 2021</h6>
+		<p>
+			<ul className="nav calistay-nav">
+			  <li className="nav-item">
+			    <a className="nav-link calistay-button" href="doc/degerlendirici_egitim_8/program.pdf">Program</a>
+			  </li>
+			  <li className="nav-item">
+			    <a className="nav-link calistay-button" href="doc/degerlendirici_egitim_8/katilim-listesi.pdf">Katılımcı Listesi</a>
+			  </li>
+			</ul>
+		</p>
 		<h6><span className="badge badge-custom">7</span> HEPDAK Değerlendirici Eğitim Çalıştayı 10 - 12 Haziran 2021</h6>
 		<p>
 			<ul className="nav calistay-nav">
