@@ -30,8 +30,33 @@ const Calistay = () => (
 			  <li className="nav-item">
 			    <a className="nav-link calistay-button" href="doc/degerlendirici_egitim_8/katilim-listesi.pdf">Katılımcı Listesi</a>
 			  </li>
+			  <li className="nav-item">
+			    <a className="nav-link calistay-button" data-toggle="collapse" href="#collapseExampleFoto8" role="button" aria-expanded="false" aria-controls="collapseExampleFoto8">Fotoğraflar</a>
+			  </li>
+			  <li className="nav-item">
+			    <a className="nav-link calistay-button" href="doc/degerlendirici_egitim_8/degerlendirme.pdf">Değerlendirme</a>
+			  </li>
 			</ul>
 		</p>
+		<div className="collapse" id="collapseExampleFoto8">
+			<p><strong>-> Fotoğraflar</strong></p>
+			<div className="container">
+				<div className="row">
+					<div className="col-md-3 col-sm-12"><a href="/img/haberler/hepdak-degerlendirici-egitimi-2022/08.PNG" target="_blank"><img className="calistay-img" src="/img/haberler/hepdak-degerlendirici-egitimi-2022/08.PNG" alt="HEPDAK 2022 yılı Değerlendirici Eğitimi tamamlandı"/></a></div>
+          <div className="col-md-3 col-sm-12"><a href="/img/haberler/hepdak-degerlendirici-egitimi-2022/09.PNG" target="_blank"><img className="calistay-img" src="/img/haberler/hepdak-degerlendirici-egitimi-2022/09.PNG" alt="HEPDAK 2022 yılı Değerlendirici Eğitimi tamamlandı"/></a></div>
+          <div className="col-md-3 col-sm-12"><a href="/img/haberler/hepdak-degerlendirici-egitimi-2022/10.PNG" target="_blank"><img className="calistay-img" src="/img/haberler/hepdak-degerlendirici-egitimi-2022/10.PNG" alt="HEPDAK 2022 yılı Değerlendirici Eğitimi tamamlandı"/></a></div>
+          <div className="col-md-3 col-sm-12"><a href="/img/haberler/hepdak-degerlendirici-egitimi-2022/11.PNG" target="_blank"><img className="calistay-img" src="/img/haberler/hepdak-degerlendirici-egitimi-2022/11.PNG" alt="HEPDAK 2022 yılı Değerlendirici Eğitimi tamamlandı"/></a></div>
+          <div className="col-md-3 col-sm-12"><a href="/img/haberler/hepdak-degerlendirici-egitimi-2022/12.PNG" target="_blank"><img className="calistay-img" src="/img/haberler/hepdak-degerlendirici-egitimi-2022/12.PNG" alt="HEPDAK 2022 yılı Değerlendirici Eğitimi tamamlandı"/></a></div>
+          <div className="col-md-3 col-sm-12"><a href="/img/haberler/hepdak-degerlendirici-egitimi-2022/13.PNG" target="_blank"><img className="calistay-img" src="/img/haberler/hepdak-degerlendirici-egitimi-2022/13.PNG" alt="HEPDAK 2022 yılı Değerlendirici Eğitimi tamamlandı"/></a></div>
+          <div className="col-md-3 col-sm-12"><a href="/img/haberler/hepdak-degerlendirici-egitimi-2022/14.PNG" target="_blank"><img className="calistay-img" src="/img/haberler/hepdak-degerlendirici-egitimi-2022/14.PNG" alt="HEPDAK 2022 yılı Değerlendirici Eğitimi tamamlandı"/></a></div>
+          <div className="col-md-3 col-sm-12"><a href="/img/haberler/hepdak-degerlendirici-egitimi-2022/15.PNG" target="_blank"><img className="calistay-img" src="/img/haberler/hepdak-degerlendirici-egitimi-2022/15.PNG" alt="HEPDAK 2022 yılı Değerlendirici Eğitimi tamamlandı"/></a></div>
+          <div className="col-md-3 col-sm-12"><a href="/img/haberler/hepdak-degerlendirici-egitimi-2022/16.PNG" target="_blank"><img className="calistay-img" src="/img/haberler/hepdak-degerlendirici-egitimi-2022/16.PNG" alt="HEPDAK 2022 yılı Değerlendirici Eğitimi tamamlandı"/></a></div>
+          <div className="col-md-3 col-sm-12"><a href="/img/haberler/hepdak-degerlendirici-egitimi-2022/17.PNG" target="_blank"><img className="calistay-img" src="/img/haberler/hepdak-degerlendirici-egitimi-2022/17.PNG" alt="HEPDAK 2022 yılı Değerlendirici Eğitimi tamamlandı"/></a></div>
+          <div className="col-md-3 col-sm-12"><a href="/img/haberler/hepdak-degerlendirici-egitimi-2022/18.PNG" target="_blank"><img className="calistay-img" src="/img/haberler/hepdak-degerlendirici-egitimi-2022/18.PNG" alt="HEPDAK 2022 yılı Değerlendirici Eğitimi tamamlandı"/></a></div>
+          <div className="col-md-3 col-sm-12"><a href="/img/haberler/hepdak-degerlendirici-egitimi-2022/19.PNG" target="_blank"><img className="calistay-img" src="/img/haberler/hepdak-degerlendirici-egitimi-2022/19.PNG" alt="HEPDAK 2022 yılı Değerlendirici Eğitimi tamamlandı"/></a></div>
+				</div>
+			</div>
+		</div>
 		<h6><span className="badge badge-custom">7</span> HEPDAK Değerlendirici Eğitim Çalıştayı 10 - 12 Haziran 2021</h6>
 		<p>
 			<ul className="nav calistay-nav">
