@@ -27,6 +27,72 @@ const Tum = () => (
           <div className="tab-content">
             <div id="yirmiiki" className="container tab-pane active">
               <div className="main-top-second">
+                <div className="main-top-second-title">INQAAHE 2022 Yılı Genel Kurul Toplantısı (25 Mayıs 2022)</div>
+                <div className="main-top-second-content">
+                  <p>HEPDAK 25 Mayıs 2022 tarihinde INQAAHE Genel Kurul toplantısına tam üye statüsü ile
+üç temsilcisi (Prof. Dr. Ayla Bayık Temel, Doç. Dr. Fatoş Korkmaz, Doç. Dr. İmatullah
+Akyar) ile katılmışlardır. Genel Kurul toplantısı dönem başkanı Deb Adair ve yönetim
+kurulunun açılış konuşmaları ile başlamış, sonrasında üç ayrı oturumla INQAAHE’nın 2017-
+2022 yılı stratejik planı doğrultusunda gerçekleştirdiği faaliyetleri aktarılmıştır. İlk oturumda
+INQAAHE faaliyetlerini sürdürülebilirlik, kalite kültürü oluşturma, araştırma ve ilişkili
+faaliyetleri başlıkları altında sunmuştur. İkinci oturumda INQAAHE’nın bütçe raporu ve
+finansal kaynaklar ile ilgili paylaşım yapılmıştır. Son oturumda ise yeni üye ülkeler ve
+yönetim kurulunun tanıtımı ve üyelik ile ilgili stratejilerin görüşülmesi gerçekleştirilmiştir.</p>
+                  <p><a href="https://www.inqaahe.org/blog/first-general-assembly-2022-voting-results/">INQAAHE Oylama Sonuçları</a></p>
+                </div>
+              </div>
+              <div className="main-top-second">
+                <div className="main-top-second-title">INQAAHE 2022 Yılı Webinarı - 2 (24 Mayıs 2022)</div>
+                <div className="main-top-second-content">
+                  <p>Çıktıya dayalı eğitim ve kalite güvenliği konusunun incelendiği INQAAHE’nin Kolombiya
+Ulusal Akreditasyon Konseyi National Accreditation Council - Colombia (CNA) ve Red
+Iberoamericana para el Aseguramiento de la Calidad en la Educación Superior (RIACES).
+işbirliği ile düzenlediği 2022 yılı ikinci webinarı 24 Mayıs 2022 tarihinde gerçekleştirilmiştir.
+(Second Talks webinar on May 24 INQAAHE Talks series, Outcomes-Based Education and
+Quality Assurance). HEPDAK’ı temsilen bu toplantıya Prof. Dr. Ayla Bayık Temel ve Doç.
+Dr. Sergül Duygulu katılmışlardır. Toplantıda öğrencilerin öğrenme çıktılarına dayalı
+öğretim, öğrenim ve kalite güvenliği uygulamaları konularına odaklanılmıştır.</p>
+                </div>
+              </div>
+              <div className="main-top-second">
+                <div className="main-top-second-title">NAQA “Higher Education Quality Assurance in Wartime” Toplantısı (Savaş
+Zamanında Eğitimde Kaliteyi Sürdürmek) (24 Mayıs 2022)</div>
+                <div className="main-top-second-content">
+                  <p>Dünya’yı ve özellikle Ukrayna’yı etkileyen savaş durumunun eğitim ve akreditasyona
+etkilerini gözden geçirmek için Ukrayna Yükseköğretim Akreditasyon Birliği (NAQA)
+önderliğinde 24 Mayıs 2022 tarihinde online düzenlenen toplantıya HEPDAK’ı temsilen
+Doç Merlinda Aluş katılmıştır.</p>
+                  <p>Toplantı ülkenin eğitim bakanın konuşması, ENQA başkanı (The European Association for
+Quality Assurance in Higher Education),EQAR başkanı (The European Quality Assurance
+Register for Higher Education),CEENQA başkanı (Central and Eastern European Network of
+Quality Assurance Agencies), OSCE proje koordinatörü gibi bir çok akreditasyon birliğinin
+katılımıyla yürütülmüştür. NAQA başkanı kurumların savaş öncesi ve sonrasında yürüttüğü
+aktiviteleri konusunda paylaşımlarda bulunmuştur. Kurumun savaş başlangıcından itibaren
+762 kurumun öz değerlendirme raporu aldığını, 391 sonuç kararı verdiğini ve 604 kurumu
+savaş nedeniyle koşullu akredite ettiklerini vurgulamıştır. Toplantıda ülkenin önemli
+üniversitelerinin rektörleri bu süreçte eğitimlerini sürdürme şekillerini sunmuştur. Maripoul
+Üniversitesi, Karazin Üniversitesi, Dnipro Teknoloji Üniversitesi, Taras Shevchenko
+Üniversiteleri savaş sürecindeki eylem planlarını açıklamıştır. Üniversitelerin bir çoğu bu
+süreci kısmen on-line sürdürdüklerini, Erasmus gibi değişim programlarını değerlendirerek
+hem öğrenci hem öğretim elemanı değişimini gerçekleştirdiklerini ve özellikle Avrupa’daki
+üniversitelerinde temsil ofisleri sayesinde eğitimlerini sürdürmeye çalıştıklarını belirtmiştir.</p>
+                </div>
+              </div>
+              <div className="main-top-second" id="ceenqa">
+                <div className="main-top-second-title">CEENQA Paylaşım Toplantısı - 10 (18 Mayıs 2022)</div>
+                <div className="main-top-second-content">
+                  <p>CEENQA'NIN iki ayda bir yapılan toplantısı 18 Mayıs 2022 tarihinde gerçekleştirilmiştir. Bu toplantıya HEPDAK’ı temsilen Prof. Dr. Ayla BAYIK TEMEL katılmıştır.</p>
+                  <p>Toplantının bu oturumunda CEENQA’ya üye Macaristan akreditasyon kuruluşu MAB
+temsilcisi Péter Levente Lakatos kuruluşun yapısı, faaliyet alanları ve akreditasyon süreçlerini
+ve geleceğe yönelik planlamaları konusunda bilgiler vermiştir. Kırgızistan kalite ajansından
+(El baasy Kyrgyzstan) Chinara Babalukova kuruluşun mottosunun “insanlar yalan söylemez”
+belirterek kuruluşun yapısı, faaliyet alanları ve akreditasyon süreçlerini açıklamıştır. Ayrıca
+Kırgızistanda eğitimde kalitenin iyileştirilmesinde işverenlerin rolü konulu sunumunda
+değerlendirme ekiplerinde işverenlere de yer verdiklerini belirtmiştir. Macaristan ajansı da bu
+paydaş gruba eğitimler verildiğini bildirmiştir.</p>
+                </div>
+              </div>
+              <div className="main-top-second">
                 <div className="main-top-second-title">HEPDAK 2022 yılı Değerlendirici Eğitimi tamamlandı (25 Haziran 2022)</div>
                 <div className="main-top-second-content">
                   <p>HEPDAK 2022 yılı Değerlendirici Eğitimi  üç aşamalı olarak çevrimiçi ortamda 1 Haziran, 23-24 Haziran 2022 tarihlerinde gerçekleştirilmiştir. Üç haftalık sürecin ilk aşamasında yarım günlük giriş eğitimi yapılmış, bireysel ve takım çalışmaları ile ilgili bilgilendirme yapılmıştır. İkinci aşamada sekiz takım başkanının danışmanlığında bireysel çalışmalar ve takım çalışmaları yürütülmüştür. Son aşama 23-24 Haziran 2022 tarihlerinde Zoom sınıflarında küçük ve büyük grup tartışmaları, ikili karşılaştırma etkinlikleri ve büyük grup sunum çalışmaları ile sona erdirilmiştir. Eğitime 29 farklı programdan 40 değerlendirici adayı katılmıştır. Eğitimde daha önce eğitim almış dokuz değerlendirici de tazeleme eğitimi amaçlı katılım göstermiştir.</p>
