@@ -22,7 +22,9 @@ const Tescil = () => (
 	    		<p><Link href="doc/HEPDAK-2019-tescilbelge.jpg"><a>İlgili Yükseköğretim Kalite Kurulu yazısı için tıklayınız</a></Link></p>
 	    		<p><Link href="doc/HEPDAK-2019-TESCIL.jpg"><a>İlgili YÖKAK yazısı için tıklayınız</a></Link></p>
 	    	</div>
-	    	<h1>HEPDAK Tescil Başvuru Yazıları ve YÖKAK Değerlendirme Raporları</h1>	
+	    	<h1>HEPDAK Tescil Başvuru Yazıları ve YÖKAK Değerlendirme Raporları</h1>
+	    	<h6>2022</h6>
+	    	<p className="madde-p">• <Link href="doc/hepdak_2021_izleme_raporu.pdf"><a>HEPDAK 2021 yılı İzleme Raporu</a></Link></p>	
 	    	<h6>2018</h6>	
 	    	<p className="madde-p">• <Link href="doc/2018_yokak_hepdak_degerlendirme_raporu.pdf"><a>YÖKAK HEPDAK Değerlendirme Raporu</a></Link></p>
 	    	<p className="madde-p">• <Link href="doc/2018-hepdak-yokak-tescil-basvuru-raporu.pdf"><a>HEPDAK YÖKAK Tescil Başvuru Raporu</a></Link></p>
