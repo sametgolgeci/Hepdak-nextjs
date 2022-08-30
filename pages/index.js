@@ -57,6 +57,12 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
+                  <Link href="/doc/2022_kurum_egitimi_basvuru_formu.doc"><a target="_blank">
+                    <div className="main-top-one-title">HEPDAK 2022 Kurumlar için Eğitim Çalıştayı 15 Ekim 2022 tarihinde çevrimiçi olarak gerçekleştirilecektir</div>
+                    <div className="main-top-one-content"><p>Eğitime başvuru formuna <strong>buradan</strong> ulaşabilirsiniz.<strong> Son başvuru tarihi 30 Eylül 2022'dir. Son başvuru tarihinden itibaren kayıt alınmayacaktır.</strong></p><p><strong>Önemli Not:</strong> 2023 yılında akreditasyona başvurmayı planlayan programdan en az bir yönetici/öğretim elemanının Kurum Tanıtım Eğitimine katılması Yönetim Kurulu kararı ile zorunluluk olarak belirlenmiştir.<strong> Eğitime katılmayan programların başvuruları kabul edilmeyecektir.</strong></p></div>
+                  </a></Link>
+                </div>
+                <div className="carousel-item">
                   <Link href="/haberler/25-06-2022-degerlendirici"><a target="_blank">
                     <div className="main-top-one-title">HEPDAK 2022 yılı Değerlendirici Eğitimi tamamlandı</div>
                     <div className="main-top-one-content">
@@ -417,6 +423,17 @@ const Anasayfa = () => (
             <div className="block-title-all"><a href="/tum-duyurular">Tüm Duyurular</a></div>
           </div>
           
+          <Link href="/duyurular/30-08-2022-duyuru">
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">30</div>
+              <div className="date-month">Ağustos</div>
+              <div className="date-year">2022</div>
+            </div>
+            <div className="block-subtitle-text">2022 Kurumlar için Eğitim Çalıştayı Duyurusu</div>
+          </div>
+          </Link>
+
           <Link href="/duyurular/26-12-2021-INQAAHE-uyeligi-hakkinda">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
@@ -446,7 +463,7 @@ const Anasayfa = () => (
               <div className="date-month">Temmuz</div>
               <div className="date-year">2021</div>
             </div>
-            <div className="block-subtitle-text">Kurumlara Yönelik Eğitim Çalıştayı - 2021</div>
+            <div className="block-subtitle-text">2021 Kurumlara Yönelik Eğitim Çalıştayı</div>
           </div>
           </Link>
 

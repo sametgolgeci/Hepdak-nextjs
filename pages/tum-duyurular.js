@@ -23,6 +23,10 @@ const Tum = () => (
           </ul>
           <div className="tab-content">
             <div id="yirmiiki" className="container tab-pane active">
+              <div className="main-top-second" id="akreditasyon">
+                <div className="main-top-second-title">HEPDAK 2022 Kurumlar için Eğitim Çalıştayı 15 Ekim 2022 tarihinde çevrimiçi olarak gerçekleştirilecektir</div>
+                <div className="main-top-second-content"><p>Eğitime başvuru formuna <Link href="/doc/2022_kurum_egitimi_basvuru_formu.doc"><a target="_blank"><strong>buradan</strong></a></Link> ulaşabilirsiniz.<strong> Son başvuru tarihi 30 Eylül 2022'dir. Son başvuru tarihinden itibaren kayıt alınmayacaktır.</strong></p><p><strong>Önemli Not:</strong> 2023 yılında akreditasyona başvurmayı planlayan programdan en az bir yönetici/öğretim elemanının Kurum Tanıtım Eğitimine katılması Yönetim Kurulu kararı ile zorunluluk olarak belirlenmiştir.<strong> Eğitime katılmayan programların başvuruları kabul edilmeyecektir.</strong></p></div>
+              </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">12-18 Mayıs Hemşirelik Haftası</div>
                 <div className="main-top-second-content">
