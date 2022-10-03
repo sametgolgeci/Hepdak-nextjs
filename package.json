@@ -14,7 +14,7 @@
     "@fortawesome/free-solid-svg-icons": "^5.15.1",
     "@fortawesome/react-fontawesome": "^0.1.12",
     "emailjs-com": "^2.6.4",
-    "next": "^10.0.7",
+    "next": "^12.1.0",
     "node-fetch": ">=2.6.1",
     "react": "16.12.0",
     "react-dom": "16.12.0"
