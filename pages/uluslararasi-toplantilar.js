@@ -13,6 +13,19 @@ const Calistay = () => (
 		<h4>- CEENQA Faaliyetleri</h4>
 		<h6><span className="badge badge-custom">-</span> CEENQA Haberler </h6>
 			<div className="madde-p">
+				<a className="uluslararasi-link" data-toggle="collapse" href="#collapseCEENQA11" role="button" aria-expanded="false" aria-controls="collapseCEENQA11">- CEENQA Paylaşım Toplantısı - 11 (20 Temmuz 2022)</a>
+				<div className="collapse" id="collapseCEENQA11">
+					<p>CEENQA'NIN iki ayda bir yapılan toplantısı 20 Temmuz 2022 tarihinde gerçekleştirilmiştir.
+Toplantıya HEPDAK’ı temsilen Prof. Dr. Ayla BAYIK TEMEL katılmıştır.</p>
+					<p>Toplantıda CEENQA’ya üye Ermenistan akreditasyon kuruluşu ANQA’yı temsilen Varduhi
+Gyulazyan kuruluşun yapısı, misyonu, değerleri, faaliyet alanları ve akreditasyon süreçlerini,
+paydaş katılımlarını, öğrencilerin katılımı projesi konularında bilgiler vermiştir.</p>
+					<p>Sırbistan kuruluşu NEAQA ‘yı temsilen Janko Balšić Sırbistanda yüksek öğrenim, kalite
+güvenliği, kuruluşun yapısı ve faaliyetlerini açıklamıştır.</p>
+					<p>Nataliia Stukalo NAQA kuruluşunun Ukrayna’da süregiden savaş sürecinde kalite
+çalışmalarını ve üniversitelerde kalitenin sürdürülmesi için alınan önlemleri faaliyetleri
+açıklamıştır.</p>
+				</div>
 				<a className="uluslararasi-link" data-toggle="collapse" href="#collapseCEENQA10" role="button" aria-expanded="false" aria-controls="collapseCEENQA10">- CEENQA Paylaşım Toplantısı - 10 (18 Mayıs 2022)</a>
 				<div className="collapse" id="collapseCEENQA10">
 					<p>CEENQA'NIN iki ayda bir yapılan toplantısı 18 Mayıs 2022 tarihinde gerçekleştirilmiştir. Bu toplantıya HEPDAK’ı temsilen Prof. Dr. Ayla BAYIK TEMEL katılmıştır.</p>
@@ -187,6 +200,39 @@ faaliyetleri başlıkları altında sunmuştur. İkinci oturumda INQAAHE’nın 
 finansal kaynaklar ile ilgili paylaşım yapılmıştır. Son oturumda ise yeni üye ülkeler ve
 yönetim kurulunun tanıtımı ve üyelik ile ilgili stratejilerin görüşülmesi gerçekleştirilmiştir.</p>
 					<p><a href="https://www.inqaahe.org/blog/first-general-assembly-2022-voting-results/">INQAAHE Oylama Sonuçları</a></p>
+				</div>
+				<a className="uluslararasi-link" data-toggle="collapse" href="#collapseINQAAHE210422" role="button" aria-expanded="false" aria-controls="collapseINQAAHE210422">- INQAAHE Newsletter (21 Nisan 2022)</a>
+				<div className="collapse" id="collapseINQAAHE210422">
+					<p>HEPDAK’ın üye olduğu INQAAHE nin 2022 yılı 2. Bültenin de HEPDAK tarafından
+21 Nisan 2022 tarihinde <strong>“Hemşirelik Programları Mezunlarını Neden
+İzlemelidir? Mezun Ve Öğretim Üyesi Görüşleri”</strong> konulu webinar programı
+hakkında açıklamalar yer almıştır.</p>
+					<h6>Why Should Nursing Programs Track Graduates? The Faculty
+and Graduate Opinions webinar was held by HEPDAK on 21st
+of April 2022</h6>
+					<p><strong>Association for Evaluation and Accreditation of Nursing Education Programs (HEPDAK)</strong></p>
+					<p>Prof. Dr. Ayla Bayık Temel (moderator) opened the webinar by welcoming participants and
+briefly remarking that graduate nurses are potential advisors for the nursing schools in
+systematically reevaluating the program's success and quality assurance. Prof. Dr. Özden
+Kulakaç from Ondokuz Mayıs University reported that in ensuring quality assurance, university
+programs are directly responsible for considering the needs and expectations of their students,
+all other stakeholders, and the quality assurance of their outputs. Nursing programs should care
+about graduates' employment, job adaptation, continuous learning, appointment and promotion,
+academic advancement, or professional development. The aim of alumni follow-up is to
+contribute to the development of the training program, to get feedback on the changes in
+practice and the qualifications of colleagues.</p>
+					<p>The challenge frequently faced in the follow-up of the graduates is the development and
+operation of a follow-up system. This challenge can be overcome to a great extent by
+developing loyal/committed graduates, supporting the graduate’s involvement, and using
+information systems for monitoring. Effective/continuous communication channels should be
+developed and kept open.</p>
+					<p>Fatih Mehmet Çakıroğlu (MSN student) emphasized that to get the graduate nurses' continuous
+relationship with the faculty, students should gain an institutional identity during their training and
+be satisfied with their education. Graduates expect their programs to organize activities that
+bring them together with faculty members on specific dates and renew the curriculum and
+competencies to prepare graduates for the business environment.</p>
+					<p>The webinar generated much interest; and the moderator fielded many questions and queries
+posed by participants to be answered by the presenters.</p>
 				</div>
 				<a className="uluslararasi-link" data-toggle="collapse" href="#collapseINQAAHE240522" role="button" aria-expanded="false" aria-controls="collapseINQAAHE240522">- INQAAHE 2022 Yılı Webinarı - 2 (24 Mayıs 2022)</a>
 				<div className="collapse" id="collapseINQAAHE240522">

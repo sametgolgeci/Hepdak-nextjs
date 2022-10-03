@@ -25,9 +25,9 @@ const Kurul = () => (
 	    	<span className="madde-span">• Prof. Dr. Sevgi Hatipoğlu, Karatay Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Kadriye Buldukoğlu, Akdeniz Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Ayla Bayık Temel, Emekli Öğretim Üyesi</span>
-	    	<span className="madde-span">• Prof. Dr. Hülya Okumuş, (Hemşirelik Eğitimi Derneği Temsilcisi) Emekli Öğretim Üyesi,<strong> Türk Hemşireler Derneği ve Özel Hastaneler Temsilcisi</strong></span>
+	    	<span className="madde-span">• Prof. Dr. Hülya Okumuş, (Hemşirelik Eğitimi Derneği Temsilcisi) Emekli Öğretim Üyesi</span>
 	    	<span className="madde-span">• Prof. Dr. Dilek Özmen, Manisa Celal Bayar Üniversitesi</span>
-	    	<span className="madde-span">• <strong>Türk Hemşireler Derneği:</strong> Dr. Hümeyra Zengin, Hacettepe Üniversitesi Erişkin Hastanesi Hemşire Müdürü{/*,<strong> Hemşirelik Hizmetleri Yöneticileri</strong>*/}</span>
+	    	<span className="madde-span">• <strong>Türk Hemşireler Derneği:</strong> Dr. Hümeyra Zengin, Hacettepe Üniversitesi Erişkin Hastanesi Hemşire Müdürü</span>
 	    	<span className="madde-span">• Dr. Öğ. Üyesi Leman Kutlu, Haliç Üniversitesi</span>
 	    	<span className="madde-span">• Uzm. Hem. Sevil Erken Uncu, Sağlık Bakanlığı Hastaneleri Temsilcisi</span>
 	    	<span className="madde-span">• <strong>Hemşire:</strong> Uzm. Hem. Serap İleri, Dokuz Eylül Üniversitesi Hastanesi</span>
@@ -45,7 +45,7 @@ const Kurul = () => (
 	    	<span className="madde-span">• Uzm. Demet Gökmen Kavak, Türkiye Sağlık Hizmetleri Kalite Ve Akreditasyon Enstitüsü Standart Geliştirme Birim Sorumlusu</span>
 	    	<span className="madde-span">• Uzm. Hem. Gülnur Gül, İzmir SBÜ Dr. Suat Seren Göğüs Hastalıkları ve Cerrahisi Eğitim ve Araştırma Hastanesi</span>
 	    	<span className="madde-span">• Öğ. Gör. Dr. Yasin Çetin, Adıyaman Üniversitesi</span>
-	    	<span className="madde-span">• <strong>Öğrenci:</strong> Mervenur Doğan, Ondokuz Mayıs Üniversitesi</span>
+	    	<span className="madde-span">• <strong>Öğrenci:</strong> Mervenur Doğan, Manisa Celal Bayar Üniversitesi</span>
 
 	    	<h3 className="kurul-title">Program Değerlendirme ve İzleme Komisyonu (PDİK)</h3>
 	    	<span className="madde-span">• Prof. Dr. Ayla Bayık Temel (Başkan), Ege Üniversitesi</span>

@@ -21,7 +21,7 @@ const Calistay = () => (
 		<p className="madde-p">• HEPDAK standartlarının karşılanma durumuna karar verebilme</p>
 		<p className="madde-p">• Değerlendirme raporu hazırlayabilme</p>
 		<p className="madde-p">• Yerinde ve sanal ziyaret süreçlerini anlama</p>
-		<h6><span className="badge badge-custom">8</span> HEPDAK Değerlendirici Eğitim Çalıştayı 1 / 23 - 24 Haziran 2021</h6>
+		<h6><span className="badge badge-custom">8</span> 01 / 23 - 24 Haziran 2022</h6>
 		<p>
 			<ul className="nav calistay-nav">
 			  <li className="nav-item">
@@ -57,7 +57,7 @@ const Calistay = () => (
 				</div>
 			</div>
 		</div>
-		<h6><span className="badge badge-custom">7</span> HEPDAK Değerlendirici Eğitim Çalıştayı 10 - 12 Haziran 2021</h6>
+		<h6><span className="badge badge-custom">7</span> 10 - 12 Haziran 2021</h6>
 		<p>
 			<ul className="nav calistay-nav">
 			  <li className="nav-item">
@@ -112,7 +112,7 @@ const Calistay = () => (
 				</div>
 			</div>
 		</div>
-		<h6><span className="badge badge-custom">6</span> Değerlendiriciler ve Kurumlar için Uzaktan Değerlendirme Eğitimi Çalıştayı 13 Kasım 2020</h6>
+		<h6><span className="badge badge-custom">6</span> 13 Kasım 2020</h6>
 		<ul className="nav calistay-nav">
 		  <li className="nav-item">
 		    <a target="_blank" className="nav-link calistay-button" href="doc/uzaktan_calistay_1/13Kasım2020_uzaktan_calistay_program.pdf">Program</a>
@@ -127,7 +127,7 @@ const Calistay = () => (
 		    <a target="_blank" className="nav-link calistay-button" href="https://youtu.be/cKAATDtq0K0">Eğitim Videosu</a>
 		  </li>
 		</ul>
-		<h6><span className="badge badge-custom">5</span> HEPDAK Değerlendirici Eğitim Çalıştayı 10 - 12 Ağustos 2020 (İzmir)</h6>
+		<h6><span className="badge badge-custom">5</span> 10 - 12 Ağustos 2020 (İzmir)</h6>
 		<p>
 			<ul className="nav calistay-nav">
 			  <li className="nav-item">
@@ -158,7 +158,7 @@ const Calistay = () => (
 		<a href="/doc/degerlendirici_egitim_5/10.uzaktan_degerlendirme.ppt">10. Uzaktan Değerlendirme</a><br/>
 		<a href="/doc/degerlendirici_egitim_5/11.degerlendirme_raporu_yazımı_ve_cıkıs_gorusmesi.ppt">11. Değerlendirme Raporu Yazımı ve Çıkış Görüşmesi</a></p>
 		</div>
-		<h6><span className="badge badge-custom">4</span> HEPDAK Değerlendirici Eğitim Çalıştayı 03 - 04 Eylül 2018 (İzmir)</h6>
+		<h6><span className="badge badge-custom">4</span> 03 - 04 Eylül 2018 (İzmir)</h6>
 		<ul className="nav calistay-nav">
 		  <li className="nav-item">
 		    <a className="nav-link calistay-button" href="doc/3-4eylul2018-deg-egitim-programi.pdf">Program</a>
@@ -170,7 +170,7 @@ const Calistay = () => (
 		    <a className="nav-link calistay-button" href="doc/2018_degerlendirme.pdf">Değerlendirme</a>
 		  </li>
 		</ul>
-		<h6><span className="badge badge-custom">3</span> HEPDAK Değerlendirici Eğitim Çalıştayı 19 - 20 Ocak 2017 (İzmir)</h6>
+		<h6><span className="badge badge-custom">3</span> 19 - 20 Ocak 2017 (İzmir)</h6>
 		<ul className="nav calistay-nav">
 		  <li className="nav-item">
 		    <a className="nav-link calistay-button" href="doc/19-20Ocak2017-program.pdf">Program</a>
@@ -182,13 +182,13 @@ const Calistay = () => (
 		    <a className="nav-link calistay-button" href="doc/19-20Ocak2017-degerlendirme.pdf">Değerlendirme</a>
 		  </li>
 		</ul>
-		<h6><span className="badge badge-custom">2</span> HEPDAK Değerlendirici Eğitim Çalıştayı 04 Eylül 2015 (İzmir)</h6>
+		<h6><span className="badge badge-custom">2</span> 04 Eylül 2015 (İzmir)</h6>
 		<ul className="nav calistay-nav">
 		  <li className="nav-item">
 		    <a className="nav-link calistay-button" href="doc/4Eylul2015_ogr_program.pdf">Program</a>
 		  </li>
 		</ul>
-		<h6><span className="badge badge-custom">1</span> HEPDAK Değerlendirici Eğitim Çalıştayı 28 - 29 Mart 2015 (İzmir)</h6>
+		<h6><span className="badge badge-custom">1</span> 28 - 29 Mart 2015 (İzmir)</h6>
 		<ul className="nav calistay-nav">
 		  <li className="nav-item">
 		    <a className="nav-link calistay-button" href="doc/28-29Mart2015_ogr_program.pdf">Program</a>
