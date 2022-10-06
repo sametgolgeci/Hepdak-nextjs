@@ -18,6 +18,14 @@ const Calistay = () => (
 		<p className="madde-p">• Değerlendirme süreci; Fakülte ve Bölümlerin akreditasyon hazırlıkları</p>
 		<p className="madde-p">• Özdeğerlendirme raporları</p>
 		<p className="madde-p">• Değerlendirme takımlarınca yapılan kurum ziyaretleri</p>
+		<h6><span className="badge badge-custom">10</span> 15 Ekim 2022</h6>
+		<p>
+			<ul className="nav calistay-nav">
+			  <li className="nav-item">
+			    <a className="nav-link calistay-button" href="doc/kurumlar_egitim_10/program.pdf">Program</a>
+			  </li>
+			</ul>
+		</p>
 		<h6><span className="badge badge-custom">9</span> 09 - 10 Eylül 2021</h6>
 		<p>
 			<ul className="nav calistay-nav">
