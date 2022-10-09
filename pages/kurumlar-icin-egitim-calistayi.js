@@ -24,8 +24,25 @@ const Calistay = () => (
 			  <li className="nav-item">
 			    <a className="nav-link calistay-button" href="doc/kurumlar_egitim_10/program.pdf">Program</a>
 			  </li>
+			  <li className="nav-item">
+			    <a className="nav-link calistay-button" data-toggle="collapse" href="#collapseOn" role="button" aria-expanded="false" aria-controls="collapseOn">Sunumlar</a>
+			  </li>
 			</ul>
 		</p>
+		<div className="collapse" id="collapseOn">
+		<p><strong>-> Sunumlar</strong></p>
+		<p className="madde-p">
+		<a href="/doc/kurumlar_egitim_10/kurum10_01.pdf">1. Giriş</a><br/>
+		<a href="/doc/kurumlar_egitim_10/kurum10_02.pdf">2. Akreditasyon Süreci</a><br/>
+		<a href="/doc/kurumlar_egitim_10/kurum10_03.pdf">3. Standart 1</a><br/>
+		<a href="/doc/kurumlar_egitim_10/kurum10_04.pdf">4. Standart 2</a><br/>
+		<a href="/doc/kurumlar_egitim_10/kurum10_05.pdf">5. Standart 3</a><br/>
+		<a href="/doc/kurumlar_egitim_10/kurum10_06.pdf">6. Standart 4</a><br/>
+		<a href="/doc/kurumlar_egitim_10/kurum10_07.pdf">7. Standart 5-6</a><br/>
+		<a href="/doc/kurumlar_egitim_10/kurum10_08.pdf">8. Standart 7-8</a><br/>
+		<a href="/doc/kurumlar_egitim_10/kurum10_09.pdf">9. Uzaktan Değerlendirme</a><br/>
+		<a href="/doc/kurumlar_egitim_10/kurum10_10.pdf">10. Özdeğerlendirme İçeriğinin Hazırlaması ve Dikkat Edilecek Konular</a></p>
+		</div>
 		<h6><span className="badge badge-custom">9</span> 09 - 10 Eylül 2021</h6>
 		<p>
 			<ul className="nav calistay-nav">
