@@ -430,6 +430,17 @@ const Anasayfa = () => (
             <div className="block-title-all"><a href="/tum-duyurular">Tüm Duyurular</a></div>
           </div>
           
+          <Link href="/doc/hepdak_genel_kurulu_4.pdf">
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">20</div>
+              <div className="date-month">Ekim</div>
+              <div className="date-year">2022</div>
+            </div>
+            <div className="block-subtitle-text">HEPDAK 4. Olağan Genel Kurulu</div>
+          </div>
+          </Link>
+
           <Link href="/duyurular/30-08-2022-duyuru">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
