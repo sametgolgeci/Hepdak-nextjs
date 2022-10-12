@@ -59,7 +59,7 @@ const Anasayfa = () => (
                 <div className="carousel-item active">
                   <Link href="/doc/hepdak_genel_kurulu_4.pdf"><a target="_blank">
                     <div className="main-top-one-title">HEPDAK 4. Olağan Genel Kurulu</div>
-                    <div className="main-top-one-content"><p>HEPDAK 4. Olağan Genel Kurulu 20 Ekim Perşembe günü saat 17.00'da gerçekleştirecektir.</p></div>
+                    <div className="main-top-one-content"><p>HEPDAK 4. Olağan Genel Kurulu 20 Ekim Perşembe günü saat 17.00'da gerçekleştirecektir. Duyuru içeriğine <strong>buradan</strong> ulaşabilirsiniz.</p></div>
                     <div className="main-top-one-continue">Devamı -></div>
                   </a></Link>
                 </div>
@@ -267,6 +267,17 @@ const Anasayfa = () => (
             <div className="block-title-all"><a href="/tum-haberler">Tüm Haberler</a></div>
           </div>
           
+          <Link href="/haberler/23-09-2022-haber">
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">23-24</div>
+              <div className="date-month">Eylül</div>
+              <div className="date-year">2022</div>
+            </div>
+            <div className="block-subtitle-text">HEPDAK CEENQA Genel Kurulu ve Çalıştayına Katıldı</div>
+          </div>
+          </Link>
+
           <Link href="/haberler/25-06-2022-degerlendirici">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
