@@ -49,6 +49,7 @@ const Iletisim = () => (
 		</div>
 	</div>
 	
+	{/*
 		<h5 className="iletisim-h5">Şikayet ve Öneriler</h5>
 		<div className="iletisim-mesaj">
 	    <form action="" method="post" onSubmit={sendEmail}>
@@ -78,7 +79,7 @@ const Iletisim = () => (
 	    </div>
 	  </div>
 
-	{/* This is a comment */}
+	 This is a comment */}
 </MasterPage>
 )
 export default Iletisim
