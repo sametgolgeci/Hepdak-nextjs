@@ -10,15 +10,15 @@ const Kurul = () => (
 	    <div className="genel">
 	    <h1>Kurullar</h1>
 	    	<h3 className="kurul-title">HEPDAK Yönetim Kurulu</h3>
-	    	<span className="madde-span">• Prof. Dr. Gülseren Kocaman (Başkan), Emekli Öğretim Üyesi</span>
-	    	<span className="madde-span">• Prof. Dr. Ayla Bayık Temel (Başkan Yardımcısı), Emekli Öğretim Üyesi</span>
-	    	<span className="madde-span">• Prof. Dr. Dilek Özmen (Genel Sekreter), Manisa Celal Bayar Üniversitesi</span>
-	    	<span className="madde-span">• Prof. Dr. Şenay Ünsal Atan (Sayman), Ege Üniversitesi</span>
-	    	<span className="madde-span">• Prof. Dr. Ayten Zaybak (Üye), Ege Üniversitesi</span>
+	    	<span className="madde-span">• Prof. Dr. Dilek Özmen (Başkan), Manisa Celal Bayar Üniversitesi</span>
+	    	<span className="madde-span">• Prof. Dr. Medine Yılmaz (Sekreter), İzmir Katip Çelebi Üniversitesi</span>
+	    	<span className="madde-span">• Doç. Dr. Gülsüm Nihal Çürük (Sayman), İzmir Ekonomi Üniversitesi</span>
+	    	<span className="madde-span">• Prof. Dr. Özen Kulakaç (Üye), Ondokuz Mayıs Üniversitesi</span>
+	    	<span className="madde-span">• Doç. Dr. Fatma Orgun (Üye), Ege Üniversitesi</span>
 	    	<h3 className="kurul-title">HEPDAK Denetleme Kurulu</h3>
-	    	<span className="madde-span">• Doç. Dr. Fatma Orgun, Ege Üniversitesi</span>
-	    	<span className="madde-span">• Uzm. Hem. Sevil Erken Uncu, Sağlık Bakanlığı Hastaneleri Temsilcisi</span>
-	    	<span className="madde-span">• Uzm. Hem. Serap İleri, Dokuz Eylül Üniversitesi Hastanesi</span>
+	    	<span className="madde-span">• Prof. Dr. Hatice Yıldırım Sarı (Başkan), İzmir Katip Çelebi Üniversitesi</span>
+	    	<span className="madde-span">• Prof. Dr. Gülseren Kocaman, Emekli Öğretim Üyesi</span>
+	    	<span className="madde-span">• Uzm. Hem. Dr. Serap İleri, Dokuz Eylül Üniversitesi Hastanesi</span>
 	    	<h3 className="kurul-title">Hemşirelik Eğitim Programları Akreditasyon Kurulu (HEAK)</h3>
 	    	<span className="madde-span">• Prof. Dr. Gülseren Kocaman (Başkan), Emekli Öğretim Üyesi</span>
 	    	<span className="madde-span">• Prof. Dr. Ümit Seviğ, Emekli Öğretim Üyesi</span>
