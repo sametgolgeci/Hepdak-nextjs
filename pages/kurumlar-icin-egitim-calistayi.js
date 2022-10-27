@@ -27,8 +27,33 @@ const Calistay = () => (
 			  <li className="nav-item">
 			    <a className="nav-link calistay-button" data-toggle="collapse" href="#collapseOn" role="button" aria-expanded="false" aria-controls="collapseOn">Sunumlar</a>
 			  </li>
+			  <li className="nav-item">
+			    <a className="nav-link calistay-button" data-toggle="collapse" href="#collapseExampleFoto10" role="button" aria-expanded="false" aria-controls="collapseExampleFoto10">Fotoğraflar</a>
+			  </li>
+			  <li className="nav-item">
+			    <a className="nav-link calistay-button" href="doc/kurumlar_egitim_10/degerlendirme.pdf">Değerlendirme</a>
+			  </li>
 			</ul>
 		</p>
+		<div className="collapse" id="collapseExampleFoto10">
+			<p><strong>-> Fotoğraflar</strong></p>
+			<div className="container">
+				<div className="row">
+					<div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_10/photo-01.PNG" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_10/photo-01.PNG" alt="Kurumlar için Eğitim Çalıştayı 10"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_10/photo-02.PNG" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_10/photo-02.PNG" alt="Kurumlar için Eğitim Çalıştayı 10"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_10/photo-03.PNG" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_10/photo-03.PNG" alt="Kurumlar için Eğitim Çalıştayı 10"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_10/photo-04.PNG" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_10/photo-04.PNG" alt="Kurumlar için Eğitim Çalıştayı 10"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_10/photo-05.PNG" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_10/photo-05.PNG" alt="Kurumlar için Eğitim Çalıştayı 10"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_10/photo-06.PNG" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_10/photo-06.PNG" alt="Kurumlar için Eğitim Çalıştayı 10"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_10/photo-07.PNG" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_10/photo-07.PNG" alt="Kurumlar için Eğitim Çalıştayı 10"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_10/photo-08.PNG" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_10/photo-08.PNG" alt="Kurumlar için Eğitim Çalıştayı 10"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_10/photo-09.PNG" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_10/photo-09.PNG" alt="Kurumlar için Eğitim Çalıştayı 10"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_10/photo-10.PNG" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_10/photo-10.PNG" alt="Kurumlar için Eğitim Çalıştayı 10"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_10/photo-11.PNG" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_10/photo-11.PNG" alt="Kurumlar için Eğitim Çalıştayı 10"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_10/photo-12.PNG" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_10/photo-12.PNG" alt="Kurumlar için Eğitim Çalıştayı 10"/></a></div>
+				</div>
+			</div>
+		</div>
 		<div className="collapse" id="collapseOn">
 		<p><strong>-> Sunumlar</strong></p>
 		<p className="madde-p">

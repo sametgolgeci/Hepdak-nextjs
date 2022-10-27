@@ -13,6 +13,13 @@ const Paydas = () => (
 			<table className="table table-striped">
 	      <tbody>
 	      	<tr>
+	          <th scope="row">7</th>
+	          <td>
+		          <Link href="doc/paydas_toplantilari/belge_7_1.pdf"><a target="_blank">Hemşirelik Lisans Programı Yöneticileri Toplantısı - 2.1 (13.10.2022)</a></Link><br/>
+		          <Link href="doc/paydas_toplantilari/belge_7_2.ppt"><a target="_blank">Hemşirelik Lisans Programı Yöneticileri Toplantısı - 2.2 (13.10.2022)</a></Link>
+	          </td>
+	        </tr>
+	      	<tr>
 	          <th scope="row">6</th>
 	          <td><Link href="doc/paydas_toplantilari/belge_6.pdf"><a target="_blank">2021-2022 Dönemi Akreditasyon İçin Ziyaret Yapılan Kurumlar ile Toplantı (15.03.2022)</a></Link></td>
 	        </tr>

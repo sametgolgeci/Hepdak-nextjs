@@ -57,6 +57,10 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
+                  <div className="main-top-one-title">HEPDAK 10. Kurumlar için Eğitim Çalıştayı (15 Ekim 2022)</div>
+                  <div className="main-top-one-content"><p>HEPDAK 2022 Kurum Eğitimi Çalıştaylarının 10.su 15 Ekim 2022 tarihinde çevrimiçi olarak gerçekleştirilmiştir. Eğitime 63 farklı kurumdan 152 öğretim elemanı katılım göstermiştir. Eğitim, standart sunumların yanı sıra 9 vakayı 18 grubun eş zamanlı çalıştığı ve grup sunumlarının gerçekleştiği bir format ile yürütülmüştür.</p></div>
+                </div>
+                <div className="carousel-item">
                   <Link href="/doc/hepdak_genel_kurulu_4.pdf"><a target="_blank">
                     <div className="main-top-one-title">HEPDAK 4. Olağan Genel Kurulu</div>
                     <div className="main-top-one-content"><p>HEPDAK 4. Olağan Genel Kurulu 20 Ekim Perşembe günü saat 17.00'da gerçekleştirecektir. Duyuru içeriğine <strong>buradan</strong> ulaşabilirsiniz.</p></div>

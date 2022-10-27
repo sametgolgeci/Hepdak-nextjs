@@ -27,6 +27,43 @@ const Tum = () => (
           <div className="tab-content">
             <div id="yirmiiki" className="container tab-pane active">
               <div className="main-top-second">
+                <div className="main-top-second-title">HEPDAK 10. Kurumlar için Eğitim Çalıştayı (15 Ekim 2022)</div>
+                <div className="main-top-second-content">
+                  <p>HEPDAK 2022 Kurum Eğitimi Çalıştaylarının 10.su 15 Ekim 2022 tarihinde çevrimiçi olarak gerçekleştirilmiştir. Eğitime 63 farklı kurumdan 152 öğretim elemanı katılım göstermiştir. Eğitim, standart sunumların yanı sıra 9 vakayı 18 grubun eş zamanlı çalıştığı ve grup sunumlarının gerçekleştiği bir format ile yürütülmüştür.</p>
+                </div>
+                <div className="main-top-second-content">
+                  <div className="row">
+                    <div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_10/photo-01.PNG" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_10/photo-01.PNG" alt="Kurumlar için Eğitim Çalıştayı 10"/></a></div>
+                    <div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_10/photo-02.PNG" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_10/photo-02.PNG" alt="Kurumlar için Eğitim Çalıştayı 10"/></a></div>
+                    <div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_10/photo-03.PNG" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_10/photo-03.PNG" alt="Kurumlar için Eğitim Çalıştayı 10"/></a></div>
+                    <div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_10/photo-04.PNG" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_10/photo-04.PNG" alt="Kurumlar için Eğitim Çalıştayı 10"/></a></div>
+                    <div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_10/photo-05.PNG" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_10/photo-05.PNG" alt="Kurumlar için Eğitim Çalıştayı 10"/></a></div>
+                    <div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_10/photo-06.PNG" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_10/photo-06.PNG" alt="Kurumlar için Eğitim Çalıştayı 10"/></a></div>
+                    <div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_10/photo-07.PNG" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_10/photo-07.PNG" alt="Kurumlar için Eğitim Çalıştayı 10"/></a></div>
+                    <div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_10/photo-08.PNG" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_10/photo-08.PNG" alt="Kurumlar için Eğitim Çalıştayı 10"/></a></div>
+                    <div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_10/photo-09.PNG" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_10/photo-09.PNG" alt="Kurumlar için Eğitim Çalıştayı 10"/></a></div>
+                    <div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_10/photo-10.PNG" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_10/photo-10.PNG" alt="Kurumlar için Eğitim Çalıştayı 10"/></a></div>
+                    <div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_10/photo-11.PNG" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_10/photo-11.PNG" alt="Kurumlar için Eğitim Çalıştayı 10"/></a></div>
+                    <div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_10/photo-12.PNG" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_10/photo-12.PNG" alt="Kurumlar için Eğitim Çalıştayı 10"/></a></div>
+                  </div>
+                </div>  
+              </div>
+              <div className="main-top-second">
+                <div className="main-top-second-title">HEPDAK 2022 yılı Hemşirelik Lisans Programı Yöneticileri Toplantısı - 2 (13 Ekim 2022)</div>
+                <div className="main-top-second-content">
+                  <p>HEPDAK'ın paydaş toplantıları kapsamında 2022 yılı Hemşirelik Lisans Programı Yöneticileri Toplantısının ikincisi 13 Ekim 2022 tarihinde çevrimiçi olarak gerçekleştirilmiştir. Toplantıya kurumdan 76 kurumdan 82 yönetici katılım göstermiştir. Toplantıda Prof. Dr. Gülseren Kocaman'ın akreditasyon çalışmaları ile ilgili sunumun yanı sıra Standartları Belirleme ve Geliştirme Komisyonu Başkanı Prof. Dr. Kadriye Buldukoğlu'da akreditasyon değerlendirme süreçlerinde "Çıktı odaklı ve rubrik derecelendirmeye dayalı" sisteme geçiş ile ilgili güncelleme çalışmasına yönelik bir sunum yapmıştır.</p>
+                </div>
+                <div className="main-top-second-content">
+                  <div className="row">
+                    <div className="col-md-3 col-sm-12"><a href="/img/haberler/hemsirelik-lisans-programi-yoneticileri-toplantisi-2-2022/photo-01.PNG" target="_blank"><img className="calistay-img" src="/img/haberler/hemsirelik-lisans-programi-yoneticileri-toplantisi-2-2022/photo-01.PNG" alt="HEPDAK 2022 yılı Hemşirelik Lisans Programı Yöneticileri Toplantısı - 2"/></a></div>
+                    <div className="col-md-3 col-sm-12"><a href="/img/haberler/hemsirelik-lisans-programi-yoneticileri-toplantisi-2-2022/photo-02.PNG" target="_blank"><img className="calistay-img" src="/img/haberler/hemsirelik-lisans-programi-yoneticileri-toplantisi-2-2022/photo-02.PNG" alt="HEPDAK 2022 yılı Hemşirelik Lisans Programı Yöneticileri Toplantısı - 2"/></a></div>
+                    <div className="col-md-3 col-sm-12"><a href="/img/haberler/hemsirelik-lisans-programi-yoneticileri-toplantisi-2-2022/photo-03.PNG" target="_blank"><img className="calistay-img" src="/img/haberler/hemsirelik-lisans-programi-yoneticileri-toplantisi-2-2022/photo-03.PNG" alt="HEPDAK 2022 yılı Hemşirelik Lisans Programı Yöneticileri Toplantısı - 2"/></a></div>
+                    <div className="col-md-3 col-sm-12"><a href="/img/haberler/hemsirelik-lisans-programi-yoneticileri-toplantisi-2-2022/photo-04.PNG" target="_blank"><img className="calistay-img" src="/img/haberler/hemsirelik-lisans-programi-yoneticileri-toplantisi-2-2022/photo-04.PNG" alt="HEPDAK 2022 yılı Hemşirelik Lisans Programı Yöneticileri Toplantısı - 2"/></a></div>
+                    <div className="col-md-3 col-sm-12"><a href="/img/haberler/hemsirelik-lisans-programi-yoneticileri-toplantisi-2-2022/photo-05.PNG" target="_blank"><img className="calistay-img" src="/img/haberler/hemsirelik-lisans-programi-yoneticileri-toplantisi-2-2022/photo-05.PNG" alt="HEPDAK 2022 yılı Hemşirelik Lisans Programı Yöneticileri Toplantısı - 2"/></a></div>
+                  </div>
+                </div>  
+              </div>
+              <div className="main-top-second">
                 <div className="main-top-second-title">HEPDAK CEENQA Genel Kurulu ve Çalıştayına Katıldı (23-24 Eylül 2022)</div>
                 <div className="main-top-second-content">
                   <p>HEPDAK’ı temsilen Doç. Dr. Fatoş Korkmaz, 23-24 Eylül 2022 tarihinde Türkiye'deki Öğretmen
