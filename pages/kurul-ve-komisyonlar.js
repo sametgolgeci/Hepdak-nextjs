@@ -11,7 +11,7 @@ const Kurul = () => (
 	    <h1>Kurullar</h1>
 	    	<h3 className="kurul-title">HEPDAK Yönetim Kurulu</h3>
 	    	<span className="madde-span">• Prof. Dr. Dilek Özmen (Başkan), Manisa Celal Bayar Üniversitesi</span>
-	    	<span className="madde-span">• Prof. Dr. Medine Yılmaz (Sekreter), İzmir Katip Çelebi Üniversitesi</span>
+	    	<span className="madde-span">• Prof. Dr. Medine Yılmaz (Genel Sekreter), İzmir Katip Çelebi Üniversitesi</span>
 	    	<span className="madde-span">• Doç. Dr. Gülsüm Nihal Çürük (Sayman), İzmir Ekonomi Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Özen Kulakaç (Üye), Ondokuz Mayıs Üniversitesi</span>
 	    	<span className="madde-span">• Doç. Dr. Fatma Orgun (Üye), Ege Üniversitesi</span>
