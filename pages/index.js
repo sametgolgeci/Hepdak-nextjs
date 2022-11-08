@@ -283,7 +283,7 @@ const Anasayfa = () => (
               <div className="date-month">Ekim</div>
               <div className="date-year">2022</div>
             </div>
-            <div className="block-subtitle-text">HEPDAK Türkiye Yeterlilikler Çerçevesi Uluslararası Konferansı Katıldı</div>
+            <div className="block-subtitle-text">HEPDAK Türkiye Yeterlilikler Çerçevesi Uluslararası Konferansı'na Katıldı</div>
           </div>
           </Link>
 
