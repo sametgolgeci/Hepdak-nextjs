@@ -57,14 +57,6 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
-                  <div className="main-top-one-content-full"><img className="slider-full-img" src="/img/duyurular/10kasim2022.png"/></div>
-                </div>
-                <div className="carousel-item">
-                  <Link href="https://us02web.zoom.us/meeting/register/tZIsf-2grjssEtAEoMjr0ErTh4cU16vASUPv"><a target="_blank">
-                    <div className="main-top-one-content-full"><img className="slider-full-img" src="/img/webinar/10kasim2022.png"/></div>
-                  </a></Link>
-                </div>
-                <div className="carousel-item">
                   <div className="main-top-one-title">HEPDAK 10. Kurumlar için Eğitim Çalıştayı (15 Ekim 2022)</div>
                   <div className="main-top-one-content"><p>HEPDAK 2022 Kurum Eğitimi Çalıştaylarının 10.su 15 Ekim 2022 tarihinde çevrimiçi olarak gerçekleştirilmiştir. Eğitime 63 farklı kurumdan 152 öğretim elemanı katılım göstermiştir. Eğitim, standart sunumların yanı sıra 9 vakayı 18 grubun eş zamanlı çalıştığı ve grup sunumlarının gerçekleştiği bir format ile yürütülmüştür.</p></div>
                 </div>
