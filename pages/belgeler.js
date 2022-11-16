@@ -40,15 +40,11 @@ const Belgeler = () => (
                 </tr>
                 <tr>
                   <th scope="row">6</th>
-                  <td>HEPDAK Program Değerlendirme ve İzleme Komisyonu Çalışma Yönergesi <Link href="doc/a6.pdf"><a>Sürüm 1.0</a></Link></td>
+                  <td>HEPDAK Arşivleme Yönergesi <Link href="doc/a6_v1.pdf"><a>Sürüm 1.0</a></Link> | <Link href="doc/a6_v2.pdf"><a>Sürüm 2.0</a></Link> | <strong>Sürüm 3.0</strong> (<Link href="doc/a6_v3.pdf"><a>PDF</a></Link> | <Link href="doc/a6_v3.docx"><a>Word</a></Link>)</td>
                 </tr>
                 <tr>
                   <th scope="row">7</th>
-                  <td>HEPDAK Arşivleme Yönergesi <Link href="doc/a7_v1.pdf"><a>Sürüm 1.0</a></Link> | <Link href="doc/a7_v2.pdf"><a>Sürüm 2.0</a></Link> | <strong>Sürüm 3.0</strong> (<Link href="doc/a7_v3.pdf"><a>PDF</a></Link> | <Link href="doc/a7_v3.docx"><a>Word</a></Link>)</td>
-                </tr>
-                <tr>
-                  <th scope="row">8</th>
-                  <td>HEPDAK Sürekli İyileştirme Komisyonu Yönergesi <strong>Sürüm 1.0</strong> (<Link href="doc/a8_v1.pdf"><a>PDF</a></Link> | <Link href="doc/a8_v1.docx"><a>Word</a></Link>)</td>
+                  <td>HEPDAK Sürekli İyileştirme Komisyonu Yönergesi <strong>Sürüm 1.0</strong> (<Link href="doc/a7_v1.pdf"><a>PDF</a></Link> | <Link href="doc/a7_v1.docx"><a>Word</a></Link>)</td>
                 </tr>
               </tbody>
             </table>
@@ -61,11 +57,11 @@ const Belgeler = () => (
               <tbody>
                 <tr>
                   <th scope="row" width="10px">1</th>
-                  <td><p>HEPDAK Program Değerlendirme Başvuru Formu <Link href="doc/b1-basvuru-2022-2023.doc"><a>Word</a></Link></p></td>
+                  <td><p>HEPDAK Program Değerlendirme Başvuru Formu <Link href="doc/b1-basvuru-2023-2024.doc"><a>Word</a></Link></p></td>
                 </tr>
                 <tr>
                   <th scope="row">2</th>
-                  <td>HEPDAK Değerlendirme ve Akreditasyon Süreci <Link href="doc/b2_v1.pdf"><a>Sürüm 1.0</a></Link></td>
+                  <td>HEPDAK Değerlendirme ve Akreditasyon Süreci <Link href="doc/b2_v1.pdf"><a>Sürüm 1.0</a></Link> | <Link href="doc/b2_v1_1.pdf"><a>Sürüm 1.1</a></Link></td>
                 </tr>
                 <tr>
                   <th scope="row">3</th>

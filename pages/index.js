@@ -57,15 +57,8 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
-                  <div className="main-top-one-title">HEPDAK 10. Kurumlar için Eğitim Çalıştayı (15 Ekim 2022)</div>
-                  <div className="main-top-one-content"><p>HEPDAK 2022 Kurum Eğitimi Çalıştaylarının 10.su 15 Ekim 2022 tarihinde çevrimiçi olarak gerçekleştirilmiştir. Eğitime 63 farklı kurumdan 152 öğretim elemanı katılım göstermiştir. Eğitim, standart sunumların yanı sıra 9 vakayı 18 grubun eş zamanlı çalıştığı ve grup sunumlarının gerçekleştiği bir format ile yürütülmüştür.</p></div>
-                </div>
-                <div className="carousel-item">
-                  <Link href="/doc/hepdak_genel_kurulu_4.pdf"><a target="_blank">
-                    <div className="main-top-one-title">HEPDAK 4. Olağan Genel Kurulu</div>
-                    <div className="main-top-one-content"><p>HEPDAK 4. Olağan Genel Kurulu 20 Ekim Perşembe günü saat 17.00'da gerçekleştirecektir. Duyuru içeriğine <strong>buradan</strong> ulaşabilirsiniz.</p></div>
-                    <div className="main-top-one-continue">Devamı -></div>
-                  </a></Link>
+                  <div className="main-top-one-title">HEPDAK 4. Olağan Genel Kurulu</div>
+                  <div className="main-top-one-content"><p>HEPDAK 4. Olağan Genel Kurulu 20 Ekim Perşembe günü saat 17.00&#39;de gerçekleştirilmiştir. Genel kurulda Manisa Celal Bayar Üniversitesinnden Prof. Dr. Dilek Özmen, İzmir Katip Çelebi Üniversitesi’nden Prof. Dr. Medine Yılmaz, İzmir Ekonomi Üniversitesinden Doç. Dr. Gülsüm Nihal Çürük, Ondokuz Mayıs Üniversitesinden Prof. Dr. Özen Kulakaç ve Ege Üniversitesinden Doç. Dr. Fatma Orgun HEPDAK Yönetim Kurulu’na seçilmişlerdir.</p></div>
                 </div>
                 <div className="carousel-item">
                   <Link href="/doc/2022_kurum_egitimi_basvuru_formu.doc"><a target="_blank">
@@ -83,22 +76,6 @@ const Anasayfa = () => (
                         </div>
                         <div className="main-top-one-content-two">
                           <img className="slider-img" src="/img/haberler/hepdak-degerlendirici-egitimi-2022/08.PNG"/>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="main-top-one-continue">Devamı -></div>
-                  </a></Link>
-                </div>
-                <div className="carousel-item">
-                  <Link href="/haberler/02-06-2022-degerlendirici"><a target="_blank">
-                    <div className="main-top-one-title">HEPDAK 2022 yılı Değerlendirici Eğitimi başladı</div>
-                    <div className="main-top-one-content">
-                      <div className="main-top-one-content-side">
-                        <div className="main-top-one-content-one">
-                          <p>Üç aşamalı olarak planlanan HEDPAK 2022 yılı Değerlendirici Eğitiminin ilk aşaması 01 Haziran 2022 tarihinde yapılmıştır...</p>
-                        </div>
-                        <div className="main-top-one-content-two">
-                          <img className="slider-img" src="/img/haberler/hepdak-degerlendirici-egitimi-2022/01.PNG"/>
                         </div>
                       </div>
                     </div>
@@ -244,7 +221,7 @@ const Anasayfa = () => (
   
     <div className="main-fast-akredite">
       <div className="fast-akredite-button col-md-4">
-        <Link href="/doc/b1-basvuru-2022-2023.doc"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faCheck}/>Akreditasyon Başvurusu</button></a></Link>
+        <Link href="/doc/b1-basvuru-2023-2024.doc"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faCheck}/>Akreditasyon Başvurusu</button></a></Link>
       </div>
       <div className="fast-akredite-button col-md-4">
         <Link href="/akreditasyon-sureci"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faHourglassStart}/>Akreditasyon Süreci</button></a></Link>
@@ -466,39 +443,6 @@ const Anasayfa = () => (
             <div className="block-title-main">Son Duyurular</div>
             <div className="block-title-all"><a href="/tum-duyurular">Tüm Duyurular</a></div>
           </div>
-          
-          <Link href="/doc/hepdak_genel_kurulu_4.pdf">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">20</div>
-              <div className="date-month">Ekim</div>
-              <div className="date-year">2022</div>
-            </div>
-            <div className="block-subtitle-text">HEPDAK 4. Olağan Genel Kurulu</div>
-          </div>
-          </Link>
-
-          <Link href="/duyurular/30-08-2022-duyuru">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">30</div>
-              <div className="date-month">Ağustos</div>
-              <div className="date-year">2022</div>
-            </div>
-            <div className="block-subtitle-text">2022 Kurumlar için Eğitim Çalıştayı Duyurusu</div>
-          </div>
-          </Link>
-
-          <Link href="/duyurular/26-12-2021-INQAAHE-uyeligi-hakkinda">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">26</div>
-              <div className="date-month">Aralık</div>
-              <div className="date-year">2021</div>
-            </div>
-            <div className="block-subtitle-text">INQAAHE Üyeliği Hakkında</div>
-          </div>
-          </Link>
 
           <Link href="/duyurular/15-06-2021-akreditasyon-takvimi">
           <div className="main-block-subtitle">
@@ -508,39 +452,6 @@ const Anasayfa = () => (
               <div className="date-year">2021</div>
             </div>
             <div className="block-subtitle-text">HEPDAK 2021-2022 Dönemi Akreditasyon Takvimi</div>
-          </div>
-          </Link>
-
-          <Link href="/duyurular/15-07-2021-kurumlara-yonelik-egitim-calistayi">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">15</div>
-              <div className="date-month">Temmuz</div>
-              <div className="date-year">2021</div>
-            </div>
-            <div className="block-subtitle-text">2021 Kurumlara Yönelik Eğitim Çalıştayı</div>
-          </div>
-          </Link>
-
-          <Link href="/duyurular/03-06-2021-degerlendirici-egitimi">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">03</div>
-              <div className="date-month">Haziran</div>
-              <div className="date-year">2021</div>
-            </div>
-            <div className="block-subtitle-text">HEPDAK Değerlendirici Eğitimi</div>
-          </div>
-          </Link>
-
-          <Link href="/duyurular/21-03-2021-ogrenci-degerlendirici-egitimi-calistayi">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">21</div>
-              <div className="date-month">Mart</div>
-              <div className="date-year">2021</div>
-            </div>
-            <div className="block-subtitle-text">HEPDAK Öğrenci Değerlendiricileri Eğitimi Çalıştayı</div>
           </div>
           </Link>
 
