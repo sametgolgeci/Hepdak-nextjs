@@ -16,7 +16,7 @@ const Paydas = () => (
 	          <th scope="row">7</th>
 	          <td>
 		          <Link href="doc/paydas_toplantilari/belge_7_1.pdf"><a target="_blank">Hemşirelik Lisans Programı Yöneticileri Toplantısı - 2.1 (13.10.2022)</a></Link><br/>
-		          <Link href="doc/paydas_toplantilari/belge_7_2.ppt"><a target="_blank">Hemşirelik Lisans Programı Yöneticileri Toplantısı - 2.2 (13.10.2022)</a></Link>
+		          <Link href="doc/paydas_toplantilari/belge_7_2.pdf"><a target="_blank">Hemşirelik Lisans Programı Yöneticileri Toplantısı - 2.2 (13.10.2022)</a></Link>
 	          </td>
 	        </tr>
 	      	<tr>

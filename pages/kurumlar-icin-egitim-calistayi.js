@@ -25,6 +25,9 @@ const Calistay = () => (
 			    <a className="nav-link calistay-button" href="doc/kurumlar_egitim_10/program.pdf">Program</a>
 			  </li>
 			  <li className="nav-item">
+			    <a className="nav-link calistay-button" href="doc/kurumlar_egitim_10/katilimci-listesi.pdf">Katılımcı Listesi</a>
+			  </li>
+			  <li className="nav-item">
 			    <a className="nav-link calistay-button" data-toggle="collapse" href="#collapseOn" role="button" aria-expanded="false" aria-controls="collapseOn">Sunumlar</a>
 			  </li>
 			  <li className="nav-item">

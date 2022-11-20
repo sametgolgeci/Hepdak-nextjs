@@ -61,28 +61,6 @@ const Anasayfa = () => (
                   <div className="main-top-one-content"><p>HEPDAK 4. Olağan Genel Kurulu 20 Ekim Perşembe günü saat 17.00&#39;de gerçekleştirilmiştir. Genel kurulda Manisa Celal Bayar Üniversitesinnden Prof. Dr. Dilek Özmen, İzmir Katip Çelebi Üniversitesi’nden Prof. Dr. Medine Yılmaz, İzmir Ekonomi Üniversitesinden Doç. Dr. Gülsüm Nihal Çürük, Ondokuz Mayıs Üniversitesinden Prof. Dr. Özen Kulakaç ve Ege Üniversitesinden Doç. Dr. Fatma Orgun HEPDAK Yönetim Kurulu’na seçilmişlerdir.</p></div>
                 </div>
                 <div className="carousel-item">
-                  <Link href="/doc/2022_kurum_egitimi_basvuru_formu.doc"><a target="_blank">
-                    <div className="main-top-one-title">HEPDAK 2022 Kurumlar için Eğitim Çalıştayı 15 Ekim 2022 tarihinde çevrimiçi olarak gerçekleştirilecektir</div>
-                    <div className="main-top-one-content"><p>Eğitime başvuru formuna <strong>buradan</strong> ulaşabilirsiniz.<strong> Son başvuru tarihi 30 Eylül 2022'dir. Son başvuru tarihinden itibaren kayıt alınmayacaktır.</strong></p><p><strong>Önemli Not:</strong> 2023 yılında akreditasyona başvurmayı planlayan programdan en az bir yönetici/öğretim elemanının Kurum Tanıtım Eğitimine katılması Yönetim Kurulu kararı ile zorunluluk olarak belirlenmiştir.<strong> Eğitime katılmayan programların başvuruları kabul edilmeyecektir.</strong></p></div>
-                  </a></Link>
-                </div>
-                <div className="carousel-item">
-                  <Link href="/haberler/25-06-2022-degerlendirici"><a target="_blank">
-                    <div className="main-top-one-title">HEPDAK 2022 yılı Değerlendirici Eğitimi tamamlandı</div>
-                    <div className="main-top-one-content">
-                      <div className="main-top-one-content-side">
-                        <div className="main-top-one-content-one">
-                          <p>HEPDAK 2022 yılı Değerlendirici Eğitimi  üç aşamalı olarak çevrimiçi ortamda 1 Haziran, 23-24 Haziran 2022 tarihlerinde gerçekleştirilmiştir. Üç haftalık sürecin ilk aşamasında yarım günlük giriş eğitimi yapılmış, bireysel ve takım çalışmaları ile ilgili bilgilendirme yapılmıştır...</p>
-                        </div>
-                        <div className="main-top-one-content-two">
-                          <img className="slider-img" src="/img/haberler/hepdak-degerlendirici-egitimi-2022/08.PNG"/>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="main-top-one-continue">Devamı -></div>
-                  </a></Link>
-                </div>
-                <div className="carousel-item">
                   <Link href="/haberler/01-06-2022-belge"><a target="_blank">
                     <div className="main-top-one-title">Belge Töreni</div>
                     <div className="main-top-one-content">
@@ -92,54 +70,6 @@ const Anasayfa = () => (
                         </div>
                         <div className="main-top-one-content-two">
                           <img className="slider-img" src="/img/haberler/belge-toreni-2022/01.png"/>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="main-top-one-continue">Devamı -></div>
-                  </a></Link>
-                </div>
-                <div className="carousel-item">
-                  <Link href="/haberler/24-05-2022-haber"><a target="_blank">
-                    <div className="main-top-one-title">YÖKAK tarafından düzenlenen izleme ziyareti gerçekleştirildi</div>
-                    <div className="main-top-one-content">
-                      <div className="main-top-one-content-side">
-                        <div className="main-top-one-content-one">
-                          <p>HEPDAK faaliyetleri her yıl Yükseköğretim Kalite Kurulu (YÖKAK) tarafından izlenmektedir. 2022 yılı izleme toplantısı 24 Mayıs 2022 tarihinde gerçekleştirilmiştir.</p>
-                        </div>
-                        <div className="main-top-one-content-two">
-                          <img className="slider-img" src="/img/haberler/yokak-ziyaret-2022/1.PNG"/>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="main-top-one-continue">Devamı -></div>
-                  </a></Link>
-                </div>
-                <div className="carousel-item">
-                  <Link href="/haberler/21-04-2022-webinar-haber"><a target="_blank">
-                    <div className="main-top-one-title">Webinar: Hemşirelik Programları Mezunlarını Neden İzlemelidir? : Öğretim Üyesi ve Mezun Görüşleri</div>
-                    <div className="main-top-one-content">
-                      <div className="main-top-one-content-side">
-                        <div className="main-top-one-content-one">
-                          <p>Moderatörlüğünü Prof. Dr. Ayla BAYIK TEMEL'in yürüttüğü toplantıda Ondokuz Mayıs Üniversitesi Sağlık Bilimleri Fakültesi Öğretim Üyesi Prof. Dr. Özen KULAKAÇ ve mezun öğrenci Fatih DİLEK mezun izlemi ile ilgili görüşlerini paylaşmışlardır.</p>
-                        </div>
-                        <div className="main-top-one-content-two">
-                          <img className="slider-img" src="/img/haberler/webinar-21Nisan2022/1.jpg"/>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="main-top-one-continue">Devamı -></div>
-                  </a></Link>
-                </div>
-                <div className="carousel-item">
-                  <Link href="/haberler/23-03-2022-webinar-haber"><a target="_blank">
-                    <div className="main-top-one-title">Webinar: Hemşirelik Eğitim Programlarında Akreditasyon Yolculuğu: Güçlükler-Kazanımlar</div>
-                    <div className="main-top-one-content">
-                      <div className="main-top-one-content-side">
-                        <div className="main-top-one-content-one">
-                          <p>Moderatörlüğünü Prof. Dr. Dilek ÖZMEN'in yaptığı toplantıda Ege Üniversitesi Hemşirelik Fakültesi Dekanı Prof. Dr. Ayşegül DÖNMEZ, Başkent Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölüm Başkanı Azize KARAHAN ve Tekirdağ Namık Kemal Üniversitesi Sağlık Yüksekokulu Müdürü Doç.Dr. Tülin YILDIZ, kurumlarının akreditasyon süreçlerinde...</p>
-                        </div>
-                        <div className="main-top-one-content-two">
-                          <img className="slider-img" src="/img/haberler/webinar-23Mart2022/1.PNG"/>
                         </div>
                       </div>
                     </div>

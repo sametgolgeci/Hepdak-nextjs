@@ -40,11 +40,11 @@ const Belgeler = () => (
                 </tr>
                 <tr>
                   <th scope="row">6</th>
-                  <td>HEPDAK Arşivleme Yönergesi <Link href="doc/a6_v1.pdf"><a>Sürüm 1.0</a></Link> | <Link href="doc/a6_v2.pdf"><a>Sürüm 2.0</a></Link> | <strong>Sürüm 3.0</strong> (<Link href="doc/a6_v3.pdf"><a>PDF</a></Link> | <Link href="doc/a6_v3.docx"><a>Word</a></Link>)</td>
+                  <td>HEPDAK Sürekli İyileştirme Komisyonu Yönergesi <strong>Sürüm 1.0</strong> (<Link href="doc/a6_v1.pdf"><a>PDF</a></Link> | <Link href="doc/a6_v1.docx"><a>Word</a></Link>)</td>
                 </tr>
                 <tr>
                   <th scope="row">7</th>
-                  <td>HEPDAK Sürekli İyileştirme Komisyonu Yönergesi <strong>Sürüm 1.0</strong> (<Link href="doc/a7_v1.pdf"><a>PDF</a></Link> | <Link href="doc/a7_v1.docx"><a>Word</a></Link>)</td>
+                  <td>HEPDAK Arşivleme Yönergesi <Link href="doc/a7_v1.pdf"><a>Sürüm 1.0</a></Link> | <Link href="doc/a7_v2.pdf"><a>Sürüm 2.0</a></Link> | <strong>Sürüm 3.0</strong> (<Link href="doc/a7_v3.pdf"><a>PDF</a></Link> | <Link href="doc/a7_v3.docx"><a>Word</a></Link>)</td>
                 </tr>
               </tbody>
             </table>
