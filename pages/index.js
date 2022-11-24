@@ -200,6 +200,28 @@ const Anasayfa = () => (
           </div>
           </Link>
 
+          <Link href="/haberler/15-10-2022-haber">
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">15</div>
+              <div className="date-month">Ekim</div>
+              <div className="date-year">2022</div>
+            </div>
+            <div className="block-subtitle-text">HEPDAK 10. Kurumlar için Eğitim Çalıştayı</div>
+          </div>
+          </Link>
+
+          <Link href="/haberler/13-10-2022-haber">
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">13</div>
+              <div className="date-month">Ekim</div>
+              <div className="date-year">2022</div>
+            </div>
+            <div className="block-subtitle-text">HEPDAK 2022 yılı Hemşirelik Lisans Programı Yöneticileri Toplantısı - 2</div>
+          </div>
+          </Link>
+
           <Link href="/haberler/23-09-2022-haber">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
