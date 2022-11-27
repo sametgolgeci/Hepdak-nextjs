@@ -178,6 +178,28 @@ const Anasayfa = () => (
             <div className="block-title-all"><a href="/tum-haberler">Tüm Haberler</a></div>
           </div>
           
+          <Link href="/haberler/16-11-2022-CEENQA">
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">16</div>
+              <div className="date-month">Kasım</div>
+              <div className="date-year">2022</div>
+            </div>
+            <div className="block-subtitle-text">CEENQA Paylaşım Toplantısı - 12</div>
+          </div>
+          </Link>
+
+          <Link href="/haberler/16-11-2022-INQAAHE">
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">16</div>
+              <div className="date-month">Kasım</div>
+              <div className="date-year">2022</div>
+            </div>
+            <div className="block-subtitle-text">INQAAHE Konuşmaları Webinar Toplantısı</div>
+          </div>
+          </Link>
+
           <Link href="/haberler/10-11-2022-haber">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">

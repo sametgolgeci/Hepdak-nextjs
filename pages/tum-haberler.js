@@ -27,6 +27,42 @@ const Tum = () => (
           <div className="tab-content">
             <div id="yirmiiki" className="container tab-pane active">
               <div className="main-top-second">
+                <div className="main-top-second-title">CEENQA Paylaşım Toplantısı - 12 (16 Kasım 2022)</div> 
+                <div className="main-top-second-content">
+                  <p>CEENQA tarafından iki ayda bir yapılan 12. toplantı 16 Kasım 2022 tarihinde gerçekleşmiştir.
+HEPDAK’ı temsilen toplantıya Prof. Dr. Ayla BAYIK TEMEL ve Doç. Dr. Fatoş
+KORKMAZ katılmışlardır. Toplantının bu oturumunda CEENQA’ya üye Bulgaristan
+akreditasyon kuruluşu National Evaluation and Accreditation Agency (NEAA) temsilcisi
+kuruluşun yapısı, misyonu, amaçları, faaliyet alanları ve ulusal/uluslararası akreditasyon
+süreçlerini paylaşmıştır. Kosova kuruluşu Kosovo Accreditation Agency (KAA) temsilcisi
+FlamarAbazaj kuruluşun yapısı, ülkenin yükseköğrenim sistemi ve derneğin faaliyet alanlarını
+uzaktan eğitim sürecinde zorluklar ve uzaktan eğitimde digitalizasyon konularını katılımcılar
+ile paylaşmıştır.</p>
+                  <p>Oturumun son sunumunu Uluslararası İş Yönetimi Akreditasyonu Kuruluşunu (Foundation
+for International Business Administration FIBAA) temsilen Diane Freiberger, tematik
+konu olarak uzaktan eğitimde kalite güvenliği konusu ile ilgili sunum yapmıştır. Kurumun
+proje çalışması kapsamında beş temel standart hakkında bilgiler vermiştir.</p>
+                </div> 
+              </div>
+              <div className="main-top-second">
+                <div className="main-top-second-title">INQAAHE Konuşmaları Webinar Toplantısı (16 Kasım 2022)</div> 
+                <div className="main-top-second-content">
+                  <p>Güney Afrika Kalite Güvenliği Ağı (Southern African Quality Assurance Network)
+(SAQAN) ve INQAAHE işbirliği ile düzenlenen Yüksek Öğretimde Uzaktan ve
+Harmanlanmış Eğitimin Kalite Güvenliği- Güney Afrika Deneyimi konulu webinara
+HEPDAK’ı temsilen Prof.Dr.Ayla BAYIK TEMEL ve Doç. Dr. Fatoş KORKMAZ
+katılmışlardır. Oturumda, Güney Afrika'daki Yüksek Öğretim Konseyi'nden (CHE) Dr
+Whitfield Green öğrencilerin Covid-19 salgını sırasında öğrenme materyallerine nasıl
+eriştikleri ve kullandıklarına ilişkin bir anket raporundan elde edilen bulguları paylaşmıştır.
+Zambiya Açık Üniversitesi'nden Prof Richard Siaciwena Güney Afrika perspektifinden
+çevrimiçi öğrenmenin kalite güvencesi hakkında bilgiler vermiştir. Botsvana Açık
+Üniversitesi'nden Dr Godson Gatsha, çevrimiçi ve harmanlanmış öğrenmenin akademik
+güvenirlik ve kalite güvencesi hakkında görüşlerini paylaşmıştır. Son olarak Dr. Deb Adair,
+çevrimiçi ve uzaktan eğitimde küresel eğilimler ve en iyi uygulamalar konusunda bilgi
+vermiştir.</p>
+                </div> 
+              </div>
+              <div className="main-top-second">
                 <div className="main-top-second-title">Webinar: Hemşirelik Eğitiminde Program Değerlendirme (10 Kasım 2022)</div> 
                 <div className="main-top-second-content">
                   <p>HEPDAK, Hemşirelik Eğitiminde Program Değerlendirme webinarını gerçekleştirdi.

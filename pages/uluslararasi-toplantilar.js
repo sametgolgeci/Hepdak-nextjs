@@ -13,6 +13,22 @@ const Calistay = () => (
 		<h4>- CEENQA Faaliyetleri</h4>
 		<h6><span className="badge badge-custom">-</span> CEENQA Haberler </h6>
 			<div className="madde-p">
+				<a className="uluslararasi-link" data-toggle="collapse" href="#collapseCEENQA12" role="button" aria-expanded="false" aria-controls="collapseCEENQA12">- CEENQA Paylaşım Toplantısı - 12 (16 Kasım 2022)</a>
+				<div className="collapse" id="collapseCEENQA12">
+					<p>CEENQA tarafından iki ayda bir yapılan 12. toplantı 16 Kasım 2022 tarihinde gerçekleşmiştir.
+HEPDAK’ı temsilen toplantıya Prof. Dr. Ayla BAYIK TEMEL ve Doç. Dr. Fatoş
+KORKMAZ katılmışlardır. Toplantının bu oturumunda CEENQA’ya üye Bulgaristan
+akreditasyon kuruluşu National Evaluation and Accreditation Agency (NEAA) temsilcisi
+kuruluşun yapısı, misyonu, amaçları, faaliyet alanları ve ulusal/uluslararası akreditasyon
+süreçlerini paylaşmıştır. Kosova kuruluşu Kosovo Accreditation Agency (KAA) temsilcisi
+FlamarAbazaj kuruluşun yapısı, ülkenin yükseköğrenim sistemi ve derneğin faaliyet alanlarını
+uzaktan eğitim sürecinde zorluklar ve uzaktan eğitimde digitalizasyon konularını katılımcılar
+ile paylaşmıştır.</p>
+					<p>Oturumun son sunumunu Uluslararası İş Yönetimi Akreditasyonu Kuruluşunu (Foundation
+for International Business Administration FIBAA) temsilen Diane Freiberger, tematik
+konu olarak uzaktan eğitimde kalite güvenliği konusu ile ilgili sunum yapmıştır. Kurumun
+proje çalışması kapsamında beş temel standart hakkında bilgiler vermiştir.</p>
+				</div>
 				<a className="uluslararasi-link" data-toggle="collapse" href="#collapseHepdakCEENQAGenelKurul" role="button" aria-expanded="false" aria-controls="collapseHepdakCEENQAGenelKurul">- HEPDAK CEENQA Genel Kurulu ve Çalıştayına Katıldı (23-24 Eylül 2022)</a>
 				<div className="collapse" id="collapseHepdakCEENQAGenelKurul">
 					<p>HEPDAK’ı temsilen Doç. Dr. Fatoş Korkmaz, 23-24 Eylül 2022 tarihinde Türkiye'deki Öğretmen
@@ -203,6 +219,22 @@ Kuzey Kıbrıs YÖDAK’ temsilen Akile Gürsoy sunumlar yapmışlardır.</p>
 			</div>
 			<h4>- INQAAHE Faaliyetleri</h4>
 			<div className="madde-p">
+				<a className="uluslararasi-link" data-toggle="collapse" href="#collapseINQAAHE161122" role="button" aria-expanded="false" aria-controls="collapseINQAAHE161122">- INQAAHE Konuşmaları Webinar Toplantısı (16 Kasım 2022)</a>
+				<div className="collapse" id="collapseINQAAHE161122">
+					<p>Güney Afrika Kalite Güvenliği Ağı (Southern African Quality Assurance Network)
+(SAQAN) ve INQAAHE işbirliği ile düzenlenen Yüksek Öğretimde Uzaktan ve
+Harmanlanmış Eğitimin Kalite Güvenliği- Güney Afrika Deneyimi konulu webinara
+HEPDAK’ı temsilen Prof.Dr.Ayla BAYIK TEMEL ve Doç. Dr. Fatoş KORKMAZ
+katılmışlardır. Oturumda, Güney Afrika'daki Yüksek Öğretim Konseyi'nden (CHE) Dr
+Whitfield Green öğrencilerin Covid-19 salgını sırasında öğrenme materyallerine nasıl
+eriştikleri ve kullandıklarına ilişkin bir anket raporundan elde edilen bulguları paylaşmıştır.
+Zambiya Açık Üniversitesi'nden Prof Richard Siaciwena Güney Afrika perspektifinden
+çevrimiçi öğrenmenin kalite güvencesi hakkında bilgiler vermiştir. Botsvana Açık
+Üniversitesi'nden Dr Godson Gatsha, çevrimiçi ve harmanlanmış öğrenmenin akademik
+güvenirlik ve kalite güvencesi hakkında görüşlerini paylaşmıştır. Son olarak Dr. Deb Adair,
+çevrimiçi ve uzaktan eğitimde küresel eğilimler ve en iyi uygulamalar konusunda bilgi
+vermiştir.</p>
+				</div>
 				<a className="uluslararasi-link" data-toggle="collapse" href="#collapseINQAAHE250522" role="button" aria-expanded="false" aria-controls="collapseINQAAHE250522">- INQAAHE 2022 Yılı Genel Kurul Toplantısı (25 Mayıs 2022)</a>
 				<div className="collapse" id="collapseINQAAHE250522">
 					<p>HEPDAK 25 Mayıs 2022 tarihinde INQAAHE Genel Kurul toplantısına tam üye statüsü ile
