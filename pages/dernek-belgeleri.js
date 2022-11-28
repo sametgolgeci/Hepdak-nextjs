@@ -10,9 +10,9 @@ const Dernek = () => (
 	    <div className="genel">
 	    	
 	    	<h1>HEPDAK Dernek Belgeleri</h1>		
-	    	<p className="madde-p">• <Link href="/doc/hepdak-faaliyet-belgesi.pdf"><a>Dernek Faaliyet Belgesi</a></Link></p>
-	    	<p className="madde-p">• <Link href="/doc/hepdak_iktisadi_isletme.pdf"><a>İktisadi İşletme</a></Link></p>
-	    	<p className="madde-p">• <Link href="/doc/hepdak-kira-sozlesmesi.pdf"><a>Kira Sözleşmesi</a></Link></p>
+	    	<p className="madde-p">• <Link href="#"><a>Dernek Faaliyet Belgesi</a></Link></p>
+	    	<p className="madde-p">• <Link href="#"><a>İktisadi İşletme</a></Link></p>
+	    	<p className="madde-p">• <Link href="#"><a>Kira Sözleşmesi</a></Link></p>
 	    </div>
     </MasterPage>
 )
