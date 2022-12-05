@@ -29,11 +29,11 @@ const Uye = () => (
                   </tr>
                   <tr>
                     <th scope="row">5</th>
-                    <td>Ayla Bayık Temel</td>
+                    <td>Ayla Keçeci</td>
                   </tr>
                   <tr>
                     <th scope="row">6</th>
-                    <td>Ayla Keçeci</td>
+                    <td>Ayla Bayık Temel</td>
                   </tr>
                   <tr>
                     <th scope="row">7</th>
@@ -41,135 +41,175 @@ const Uye = () => (
                   </tr>
                   <tr>
                     <th scope="row">8</th>
-                    <td>Ayten Zaybak</td>
+                    <td>Aynur Uysal Toraman</td>
                   </tr>
                   <tr>
                     <th scope="row">9</th>
-                    <td>Çiğdem Sabıkma</td>
+                    <td>Ayten Zaybak</td>
                   </tr>
                   <tr>
                     <th scope="row">10</th>
-                    <td>Dilek Özmen</td>
+                    <td>Çiğdem Sabıkma</td>
                   </tr>
-                   <tr>
+                  <tr>
                     <th scope="row">11</th>
-                    <td>Elif Perihan Demirdelen</td>
+                    <td>Dilek Özmen</td>
                   </tr>
                   <tr>
                     <th scope="row">12</th>
-                    <td>Emine Türkmen</td>
+                    <td>Elif Ünsal Avdal</td>
                   </tr>
-                  <tr>
+                   <tr>
                     <th scope="row">13</th>
-                    <td>Fatma Orgun</td>
+                    <td>Elif Perihan Demirdelen</td>
                   </tr>
                   <tr>
                     <th scope="row">14</th>
-                    <td>Fatma Sevgi Hatipoğlu</td>
+                    <td>Emine Türkmen</td>
                   </tr>
                   <tr>
                     <th scope="row">15</th>
-                    <td>Gülengün Türk</td>
+                    <td>Emine Ümit Seviğ</td>
                   </tr>
                   <tr>
                     <th scope="row">16</th>
-                    <td>Gülseren Kocaman</td>
+                    <td>Fatma Vural</td>
                   </tr>
                   <tr>
                     <th scope="row">17</th>
-                    <td>Gülşen Terakye</td>
+                    <td>Fatma Orgun</td>
                   </tr>
                   <tr>
                     <th scope="row">18</th>
-                    <td>Hadiye Akçay</td>
+                    <td>Fatma Sevgi Hatipoğlu</td>
                   </tr>
                   <tr>
                     <th scope="row">19</th>
-                    <td>Hale Sezer</td>
+                    <td>Gülendam Karadağ</td>
                   </tr>
                   <tr>
                     <th scope="row">20</th>
-                    <td>Hatice Çamveren</td>
+                    <td>Gülengün Türk</td>
                   </tr>
                   <tr>
                     <th scope="row">21</th>
-                    <td>Hülya Okumuş</td>
+                    <td>Gülseren Kocaman</td>
                   </tr>
                   <tr>
                     <th scope="row">22</th>
-                    <td>Hülya Kaya</td>
+                    <td>Gülsüm Nihal Çürük</td>
                   </tr>
                   <tr>
                     <th scope="row">23</th>
-                    <td>İnci Erefe</td>
+                    <td>Gülten Koç</td>
                   </tr>
                   <tr>
                     <th scope="row">24</th>
-                    <td>Kadriye Buldukoğlu</td>
+                    <td>Gülşen Terakye</td>
                   </tr>
                   <tr>
                     <th scope="row">25</th>
-                    <td>Leman Kutlu</td>
+                    <td>Hadiye Akçay</td>
                   </tr>
                   <tr>
                     <th scope="row">26</th>
-                    <td>Medine Yılmaz</td>
+                    <td>Hale Sezer</td>
                   </tr>
                   <tr>
                     <th scope="row">27</th>
-                    <td>Nilay Özkütük</td>
+                    <td>Hatice Çamveren</td>
                   </tr>
                   <tr>
                     <th scope="row">28</th>
-                    <td>Oya Kavlak</td>
+                    <td>Hatice Mert</td>
                   </tr>
                   <tr>
                     <th scope="row">29</th>
-                    <td>Perihan Güner</td>
+                    <td>Hatice Yıldırım Sarı</td>
                   </tr>
                   <tr>
                     <th scope="row">30</th>
-                    <td>Saliha Koç Aslan</td>
+                    <td>Havva Arslan Yürümezoğlu</td>
                   </tr>
-                   <tr>
+                  <tr>
                     <th scope="row">31</th>
-                    <td>Salime Mucuk</td>
+                    <td>Hülya Kaya</td>
                   </tr>
                   <tr>
                     <th scope="row">32</th>
-                    <td>Serap Sökmen</td>
+                    <td>Hülya Okumuş</td>
                   </tr>
                   <tr>
                     <th scope="row">33</th>
-                    <td>Serap İleri</td>
+                    <td>İnci Erefe</td>
                   </tr>
                   <tr>
                     <th scope="row">34</th>
-                    <td>Sergül Duygulu</td>
+                    <td>Kadriye Buldukoğlu</td>
                   </tr>
                   <tr>
                     <th scope="row">35</th>
-                    <td>Sevil Uncu</td>
+                    <td>Leman Kutlu</td>
                   </tr>
                   <tr>
                     <th scope="row">36</th>
-                    <td>Şenay Ünsal Atan</td>
+                    <td>Medine Yılmaz</td>
                   </tr>
                   <tr>
                     <th scope="row">37</th>
-                    <td>Ülkü Baykal</td>
+                    <td>Melek Ardahan</td>
                   </tr>
                   <tr>
                     <th scope="row">38</th>
-                    <td>Ümit Seviğ</td>
+                    <td>Nilay Özkütük</td>
                   </tr>
                   <tr>
                     <th scope="row">39</th>
-                    <td>Yıldız Denat</td>
+                    <td>Oya Kavlak</td>
                   </tr>
                   <tr>
                     <th scope="row">40</th>
-                    <td>Zeynep Özer</td>
+                    <td>Özen Kulakaç</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">41</th>
+                    <td>Perihan Güner</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">42</th>
+                    <td>Saliha Koç Aslan</td>
+                  </tr>
+                   <tr>
+                    <th scope="row">43</th>
+                    <td>Salime Mucuk</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">44</th>
+                    <td>Serap İleri</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">45</th>
+                    <td>Serap Sökmen</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">46</th>
+                    <td>Sergül Duygulu</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">47</th>
+                    <td>Sevil Uncu</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">48</th>
+                    <td>Şenay Ünsal Atan</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">49</th>
+                    <td>Ülkü Baykal</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">50</th>
+                    <td>Yıldız Denat</td>
                   </tr>
                 </tbody>
               </table>

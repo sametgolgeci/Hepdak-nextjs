@@ -17,7 +17,7 @@ const Navigation = () => (
 						<Link href="/uye-listesi"><a className="dropdown-item">Üye Listesi</a></Link>
 						<Link href="/idari-personel"><a className="dropdown-item">İdari Personel</a></Link>
 						<Link href="/tescil-yazilari"><a className="dropdown-item">Tescil Yazıları</a></Link>
-			      <Link href="/dernek-belgeleri"><a className="dropdown-item">Dernek Belgeleri</a></Link>
+			      {/* <Link href="/dernek-belgeleri"><a className="dropdown-item">Dernek Belgeleri</a></Link> */} 
 			      <Link href="/kurumsal-kimlik"><a className="dropdown-item">Kurumsal Kimlik</a></Link>
 					</div>
 				</li>
@@ -76,11 +76,6 @@ const Navigation = () => (
 						<Link href="/sempozyum-kitaplari"><a className="dropdown-item">Sempozyum Kitapları</a></Link>
 					</div>
 				</li>
-			{/*
-	      <li className="nav-item">
-	        <Link href="/sss"><a className="nav-link header-nav-link">SSS</a></Link>
-	      </li>
-	     */} 
 	      <li className="nav-item">
 	        <Link href="/iletisim"><a className="nav-link header-nav-link">İLETİŞİM</a></Link>
 	      </li>
