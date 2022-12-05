@@ -134,7 +134,7 @@ const Belgeler = () => (
               <tbody>
                 <tr>
                   <th scope="row" width="10px">1</th>
-                  <td>HEPDAK Akreditasyon Süreci Akış Şeması <Link href="doc/d1_v1.pdf"><a>Sürüm 1.0</a></Link> | <strong>Sürüm 1.1</strong> (<Link href="doc/d1_v1_1.pdf"><a>PDF</a></Link> | <Link href="doc/d1_v1_1.docx"><a>Word</a></Link>)</td>
+                  <td>HEPDAK Akreditasyon Süreci Akış Şeması <Link href="doc/d1_v1.pdf"><a>Sürüm 1.0</a></Link> | <strong>Sürüm 1.1</strong> (<Link href="doc/d1_v1_1.pdf"><a>PDF</a></Link> | <Link href="doc/d1_v1_1.docx"><a>Word</a></Link>) | <Link href="doc/d1_v1_2.pdf"><a>Sürüm 1.2</a></Link></td>
                 </tr>
                 <tr>
                   <th scope="row">2</th>

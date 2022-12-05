@@ -57,8 +57,20 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
+                  <Link href="doc/2023-egitim-takvim.pdf"><a target="_blank">
+                    <div className="main-top-one-title">Duyuru</div>
+                    <div className="main-top-one-content">HEPDAK 2023 Eğitim takvimi yayınlandı. Eğitim takvimine <strong>buradan</strong> ulaşabilirsiniz.</div>
+                  </a></Link>
+                </div>
+                <div className="carousel-item">
+                  <Link href="doc/2023-toplanti-takvim.pdf"><a target="_blank">
+                    <div className="main-top-one-title">Duyuru</div>
+                    <div className="main-top-one-content">HEPDAK 2023 Toplantı takvimi yayınlandı. Toplantı takvimine <strong>buradan</strong> ulaşabilirsiniz.</div>
+                  </a></Link>
+                </div>
+                <div className="carousel-item">
                   <div className="main-top-one-title">HEPDAK 4. Olağan Genel Kurulu</div>
-                  <div className="main-top-one-content"><p>HEPDAK 4. Olağan Genel Kurulu 20 Ekim Perşembe günü saat 17.00&#39;de gerçekleştirilmiştir. Genel kurulda Manisa Celal Bayar Üniversitesinnden Prof. Dr. Dilek Özmen, İzmir Katip Çelebi Üniversitesi’nden Prof. Dr. Medine Yılmaz, İzmir Ekonomi Üniversitesinden Doç. Dr. Gülsüm Nihal Çürük, Ondokuz Mayıs Üniversitesinden Prof. Dr. Özen Kulakaç ve Ege Üniversitesinden Doç. Dr. Fatma Orgun HEPDAK Yönetim Kurulu’na seçilmişlerdir.</p></div>
+                  <div className="main-top-one-content"><p>HEPDAK 4. Olağan Genel Kurulu 20 Ekim Perşembe günü saat 17.00'de gerçekleştirilmiştir. Genel kurulda Manisa Celal Bayar Üniversitesinnden Prof. Dr. Dilek Özmen, İzmir Katip Çelebi Üniversitesi’nden Prof. Dr. Medine Yılmaz, İzmir Ekonomi Üniversitesinden Doç. Dr. Gülsüm Nihal Çürük, Ondokuz Mayıs Üniversitesinden Prof. Dr. Özen Kulakaç ve Ege Üniversitesinden Doç. Dr. Fatma Orgun HEPDAK Yönetim Kurulu’na seçilmişlerdir.</p></div>
                 </div>
                 <div className="carousel-item">
                   <Link href="/haberler/01-06-2022-belge"><a target="_blank">
@@ -417,6 +429,28 @@ const Anasayfa = () => (
             <div className="block-title-main">Son Duyurular</div>
             <div className="block-title-all"><a href="/tum-duyurular">Tüm Duyurular</a></div>
           </div>
+
+          <Link href="/doc/2023-toplanti-takvim.pdf">
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">06</div>
+              <div className="date-month">Aralık</div>
+              <div className="date-year">2022</div>
+            </div>
+            <div className="block-subtitle-text">HEPDAK 2023 Toplantı Takvimi</div>
+          </div>
+          </Link>
+
+          <Link href="/doc/2023-egitim-takvim.pdf">
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">06</div>
+              <div className="date-month">Aralık</div>
+              <div className="date-year">2022</div>
+            </div>
+            <div className="block-subtitle-text">HEPDAK 2023 Eğitim Takvimi</div>
+          </div>
+          </Link>
 
           <Link href="/duyurular/15-06-2021-akreditasyon-takvimi">
           <div className="main-block-subtitle">
