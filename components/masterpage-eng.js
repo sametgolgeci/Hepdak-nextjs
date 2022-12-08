@@ -1,6 +1,6 @@
-import Header from '../components/header-alt'
-import Footer from '../components/footer-alt'
-import Navigation from '../components/navigation'
+import Header from '../components/header-eng'
+import Footer from '../components/footer-eng'
+import Navigation from '../components/navigation-eng'
 import Head from 'next/head'
 
 

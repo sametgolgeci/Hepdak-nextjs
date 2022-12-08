@@ -1,31 +1,16 @@
 import Head from 'next/head'
 import Link from 'next/link'
-import MasterPage from '../components/master-page'
-import Header from '../components/header'
-import Footer from '../components/footer'
-import Navigation from '../components/navigation'
+import MasterPage from '../../components/masterpage-eng'
+import Header from '../../components/header-eng'
+import Footer from '../../components/footer-eng'
+import Navigation from '../../components/navigation-eng'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faHourglassStart,faCheck,faFileAlt,faFile,faImages,faChevronRight,faChevronLeft,faPencilAlt,faBalanceScale } from '@fortawesome/free-solid-svg-icons'
-import emailjs from 'emailjs-com'
-
-function sendEmail(e) {
-  e.preventDefault();
-
-  emailjs.sendForm('gmail', 'template_4hcz6rf', e.target, 'user_5aJ4lAyl6aNUxJkcF6atP')
-    .then((result) => {
-      console.log(result.text);
-      alert('Mesajınız gönderilmiştir!');
-    }, (error) => {
-      console.log(error.text);
-      alert('Bir hata oluştu');
-  });
-  e.target.reset();
-}
 
 const Anasayfa = () => (
   <div>
     <Head>
-      <title>HEPDAK | Anasayfa</title>
+      <title>HEPDAK | Association for Evaluation and Accreditation of Nursing Education Programs</title>
       <meta name="viewport" content="initial-scale=1.0, width=device-width"/>
       <meta name="description" content="HEPDAK olarak amacımız; hemşirelik eğitim programları için akreditasyon, değerlendirme vebilgilendirme çalışmaları yaparak Türkiye'de hemşirelik eğitiminin kalitesinin yükseltilmesine, daha iyi eğitilmiş ve daha nitelikli hemşireler yetiştirilerek güvenli ve etkili bakım sunulması ve toplumun sağlığının geliştirilmesine katkıda bulunmaktır."/>
       <meta name="keywords" content="hepdak,eğitim,uzaktan,değerlendirme,akreditasyon,hemşirelik,hemşirelik eğitim programları,eğitim programları,hemşirelik akreditasyon,dernek,hemşirelik dernek,akreditasyon dernek,değerlendirme,uzaktan eğitim,çalıştay,hepdak çalıştay"/>
@@ -157,22 +142,22 @@ const Anasayfa = () => (
   
     <div className="main-fast-akredite">
       <div className="fast-akredite-button col-md-4">
-        <Link href="/doc/b1-basvuru-2023-2024.doc"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faCheck}/>Akreditasyon Başvurusu</button></a></Link>
+        <Link href="/doc/b1-basvuru-2023-2024.doc"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faCheck}/>Accreditation Application</button></a></Link>
       </div>
       <div className="fast-akredite-button col-md-4">
-        <Link href="/akreditasyon-sureci"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faHourglassStart}/>Akreditasyon Süreci</button></a></Link>
+        <Link href="/akreditasyon-sureci"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faHourglassStart}/>Accreditation Process</button></a></Link>
       </div>
       <div className="fast-akredite-button col-md-4">
-        <Link href="/ozdegerlendirme-belgeleri"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faFileAlt}/>Özdeğerlendirme Belgeleri</button></a></Link>
+        <Link href="/ozdegerlendirme-belgeleri"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faFileAlt}/>Self-Assessment Documents</button></a></Link>
       </div>
       <div className="fast-akredite-button col-md-4">
-        <Link href="/doc/kurum-egitimine-basvuru-formu.doc"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faBalanceScale}/>Başvurular</button></a></Link>
+        <Link href="/doc/kurum-egitimine-basvuru-formu.doc"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faBalanceScale}/>Applications</button></a></Link>
       </div>
       <div className="fast-akredite-button col-md-4">
-        <Link href="/rapor-hazirlama"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faPencilAlt}/>Rapor Hazırlama</button></a></Link>
+        <Link href="/rapor-hazirlama"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faPencilAlt}/>Report Preparations</button></a></Link>
       </div>
       <div className="fast-akredite-button col-md-4">
-        <Link href="/belgeler"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faFile}/>Diğer belgeler</button></a></Link>
+        <Link href="/belgeler"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faFile}/>Other Documents</button></a></Link>
       </div>
     </div>
     
@@ -180,8 +165,8 @@ const Anasayfa = () => (
       <div className="main-new-block col-md-4 col-sm-12">
         <div className="main-new-block-alt">
           <div className="main-block-title">
-            <div className="block-title-main">Haberler</div>
-            <div className="block-title-all"><a href="/tum-haberler">Tüm Haberler</a></div>
+            <div className="block-title-main">News</div>
+            <div className="block-title-all"><a href="/tum-haberler">All News</a></div>
           </div>
           
           <Link href="/haberler/16-11-2022-CEENQA">
@@ -420,8 +405,8 @@ const Anasayfa = () => (
       <div className="main-new-block col-md-4 col-sm-12">
         <div className="main-new-block-alt">
           <div className="main-block-title">
-            <div className="block-title-main">Duyurular</div>
-            <div className="block-title-all"><a href="/tum-duyurular">Tüm Duyurular</a></div>
+            <div className="block-title-main">Announcements</div>
+            <div className="block-title-all"><a href="/tum-duyurular">All Announcements</a></div>
           </div>
 
           <Link href="/doc/2023-toplanti-takvim.pdf">
@@ -462,8 +447,8 @@ const Anasayfa = () => (
       <div className="main-new-block col-md-4 col-sm-12">
         <div className="main-new-block-alt">
           <div className="main-block-title">
-            <div className="block-title-main">Etkinlikler</div>
-            <div className="block-title-all"><a href="/#">Tüm Etkinlikler</a></div>
+            <div className="block-title-main">Events</div>
+            <div className="block-title-all"><a href="/#">All Events</a></div>
           </div>
 
           <div className="main-block-subtitle">
@@ -488,7 +473,7 @@ const Anasayfa = () => (
       </div>
     </div>
     <div className="main-bottom">
-      <div className="main-bottom-title"><a href="/ilgili-kuruluslar">İlgili Kuruluşlar</a></div>
+      <div className="main-bottom-title"><a href="/ilgili-kuruluslar">Related Organizations</a></div>
       <div className="main-bottom-slider">
         <div className="main-bottom-img">
           <div className="bottom-img">
