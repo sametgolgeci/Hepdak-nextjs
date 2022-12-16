@@ -8,9 +8,9 @@ export default function handler(req, res) {
   console.log(body);
 
   const message = `
-    Name: ${body.name}\r\n
+    Ad Soyad: ${body.name}\r\n
     Email: ${body.email}\r\n
-    Message: ${body.message}
+    Mesaj: ${body.message}
   `;
 
   mail.send({
