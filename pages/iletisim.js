@@ -5,19 +5,24 @@ import ReactDOM from 'react-dom'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faPhone,faEnvelope,faMapMarkerAlt,faChevronRight } from '@fortawesome/free-solid-svg-icons'
 
-function sendEmail(e) {
-  e.preventDefault();
+async function handleOnSubmit(e) {
+    e.preventDefault();
 
-  emailjs.sendForm('gmail', 'template_4hcz6rf', e.target, 'user_5aJ4lAyl6aNUxJkcF6atP')
-    .then((result) => {
-      console.log(result.text);
-      alert('Mesajınız gönderilmiştir!');
-    }, (error) => {
-      console.log(error.text);
-      alert('Bir hata oluştu');
-  });
-  e.target.reset();
-}
+    const formData = {};
+
+    Array.from(e.currentTarget.elements).forEach(field => {
+      if ( !field.name ) return;
+      formData[field.name] = field.value;
+    });
+
+    console.log(formData);
+    
+    await fetch('/api/mail', {
+      method: 'POST',
+      body: JSON.stringify(formData)
+    });
+
+  }
 
 const Iletisim = () => (
 <MasterPage>
@@ -49,25 +54,24 @@ const Iletisim = () => (
 		</div>
 	</div>
 	
-	{/*
 		<h5 className="iletisim-h5">Şikayet ve Öneriler</h5>
 		<div className="iletisim-mesaj">
-	    <form action="" method="post" onSubmit={sendEmail}>
+	    <form action="" method="post" onSubmit={handleOnSubmit}>
 	      <div className="row">
 	        <div className="col-md-6 col-sm-12">
 	          <div className="form-group">
 	            <label for="exampleInputEmail">Ad Soyad</label>
-	            <input type="text" className="form-control form-control-sm" name="name"/>
+	            <input type="text" className="form-control form-control-sm" id="name" name="name"/>
 	          </div>
 	          <div className="form-group">
 	            <label for="exampleInputEmail">Mail Adresiniz</label>
-	            <input type="email" className="form-control form-control-sm" id="exampleInputEmail1" aria-describedby="emailHelp" name="mail"/>
+	            <input type="text" className="form-control form-control-sm" id="email" name="email"/>
 	          </div>
 	        </div>
 	        <div className="col-md-6 col-sm-12">
 	          <div className="form-group">
 	            <label for="exampleFormControlTextarea1">Mesaj</label>
-	            <textarea className="form-control" id="exampleFormControlTextarea1" rows="4" name="message"></textarea>
+	            <textarea className="form-control" id="exampleFormControlTextarea1" rows="4" id="message" name="message"></textarea>
 	          </div>
 	        </div>
 	      </div>
@@ -79,7 +83,6 @@ const Iletisim = () => (
 	    </div>
 	  </div>
 
-	 This is a comment */}
 </MasterPage>
 )
 export default Iletisim

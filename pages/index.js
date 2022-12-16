@@ -6,21 +6,6 @@ import Footer from '../components/footer'
 import Navigation from '../components/navigation'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faHourglassStart,faCheck,faFileAlt,faFile,faImages,faChevronRight,faChevronLeft,faPencilAlt,faBalanceScale } from '@fortawesome/free-solid-svg-icons'
-import emailjs from 'emailjs-com'
-
-function sendEmail(e) {
-  e.preventDefault();
-
-  emailjs.sendForm('gmail', 'template_4hcz6rf', e.target, 'user_5aJ4lAyl6aNUxJkcF6atP')
-    .then((result) => {
-      console.log(result.text);
-      alert('Mesajınız gönderilmiştir!');
-    }, (error) => {
-      console.log(error.text);
-      alert('Bir hata oluştu');
-  });
-  e.target.reset();
-}
 
 const Anasayfa = () => (
   <div>
@@ -63,6 +48,12 @@ const Anasayfa = () => (
                   </a></Link>
                 </div>
                 <div className="carousel-item">
+                  <Link href="doc/2023-toplanti-takvim.pdf"><a target="_blank">
+                    <div className="main-top-one-title">Duyuru</div>
+                    <div className="main-top-one-content">HEPDAK 2023 Toplantı takvimi yayınlandı. Toplantı takvimine <strong>buradan</strong> ulaşabilirsiniz.</div>
+                  </a></Link>
+                </div>
+                <div className="carousel-item">
                   <div className="main-top-one-title">HEPDAK 4. Olağan Genel Kurulu</div>
                   <div className="main-top-one-content"><p>HEPDAK 4. Olağan Genel Kurulu 20 Ekim Perşembe günü saat 17.00'de gerçekleştirilmiştir. Genel kurulda Manisa Celal Bayar Üniversitesinnden Prof. Dr. Dilek Özmen, İzmir Katip Çelebi Üniversitesi’nden Prof. Dr. Medine Yılmaz, İzmir Ekonomi Üniversitesinden Doç. Dr. Gülsüm Nihal Çürük, Ondokuz Mayıs Üniversitesinden Prof. Dr. Özen Kulakaç ve Ege Üniversitesinden Doç. Dr. Fatma Orgun HEPDAK Yönetim Kurulu’na seçilmişlerdir.</p></div>
                 </div>
@@ -81,18 +72,6 @@ const Anasayfa = () => (
                     </div>
                     <div className="main-top-one-continue">Devamı -></div>
                   </a></Link>
-                </div>
-                <div className="carousel-item">
-                  <a href="/doc/hepdak_toplanti_takvim_2022.pdf" target="_blank">
-                    <div className="main-top-one-title">HEPDAK 2022 Yılı Toplantı Takvimi</div>
-                    <div className="main-top-one-content">HEPDAK tarafından  2022 yılında yapılacak toplantıların tarihlerine  buradan ulaşabilirsiniz.</div>
-                  </a>
-                </div>
-                <div className="carousel-item">
-                  <a href="/doc/2022_egitim_takvim.pdf" target="_blank">
-                    <div className="main-top-one-title">HEPDAK 2022 Eğitim Takvimi</div>
-                    <div className="main-top-one-content">HEPDAK tarafından 2022 yılı içinde yapılacak eğitim takvimine ulaşmak için tıklayınız.</div>
-                  </a>
                 </div>
                 
                 {/*
@@ -443,17 +422,6 @@ const Anasayfa = () => (
               <div className="date-year">2022</div>
             </div>
             <div className="block-subtitle-text">HEPDAK 2023 Eğitim Takvimi</div>
-          </div>
-          </Link>
-
-          <Link href="/duyurular/15-06-2021-akreditasyon-takvimi">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">15</div>
-              <div className="date-month">Haziran</div>
-              <div className="date-year">2021</div>
-            </div>
-            <div className="block-subtitle-text">HEPDAK 2021-2022 Dönemi Akreditasyon Takvimi</div>
           </div>
           </Link>
 
