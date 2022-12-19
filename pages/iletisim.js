@@ -4,8 +4,6 @@ import Link from 'next/link'
 import ReactDOM from 'react-dom'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faPhone,faEnvelope,faMapMarkerAlt,faChevronRight } from '@fortawesome/free-solid-svg-icons'
-import { ToastContainer, toast } from 'react-toastify';
-import 'react-toastify/dist/ReactToastify.css';
 
 async function handleOnSubmit(e) {
     e.preventDefault();
@@ -25,17 +23,6 @@ async function handleOnSubmit(e) {
     });
 
   }
-
-const notify = () => toast.success("Mesajınız Başarıyla Gönderildi",{
-	position: "top-center",
-	autoClose: 5000,
-	hideProgressBar: false,
-	closeOnClick: true,
-	pauseOnHover: true,
-	draggable: true,
-	progress: undefined,
-	theme: "dark",
-});
 
 const Iletisim = () => (
 <MasterPage>
@@ -88,8 +75,7 @@ const Iletisim = () => (
 	          </div>
 	        </div>
 	      </div>
-	    	<button type="submit" className="iletisim-button btn" onClick={notify}>Gönder</button>
-	    	<ToastContainer/>
+	    	<button type="submit" className="iletisim-button btn">Gönder</button>
 	    </form>
 
 	    <div className="col-md-4 col-sm-12 iletisim-mesaj-logo-mobil">
