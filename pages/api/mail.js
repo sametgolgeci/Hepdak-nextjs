@@ -5,7 +5,7 @@ mail.setApiKey(process.env.SENDGRID_API_KEY);
 export default function handler(req, res) {
 
   const body = JSON.parse(req.body);
-  console.log(body);
+  console.log('body',body);
 
   const message = `
     Ad Soyad: ${body.name}\r\n
@@ -14,7 +14,7 @@ export default function handler(req, res) {
   `;
 
   mail.send({
-    to: 'info@hepdak.org.tr',
+    to: 'samet.golgeci@gmail.com',
     from: 'admin@hepdak.org.tr',
     subject: 'Site üzerinden 1 yeni mesaj',
     text: message,
