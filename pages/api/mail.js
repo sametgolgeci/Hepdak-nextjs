@@ -14,7 +14,7 @@ export default function handler(req, res) {
   `;
 
   mail.send({
-    to: 'samet.golgeci@gmail.com',
+    to: 'info@hepdak.org.tr',
     from: 'admin@hepdak.org.tr',
     subject: 'Site üzerinden 1 yeni mesaj geldi',
     text: message,
