@@ -24,6 +24,10 @@ async function handleOnSubmit(e) {
 
   }
 
+function alertFunction() {
+	alert('Mesajınız başarıyla gönderilmiştir!')
+}
+
 const Iletisim = () => (
 <MasterPage>
 	<Head>
@@ -75,7 +79,7 @@ const Iletisim = () => (
 	          </div>
 	        </div>
 	      </div>
-	    	<button type="submit" className="iletisim-button btn">Gönder</button>
+	    	<button type="submit" className="iletisim-button btn" onClick={alertFunction}>Gönder</button>
 	    </form>
 
 	    <div className="col-md-4 col-sm-12 iletisim-mesaj-logo-mobil">
