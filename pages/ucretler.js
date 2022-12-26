@@ -106,12 +106,12 @@ takımının gereksinim belirtmesi durumunda ziyaretin bir bölümü yüz yüze 
                   <td>10.000 TL.+ KDV</td>
                 </tr>
                 <tr>
-                  <th scope="row">Ağustos 2022 Taksiti</th>
+                  <th scope="row">Ağustos 2023 Taksiti</th>
                   <td>15.000 TL.+ KDV</td>
                   <td>10.000 TL.+ KDV</td>
                 </tr>
                 <tr>
-                  <th scope="row">Ekim 2022 Taksiti</th>
+                  <th scope="row">Ekim 2023 Taksiti</th>
                   <td>10.000 TL.+ KDV</td>
                   <td>10.000 TL.+ KDV</td>
                 </tr>
@@ -135,12 +135,12 @@ takımının gereksinim belirtmesi durumunda ziyaretin bir bölümü yüz yüze 
                   <td>10.000 TL.+ KDV</td>
                 </tr>
                 <tr>
-                  <th scope="row">Ağustos 2022 Taksiti</th>
+                  <th scope="row">Ağustos 2023 Taksiti</th>
                   <td>15.000 TL.+ KDV</td>
                   <td>10.000 TL.+ KDV</td>
                 </tr>
                 <tr>
-                  <th scope="row">Ekim 2022 Taksiti</th>
+                  <th scope="row">Ekim 2023 Taksiti</th>
                   <td>10.000 TL.+ KDV</td>
                   <td>5.000 TL.+ KDV</td>
                 </tr>
