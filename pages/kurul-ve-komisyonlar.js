@@ -58,14 +58,6 @@ const Kurul = () => (
 	    	<span className="madde-span">• Öğ. Gör. Dr. Yasin Çetin, Adıyaman Üniversitesi</span>
 	    	<span className="madde-span">• <strong>Öğrenci:</strong> Mervenur Doğan, Manisa Celal Bayar Üniversitesi</span>
 
-	    	<h3 className="kurul-title">Program Değerlendirme ve İzleme Komisyonu (PDİK)</h3>
-	    	<span className="madde-span">• Prof. Dr. Ayla Bayık Temel (Başkan), Ege Üniversitesi</span>
-	    	<span className="madde-span">• Dr. Öğ. Üyesi Serap Sökmen (Başkan Yard. - Sekreter), Erzincan Üniversitesi</span>
-	    	<span className="madde-span">• Prof. Dr. Dilek Özmen, Manisa Celal Bayar Üniversitesi</span>
-	    	<span className="madde-span">• Doç. Dr. Aklime Sarıkaya, Sebahattin Zaim Üniversitesi</span>
-	    	<span className="madde-span">• Öğ. Gör. Dr. Yasin Çetin, Adıyaman Üniversitesi</span>
-	    	<span className="madde-span">• <strong>Öğrenci:</strong> Şerife Cingiz, Akdeniz Üniversitesi</span>
-
 	    	<h3 className="kurul-title">Eğitim Komisyonu (EK)</h3>
 	    	<span className="madde-span">• Prof. Dr. Medine Yılmaz (Başkan), Katip Çelebi Üniversitesi</span>
 	    	<span className="madde-span">• Doç. Dr. Fatma Orgun (Sekreter), Ege Üniversitesi</span>
