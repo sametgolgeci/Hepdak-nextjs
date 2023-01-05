@@ -12,20 +12,41 @@ const Tum = () => (
         <div>
           <ul className="nav justify-content-center">
             <li className="nav-item">
-              <a className="nav-link main-second-nav-item active" data-toggle="pill" href="#yirmiiki">2022</a>
+              <a className="nav-link main-second-nav-item active" data-toggle="pill" href="#yirmiuc">2023</a>
+            </li>
+            <li className="nav-item">
+              <a className="nav-link main-second-nav-item" data-toggle="pill" href="#yirmiiki">2022</a>
             </li>
             <li className="nav-item">
               <a className="nav-link main-second-nav-item" data-toggle="pill" href="#yirmibir">2021</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link main-second-nav-item " data-toggle="pill" href="#yirmi">2020</a>
+              <a className="nav-link main-second-nav-item" data-toggle="pill" href="#yirmi">2020</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link main-second-nav-item " data-toggle="pill" href="#ondokuz">2019</a>
+              <a className="nav-link main-second-nav-item" data-toggle="pill" href="#ondokuz">2019</a>
             </li>
           </ul>
           <div className="tab-content">
-            <div id="yirmiiki" className="container tab-pane active">
+            <div id="yirmiuc" className="container tab-pane active">
+              <div className="main-top-second">
+                <div className="main-top-second-title">HEPDAK 2023 yılı Takım Başkanları Toplantısı - 5 (04 Ocak 2023)</div> 
+                <div className="main-top-second-content">
+                  <p>HEPDAK Yönetim Kurulu, 04 Ocak 2023 tarihinde Takım Başkanları ile çevrimiçi
+değerlendirme toplantısını gerçekleştirmiştir. Toplantıya 11’i takım başkanı olmak
+üzere 17 kişi katılmıştır. Toplantıda takım başkanları kurum değerlendirme
+ziyaretleri ve değerlendirme sürecine ilişkin deneyimlerini ve görüş ve önerilerini
+paylaşmışlardır.</p>
+                </div>
+                <div className="main-top-second-content">
+                  <div className="row">
+                    <div className="col-md-6 col-sm-12"><a href="/img/haberler/2023-takim-baskanlari-toplantisi/01.png" target="_blank"><img className="calistay-img" src="/img/haberler/2023-takim-baskanlari-toplantisi/01.png" alt="Takım Başkanları Toplantısı 5"/></a></div>
+                    <div className="col-md-6 col-sm-12"><a href="/img/haberler/2023-takim-baskanlari-toplantisi/02.png" target="_blank"><img className="calistay-img" src="/img/haberler/2023-takim-baskanlari-toplantisi/02.png" alt="Takım Başkanları Toplantısı 5"/></a></div>
+                  </div>
+                </div>  
+              </div>
+            </div>
+            <div id="yirmiiki" className="container tab-pane fade">
               <div className="main-top-second">
                 <div className="main-top-second-title">CEENQA Paylaşım Toplantısı - 12 (16 Kasım 2022)</div> 
                 <div className="main-top-second-content">

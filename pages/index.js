@@ -42,7 +42,8 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
-                  <div className="main-top-one-content-full"><img className="slider-full-img" src="img/duyurular/2023-yilbasi.png"/></div>
+                  <div className="main-top-one-title">HEPDAK 2023 yılı Takım Başkanları Toplantısı</div>
+                  <div className="main-top-one-content"><p>HEPDAK Yönetim Kurulu, 04 Ocak 2023 tarihinde Takım Başkanları ile çevrimiçi değerlendirme toplantısını gerçekleştirmiştir. Toplantıya 11’i takım başkanı olmak üzere 17 kişi katılmıştır. Toplantıda takım başkanları kurum değerlendirme ziyaretleri ve değerlendirme sürecine ilişkin deneyimlerini ve görüş ve önerilerini paylaşmışlardır.</p></div>
                 </div>
                 <div className="carousel-item">
                   <Link href="doc/2023-egitim-takvim.pdf"><a target="_blank">
@@ -166,6 +167,17 @@ const Anasayfa = () => (
             <div className="block-title-all"><a href="/tum-haberler">Tüm Haberler</a></div>
           </div>
           
+          <Link href="/haberler/2023-01-04-haber">
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">04</div>
+              <div className="date-month">Ocak</div>
+              <div className="date-year">2023</div>
+            </div>
+            <div className="block-subtitle-text">HEPDAK Takım Başkanları Toplantısı - 5</div>
+          </div>
+          </Link>
+
           <Link href="/haberler/16-11-2022-CEENQA">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
