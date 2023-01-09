@@ -13,6 +13,9 @@ const Kaynak = () => (
               <table className="table table-striped">
                 <tbody>
                   <tr>
+                    <td><Link href="doc/egitim_etkinlikleri/faaliyet-2022.pdf"><a target="_blank">- HEPDAK Faaliyetleri Tanıtımı ile İlgili Çağrılı Konuşmalar 2022</a></Link></td>
+                  </tr>
+                  <tr>
                     <td><Link href="doc/egitim_etkinlikleri/faaliyet-2021.pdf"><a target="_blank">- HEPDAK Faaliyetleri Tanıtımı ile İlgili Çağrılı Konuşmalar 2021</a></Link></td>
                   </tr>
                   <tr>
