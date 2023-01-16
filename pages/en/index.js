@@ -169,6 +169,39 @@ const Anasayfa = () => (
             <div className="block-title-all"><a href="/tum-haberler">All News</a></div>
           </div>
           
+          <Link href="/haberler/2023-01-12-haber">
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">12</div>
+              <div className="date-month">Ocak</div>
+              <div className="date-year">2023</div>
+            </div>
+            <div className="block-subtitle-text">HEPDAK Öğrenci Değerlendirici Adayları Toplantısı</div>
+          </div>
+          </Link>
+
+          <Link href="/haberler/2023-01-11-haber">
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">11</div>
+              <div className="date-month">Ocak</div>
+              <div className="date-year">2023</div>
+            </div>
+            <div className="block-subtitle-text">HEPDAK Değerlendiriciler Toplantısı - 5</div>
+          </div>
+          </Link>
+
+          <Link href="/haberler/2023-01-04-haber">
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">04</div>
+              <div className="date-month">Ocak</div>
+              <div className="date-year">2023</div>
+            </div>
+            <div className="block-subtitle-text">HEPDAK Takım Başkanları Toplantısı - 5</div>
+          </div>
+          </Link>
+
           <Link href="/haberler/16-11-2022-CEENQA">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
@@ -276,127 +309,6 @@ const Anasayfa = () => (
               <div className="date-year">2022</div>
             </div>
             <div className="block-subtitle-text">Belge Töreni</div>
-          </div>
-          </Link>
-
-          <Link href="/haberler/24-05-2022-haber">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">24</div>
-              <div className="date-month">Mayıs</div>
-              <div className="date-year">2022</div>
-            </div>
-            <div className="block-subtitle-text">YÖKAK tarafından düzenlenen izleme ziyareti gerçekleştirildi</div>
-          </div>
-          </Link>
-
-          <Link href="/haberler/21-04-2022-webinar-haber">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">21</div>
-              <div className="date-month">Nisan</div>
-              <div className="date-year">2022</div>
-            </div>
-            <div className="block-subtitle-text">Webinar: Hemşirelik Programları Mezunlarını Neden İzlemelidir? : Öğretim Üyesi ve Mezun Görüşleri</div>
-          </div>
-          </Link>
-
-          <Link href="/haberler/23-03-2022-webinar-haber">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">23</div>
-              <div className="date-month">Mart</div>
-              <div className="date-year">2022</div>
-            </div>
-            <div className="block-subtitle-text">Webinar: Hemşirelik Eğitim Programlarında Akreditasyon Yolculuğu: Güçlükler-Kazanımlar</div>
-          </div>
-          </Link>
-
-          <Link href="/haberler/16-03-2022-haber">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">16</div>
-              <div className="date-month">Mart</div>
-              <div className="date-year">2022</div>
-            </div>
-            <div className="block-subtitle-text">CEENQA Paylaşım Toplantısı - 9</div>
-          </div>
-          </Link>
-
-          <Link href="/haberler/15-03-2022-webinar-haber">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">15</div>
-              <div className="date-month">Mart</div>
-              <div className="date-year">2022</div>
-            </div>
-            <div className="block-subtitle-text">Webinar: Hemşirelik Eğitiminde İyi Uygulama Örnekleri: Ölçme-Değerlendirme</div>
-          </div>
-          </Link>
-
-          <Link href="/haberler/15-03-2022-haber">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">15</div>
-              <div className="date-month">Mart</div>
-              <div className="date-year">2022</div>
-            </div>
-            <div className="block-subtitle-text">HEPDAK 2021-2022 Dönemi Akreditasyon İçin Ziyaret Edilen Kurumlar ile Değerlendirme Toplantısı</div>
-          </div>
-          </Link>
-
-          <Link href="/haberler/01-03-2022-haber">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">01</div>
-              <div className="date-month">Mart</div>
-              <div className="date-year">2022</div>
-            </div>
-            <div className="block-subtitle-text">2022-2023 Dönemi Akreditasyon İçin Başvuran Kurumlara Yönelik Bilgilendirme Toplantısı</div>
-          </div>
-          </Link>
-
-          <Link href="/haberler/24-02-2022-haber">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">24</div>
-              <div className="date-month">Şubat</div>
-              <div className="date-year">2022</div>
-            </div>
-            <div className="block-subtitle-text">Hemşirelik Lisans Programı Yöneticileri Toplantısı</div>
-          </div>
-          </Link>
-
-          <Link href="/haberler/08-02-2022-takim-baskanlari-standart-komisyon">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">08</div>
-              <div className="date-month">Şubat</div>
-              <div className="date-year">2022</div>
-            </div>
-            <div className="block-subtitle-text">Takım Başkanları ile Standart Komisyonu Üyeleri Toplantısı</div>
-          </div>
-          </Link>
-
-          <Link href="/haberler/06-02-2022-ogrenci-calistayi">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">05-06</div>
-              <div className="date-month">Şubat</div>
-              <div className="date-year">2022</div>
-            </div>
-            <div className="block-subtitle-text">Öğrenci Değerlendirici Eğitim Çalıştayı</div>
-          </div>
-
-          </Link>
-          <Link href="/haberler/18-01-2022-ogrenci-geribildirim">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">18</div>
-              <div className="date-month">Ocak</div>
-              <div className="date-year">2022</div>
-            </div>
-            <div className="block-subtitle-text">Öğrenci Değerlendiriciler ile Geribildirim Toplantısı</div>
           </div>
           </Link>
 
