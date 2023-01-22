@@ -8,22 +8,22 @@ const Navigation = () => (
 				<li className="nav-item dropdown">
 					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">ABOUT US</a>
 					<div className="dropdown-menu">
-						<Link href="/misyon-vizyon"><a className="dropdown-item">Mission, Vision</a></Link>
-						<Link href="/doc/hepdak_stratejik_plan.pdf"><a className="dropdown-item">Strategic Plan</a></Link>
-						<Link href="/amac-ve-faaliyetler"><a className="dropdown-item">Purpose and Activities</a></Link>
-						<Link href="/kalite-politikasi"><a className="dropdown-item">Quality Policy</a></Link>
-						<Link href="/doc/hepdak_org_sema.pdf"><a className="dropdown-item">HEPDAK Organizational Structure</a></Link>
-						<Link href="/kurul-ve-komisyonlar"><a className="dropdown-item">Boards and Commissions</a></Link>
-						<Link href="/uye-listesi"><a className="dropdown-item">Member List</a></Link>
-						<Link href="/idari-personel"><a className="dropdown-item">Administrative Staff</a></Link>
-						<Link href="/tescil-yazilari"><a className="dropdown-item">Registration/Registry letters</a></Link>
+						<Link href="/en/mission-vision"><a className="dropdown-item">Mission, Vision</a></Link>
+						<Link href="/doc/en/hepdak-strategic-plan.pdf"><a className="dropdown-item" target="_blank">Strategic Plan</a></Link>
+						<Link href="/en/objective-activities"><a className="dropdown-item">Objective and Activities</a></Link>
+						<Link href="/en/quality-policy"><a className="dropdown-item">Quality Policy</a></Link>
+						<Link href="/doc/hepdak_org_sema.pdf"><a className="dropdown-item" target="_blank">HEPDAK Organizational Structure</a></Link>
+						<Link href="/en/boards-commissions"><a className="dropdown-item">Boards and Commissions</a></Link>
+						<Link href="/en/member-list"><a className="dropdown-item">Member List</a></Link>
+						{/*<Link href="/idari-personel"><a className="dropdown-item">Administrative Staff</a></Link>*/}
+						<Link href="/en/registry-letters"><a className="dropdown-item">Registration/Registry letters</a></Link>
 					</div>
 				</li>
 				<li className="nav-item dropdown">
 					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">ACCREDITATION</a>
 					<div className="dropdown-menu">
 						<Link href="/doc/b1-basvuru-2023-2024.doc"><a className="dropdown-item">Application</a></Link>
-						<Link href="/belgeler"><a className="dropdown-item">Documents</a></Link>
+						<Link href="/en/documents"><a className="dropdown-item">Documents</a></Link>
 						<Link href="/ucretler"><a className="dropdown-item">Fees</a></Link>
 						<Link href="/akredite-edilen-kurumlar"><a className="dropdown-item">Accredited Programs</a></Link>
 						<Link href="/ilgili-kuruluslar"><a className="dropdown-item">Related Organizations</a></Link>

@@ -139,7 +139,7 @@ const Anasayfa = () => (
         </div>
       </div>
     </div>
-  
+    {/*
     <div className="main-fast-akredite">
       <div className="fast-akredite-button col-md-4">
         <Link href="/doc/b1-basvuru-2023-2024.doc"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faCheck}/>Accreditation Application</button></a></Link>
@@ -160,7 +160,7 @@ const Anasayfa = () => (
         <Link href="/belgeler"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faFile}/>Other Documents</button></a></Link>
       </div>
     </div>
-    
+    */}
     <div className="main-new">
       <div className="main-new-block col-md-4 col-sm-12">
         <div className="main-new-block-alt">

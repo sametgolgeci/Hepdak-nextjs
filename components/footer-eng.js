@@ -35,19 +35,19 @@ const Footer = () => (
 		</div>
 		<div className="col-sm-12 col-md-3 footer-item">
 			<div className="footer-item-title"><strong>About Us</strong></div> 
-			<div className="footer-item-link"><Link href="/misyon-vizyon"><a>Mission, Vision</a></Link></div>
-			<div className="footer-item-link"><Link href="/doc/HEPDAK_STRATEJİK_PLAN_2020.pdf"><a>Strategic Plan</a></Link></div>
-			<div className="footer-item-link"><Link href="/amac-ve-faaliyetler"><a>Purpose and Activities</a></Link></div>
-			<div className="footer-item-link"><Link href="/kalite-politikasi"><a>Quality Policy</a></Link></div>
-			<div className="footer-item-link"><Link href="/doc/hepdak_org_sema.pdf"><a>HEPDAK Organizational Structure</a></Link></div>
-			<div className="footer-item-link"><Link href="/kurul-ve-komisyonlar"><a>Boards and Commissions</a></Link></div>
-			<div className="footer-item-link"><Link href="/uye-listesi"><a>Member List</a></Link></div>
-			<div className="footer-item-link"><Link href="/tescil-yazilari"><a>Registration/Registry Letters</a></Link></div>
+			<div className="footer-item-link"><Link href="/mission-vision"><a>Mission, Vision</a></Link></div>
+			<div className="footer-item-link"><Link href="/doc/en/hepdak-strategic-plan.pdf"><a target="_blank">Strategic Plan</a></Link></div>
+			<div className="footer-item-link"><Link href="/objective-activities"><a>Objective and Activities</a></Link></div>
+			<div className="footer-item-link"><Link href="/quality-policy"><a>Quality Policy</a></Link></div>
+			<div className="footer-item-link"><Link href="/doc/hepdak_org_sema.pdf"><a target="_blank">HEPDAK Organizational Structure</a></Link></div>
+			<div className="footer-item-link"><Link href="/en/boards-commissions"><a>Boards and Commissions</a></Link></div>
+			<div className="footer-item-link"><Link href="/en/member-list"><a>Member List</a></Link></div>
+			<div className="footer-item-link"><Link href="/en/registry-letters"><a>Registration/Registry Letters</a></Link></div>
 		</div>	
 		<div className="col-sm-12 col-md-3 footer-item">
 			<div className="footer-item-title"><strong>Accreditation</strong></div>
 			<div className="footer-item-link"><Link href="/doc/b1-basvuru-2023-2024.doc"><a>Application</a></Link></div>
-			<div className="footer-item-link"><Link href="/belgeler"><a>Documents</a></Link></div>
+			<div className="footer-item-link"><Link href="/en/documents"><a>Documents</a></Link></div>
 			<div className="footer-item-link"><Link href="/ucretler"><a>Fees</a></Link></div>
 			<div className="footer-item-link"><Link href="/akredite-edilen-kurumlar"><a>Accredited Programs</a></Link></div>
 			<div className="footer-item-link"><Link href="/ilgili-kuruluslar"><a>Related Organizations</a></Link></div>
