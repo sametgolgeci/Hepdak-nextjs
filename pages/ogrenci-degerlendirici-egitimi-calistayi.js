@@ -15,6 +15,27 @@ const Calistay = () => (
 		<p className="madde-p">• Değerlendirme becerisini geliştirme</p>
 		<p className="madde-p">• Değerlendirici davranışını geliştirme</p>
 		<p className="madde-p">• Öğrenci değerlendiricilerden değerlendirme sürecindeki beklentiler</p>
+		<h6><span className="badge badge-custom">6</span> 27 - 28 Ocak 2023</h6>
+		<p>
+			<ul className="nav calistay-nav">
+			  <li className="nav-item">
+			    <a className="nav-link calistay-button" href="doc/ogrenci_egitim_6/program.pdf" target="_blank">Program</a>
+			  </li>
+			  <li className="nav-item">
+			    <a className="nav-link calistay-button" data-toggle="collapse" href="#collapseExample6" role="button" aria-expanded="false" aria-controls="collapseExample6">Sunumlar</a>
+			  </li>
+			</ul>
+		</p>
+		<div className="collapse" id="collapseExample6">
+			<p><strong>-> Sunumlar</strong></p>
+			<p className="madde-p">
+				<a href="/doc/ogrenci_egitim_6/belge_1.pdf">1. Açılış ve Çalıştayın Amaçları</a><br/>
+				<a href="/doc/ogrenci_egitim_6/belge_2.pdf">2. HEPDAK Akreditasyon Süreci</a><br/>
+				<a href="/doc/ogrenci_egitim_6/belge_3.pdf">3. Öğrenci Değerlendiricilerin HEPDAK Akreditasyon Sürecine Katılımı</a><br/>
+				<a href="/doc/ogrenci_egitim_6/belge_4.pdf">4. Davranışsal Boyut</a><br/>
+				<a href="/doc/ogrenci_egitim_6/belge_5.pdf">5. Rapor Yazımı Nasıl Olmalı</a><br/>
+			</p>
+		</div>
 		<h6><span className="badge badge-custom">5</span> 05 - 06 Şubat 2022</h6>
 		<p>
 			<ul className="nav calistay-nav">
