@@ -59,7 +59,7 @@ const Navigation = () => (
 				</li>
 			
 				<li className="nav-item dropdown">
-					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">EDUCATİONS</a>
+					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">EDUCATIONS</a>
 					<div className="dropdown-menu">
 						<Link href="/webinar"><a className="dropdown-item">Webinars</a></Link>
 						<Link href="/sempozyumlar"><a className="dropdown-item">Symposiums</a></Link>
