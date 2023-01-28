@@ -5,7 +5,7 @@ import Link from 'next/link'
 const Gorus = () => (
     <MasterPage>
 	    <Head>
-	      <title>HEPDAK | Paydaş İdari Personel</title>
+	      <title>HEPDAK | İdari Personel</title>
 	    </Head>
 	    <div className="genel">
 	    	<h1>İdari Personel</h1>
