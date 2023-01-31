@@ -61,22 +61,6 @@ const Anasayfa = () => (
                   <div className="main-top-one-title">HEPDAK 4. Olağan Genel Kurulu</div>
                   <div className="main-top-one-content"><p>HEPDAK 4. Olağan Genel Kurulu 20 Ekim Perşembe günü saat 17.00'de gerçekleştirilmiştir. Genel kurulda Manisa Celal Bayar Üniversitesinnden Prof. Dr. Dilek Özmen, İzmir Katip Çelebi Üniversitesi’nden Prof. Dr. Medine Yılmaz, İzmir Ekonomi Üniversitesinden Doç. Dr. Gülsüm Nihal Çürük, Ondokuz Mayıs Üniversitesinden Prof. Dr. Özen Kulakaç ve Ege Üniversitesinden Doç. Dr. Fatma Orgun HEPDAK Yönetim Kurulu’na seçilmişlerdir.</p></div>
                 </div>
-                <div className="carousel-item">
-                  <Link href="/haberler/01-06-2022-belge"><a target="_blank">
-                    <div className="main-top-one-title">Belge Töreni</div>
-                    <div className="main-top-one-content">
-                      <div className="main-top-one-content-side">
-                        <div className="main-top-one-content-one">
-                          <p>HEPDAK Akreditasyon değerlendirmeleri sonucu 2021-2022 döneminde akredite olmaya hak kazanan kurumlara belge takdim töreni düzenlenmiştir...</p>
-                        </div>
-                        <div className="main-top-one-content-two">
-                          <img className="slider-img" src="/img/haberler/belge-toreni-2022/01.png"/>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="main-top-one-continue">Devamı -></div>
-                  </a></Link>
-                </div>
                 
                 {/*
                 *** Desing 5 ***
