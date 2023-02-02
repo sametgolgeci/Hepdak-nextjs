@@ -1,14 +1,14 @@
-import MasterPage from '../components/master-page'
+import MasterPage from '../../components/masterpage-eng'
 import Head from 'next/head'
 import Link from 'next/link'
 
 const Uye = () => (
     <MasterPage>
 	    <Head>
-	      <title>HEPDAK | Değerlendirici Listesi</title>
+	      <title>HEPDAK | Evaluator List</title>
 	    </Head>
       <div className="genel">
-	    <h1>HEPDAK Değerlendirici Listesi</h1>
+	    <h1>HEPDAK Evaluator List</h1>
 	    <table className="table table-striped">
                 <tbody>
                   <tr>
@@ -493,7 +493,7 @@ const Uye = () => (
                   </tr>
                 </tbody>
               </table>
-      <h1>HEPDAK Öğrenci Değerlendirici Listesi</h1>
+      <h1>HEPDAK Student Evaluator List</h1>
       <table className="table table-striped">
                 <tbody>
                   <tr>

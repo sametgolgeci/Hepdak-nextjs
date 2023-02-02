@@ -42,30 +42,31 @@ const Footer = () => (
 			<div className="footer-item-link"><Link href="/doc/hepdak_org_sema.pdf"><a target="_blank">HEPDAK Organizational Structure</a></Link></div>
 			<div className="footer-item-link"><Link href="/en/boards-commissions"><a>Boards and Commissions</a></Link></div>
 			<div className="footer-item-link"><Link href="/en/member-list"><a>Member List</a></Link></div>
+			<div className="footer-item-link"><Link href="/en/evaluator-list"><a>Evaluator List</a></Link></div>
 			<div className="footer-item-link"><Link href="/en/registry-letters"><a>Registration/Registry Letters</a></Link></div>
 		</div>	
 		<div className="col-sm-12 col-md-3 footer-item">
 			<div className="footer-item-title"><strong>Accreditation</strong></div>
 			<div className="footer-item-link"><Link href="/doc/b1-basvuru-2023-2024.doc"><a>Application</a></Link></div>
 			<div className="footer-item-link"><Link href="/en/documents"><a>Documents</a></Link></div>
-			<div className="footer-item-link"><Link href="/ucretler"><a>Fees</a></Link></div>
-			<div className="footer-item-link"><Link href="/akredite-edilen-kurumlar"><a>Accredited Programs</a></Link></div>
-			<div className="footer-item-link"><Link href="/ilgili-kuruluslar"><a>Related Organizations</a></Link></div>
+			<div className="footer-item-link"><Link href="#"><a>Fees</a></Link></div>
+			<div className="footer-item-link"><Link href="#"><a>Accredited Programs</a></Link></div>
+			<div className="footer-item-link"><Link href="#"><a>Related Organizations</a></Link></div>
 			<div className="footer-item-title footer-item-title-calistay"><strong>Workshops</strong></div>
-			<div className="footer-item-link"><Link href="/kurumlar-icin-egitim-calistayi"><a>Training Workshop for Institutions</a></Link></div>
-			<div className="footer-item-link"><Link href="/degerlendirici-egitimi-calistayi"><a>Evaluator Training Workshop</a></Link></div>
-			<div className="footer-item-link"><Link href="/ogrenci-degerlendirici-egitimi-calistayi"><a>Student Evaluator Training Workshop</a></Link></div>
+			<div className="footer-item-link"><Link href="#"><a>Training Workshop for Institutions</a></Link></div>
+			<div className="footer-item-link"><Link href="#"><a>Evaluator Training Workshop</a></Link></div>
+			<div className="footer-item-link"><Link href="#"><a>Student Evaluator Training Workshop</a></Link></div>
 		</div>
 		<div className="col-sm-12 col-md-3 footer-item">
 			<div className="footer-item-title"><strong>Reports</strong></div>
-			<div className="footer-item-link"><Link href="/hepdak-genel-kurulu-ve-raporlari"><a>General Assembly and Reports</a></Link></div>
-			<div className="footer-item-link"><Link href="/tematik-analiz-raporu"><a>Thematic Analysis Report</a></Link></div>
-			<div className="footer-item-link"><Link href="/faaliyet-raporlari"><a>Activity Reports/Annual Reports</a></Link></div>
-			<div className="footer-item-link"><Link href="/paydas-gorusleri"><a>Stakeholder Opinion Reports</a></Link></div>	
+			<div className="footer-item-link"><Link href="#"><a>General Assembly and Reports</a></Link></div>
+			<div className="footer-item-link"><Link href="#"><a>Thematic Analysis Report</a></Link></div>
+			<div className="footer-item-link"><Link href="#"><a>Activity Reports/Annual Reports</a></Link></div>
+			<div className="footer-item-link"><Link href="#"><a>Stakeholder Opinion Reports</a></Link></div>	
 			<div className="footer-item-title footer-item-title-calistay"><strong>Meetings</strong></div>
-			<div className="footer-item-link"><Link href="/heak-ve-komisyon-toplantilari"><a>HEAK and Commission Meetings</a></Link></div>
-			<div className="footer-item-link"><Link href="/tutarlilik-komisyonu-toplantilari"><a>Consistency Committee Meetings</a></Link></div>
-			<div className="footer-item-link"><Link href="/takim-baskani-toplantilari"><a>Team Leader Meetings</a></Link></div>
+			<div className="footer-item-link"><Link href="#"><a>HEAK and Commission Meetings</a></Link></div>
+			<div className="footer-item-link"><Link href="#"><a>Consistency Committee Meetings</a></Link></div>
+			<div className="footer-item-link"><Link href="#"><a>Team Leader Meetings</a></Link></div>
 		</div>		
 	</div>
 	<div className="footer-copy">
