@@ -12,7 +12,7 @@ const Header = () => (
 	</div>
 	<div className="header-items">
 		<div className="header-logo">
-			<Link href="/eng"><a><img className="header-logo-img" src="../img/hepdak-yatay.jpg" title="HEPDAK"></img></a></Link>
+			<Link href="/en"><a><img className="header-logo-img" src="../img/hepdak-yatay.jpg" title="HEPDAK"></img></a></Link>
 		</div>
 	</div>
 </div>
