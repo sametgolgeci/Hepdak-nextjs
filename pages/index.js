@@ -42,6 +42,10 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
+                  <div className="main-top-one-title">Duyuru</div>
+                  <div className="main-top-one-content"><p>Kahramanmaraş merkezli gerçekleşen ve on şehrimizi etkileyen depremde hayatını kaybedenlere Allah’tan rahmet, tüm Türkiye’ye ve yakınlarına başsağılığı, yaralılara acil şifalar diliyoruz.</p></div>
+                </div>
+                <div className="carousel-item ">
                   <div className="main-top-one-title">HEPDAK 2023 yılı Takım Başkanları Toplantısı</div>
                   <div className="main-top-one-content"><p>HEPDAK Yönetim Kurulu, 04 Ocak 2023 tarihinde Takım Başkanları ile çevrimiçi değerlendirme toplantısını gerçekleştirmiştir. Toplantıya 11’i takım başkanı olmak üzere 17 kişi katılmıştır. Toplantıda takım başkanları kurum değerlendirme ziyaretleri ve değerlendirme sürecine ilişkin deneyimlerini ve görüş ve önerilerini paylaşmışlardır.</p></div>
                 </div>
