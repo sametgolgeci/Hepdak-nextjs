@@ -12,6 +12,9 @@ const Kaynak = () => (
               <table className="table table-striped">
                 <tbody>
                   <tr>
+                    <td><Link href="doc/hepdak_sunumlari/Prof.Dr.AylaBayikTemel-HemsirelikEgitimindeDonusum.pdf"><a target="_blank">- Prof. Dr. Ayla Bayık Temel Hemşirelik Eğitiminde Dönüşüm Hemşirelik Eğitimini Güçlendirme (24-26 Kasım 2022)</a></Link></td>
+                  </tr>
+                  <tr>
                     <td><Link href="doc/hepdak_sunumlari/Prof.Dr.DilekOzmen-HemsirelikLisansProgramlarındaEgitim-OgretimSurecleri.pdf"><a target="_blank">- Prof. Dr. Dilek Özmen - Hemşirelik Lisans Programlarında Eğitim - Öğretim Süreçleri (22-25 Eylül 2022)</a></Link></td>
                   </tr>
                   <tr>
