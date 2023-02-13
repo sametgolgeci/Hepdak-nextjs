@@ -145,349 +145,344 @@ const Uye = () => (
                     <th scope="row">27</th>
                     <td>Prof. Dr. Kafiye Eroğlu</td>
                     <td>Koç Üniversitesi Hemşirelik Fakültesi</td>
-                  </tr>
+                  </tr> 
                   <tr>
                     <th scope="row">28</th>
-                    <td>Doç. Dr. Hülya Fırat Kılıç</td>
-                    <td>Doğu Akdeniz Üniversitesi Sağlık Bilimleri Fakültesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">29</th>
                     <td>Doç. Dr. Nilgün Göktepe</td>
                     <td>Ordu Üniversitesi Sağlık Bilimleri Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">30</th>
+                    <th scope="row">29</th>
                     <td>Doç. Dr. Zehra Gök Metin</td>
                     <td>Hacettepe Üniversitesi Hemşirelik Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">31</th>
+                    <th scope="row">30</th>
                     <td>Prof. Dr. Nuran Güler</td>
                     <td>Sivas Cumhuriyet Üniversitesi Sağlık Bilimleri Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">32</th>
+                    <th scope="row">31</th>
                     <td>Doç. Dr. Sevil Güler</td>
                     <td>Gazi Üniversitesi Sağlık Bilimleri Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">33</th>
+                    <th scope="row">32</th>
                     <td>Prof. Dr. Perihan Güner</td>
                     <td>Koç Üniversitesi Hemşirelik Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">34</th>
+                    <th scope="row">33</th>
                     <td>Doç. Dr. Kamer Gür</td>
                     <td>Marmara Üniversitesi Sağlık Bilimleri Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">35</th>
+                    <th scope="row">34</th>
                     <td>Prof. Dr. Gülten Güvenç</td>
                     <td>Sağlık Bilimleri Üniversitesi Gülhane Hemşirelik Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">36</th>
+                    <th scope="row">35</th>
                     <td>Prof. Dr. Sevgi Hatipoğlu</td>
                     <td>Karatay Üniversitesi Sağlık Bilimleri Yüksekokulu</td>
                   </tr>
                   <tr>
-                    <th scope="row">37</th>
+                    <th scope="row">36</th>
                     <td>Doç. Dr. Duygu Hiçdurmaz</td>
                     <td>Hacettepe Üniversitesi Hemşirelik Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">38</th>
+                    <th scope="row">37</th>
                     <td>Dr. Öğrt. Üyesi Burçin Işık</td>
                     <td>Gaziantep İslam Bilim Ve Teknoloji Üniversitesi Sağlık Bilimleri Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">39</th>
+                    <th scope="row">38</th>
                     <td>Doç. Dr. Zehra Işık Çalışkan</td>
                     <td>Nevşehir Hacı Bektaş Veli Üniversitesi Semra Ve Vefa Küçük Sağlık Bilimleri Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">40</th>
+                    <th scope="row">39</th>
                     <td>Dr. Öğr. Üyesi Demet İnangil</td>
                     <td>Sağlık Bilimleri Üniversitesi Hemşirelik Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">41</th>
+                    <th scope="row">40</th>
                     <td>Doç. Dr. Nur İzgü</td>
                     <td>Hacettepe Üniversitesi Hemşirelik Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">42</th>
+                    <th scope="row">41</th>
                     <td>Prof. Dr. Hasibe Kadıoğlu</td>
                     <td>Marmara Üniversitesi Sağlık Bilimleri Fakültesi</td>
                   </tr>
                    <tr>
-                    <th scope="row">43</th>
+                    <th scope="row">42</th>
                     <td>Doç. Dr. Gülendam Karadağ</td>
                     <td>Dokuz Eylül Üniversitesi Hemşirelik Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">44</th>
+                    <th scope="row">43</th>
                     <td>Doç. Dr. Songül Karadağ</td>
                     <td>Çukurova Üniversitesi Sağlık Bilimleri Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">45</th>
+                    <th scope="row">44</th>
                     <td>Prof. Dr. Ayfer Karadakovan</td>
                     <td>Ege Üniversitesi Hemşirelik Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">46</th>
+                    <th scope="row">45</th>
                     <td>Prof. Dr. Azize Karahan</td>
                     <td>Başkent Üniversitesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">47</th>
+                    <th scope="row">46</th>
                     <td>Dr. Öğr. Üyesi Gülten Karahan Okuroğlu</td>
                     <td>Marmara Üniversitesi Sağlık Bilimleri Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">48</th>
+                    <th scope="row">47</th>
                     <td>Doç. Dr. Zeynep Karaman Özlü</td>
                     <td>Atatürk Üniversitesi Hemşirelik Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">49</th>
+                    <th scope="row">48</th>
                     <td>Doç.Dr. Hülya Karataş</td>
                     <td>Harran Üniversitesi Sağlık Bilimleri Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">50</th>
+                    <th scope="row">49</th>
                     <td>Prof. Dr. Sultan Kav</td>
                     <td>Başkent Üniversitesi Sağlık Bilimleri Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">51</th>
+                    <th scope="row">50</th>
                     <td>Prof. Dr. Oya Kavlak</td>
                     <td>Ege Üniversitesi Hemşirelik Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">52</th>
+                    <th scope="row">51</th>
                     <td>Prof. Dr. Hülya Kaya</td>
                     <td>İstanbul Üniversitesi Cerrahpaşa Florence Nightingale Hemşirelik</td>
                   </tr>
                    <tr>
-                    <th scope="row">53</th>
+                    <th scope="row">52</th>
                     <td>Prof. Dr. Ayla Keçeci</td>
                     <td>Düzce Üniversitesi Sağlık Bilimleri Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">54</th>
+                    <th scope="row">53</th>
                     <td>Prof. Dr. Meral Kelleci</td>
                     <td>Sivas Cumhuriyet Üniversitesi Sağlık Bilimleri Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">55</th>
+                    <th scope="row">54</th>
                     <td>Doç. Dr. Gülten Koç</td>
                     <td>Hacettepe Üniversitesi Hemşirelik Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">56</th>
+                    <th scope="row">55</th>
                     <td>Dr. Öğr. Üyesi Medine Koç</td>
                     <td>Tokat Gaziosmanpaşa Üniversitesi Sağlık Bilimleri Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">57</th>
+                    <th scope="row">56</th>
                     <td>Doç. Dr. Emine Kol</td>
                     <td>Akdeniz Üniversitesi Hemşirelik Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">58</th>
+                    <th scope="row">57</th>
                     <td>Doç. Dr. Fatoş Korkmaz</td>
                     <td>Hacettepe Üniversitesi Hemşirelik Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">59</th>
+                    <th scope="row">58</th>
                     <td>Doç. Dr. Gülbahar Korkmaz Aslan</td>
                     <td>Pamukkale Üniversitesi Sağlık Bilimleri Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">60</th>
+                    <th scope="row">59</th>
                     <td>Prof. Dr. Özen Kulakaç</td>
                     <td>Ondokuz Mayıs Üniversitesi Sağlık Bilimleri Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">61</th>
+                    <th scope="row">60</th>
                     <td>Prof. Dr. Hatice Mert</td>
                     <td>Dokuz Eylül Üniversitesi Hemşirelik Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">62</th>
+                    <th scope="row">61</th>
                     <td>Prof. Dr. Hülya Okumuş</td>
                     <td>Dokuz Eylül Üniversitesi Hemşirelik Fakültesi - Emekli</td>
                   </tr>
                    <tr>
-                    <th scope="row">63</th>
+                    <th scope="row">62</th>
                     <td>Doç. Dr. Fatma Orgun</td>
                     <td>Ege Üniversitesi Hemşirelik Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">64</th>
+                    <th scope="row">63</th>
                     <td>Prof. Dr. Özlem Ovayolu</td>
                     <td>Gaziantep Üniversitesi Sağlık Bilimleri Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">65</th>
+                    <th scope="row">64</th>
                     <td>Doç. Dr. Gülçin Özalp Gerçeker</td>
                     <td>Dokuz Eylül Üniversitesi Hemşirelik Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">66</th>
+                    <th scope="row">65</th>
                     <td>Doç. Dr. Birgül Özkan</td>
                     <td>Yıldırım Beyazıt Üniversitesi Sağlık Bilimleri Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">67</th>
+                    <th scope="row">66</th>
                     <td>Prof. Dr. Dilek Özmen</td>
                     <td>Manisa Celal Bayar Üniversitesi Sağlık Bilimleri Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">68</th>
+                    <th scope="row">67</th>
                     <td>Prof. Dr. Candan Öztürk</td>
                     <td>Yakın Doğu Üniversitesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">69</th>
+                    <th scope="row">68</th>
                     <td>Dr. Öğr. Üyesi Berrin Pazar</td>
                     <td>Lokman Hekim Üniversitesi Sağlık Bilimleri Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">70</th>
-                    <td>Doç. Dr.Selda Rızalar</td>
+                    <th scope="row">69</th>
+                    <td>Doç. Dr. Selda Rızalar</td>
                     <td>Sağlık Bilimleri Üniversitesi Hemşirelik Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">71</th>
+                    <th scope="row">70</th>
                     <td>Doç. Dr. Aklime Sarıkaya</td>
                     <td>İstanbul Sabahattin Zaim Üniversitesi Sağlık Bilimleri Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">72</th>
+                    <th scope="row">71</th>
                     <td>Prof. Dr. Ümit Seviğ</td>
                     <td>Emekli Öğretim Üyesi</td>
                   </tr>
                    <tr>
-                    <th scope="row">73</th>
+                    <th scope="row">72</th>
                     <td>Dr. Öğr. Üyesi Hale Sezer</td>
                     <td>İzmir Bakırçay Üniversitesi Sağlık Bilimleri Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">74</th>
+                    <th scope="row">73</th>
                     <td>Doç. Dr. Özlem Sinan</td>
                     <td>Ankara Yıldırım Beyazıt Üniversitesi Sağlık Bilimleri Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">75</th>
+                    <th scope="row">74</th>
                     <td>Doç. Dr. Gülten Sucu Dağ</td>
                     <td>Doğu Akdeniz Üniversitesi Sağlık Bilimleri Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">76</th>
+                    <th scope="row">75</th>
                     <td>Dr. Öğr. Üyesi Hatice Şen</td>
                     <td>Uluslararası Kıbrıs Üniversitesi Sağlık Bilimleri Yüksekokulu</td>
                   </tr>
                   <tr>
-                    <th scope="row">77</th>
+                    <th scope="row">76</th>
                     <td>Doç. Dr. Emine Şenyuva</td>
                     <td>İstanbul Üniversitesi Cerrahpaşa Florence Nightingale Hemşirelik Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">78</th>
+                    <th scope="row">77</th>
                     <td>Doç. Dr. Banu Terzi</td>
                     <td>Akdeniz Üniversitesi Hemşirelik Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">79</th>
+                    <th scope="row">78</th>
                     <td>Doç. Dr. Betül Tosun</td>
                     <td>Hasan Kalyoncu Üniversitesi Sağlık Bilimleri Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">80</th>
+                    <th scope="row">79</th>
                     <td>Prof. Dr. Gülengün Türk</td>
                     <td>Aydın Adnan Menderes Üniversitesi Hemşirelik Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">81</th>
+                    <th scope="row">80</th>
                     <td>Doç. Dr. Emine Türkmen</td>
                     <td>İstinye Üniversitesi Sağlık Bilimleri Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">82</th>
+                    <th scope="row">81</th>
                     <td>Doç. Dr. Esra Uğur</td>
                     <td>Acıbadem Mehmet Ali Aydınlar Üniversitesi Sağlık Bilimleri Fakültesi</td>
                   </tr>
                    <tr>
-                    <th scope="row">83</th>
+                    <th scope="row">82</th>
                     <td>Doç. Dr. Sevim Ulupınar</td>
                     <td>İstanbul Üniversitesi Florence Nightingale Hemşirelik Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">84</th>
+                    <th scope="row">83</th>
                     <td>Prof. Dr. Aynur Uysal Toraman</td>
                     <td>Ege Üniversitesi Hemşirelik Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">85</th>
+                    <th scope="row">84</th>
                     <td>Prof. Dr. Elif Ünsal Avdal</td>
                     <td>İzmir Kâtip Çelebi Üniversitesi Sağlık Bilimleri Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">86</th>
+                    <th scope="row">85</th>
                     <td>Prof. Dr. Şenay Ünsal Atan</td>
                     <td>Ege Üniversitesi Hemşirelik Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">87</th>
+                    <th scope="row">86</th>
                     <td>DProf. Dr. Vesile Ünver</td>
                     <td>Acıbadem Üniversitesi Sağlık Bilimleri Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">88</th>
+                    <th scope="row">87</th>
                     <td>Doç. Dr. Bahar Vardar İnkaya</td>
                     <td>Ankara Yıldırım Beyazıt Üniversitesi Sağlık Bilimleri Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">89</th>
+                    <th scope="row">88</th>
                     <td>Doç. Dr. Fatma Vural</td>
                     <td>Dokuz Eylül Üniversitesi Hemşirelik Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">90</th>
+                    <th scope="row">89</th>
                     <td>Doç. Dr. Emriye Hilal Yayan</td>
                     <td>İnönü Üniversitesi Hemşirelik Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">91</th>
+                    <th scope="row">90</th>
                     <td>Doç. Dr. Kerziban Yenal</td>
                     <td>Lefke Avrupa Üniversitesi Sağlık Bilimleri Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">92</th>
+                    <th scope="row">91</th>
                     <td>Prof. Dr. Hatice Yıldırım Sarı</td>
                     <td>İzmir Katip Çelebi Üniversitesi Sağlık Bilimleri Fakültesi</td>
                   </tr>
                    <tr>
-                    <th scope="row">93</th>
+                    <th scope="row">92</th>
                     <td>Prof. Dr. Hicran Yıldız</td>
                     <td>DUludağ Üniversitesi Sağlık Bilimleri Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">94</th>
+                    <th scope="row">93</th>
                     <td>Prof. Dr. Medine Yılmaz</td>
                     <td>İzmir Katip Çelebi Üniversitesi Sağlık Bilimleri Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">95</th>
+                    <th scope="row">94</th>
                     <td>Doç Dr. Afife Yurttaş</td>
                     <td>Sağlık Bilimleri Üniversitesi Hamidiye Hemşirelik Fakültesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">96</th>
+                    <th scope="row">95</th>
                     <td>Prof. Dr. Ayten Zaybak</td>
                     <td>Ege Üniversitesi Hemşirelik Fakültesi</td>
                   </tr>

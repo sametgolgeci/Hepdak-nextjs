@@ -17,7 +17,7 @@ const Uye = () => (
                   </tr>
                   <tr>
                     <th scope="row">2</th>
-                    <td>Alev Karaçoban</td>
+                    <td>Alev Hekimoğlu</td>
                   </tr>
                   <tr>
                     <th scope="row">3</th>
