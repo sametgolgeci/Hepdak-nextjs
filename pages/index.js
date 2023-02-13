@@ -42,7 +42,10 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
-                  <div className="main-top-one-content-full"><img className="slider-full-img" src="img/duyurular/2023-02-06-deprem.png"/></div>
+                  <Link href="doc/2023-deprem.pdf"><a target="_blank">
+                    <div className="main-top-one-title">Duyuru</div>
+                    <div className="main-top-one-content">HEPDAK Yükseköğretim Kurulu’nun Ülkemizde yaşanan Deprem Felaketi nedeniyle aldığı Uzaktan Eğitim Kararına <strong>buradan</strong> ulaşabilirsiniz.</div>
+                  </a></Link>
                 </div>
                 <div className="carousel-item ">
                   <div className="main-top-one-title">HEPDAK 2023 yılı Takım Başkanları Toplantısı</div>

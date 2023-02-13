@@ -11,10 +11,11 @@ const Kurul = () => (
 	    <h1>Boards</h1>
 	    	<h3 className="kurul-title">HEPDAK Yönetim Kurulu</h3>
 	    	<span className="madde-span">• Prof. Dr. Dilek Özmen (Chair), Manisa Celal Bayar Üniversitesi</span>
+	    	<span className="madde-span">• Doç. Dr. Fatma Orgun (Vise Chair), Ege Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Medine Yılmaz (General Secretary), İzmir Katip Çelebi Üniversitesi</span>
 	    	<span className="madde-span">• Doç. Dr. Gülsüm Nihal Çürük (Accountant), İzmir Ekonomi Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Özen Kulakaç (Member), Ondokuz Mayıs Üniversitesi</span>
-	    	<span className="madde-span">• Doç. Dr. Fatma Orgun (Member), Ege Üniversitesi</span>
+
 	    	
 	    	<h3 className="kurul-title">HEPDAK Denetleme Kurulu</h3>
 	    	<span className="madde-span">• Prof. Dr. Hatice Yıldırım Sarı (Chair), İzmir Katip Çelebi Üniversitesi</span>
@@ -64,7 +65,8 @@ const Kurul = () => (
 	    	<span className="madde-span">• Prof. Dr. Hülya Okumuş, Emekli Öğretim Üyesi</span>
 	    	<span className="madde-span">• Prof. Dr. Özen Kulakaç, Ondokuz Mayıs Üniversitesi</span>
 	    	<span className="madde-span">• Dr. Öğ. Üyesi Hale Sezer, Bakırçay Üniversitesi</span>
-	    	<span className="madde-span">• Öğrenci Talha Muhammed Sabah, Başkent Üniversitesi</span>	    	
+	    	<span className="madde-span">• Öğrenci Talha Muhammed Sabah, Başkent Üniversitesi</span>	
+	    	<span className="madde-span">• Öğrenci Gizem Tunç, Hacettepe Üniversitesi</span>    	
 
 	    	<h3 className="kurul-title">Sürekli İyileştirme Komisyonu</h3>
 	    	<span className="madde-span">• Prof. Dr. Ayla Keçeci (Chair), Düzce Üniversitesi</span>
