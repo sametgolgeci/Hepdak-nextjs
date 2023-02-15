@@ -36,7 +36,7 @@ const Belgeler = () => (
                 </tr>
                 <tr>
                   <th scope="row">5</th>
-                  <td>HEPDAK Eğitim Komisyonu Çalışma Yönergesi <Link href="doc/a5_v1.pdf"><a>Sürüm 1.0</a></Link> | <Link href="doc/a5_v2.pdf"><a>Sürüm 2.0</a></Link></td>
+                  <td>HEPDAK Eğitim Komisyonu Çalışma Yönergesi <Link href="doc/a5_v1.pdf"><a>Sürüm 1.0</a></Link> | <Link href="doc/a5_v2.pdf"><a>Sürüm 2.0</a></Link> | <Link href="doc/a5_v2_1.pdf"><a>Sürüm 2.1</a></Link></td>
                 </tr>
                 <tr>
                   <th scope="row">6</th>
