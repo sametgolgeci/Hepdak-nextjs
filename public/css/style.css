@@ -1082,4 +1082,11 @@ table{
 	margin: 0 auto;
 	display: flex;
 }
-
+.home-duyuru{
+	font-size: 1.75rem;
+	font-weight: 800;
+	text-align: center;
+}
+.home-duyuru a{
+	color: royalblue;
+}

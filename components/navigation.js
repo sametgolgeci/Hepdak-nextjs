@@ -5,6 +5,9 @@ const Navigation = () => (
 	<div className="navigation-items">
 		<div className="navigation-nav">
 			<ul className="nav nav-pills">
+				<li className="nav-item">
+	        <Link href="/"><a className="nav-link header-nav-link">ANASAYFA</a></Link>
+	      </li>
 				<li className="nav-item dropdown">
 					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">KURUMSAL</a>
 					<div className="dropdown-menu">
