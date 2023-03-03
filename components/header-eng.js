@@ -12,7 +12,9 @@ const Header = () => (
 	</div>
 	<div className="header-items">
 		<div className="header-logo">
-			<Link href="/en"><a><img className="header-logo-img" src="../img/hepdak-yatay-100-2.jpg.jpg" title="HEPDAK"></img></a></Link>
+			<Link href="/"><a><img className="header-logo-img" src="../img/logo/logo-tek.jpg" title="HEPDAK"></img></a></Link>
+			<Link href="/"><a><img className="header-logo-img" src="../img/logo/logo-yazi.jpg" title="HEPDAK"></img></a></Link>
+			<Link href="/"><a><img className="header-logo-img" src="../img/logo/logo-100.jpg" title="HEPDAK"></img></a></Link>
 		</div>
 	</div>
 </div>

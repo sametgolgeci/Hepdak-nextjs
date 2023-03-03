@@ -29,9 +29,14 @@ table{
 .header-items{
 	display: flex;
 	justify-content: center;
-	max-width: 68.75rem;
-	margin: 1.5rem auto;
+	margin: 1.5rem 2.5rem;
 	align-items: center;
+}
+.header-logo{
+	display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1240px;
 }
 .header-logo-img{
 	padding: 1rem;

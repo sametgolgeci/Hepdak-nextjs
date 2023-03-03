@@ -10,9 +10,18 @@ const Header = () => (
 		<div className="header-up-item"><Link href="/sss"><a>SSS</a></Link></div>
 		<div className="header-up-item"><Link href="/en"><a>EN</a></Link></div>
 	</div>
+	{/*
 	<div className="header-items">
 		<div className="header-logo">
 			<Link href="/"><a><img className="header-logo-img" src="img/hepdak-yatay-100-2.jpg" title="HEPDAK"></img></a></Link>
+		</div>
+	</div>
+	*/}
+	<div className="header-items">
+		<div className="header-logo">
+			<Link href="/"><a><img className="header-logo-img" src="img/logo/logo-tek.jpg" title="HEPDAK"></img></a></Link>
+			<Link href="/"><a><img className="header-logo-img" src="img/logo/logo-yazi.jpg" title="HEPDAK"></img></a></Link>
+			<Link href="/"><a><img className="header-logo-img" src="img/logo/logo-100.jpg" title="HEPDAK"></img></a></Link>
 		</div>
 	</div>
 </div>

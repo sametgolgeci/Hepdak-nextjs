@@ -13,17 +13,18 @@ const Gorus = () => (
 	    		<div className="row">
 	    			<div className="col-md-10 col-sm-12">
 	    				<p><strong>Logo Uzun Yatay</strong></p>
-	    				<img className="kurumsal-img" src="img/hepdak-yatay-2.jpg" alt="Hepdak Logo"/>
+	    				<img className="kurumsal-img" src="img/logo/logo-yatay.jpg" alt="Hepdak Logo"/>
 	    			</div>
 	    			<div className="col-md-5 col-sm-12">
-	    				<p><strong>Logo-1</strong></p>
+	    				<p><strong>Logo Tek</strong></p>
 	    				<img className="kurumsal-img kurumsal-img-blue" src="img/hepdak-logo.jpg" alt="Hepdak Logo"/>
 	    			</div>
+	    			{/*
 	    			<div className="col-md-5 col-sm-12">
 	    				<p><strong>Logo-2</strong></p>
 	    				<img className="kurumsal-img" src="img/hepdak-logo-2.jpg" alt="Hepdak Logo"/>
 	    			</div>
-	    			
+	    			*/}
 	    		</div>
 	    	</div>
 	    </div>
