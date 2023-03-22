@@ -16,6 +16,7 @@ ziyaret edilen kurumlarla çevrimiçi bir toplantı gerçekleştirmiştir. Topla
 standartlara ve akreditasyon süreçlerine ilişkin görüş alışverişinde
 bulunulmuştur.</p>
                 </div>
+                <div className="main-top-second-content"><a href="/img/haberler/2023-akreditasyon-ziyaret-toplantisi/belge_01.pdf" target="_blank">- 2022-2023 Dönemi Ziyaret Yapılan Programlar ile Toplantı</a></div>
                 <div className="main-top-second-content">
                   <div className="row">
                     <div className="col-md-4 col-sm-12"><a href="/img/haberler/2023-akreditasyon-ziyaret-toplantisi/01.png" target="_blank"><img className="calistay-img" src="/img/haberler/2023-akreditasyon-ziyaret-toplantisi/01.png" alt="HEPDAK 2022-2023 Dönemi Akreditasyon İçin Ziyaret Edilen Kurumlar ile Değerlendirme Toplantısı"/></a></div>

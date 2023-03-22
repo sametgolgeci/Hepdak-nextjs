@@ -157,6 +157,17 @@ const Anasayfa = () => (
             <div className="block-title-all"><a href="/tum-haberler">Tüm Haberler</a></div>
           </div>
          
+          <Link href="/haberler/2023-03-20-haber">
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">20</div>
+              <div className="date-month">Mart</div>
+              <div className="date-year">2023</div>
+            </div>
+            <div className="block-subtitle-text">2023-2024 Dönemi Akreditasyon İçin Başvuran Kurumlara Yönelik Bilgilendirme Toplantısı</div>
+          </div>
+          </Link>
+
           <Link href="/haberler/2023-03-13-haber">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
@@ -386,18 +397,18 @@ const Anasayfa = () => (
 
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
-              <div className="date-day">23-24</div>
-              <div className="date-month">Haziran</div>
-              <div className="date-year">2022</div>
+              <div className="date-day">25-26</div>
+              <div className="date-month">Mayıs</div>
+              <div className="date-year">2023</div>
             </div>
             <div className="block-subtitle-text">Değerlendirici Eğitim Çalıştayı</div>
           </div>
 
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
-              <div className="date-day">15</div>
+              <div className="date-day">6</div>
               <div className="date-month">Ekim</div>
-              <div className="date-year">2022</div>
+              <div className="date-year">2023</div>
             </div>
             <div className="block-subtitle-text">Kurumlar İçin Eğitim Çalıştayı</div>
           </div>
