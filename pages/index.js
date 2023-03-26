@@ -48,6 +48,17 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
+                  <Link href="/hepdak-duyuru"><a target="_blank">
+                    <div className="main-top-one-title">Önemli Duyuru</div>
+                    <div className="main-top-one-content">HEPDAK Yönetim Kurulunun 2023-2024 döneminde akredite olmak için başvuran programların akreditasyon süreçleri ile ilgili 25.03.2023 tarihli kararlarına ilişkin duyurusu</div>
+                  </a></Link>
+                </div>
+                <div className="carousel-item">
+                  <Link href="https://kocun.zoom.us/j/92331683871?pwd=djNUMVFOclZXUWQ1NFBOVm9zQStJUT09"><a target="_blank">
+                    <div className="main-top-one-content-full"><img className="slider-full-img" src="/img/webinar/2023-04-12.png"/></div>
+                  </a></Link>
+                </div>
+                <div className="carousel-item">
                   <div className="main-top-one-title">HEPDAK 2023 yılı Takım Başkanları Toplantısı</div>
                   <div className="main-top-one-content"><p>HEPDAK Yönetim Kurulu, 04 Ocak 2023 tarihinde Takım Başkanları ile çevrimiçi değerlendirme toplantısını gerçekleştirmiştir. Toplantıya 11’i takım başkanı olmak üzere 17 kişi katılmıştır. Toplantıda takım başkanları kurum değerlendirme ziyaretleri ve değerlendirme sürecine ilişkin deneyimlerini ve görüş ve önerilerini paylaşmışlardır.</p></div>
                 </div>
@@ -62,10 +73,6 @@ const Anasayfa = () => (
                     <div className="main-top-one-title">Duyuru</div>
                     <div className="main-top-one-content">HEPDAK 2023 Toplantı takvimi yayınlandı. Toplantı takvimine <strong>buradan</strong> ulaşabilirsiniz.</div>
                   </a></Link>
-                </div>
-                <div className="carousel-item">
-                  <div className="main-top-one-title">HEPDAK 4. Olağan Genel Kurulu</div>
-                  <div className="main-top-one-content"><p>HEPDAK 4. Olağan Genel Kurulu 20 Ekim Perşembe günü saat 17.00'de gerçekleştirilmiştir. Genel kurulda Manisa Celal Bayar Üniversitesinnden Prof. Dr. Dilek Özmen, İzmir Katip Çelebi Üniversitesi’nden Prof. Dr. Medine Yılmaz, İzmir Ekonomi Üniversitesinden Doç. Dr. Gülsüm Nihal Çürük, Ondokuz Mayıs Üniversitesinden Prof. Dr. Özen Kulakaç ve Ege Üniversitesinden Doç. Dr. Fatma Orgun HEPDAK Yönetim Kurulu’na seçilmişlerdir.</p></div>
                 </div>
                 
                 {/*

@@ -50,7 +50,7 @@ const Kurul = () => (
 	    	<h3 className="kurul-title">Standartları Belirleme ve Geliştirme Komisyonu (SBGK)</h3>
 	    	<span className="madde-span">• Prof. Dr. Kadriye Buldukoğlu (Başkan), Akdeniz Üniversitesi</span>
 	    	<span className="madde-span">• Doç. Dr. Emine Türkmen (Sekreter), İstinye Üniversitesi</span>
-	    	<span className="madde-span">• Doç. Dr. Sergül Duygulu, Hacettepe Üniversitesi</span>
+	    	<span className="madde-span">• Prof. Dr. Sergül Duygulu, Hacettepe Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Hülya Kaya, İstanbul Üniversitesi - Cerrahpaşa</span>
 	    	<span className="madde-span">• Dr. Hümeyra Zengin, Hacettepe Üniversitesi Erişkin Hastanesi Hemşire Müdürü</span>
 	    	<span className="madde-span">• Dr. Öğr. Üyesi Gülçin Uyanık,, İzmir Katip Çelebi Üniversitesi</span>
@@ -78,7 +78,7 @@ const Kurul = () => (
 	    	<span className="madde-span">• Doç. Dr. Fatoş Korkmaz (Başkan), Hacettepe Üniversitesi</span>
 	    	<span className="madde-span">• Doç. Dr. İmatullah Akyar (Sekreter), Hacettepe Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Vesile Ünver, Acıbadem Mehmet Ali Aydınlar Üniversitesi</span>
-	    	<span className="madde-span">• Doç. Dr. Sergül Duygulu, Hacettepe Üniversitesi</span>
+	    	<span className="madde-span">• Prof. Dr. Sergül Duygulu, Hacettepe Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Ayhan Lash, Northern Illinois Üniversitesi Emekli Öğretim Üyesi</span>
 	    	<span className="madde-span">• Doç. Dr. İlkay Boz, Akdeniz Üniversitesi</span>
 
