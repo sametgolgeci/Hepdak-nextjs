@@ -48,6 +48,12 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
+                  <Link href="/doc/hepdak_degerlendirici_basvuru.doc"><a target="_blank">
+                    <div className="main-top-one-title">Duyuru</div>
+                    <div className="main-top-one-content"><p>25-26 Mayıs 2023 tarihlerine yapılacak olan HEPDAK 2023 Değerlendirici Eğitimi Çalıştayı başvuruları başlamıştır. Başvuru formuna <strong>buradan</strong> ulaşabilirsiniz.</p></div>
+                  </a></Link>
+                </div>
+                <div className="carousel-item">
                   <Link href="/hepdak-duyuru"><a target="_blank">
                     <div className="main-top-one-title">Önemli Duyuru</div>
                     <div className="main-top-one-content">HEPDAK Yönetim Kurulunun 2023-2024 döneminde akredite olmak için başvuran programların akreditasyon süreçleri ile ilgili 25.03.2023 tarihli kararlarına ilişkin duyurusu</div>
