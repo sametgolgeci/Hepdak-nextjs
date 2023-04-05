@@ -48,6 +48,12 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
+                  <Link href="https://www.hegk2023.com/tr/"><a target="_blank">
+                    <div className="main-top-one-title">1. Uluslararası Hemşirelik Eğitiminin Geleceği Kongresi</div>
+                    <div className="main-top-one-content"><p>Değerli Meslektaşlarımız, HEMED - HEPDAK işbirliğiyle 20-22 Eylül 2023 tarihlerinde çevrim içi olarak gerçekleştirilmesi planlanan “1.Uluslararası Hemşirelik Eğitiminin Geleceği Kongresi: Akreditasyonun Getirdiği Yenilikler ve Hemşirelik Eğitiminin Dönüşümü” kongresine ilişkin detaylı bilgiye <strong>https://www.hegk2023.com/tr/</strong> linkinden ulaşabilirsiniz.</p></div>
+                  </a></Link>
+                </div>
+                <div className="carousel-item">
                   <Link href="/doc/hepdak_degerlendirici_basvuru.doc"><a target="_blank">
                     <div className="main-top-one-title">Duyuru</div>
                     <div className="main-top-one-content"><p>25-26 Mayıs 2023 tarihlerine yapılacak olan HEPDAK 2023 Değerlendirici Eğitimi Çalıştayı başvuruları başlamıştır. Başvuru formuna <strong>buradan</strong> ulaşabilirsiniz.</p></div>
@@ -406,6 +412,17 @@ const Anasayfa = () => (
             </div>
             <div className="block-subtitle-text">Değerlendirici Eğitim Çalıştayı</div>
           </div>
+
+          <Link href="https://www.hegk2023.com/tr/">
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">20-22</div>
+              <div className="date-month">Eylül</div>
+              <div className="date-year">2023</div>
+            </div>
+            <div className="block-subtitle-text">1. Uluslararası Hemşirelik Eğitiminin Geleceği Kongresi</div>
+          </div>
+          </Link>
 
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
