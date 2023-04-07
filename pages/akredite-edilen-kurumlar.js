@@ -11,7 +11,7 @@ const Akredite = () => (
 	    <div className="row akreditasyon">
 	    	<div className="col-md-12 akreditasyon-content">
           <div id="akredite" className="akreditasyon-content-item">         
-            <div className="akreditasyon-content-subtitle">HEPDAK Tarafından Akredite Edilen Hemşirelik Lisans Programları (04.04.2022 itibariyle)</div>
+            <div className="akreditasyon-content-subtitle">HEPDAK Tarafından Akredite Edilen Hemşirelik Lisans Programları (07.04.2023 itibariyle)</div>
             <table className="table table-striped">
               <thead className="thead-dark">
                 <tr>
@@ -41,10 +41,12 @@ const Akredite = () => (
                   <th scope="row">Erciyes Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü | <Link  href="doc/rapor/rapor-erciyes-genel.pdf"><a className="akreditasyon-rapor">Genel Rapor</a></Link></th>
                   <td><p>01.05.2016</p>
                   <p>01.05.2018</p>
-                  <p>02.04.2021</p></td>
+                  <p>02.04.2021</p>
+                  <p>07.04.2023</p></td>
                   <td><p>30.09.2018</p>
                   <p>30.09.2021</p>
-                  <p>30.09.2023</p></td>
+                  <p>30.09.2023</p>
+                  <p>30.09.2026</p></td>
                 </tr>
                 <tr>
                   <th scope="row">Sakarya Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü | <Link  href="doc/rapor/rapor-sakarya.pdf"><a className="akreditasyon-rapor">Genel Rapor</a></Link></th>
@@ -58,16 +60,20 @@ const Akredite = () => (
                 <tr>
                   <th scope="row">Hacettepe Üniversitesi Hemşirelik Fakültesi | <Link  href="doc/rapor/rapor-hacettepe.pdf"><a className="akreditasyon-rapor">Ara Rapor</a></Link></th>
                   <td><p>01.04.2018</p>
-                  <p>04.04.2020</p></td>
+                  <p>04.04.2020</p>
+                  <p>07.04.2023</p></td>
                   <td><p>30.09.2020</p>
-                  <p>30.09.2023</p></td>
+                  <p>30.09.2023</p>
+                  <p>30.09.2028</p></td>
                 </tr>
                 <tr>
                   <th scope="row">İstanbul Medipol Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü | <Link  href="doc/rapor/rapor-medipol.pdf"><a className="akreditasyon-rapor">Ara Rapor</a></Link></th>
                   <td><p>01.04.2018</p>
-                  <p>04.04.2020</p></td>
+                  <p>04.04.2020</p>
+                  <p>07.04.2023</p></td>
                   <td><p>30.09.2020</p>
-                  <p>30.09.2023</p></td>
+                  <p>30.09.2023</p>
+                  <p>30.09.2025</p></td>
                 </tr>
                 <tr>
                   <th scope="row">Dokuz Eylül Üniversitesi Hemşirelik Fakültesi | <Link href="doc/rapor/rapor-dokuz-eylul.pdf"><a className="akreditasyon-rapor">Genel Rapor</a></Link></th>
@@ -140,6 +146,61 @@ const Akredite = () => (
                   <th scope="row">Bezmialem Vakıf Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü | <Link  href="doc/rapor/rapor-bezmialem-genel.pdf"><a className="akreditasyon-rapor">Genel Rapor</a></Link></th>
                   <td>04.04.2022</td>
                   <td>30.09.2024</td>
+                </tr>
+                <tr>
+                  <th scope="row">Erzincan Binali Yıldırım Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü</th>
+                  <td>07.04.2023</td>
+                  <td>30.09.2025</td>
+                </tr>
+                <tr>
+                  <th scope="row">Sağlık Bilimleri Üniversitesi Gülhane Hemşirelik Fakültesi</th>
+                  <td>07.04.2023</td>
+                  <td>30.09.2025</td>
+                </tr>
+                <tr>
+                  <th scope="row">İzmir Katip Çelebi Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü</th>
+                  <td>07.04.2023</td>
+                  <td>30.09.2025</td>
+                </tr>
+                <tr>
+                  <th scope="row">İnönü Üniversitesi Hemşirelik Fakültesi</th>
+                  <td>07.04.2023</td>
+                  <td>30.09.2025</td>
+                </tr>
+                <tr>
+                  <th scope="row">Karadeniz Teknik Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü</th>
+                  <td>07.04.2023</td>
+                  <td>30.09.2025</td>
+                </tr>
+                <tr>
+                  <th scope="row">Manisa Celal Bayar Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü</th>
+                  <td>07.04.2023</td>
+                  <td>30.09.2025</td>
+                </tr>
+                <tr>
+                  <th scope="row">Necmettin Erbakan Üniversitesi Hemşirelik Fakültesi</th>
+                  <td>07.04.2023</td>
+                  <td>30.09.2025</td>
+                </tr>
+                <tr>
+                  <th scope="row">SANKO Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü</th>
+                  <td>07.04.2023</td>
+                  <td>30.09.2025</td>
+                </tr>
+                <tr>
+                  <th scope="row">Sivas Cumhuriyet Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü</th>
+                  <td>07.04.2023</td>
+                  <td>30.09.2025</td>
+                </tr>
+                <tr>
+                  <th scope="row">Yeditepe Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü (İngilizce)</th>
+                  <td>07.04.2023</td>
+                  <td>30.09.2025</td>
+                </tr>
+                <tr>
+                  <th scope="row">Sağlık Bilimleri Üniversitesi Hamidiye Hemşirelik Fakültesi</th>
+                  <td>07.04.2023</td>
+                  <td>30.09.2028</td>
                 </tr>
               </tbody>
             </table>
