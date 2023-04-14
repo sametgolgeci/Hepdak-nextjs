@@ -26,7 +26,11 @@ const Tescil = () => (
 	    	<h6>2023</h6>
 	    	<p className="madde-p">• <Link href="doc/hepdak_2022_izleme_raporu.pdf"><a>HEPDAK 2022 yılı İzleme Raporu</a></Link></p>	
 	    	<h6>2022</h6>
-	    	<p className="madde-p">• <Link href="doc/hepdak_2021_izleme_raporu.pdf"><a>HEPDAK 2021 yılı İzleme Raporu</a></Link></p>	
+	    	<p className="madde-p">• <Link href="doc/hepdak_2021_izleme_raporu.pdf"><a>HEPDAK 2021 yılı İzleme Raporu</a></Link></p>
+	    	<h6>2021</h6>
+	    	<p className="madde-p">• <Link href="doc/hepdak_2020_izleme_raporu.pdf"><a>HEPDAK 2020 yılı İzleme Raporu</a></Link></p>	
+	    	<h6>2020</h6>
+	    	<p className="madde-p">• <Link href="doc/hepdak_2019_izleme_raporu.pdf"><a>HEPDAK 2019 yılı İzleme Raporu</a></Link></p>		
 	    	<h6>2018</h6>	
 	    	<p className="madde-p">• <Link href="doc/2018_yokak_hepdak_degerlendirme_raporu.pdf"><a>YÖKAK HEPDAK Değerlendirme Raporu</a></Link></p>
 	    	<p className="madde-p">• <Link href="doc/2018-hepdak-yokak-tescil-basvuru-raporu.pdf"><a>HEPDAK YÖKAK Tescil Başvuru Raporu</a></Link></p>
