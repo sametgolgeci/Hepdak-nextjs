@@ -408,7 +408,7 @@ const Uye = () => (
                   </tr>
                   <tr>
                     <th scope="row">80</th>
-                    <td>Doç. Dr. Emine Türkmen</td>
+                    <td>Prof. Dr. Emine Türkmen</td>
                     <td>İstinye Üniversitesi Sağlık Bilimleri Fakültesi</td>
                   </tr>
                   <tr>
@@ -438,7 +438,7 @@ const Uye = () => (
                   </tr>
                   <tr>
                     <th scope="row">86</th>
-                    <td>DProf. Dr. Vesile Ünver</td>
+                    <td>Prof. Dr. Vesile Ünver</td>
                     <td>Acıbadem Üniversitesi Sağlık Bilimleri Fakültesi</td>
                   </tr>
                   <tr>
@@ -493,537 +493,532 @@ const Uye = () => (
                 <tbody>
                   <tr>
                     <th scope="row" width="10px">1</th>
-                    <td width="350px">Berfin Akbulut</td>
-                    <td>Marmara Üniversitesi</td>
+                    <td width="350px">İremnur Ağaçayak</td>
+                    <td>Trakya Üniversitesi</td>
                   </tr>
                   <tr>
                     <th scope="row">2</th>
-                    <td>Beyza Akgün</td>
-                    <td>İstanbul Medipol Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">3</th>
-                    <td>Melek Alaçam</td>
-                    <td>Dokuz Eylül Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">4</th>
-                    <td>Dilan Altıntaş</td>
-                    <td>Başkent Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">5</th>
-                    <td>Özlem Aleyna Arslan</td>
-                    <td>Hacettepe Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">6</th>
-                    <td>Teslime Aybüke Ay</td>
-                    <td>Başkent Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">7</th>
-                    <td>Zeynep Ayan</td>
-                    <td>Sakarya Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">8</th>
-                    <td>Beyza Nur Aydın</td>
-                    <td>Erciyes Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">9</th>
-                    <td>Remziye Aydoğdu</td>
-                    <td>Tekirdağ Namık Kemal Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">10</th>
-                    <td>Simge Ayık</td>
-                    <td>Dokuz Eylül Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">11</th>
-                    <td>Nupelda Azboy</td>
-                    <td>Acıbadem Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">12</th>
-                    <td>Cansu Babadağ</td>
-                    <td>Hacettepe Üniversitesi</td>
-                  </tr>
-                   <tr>
-                    <th scope="row">13</th>
-                    <td>Zeynep Balık</td>
-                    <td>Bezmialem Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">14</th>
-                    <td>Öykü Balkaya</td>
-                    <td>Başkent Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">15</th>
-                    <td>Nilay Baltalı</td>
-                    <td>Ege Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">16</th>
-                    <td>Yasemin Nur Barutçu</td>
-                    <td>Karabük Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">17</th>
-                    <td>Kübra Battal</td>
-                    <td>Ondokuz Mayıs Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">18</th>
-                    <td>Zeynep Sude Beşikçi</td>
-                    <td>İstanbul Medipol Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">19</th>
-                    <td>Firdevs Birinci</td>
-                    <td>Medipol Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">20</th>
-                    <td>Deniz Calda</td>
-                    <td>Bezmialem Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">21</th>
-                    <td>Şerife Cingiz</td>
-                    <td>Akdeniz Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">22</th>
-                    <td>Nazan Çakır</td>
-                    <td>Ege Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">23</th>
-                    <td>Fatih Mehmet Çakıroğlu</td>
-                    <td>Dokuz Eylül Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">24</th>
-                    <td>Emine Çileli</td>
-                    <td>Trakya Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">25</th>
-                    <td>Yağmur Şeyma Demir</td>
-                    <td>İzmir Katip Çelebi Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">26</th>
-                    <td>Mervenur Doğan</td>
-                    <td>Mcbü Mezunu</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">27</th>
-                    <td>Neslihan Nur Dursun</td>
-                    <td>Ege Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">28</th>
-                    <td>Gözde Eser</td>
-                    <td>Ege Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">29</th>
-                    <td>Simanur Güler</td>
-                    <td>Hacettepe Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">30</th>
-                    <td>Elif Seden Gürel</td>
-                    <td>Ege Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">31</th>
-                    <td>Melisa Güven</td>
-                    <td>Marmara Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">32</th>
-                    <td>Ezgi İpek</td>
-                    <td>Marmara Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">33</th>
-                    <td>Aslı Kaynar</td>
-                    <td>Acıbadem Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">34</th>
-                    <td>Mahmut Keskin</td>
-                    <td>Atatürk Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">35</th>
-                    <td>Mertcan Kırış</td>
-                    <td>İstanbul Üniversitesi (Cerrahpaşa)</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">36</th>
-                    <td>Bilal Kutlu</td>
-                    <td>Trakya Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">37</th>
-                    <td>Ceyda Mutlu</td>
-                    <td>Trakya Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">38</th>
-                    <td>Duygu Mutlu</td>
-                    <td>Trakya Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">39</th>
-                    <td>Büşra Nur</td>
-                    <td>Celal Bayar Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">40</th>
-                    <td>Beyza Özsoy</td>
-                    <td>Gazi Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">41</th>
-                    <td>Güzin Öztürk</td>
-                    <td>Dokuz Eylül Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">42</th>
-                    <td>Talha Muhammed Sabah</td>
-                    <td>Başkent Üniversitesi</td>
-                  </tr>
-                   <tr>
-                    <th scope="row">43</th>
-                    <td>Halime Sağlamdemir</td>
-                    <td>Sakarya Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">44</th>
-                    <td>Ayşe Nur Saray</td>
-                    <td>Akdeniz Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">45</th>
-                    <td>Rabia Nur Serbest</td>
-                    <td>Sakarya Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">46</th>
-                    <td>Sude Sever</td>
-                    <td>İstanbul Üniversitesi (Cerrahpaşa)</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">47</th>
-                    <td>Feyzullah Şahin</td>
-                    <td>Trakya Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">48</th>
-                    <td>Kübra Şahin</td>
-                    <td>Erciyes Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">49</th>
-                    <td>Yasemin Şahin</td>
-                    <td>Akdeniz Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">50</th>
-                    <td>Cihan Şeker</td>
-                    <td>Tekirdağ Namık Kemal Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">51</th>
-                    <td>Emre Şerefoğlu</td>
-                    <td>Ondokuz Mayıs Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">52</th>
-                    <td>Tuğçe Tan</td>
-                    <td>İstanbul Üniversitesi (Cerrahpaşa)</td>
-                  </tr>
-                   <tr>
-                    <th scope="row">53</th>
-                    <td>Kübra Taşar</td>
-                    <td>Ege Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">54</th>
-                    <td>Sude Nur Tekin</td>
-                    <td>Medipol Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">55</th>
-                    <td>İrem Tiftik</td>
-                    <td>Acıbadem Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">56</th>
-                    <td>Gizem Tunç</td>
-                    <td>Hacettepe Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">57</th>
-                    <td>Beyza Üstündağ</td>
-                    <td>Hacettepe Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">58</th>
-                    <td>Ece Yavaş</td>
-                    <td>Katip Çelebi Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">59</th>
-                    <td>Ecem Nur Yavaş</td>
-                    <td>Celal Bayar Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">60</th>
-                    <td>Başak Yazıcı</td>
-                    <td>Ege Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">61</th>
-                    <td>Lamia Nurevsa Yıldız</td>
-                    <td>Atatürk Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">62</th>
-                    <td>Beste Yıldız</td>
-                    <td>Sakarya Üniversitesi</td>
-                  </tr>
-                   <tr>
-                    <th scope="row">63</th>
-                    <td>Ömer Faruk Yiğit</td>
-                    <td>Acıbadem Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">64</th>
-                    <td>Şevval Yolcu</td>
-                    <td>Dokuz Eylül Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">65</th>
-                    <td>Rümeysa Güngör</td>
-                    <td>Acıbadem Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">66</th>
-                    <td>Nesibe Nur Aydın</td>
-                    <td>Acıbadem Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">67</th>
-                    <td>Hatice Çamoğlu</td>
-                    <td>Acıbadem Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">68</th>
-                    <td>Metehan Çelik</td>
-                    <td>Akdeniz Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">69</th>
-                    <td>Ceyda Gelen</td>
-                    <td>Akdeniz Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">70</th>
-                    <td>Onur Akar</td>
-                    <td>Atatürk Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">71</th>
-                    <td>Muhammet Batuhan Yumkaday</td>
-                    <td>Atatürk Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">72</th>
-                    <td>Teslime Aybüke Ay</td>
-                    <td>Başkent Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">73</th>
-                    <td>Melih Arslan</td>
-                    <td>Bezmialem Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">74</th>
-                    <td>Cansu Victoria Yarar</td>
-                    <td>Bezmialem Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">75</th>
-                    <td>Ümit Ercan Karapekmez</td>
-                    <td>Dokuz Eylül Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">76</th>
-                    <td>Habibe Yılmaz</td>
-                    <td>Dokuz Eylül Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">77</th>
-                    <td>Cemre Gülten Çelik</td>
-                    <td>Ege Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">78</th>
-                    <td>Zarife Cansel Kırık</td>
-                    <td>Ege Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">79</th>
-                    <td>Esra İnan</td>
-                    <td>Erzincan Binali Yıldırım Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">80</th>
-                    <td>Anıl Sevgi</td>
-                    <td>Erzincan Binali Yıldırım Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">81</th>
-                    <td>Zeynep Uygun</td>
-                    <td>Gazi Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">82</th>
-                    <td>Dilara Ceylan</td>
-                    <td>Gazi Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">83</th>
-                    <td>Ceren Yıldız</td>
-                    <td>Hacettepe Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">84</th>
-                    <td>Fatma Nur Küçük</td>
-                    <td>Hacettepe Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">85</th>
-                    <td>Buse Bayan</td>
-                    <td>Hacettepe Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">86</th>
-                    <td>Fatih Özbek</td>
-                    <td>Hacettepe Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">87</th>
-                    <td>Erhan Demir</td>
-                    <td>İnönü Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">88</th>
-                    <td>İbrahim Yıldırım</td>
-                    <td>İstanbul Cerrahpaşa Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">89</th>
-                    <td>Hülya Gençdal</td>
-                    <td>İstanbul Cerrahpaşa Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">90</th>
-                    <td>Mustafa Yıldız</td>
-                    <td>İstanbul Medipol Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">91</th>
-                    <td>Dilara Nur İmal</td>
-                    <td>İstanbul Medipol Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">92</th>
-                    <td>Hüdanur Tosun</td>
-                    <td>Karadeniz Teknik Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">93</th>
-                    <td>Bengisu Çiçek</td>
-                    <td>Karadeniz Teknik Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">94</th>
-                    <td>Özlem Bakan Demirel</td>
-                    <td>Marmara Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">95</th>
-                    <td>Fatma Özşimşek</td>
-                    <td>Sakarya Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">96</th>
-                    <td>Emine Eryılmaz</td>
-                    <td>Sağlık Bilimleri Üniversitesi GATA</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">97</th>
-                    <td>Yeter Canan Akçadağ</td>
-                    <td>Sağlık Bilimleri Üniversitesi Hamidiye</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">98</th>
-                    <td>Zeynep Demir</td>
-                    <td>Sağlık Bilimleri Üniversitesi Hamidiye</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">99</th>
-                    <td>Ayşenur Kaplan</td>
-                    <td>Sivas Cumhuriyet Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">100</th>
-                    <td>Sefa Yıldız</td>
-                    <td>Sivas Cumhuriyet Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">101</th>
-                    <td>Aliye Yıldırım</td>
-                    <td>Süleyman Demirel Üniversitesi</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">102</th>
                     <td>Aslı Çağla Akamca</td>
                     <td>Tekirdağ Namık Kemal Üniversitesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">103</th>
-                    <td>Emre Koşar</td>
-                    <td>Tekirdağ Namık Kemal Üniversitesi</td>
+                    <th scope="row">3</th>
+                    <td>Onur Akar</td>
+                    <td>Atatürk Üniversitesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">104</th>
-                    <td>Cansu Ataş</td>
-                    <td>Trakya Üniversitesi</td>
+                    <th scope="row">4</th>
+                    <td>Berfin Akbulut</td>
+                    <td>Marmara Üniversitesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">105</th>
-                    <td>İremnur Ağaçayak</td>
-                    <td>Trakya Üniversitesi</td>
-                  </tr><tr>
-                    <th scope="row">106</th>
+                    <th scope="row">5</th>
+                    <td>Yeter Canan Akçadağ</td>
+                    <td>Sağlık Bilimleri Üniversitesi Hamidiye</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">6</th>
+                    <td>Beyza Akgün</td>
+                    <td>İstanbul Medipol Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">7</th>
+                    <td>Melek Alaçam</td>
+                    <td>Dokuz Eylül Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">8</th>
+                    <td>Dilan Altıntaş</td>
+                    <td>Başkent Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">9</th>
                     <td>Çağla Arslan</td>
                     <td>Yeditepe Üniversitesi</td>
                   </tr>
                   <tr>
-                    <th scope="row">107</th>
+                    <th scope="row">10</th>
+                    <td>Melih Arslan</td>
+                    <td>Bezmialem Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">11</th>
+                    <td>Özlem Aleyna Arslan</td>
+                    <td>Hacettepe Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">12</th>
+                    <td>Cansu Ataş</td>
+                    <td>Trakya Üniversitesi</td>
+                  </tr>
+                   <tr>
+                    <th scope="row">13</th>
+                    <td>Teslime Aybüke Ay</td>
+                    <td>Başkent Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">14</th>
+                    <td>Zeynep Ayan</td>
+                    <td>Sakarya Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">15</th>
+                    <td>Beyza Nur Aydın</td>
+                    <td>Erciyes Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">16</th>
+                    <td>Nesibe Nur Aydın</td>
+                    <td>Sakarya Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">17</th>
+                    <td>Remziye Aydoğdu</td>
+                    <td>Tekirdağ Namık Kemal Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">18</th>
+                    <td>Simge Ayık</td>
+                    <td>Dokuz Eylül Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">19</th>
+                    <td>Nupelda Azboy</td>
+                    <td>Acıbadem Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">20</th>
+                    <td>Cansu Babadağ</td>
+                    <td>Hacettepe Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">21</th>
+                    <td>Özlem Bakan Demirel</td>
+                    <td>Marmara Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">22</th>
+                    <td>Zeynep Balık</td>
+                    <td>Bezmialem Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">23</th>
+                    <td>Öykü Balkaya</td>
+                    <td>Başkent Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">24</th>
+                    <td>Nilay Baltalı</td>
+                    <td>Ege Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">25</th>
+                    <td>Yasemin Nur Barutçu</td>
+                    <td>Karabük Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">26</th>
+                    <td>Kübra Battal</td>
+                    <td>Ege Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">27</th>
+                    <td>Buse Bayan</td>
+                    <td>Hacettepe Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">28</th>
+                    <td>Zeynep Sude Beşikçi</td>
+                    <td>İstanbul Medipol Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">29</th>
+                    <td>Firdevs Birinci</td>
+                    <td>Medipol Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">30</th>
+                    <td>Deniz Calda</td>
+                    <td>Bezmialem Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">31</th>
+                    <td>Dilara Ceylan</td>
+                    <td>Gazi Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">32</th>
+                    <td>Şerife Cingiz</td>
+                    <td>Akdeniz Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">33</th>
                     <td>Furkan Mert Coştur</td>
                     <td>Yeditepe Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">34</th>
+                    <td>Nazan Çakır</td>
+                    <td>Atatürk Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">35</th>
+                    <td>Fatih Mehmet Çakıroğlu</td>
+                    <td>Dokuz Eylül Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">36</th>
+                    <td>Hatice Çamoğlu</td>
+                    <td>Acıbadem Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">37</th>
+                    <td>Metehan Çelik</td>
+                    <td>Akdeniz Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">38</th>
+                    <td>Cemre Gülten Çelik</td>
+                    <td>Ege Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">39</th>
+                    <td>Bengisu Çiçek</td>
+                    <td>Karadeniz Teknik Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">40</th>
+                    <td>Emine Çileli</td>
+                    <td>Trakya Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">41</th>
+                    <td>Erhan Demir</td>
+                    <td>İnönü Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">42</th>
+                    <td>Yağmur Şeyma Demir</td>
+                    <td>İzmir Kâtip Çelebi Üniversitesi</td>
+                  </tr>
+                   <tr>
+                    <th scope="row">43</th>
+                    <td>Zeynep Demir</td>
+                    <td>Sağlık Bilimleri Üniversitesi Hamidiye</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">44</th>
+                    <td>Mervenur Doğan</td>
+                    <td>MCBÜ Mezunu</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">45</th>
+                    <td>Neslihan Nur Dursun</td>
+                    <td>Ege Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">46</th>
+                    <td>Emine Eryılmaz</td>
+                    <td>Sağlık Bilimleri Üniversitesi GATA</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">47</th>
+                    <td>Gözde Eser</td>
+                    <td>Ege Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">48</th>
+                    <td>Ceyda Gelen</td>
+                    <td>Akdeniz Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">49</th>
+                    <td>Hülya Gençdal</td>
+                    <td>İstanbul Üniversitesi Cerrahpaşa</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">50</th>
+                    <td>Simanur Güler</td>
+                    <td>Hacettepe Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">51</th>
+                    <td>Rümeysa Güngör</td>
+                    <td>Hacettepe Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">52</th>
+                    <td>Elif Seden Gürel</td>
+                    <td>Ege Üniversitesi</td>
+                  </tr>
+                   <tr>
+                    <th scope="row">53</th>
+                    <td>Melisa Güven</td>
+                    <td>Marmara Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">54</th>
+                    <td>Dilara Nur İmal</td>
+                    <td>İstanbul Medipol Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">55</th>
+                    <td>Esra İnan</td>
+                    <td>Erzincan Binali Yıldırım Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">56</th>
+                    <td>Ezgi İpek</td>
+                    <td>Marmara Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">57</th>
+                    <td>Ayşenur Kaplan</td>
+                    <td>Sivas Cumhuriyet Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">58</th>
+                    <td>Ümit Ercan Karapekmez</td>
+                    <td>Dokuz Eylül Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">59</th>
+                    <td>Aslı Kaynar</td>
+                    <td>Acıbadem Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">60</th>
+                    <td>Mahmut Keskin</td>
+                    <td>Atatürk Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">61</th>
+                    <td>Zarife Cansel Kırık</td>
+                    <td>Ege Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">62</th>
+                    <td>Mertcan Kırış</td>
+                    <td>İstanbul Üniversitesi Cerrahpaşa</td>
+                  </tr>
+                   <tr>
+                    <th scope="row">63</th>
+                    <td>Emre Koşar</td>
+                    <td>Tekirdağ Namık Kemal Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">64</th>
+                    <td>Bilal Kutlu</td>
+                    <td>Trakya Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">65</th>
+                    <td>Fatma Nur Küçük</td>
+                    <td>Hacettepe Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">66</th>
+                    <td>Ceyda Mutlu</td>
+                    <td>Trakya Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">67</th>
+                    <td>Duygu Mutlu</td>
+                    <td>Trakya Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">68</th>
+                    <td>Büşra Nur</td>
+                    <td>Manisa Celal Bayar Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">69</th>
+                    <td>Fatih Özbek</td>
+                    <td>Hacettepe Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">70</th>
+                    <td>Beyza Özsoy</td>
+                    <td>Gazi Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">71</th>
+                    <td>Fatma Özşimşek</td>
+                    <td>Sakarya Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">72</th>
+                    <td>Güzin Öztürk</td>
+                    <td>Dokuz Eylül Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">73</th>
+                    <td>Talha Muhammed Sabah</td>
+                    <td>Başkent Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">74</th>
+                    <td>Halime Sağlamdemir</td>
+                    <td>Sakarya Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">75</th>
+                    <td>Ayşe Nur Saray</td>
+                    <td>Akdeniz Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">76</th>
+                    <td>Rabia Nur Serbest</td>
+                    <td>Sakarya Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">77</th>
+                    <td>Sude Sever</td>
+                    <td>İstanbul Üniversitesi Cerrahpaşa</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">78</th>
+                    <td>Anıl Sevgi</td>
+                    <td>Erzincan Binali Yıldırım Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">79</th>
+                    <td>Feyzullah Şahin</td>
+                    <td>Trakya Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">80</th>
+                    <td>Kübra Şahin</td>
+                    <td>Erciyes Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">81</th>
+                    <td>Yasemin Şahin</td>
+                    <td>Akdeniz Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">82</th>
+                    <td>Cihan Şeker</td>
+                    <td>Tekirdağ Namık Kemal Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">83</th>
+                    <td>Emre Şerefoğlu</td>
+                    <td>Ondokuz Mayıs Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">84</th>
+                    <td>Tuğçe Tan</td>
+                    <td>İstanbul Üniversitesi Cerrahpaşa</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">85</th>
+                    <td>Kübra Taşar</td>
+                    <td>Ege Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">86</th>
+                    <td>Sude Nur Tekin</td>
+                    <td>Medipol Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">87</th>
+                    <td>İrem Tiftik</td>
+                    <td>Acıbadem Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">88</th>
+                    <td>Hüdanur Tosun</td>
+                    <td>Karadeniz Teknik Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">89</th>
+                    <td>Gizem Tunç</td>
+                    <td>Hacettepe Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">90</th>
+                    <td>Zeynep Uygun</td>
+                    <td>Gazi Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">91</th>
+                    <td>Beyza Üstündağ</td>
+                    <td>Hacettepe Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">92</th>
+                    <td>Cansu Victoria Yarar</td>
+                    <td>Bezmialem Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">93</th>
+                    <td>Ece Yavaş</td>
+                    <td>İzmir Kâtip Çelebi Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">94</th>
+                    <td>Ecem Nur Yavaş</td>
+                    <td>Manisa Celal Bayar Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">95</th>
+                    <td>Başak Yazıcı</td>
+                    <td>Ege Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">96</th>
+                    <td>Aliye Yıldırım</td>
+                    <td>Süleyman Demirel Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">97</th>
+                    <td>İbrahim Yıldırım</td>
+                    <td>İstanbul Üniversitesi Cerrahpaşa</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">98</th>
+                    <td>Beste Yıldız</td>
+                    <td>Sakarya Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">99</th>
+                    <td>Ceren Yıldız</td>
+                    <td>Hacettepe Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">100</th>
+                    <td>Lamia Nurevsa Yıldız</td>
+                    <td>Atatürk Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">101</th>
+                    <td>Mustafa Yıldız</td>
+                    <td>İstanbul Medipol Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">102</th>
+                    <td>Sefa Yıldız</td>
+                    <td>Sivas Cumhuriyet Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">103</th>
+                    <td>Habibe Yılmaz</td>
+                    <td>Dokuz Eylül Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">104</th>
+                    <td>Ömer Faruk Yiğit</td>
+                    <td>Acıbadem Üniversitesi</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">105</th>
+                    <td>Şevval Yolcu</td>
+                    <td>Dokuz Eylül Üniversitesi</td>
+                  </tr><tr>
+                    <th scope="row">106</th>
+                    <td>Muhammet Batuhan Yumkaday</td>
+                    <td>Atatürk Üniversitesi</td>
                   </tr>
                 </tbody>
               </table>
