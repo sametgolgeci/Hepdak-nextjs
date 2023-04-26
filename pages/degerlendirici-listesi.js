@@ -83,7 +83,7 @@ const Uye = () => (
                   </tr>
                   <tr>
                     <th scope="row">15</th>
-                    <td>Doç. Dr. Sevgi Hatipoğlu</td>
+                    <td>Prof. Dr. Sevgi Hatipoğlu</td>
                     <td>Karatay Üniversitesi Sağlık Bilimleri Yüksekokulu</td>
                   </tr>
                   <tr>
@@ -253,7 +253,7 @@ const Uye = () => (
                   </tr>
                   <tr>
                     <th scope="row">49</th>
-                    <td>Prof. Dr. Manar Aslan</td>
+                    <td>Doç. Dr. Manar Aslan</td>
                     <td>Trakya Üniversitesi Sağlık Bilimleri Fakültesi</td>
                   </tr>
                   <tr>
