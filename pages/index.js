@@ -60,11 +60,6 @@ const Anasayfa = () => (
                   </a></Link>
                 </div>
                 <div className="carousel-item">
-                  <Link href="https://kocun.zoom.us/j/92331683871?pwd=djNUMVFOclZXUWQ1NFBOVm9zQStJUT09"><a target="_blank">
-                    <div className="main-top-one-content-full"><img className="slider-full-img" src="/img/webinar/2023-04-12.png"/></div>
-                  </a></Link>
-                </div>
-                <div className="carousel-item">
                   <Link href="doc/2023-egitim-takvim.pdf"><a target="_blank">
                     <div className="main-top-one-title">Duyuru</div>
                     <div className="main-top-one-content">HEPDAK 2023 Eğitim takvimi yayınlandı. Eğitim takvimine <strong>buradan</strong> ulaşabilirsiniz.</div>
