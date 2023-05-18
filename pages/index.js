@@ -48,18 +48,12 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
-                  <div className="main-top-one-content-full"><img className="slider-full-img" src="img/duyurular/hemsire2023.jpeg"/></div>
+                  <div className="main-top-one-content-full"><img className="slider-full-img" src="img/duyurular/19mayis2023.png"/></div>
                 </div>
                 <div className="carousel-item">
                   <Link href="https://www.hegk2023.com/tr/"><a target="_blank">
                     <div className="main-top-one-title">1. Uluslararası Hemşirelik Eğitiminin Geleceği Kongresi</div>
                     <div className="main-top-one-content"><p>Değerli Meslektaşlarımız, HEMED - HEPDAK işbirliğiyle 20-22 Eylül 2023 tarihlerinde çevrim içi olarak gerçekleştirilmesi planlanan “1.Uluslararası Hemşirelik Eğitiminin Geleceği Kongresi: Akreditasyonun Getirdiği Yenilikler ve Hemşirelik Eğitiminin Dönüşümü” kongresine ilişkin detaylı bilgiye <strong>https://www.hegk2023.com/tr/</strong> linkinden ulaşabilirsiniz.</p></div>
-                  </a></Link>
-                </div>
-                <div className="carousel-item">
-                  <Link href="/doc/hepdak_degerlendirici_basvuru.doc"><a target="_blank">
-                    <div className="main-top-one-title">Duyuru</div>
-                    <div className="main-top-one-content"><p>25-26 Mayıs 2023 tarihlerine yapılacak olan HEPDAK 2023 Değerlendirici Eğitimi Çalıştayı başvuruları başlamıştır. Başvuru formuna <strong>buradan</strong> ulaşabilirsiniz.</p></div>
                   </a></Link>
                 </div>
                 <div className="carousel-item">
