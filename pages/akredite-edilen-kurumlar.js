@@ -76,21 +76,21 @@ const Akredite = () => (
                   <p>30.09.2025</p></td>
                 </tr>
                 <tr>
-                  <th scope="row">Dokuz Eylül Üniversitesi Hemşirelik Fakültesi | <Link href="doc/rapor/rapor-dokuz-eylul.pdf"><a className="akreditasyon-rapor">Genel Rapor</a></Link></th>
+                  <th scope="row">Dokuz Eylül Üniversitesi Hemşirelik Fakültesi | <Link href="doc/rapor/rapor-dokuz-eylul-ara.pdf"><a className="akreditasyon-rapor">Ara Rapor</a></Link> | <Link href="doc/rapor/rapor-dokuz-eylul.pdf"><a className="akreditasyon-rapor">Genel Rapor</a></Link></th>
                   <td><p>04.04.2019</p>
                   <p>01.04.2021</p></td>
                   <td><p>30.09.2021</p>
                   <p>30.09.2024</p></td>
                 </tr>
                 <tr>
-                  <th scope="row">Acıbadem Mehmet Ali Aydınlar Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü | <Link href="doc/rapor/rapor-acibadem.pdf"><a className="akreditasyon-rapor">Genel Rapor</a></Link></th>
+                  <th scope="row">Acıbadem Mehmet Ali Aydınlar Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü | <Link href="doc/rapor/rapor-acibadem-ara.pdf"><a className="akreditasyon-rapor">Ara Rapor</a></Link> | <Link href="doc/rapor/rapor-acibadem.pdf"><a className="akreditasyon-rapor">Genel Rapor</a></Link></th>
                   <td><p>04.04.2019</p>
                   <p>01.04.2021</p></td>
                   <td><p>30.09.2021</p>
                   <p>30.09.2024</p></td>
                 </tr>
                 <tr>
-                  <th scope="row">Trakya Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü | <Link href="doc/rapor/rapor-trakya.pdf"><a className="akreditasyon-rapor">Genel Rapor</a></Link></th>
+                  <th scope="row">Trakya Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü | <Link href="doc/rapor/rapor-trakya-ara.pdf"><a className="akreditasyon-rapor">Ara Rapor</a></Link> | <Link href="doc/rapor/rapor-trakya.pdf"><a className="akreditasyon-rapor">Genel Rapor</a></Link></th>
                   <td><p>04.04.2019</p>
                   <p>01.04.2021</p></td>
                   <td><p>30.09.2021</p>
