@@ -21,7 +21,7 @@ const Calistay = () => (
 		<p className="madde-p">• HEPDAK standartlarının karşılanma durumuna karar verebilme</p>
 		<p className="madde-p">• Değerlendirme raporu hazırlayabilme</p>
 		<p className="madde-p">• Yerinde ve sanal ziyaret süreçlerini anlama</p>
-		<h6><span className="badge badge-custom">9</span> 03 / 25 - 26 Mayıs</h6>
+		<h6><span className="badge badge-custom">9</span> 03 / 25 - 26 Mayıs 2023</h6>
 		<p>
 			<ul className="nav calistay-nav">
 			  <li className="nav-item">
