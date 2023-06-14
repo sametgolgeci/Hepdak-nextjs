@@ -48,6 +48,21 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
+                  <Link href="http://www.acine2023.org/TR/Default"><a target="_blank">
+                    <div className="main-top-one-title">5. Asya Hemşirelik Eğitimi Kongresi (24-25 Kasım 2023)</div>
+                    <div className="main-top-one-content">
+                      <div className="main-top-one-content-side">
+                        <div className="main-top-one-content-one">
+                          <p>5. Asya Hemşirelik Eğitimi Kongresi 24-25 Kasım 2023 tarihlerinde  İstanbul'da  düzenlenecektir. Kongre ana teması “Küresel sağlık için hemşirelik eğitiminde kaliteyi geliştirmek”tir.   Bildiri gönderimi için son tarih 1 Eylül 2023'dür.  Kongre ile ilgili bilgilere buradan<strong> (http://www.acine2023.org/TR/Default)</strong> ulaşabilirsiniz.</p>
+                        </div>
+                        <div className="main-top-one-content-two">
+                          <img className="slider-img" src="img/duyurular/2023acine.jpeg"/>
+                        </div>
+                      </div>
+                    </div>
+                  </a></Link>
+                </div>
+                <div className="carousel-item">
                   <Link href="https://www.hegk2023.com/tr/"><a target="_blank">
                     <div className="main-top-one-title">1. Uluslararası Hemşirelik Eğitiminin Geleceği Kongresi</div>
                     <div className="main-top-one-content"><p>Değerli Meslektaşlarımız, HEMED - HEPDAK işbirliğiyle 20-22 Eylül 2023 tarihlerinde çevrim içi olarak gerçekleştirilmesi planlanan “1.Uluslararası Hemşirelik Eğitiminin Geleceği Kongresi: Akreditasyonun Getirdiği Yenilikler ve Hemşirelik Eğitiminin Dönüşümü” kongresine ilişkin detaylı bilgiye <strong>https://www.hegk2023.com/tr/</strong> linkinden ulaşabilirsiniz.</p></div>
@@ -155,6 +170,17 @@ const Anasayfa = () => (
             <div className="block-title-all"><a href="/tum-haberler">Tüm Haberler</a></div>
           </div>
          
+          <Link href="/haberler/2023-belge-takdim">
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">15</div>
+              <div className="date-month">Haziran</div>
+              <div className="date-year">2023</div>
+            </div>
+            <div className="block-subtitle-text">Akreditasyon Belgesi Takdim Töreni</div>
+          </div>
+          </Link>
+
           <Link href="/haberler/2023-05-25-26-haber">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
