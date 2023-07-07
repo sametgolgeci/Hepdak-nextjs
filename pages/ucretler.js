@@ -53,7 +53,7 @@ const Ucretler = () => (
             <p>(1) İlk kez değerlendirmesi yapılacak programların veya akreditasyonu olan programların genellikle beş yılda bir yapılan değerlendirmesidir.</p>
             <p>(2) Daha önce yapılan genel değerlendirmesi sonucunda kısa süreli akreditasyon verilmiş olan programların değerlendirmesidir.</p>
             <p>(3) Daha önce yapılan ara veya genel değerlendirmesi sonucunda bir yıl süreli akreditasyon verilmiş olan programların değerlendirmesidir.</p>
-            <p>* KDV miktarı %18 üzerinden hesaplanır.</p>
+            <p>* KDV miktarı %20 üzerinden hesaplanır.</p>
             <p>** Programın genel değerlendirmesi yüz yüze yapıldı ise, bu değerlendirmesi çevrimiçi yapılabilir. Fakat değerlendirme
 takımının gereksinim belirtmesi durumunda ziyaretin bir bölümü yüz yüze yapılabilir.</p>
             <div className="akreditasyon-content-subtitle">2023-2024 Değerlendirme Dönemi Akreditasyon Bedelleri Ödeme Planı*/**</div>
