@@ -65,7 +65,17 @@ const Anasayfa = () => (
                 <div className="carousel-item">
                   <Link href="https://www.hegk2023.com/tr/"><a target="_blank">
                     <div className="main-top-one-title">1. Uluslararası Hemşirelik Eğitiminin Geleceği Kongresi</div>
-                    <div className="main-top-one-content"><p>Değerli Meslektaşlarımız, HEMED - HEPDAK işbirliğiyle 20-22 Eylül 2023 tarihlerinde çevrim içi olarak gerçekleştirilmesi planlanan “1.Uluslararası Hemşirelik Eğitiminin Geleceği Kongresi: Akreditasyonun Getirdiği Yenilikler ve Hemşirelik Eğitiminin Dönüşümü” kongresine ilişkin detaylı bilgiye <strong>https://www.hegk2023.com/tr/</strong> linkinden ulaşabilirsiniz.</p></div>
+                    <div className="main-top-one-content">
+                      <div className="main-top-one-content-side">
+                        <div className="main-top-one-content-one">
+                          <p>Değerli Meslektaşlarımız, HEMED - HEPDAK işbirliğiyle 20-22 Eylül 2023 tarihlerinde çevrim içi olarak gerçekleştirilmesi planlanan “1.Uluslararası Hemşirelik Eğitiminin Geleceği Kongresi: Akreditasyonun Getirdiği Yenilikler ve Hemşirelik Eğitiminin Dönüşümü” kongresine ilişkin detaylı bilgiye <strong>https://www.hegk2023.com/tr/</strong> linkinden ulaşabilirsiniz.</p>
+                        </div>
+                        <div className="main-top-one-content-two">
+                          <img className="slider-img" src="img/duyurular/2023eylul20-22.png"/>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="main-top-one-continue">Devamı -></div>
                   </a></Link>
                 </div>
                 <div className="carousel-item">
