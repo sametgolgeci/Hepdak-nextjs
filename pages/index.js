@@ -48,6 +48,16 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
+                  <div className="main-top-one-title">Hemşirelik Ulusal Çekirdek Programı - 2022 YÖK'te Onaylandı</div>
+                  <div className="main-top-one-content">Hemşirelik Fakülteleri Dekanlar Konseyi tarafından "Hemşirelik Ulusal Çekirdek Eğitim Programı
+2014"ün güncellenmesi çalışmaları kapsamında hazırlanan Hemşirelik Ulusal Çekirdek Eğitim
+Programı-2022 (HUÇEP 2022)’ye Üniversitelerarası Kurul ve Sağlık Eğitimi ve Hizmetleri Komisyonu
+"uygun" görüşü vermiştir. Ardından HUÇEP-2022 17.08.2023 tarihli Yükseköğretim Genel Kurul
+toplantısında uygun görülmüş ve kabul edilmiştir. Paydaşlarımız HUÇEP-2022’ye, YÖK’ün
+https://www.yok.gov.tr/ internet adresinden Kurumsal → İdari Birimler→ Eğitim-Öğretim Dairesi
+Başkanlığı → Ulusal Çekirdek Eğitim Programları sekmesinden ulaşılabilmektedir.</div>
+                </div>
+                <div className="carousel-item active">
                   <Link href="http://www.acine2023.org/TR/Default"><a target="_blank">
                     <div className="main-top-one-title">5. Asya Hemşirelik Eğitimi Kongresi (24-25 Kasım 2023)</div>
                     <div className="main-top-one-content">
