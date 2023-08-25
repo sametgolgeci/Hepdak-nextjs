@@ -57,7 +57,7 @@ toplantısında uygun görülmüş ve kabul edilmiştir. Paydaşlarımız HUÇEP
 https://www.yok.gov.tr/ internet adresinden Kurumsal → İdari Birimler→ Eğitim-Öğretim Dairesi
 Başkanlığı → Ulusal Çekirdek Eğitim Programları sekmesinden ulaşılabilmektedir.</div>
                 </div>
-                <div className="carousel-item active">
+                <div className="carousel-item">
                   <Link href="http://www.acine2023.org/TR/Default"><a target="_blank">
                     <div className="main-top-one-title">5. Asya Hemşirelik Eğitimi Kongresi (24-25 Kasım 2023)</div>
                     <div className="main-top-one-content">
