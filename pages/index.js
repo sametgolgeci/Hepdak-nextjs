@@ -48,9 +48,6 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
-                  <div className="main-top-one-content-full"><img className="slider-full-img" src="img/duyurular/30agustos2023.png"/></div>
-                </div>
-                <div className="carousel-item">
                   <div className="main-top-one-title">Hemşirelik Ulusal Çekirdek Programı - 2022 YÖK'te Onaylandı</div>
                   <div className="main-top-one-content">Hemşirelik Fakülteleri Dekanlar Konseyi tarafından "Hemşirelik Ulusal Çekirdek Eğitim Programı
 2014"ün güncellenmesi çalışmaları kapsamında hazırlanan Hemşirelik Ulusal Çekirdek Eğitim
@@ -497,8 +494,8 @@ Başkanlığı → Ulusal Çekirdek Eğitim Programları sekmesinden ulaşılabi
 
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
-              <div className="date-day">6</div>
-              <div className="date-month">Ekim</div>
+              <div className="date-day">24</div>
+              <div className="date-month">Kasım</div>
               <div className="date-year">2023</div>
             </div>
             <div className="block-subtitle-text">Kurumlar İçin Eğitim Çalıştayı</div>

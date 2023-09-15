@@ -12,7 +12,10 @@ const Kaynak = () => (
               <table className="table table-striped">
                 <tbody>
                   <tr>
-                    <td><Link href="doc/hepdak_sunumlari/Doc.Dr.FatmaOrgun-HemsirelikEgitimProgramlarininDegerlendirilmesi.pdf"><a target="_blank">- Doç. Dr. Fatma Orgun - Hemşirelik Eğitim Programlarının Değerlendirilmesinde Bağlam, Girdi, Süreç ve Ürün Modelinin Kullanımı (24-26 kasım 2022)</a></Link></td>
+                    <td><Link href="doc/hepdak_sunumlari/Prof.Dr.MedineYilmaz-AkreditasyonCalismalarininHemsirelikEgitimindeKatkisi.pdf"><a target="_blank">- Prof. Dr. Medine Yılmaz - HEPDAK Akreditasyon Çalışmalarının Hemşirelik Eğitimine Katkısı (06 - 08 Eylül 2023)</a></Link></td>
+                  </tr>
+                  <tr>
+                    <td><Link href="doc/hepdak_sunumlari/Doc.Dr.FatmaOrgun-HemsirelikEgitimProgramlarininDegerlendirilmesi.pdf"><a target="_blank">- Doç. Dr. Fatma Orgun - Hemşirelik Eğitim Programlarının Değerlendirilmesinde Bağlam, Girdi, Süreç ve Ürün Modelinin Kullanımı (24-26 Kasım 2022)</a></Link></td>
                   </tr>
                   <tr>
                     <td><Link href="doc/hepdak_sunumlari/Prof.Dr.AylaBayikTemel-HemsirelikEgitimindeDonusum.pdf"><a target="_blank">- Prof. Dr. Ayla Bayık Temel Hemşirelik Eğitiminde Dönüşüm Hemşirelik Eğitimini Güçlendirme (24-26 Kasım 2022)</a></Link></td>
