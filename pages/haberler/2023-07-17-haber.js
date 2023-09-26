@@ -18,8 +18,8 @@ iyi dilekleriyle sona erdi.</p>
                 </div>
                 <div className="main-top-second-content">
                   <div className="row">
-                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2023-yokak-baskan-ziyaret/01.jpeg" target="_blank"><img className="calistay-img" src="img/haberler/2023-yokak-baskan-ziyaret/01.jpeg" alt="YÖKAK Başkanı Ziyaret"/></a></div>
-                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2023-yokak-baskan-ziyaret/02.jpeg" target="_blank"><img className="calistay-img" src="img/haberler/2023-yokak-baskan-ziyaret/02.jpeg" alt="YÖKAK Başkanı Ziyaret"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2023-yokak-baskan-ziyaret/01.jpeg" target="_blank"><img className="calistay-img" src="../img/haberler/2023-yokak-baskan-ziyaret/01.jpeg" alt="YÖKAK Başkanı Ziyaret"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2023-yokak-baskan-ziyaret/02.jpeg" target="_blank"><img className="calistay-img" src="../img/haberler/2023-yokak-baskan-ziyaret/02.jpeg" alt="YÖKAK Başkanı Ziyaret"/></a></div>
                   </div>
                 </div>  
       </div>
