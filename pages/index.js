@@ -58,22 +58,6 @@ https://www.yok.gov.tr/ internet adresinden Kurumsal → İdari Birimler→ Eği
 Başkanlığı → Ulusal Çekirdek Eğitim Programları sekmesinden ulaşılabilmektedir.</div>
                 </div>
                 <div className="carousel-item">
-                  <Link href="https://www.hegk2023.com/tr/"><a target="_blank">
-                    <div className="main-top-one-title">1. Uluslararası Hemşirelik Eğitiminin Geleceği Kongresi</div>
-                    <div className="main-top-one-content">
-                      <div className="main-top-one-content-side">
-                        <div className="main-top-one-content-one">
-                          <p>Değerli Meslektaşlarımız, HEMED - HEPDAK işbirliğiyle 20-22 Eylül 2023 tarihlerinde çevrim içi olarak gerçekleştirilmesi planlanan “1.Uluslararası Hemşirelik Eğitiminin Geleceği Kongresi: Akreditasyonun Getirdiği Yenilikler ve Hemşirelik Eğitiminin Dönüşümü” kongresine ilişkin detaylı bilgiye <strong>https://www.hegk2023.com/tr/</strong> linkinden ulaşabilirsiniz.</p>
-                        </div>
-                        <div className="main-top-one-content-two">
-                          <img className="slider-img" src="img/duyurular/2023eylul20-22.png"/>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="main-top-one-continue">Devamı -></div>
-                  </a></Link>
-                </div>
-                <div className="carousel-item">
                   <Link href="doc/2023-egitim-takvim.pdf"><a target="_blank">
                     <div className="main-top-one-title">Duyuru</div>
                     <div className="main-top-one-content">HEPDAK 2023 Eğitim takvimi yayınlandı. Eğitim takvimine <strong>buradan</strong> ulaşabilirsiniz.</div>
@@ -391,8 +375,8 @@ Başkanlığı → Ulusal Çekirdek Eğitim Programları sekmesinden ulaşılabi
 
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
-              <div className="date-day">24</div>
-              <div className="date-month">Kasım</div>
+              <div className="date-day">02</div>
+              <div className="date-month">Aralık</div>
               <div className="date-year">2023</div>
             </div>
             <div className="block-subtitle-text">Kurumlar İçin Eğitim Çalıştayı</div>
