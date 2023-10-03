@@ -142,6 +142,14 @@ yolculuklarında başarılar diliyoruz.</p>
                 </div>  
               </div>
               <div className="main-top-second">
+                <div className="main-top-second-title">INQAAHE Genel Kurulu (31 Mayıs 2023)</div> 
+                <div className="main-top-second-content">
+                  <p>HEPDAK uluslararası ilişkiler komisyonu üyeleri INQAAHE tarafından 31 Mayıs 2023
+tarihinde Astana / Kazakistan da düzenlenen General Assembly Board of Elections’da online
+oylamaya çevrimiçi katılmışlardır.</p>
+                </div> 
+              </div>
+              <div className="main-top-second">
                 <div className="main-top-second-title">HEPDAK 2023 yılı Değerlendirici Eğitimi tamamlandı (25-26 Mayıs 2023)</div> 
                 <div className="main-top-second-content">
                   <p>HEPDAK 2023 yılı Değerlendirici Eğitimi üç aşamalı olarak çevrimiçi ortamda 2

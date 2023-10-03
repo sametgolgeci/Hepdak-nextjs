@@ -203,6 +203,17 @@ Başkanlığı → Ulusal Çekirdek Eğitim Programları sekmesinden ulaşılabi
           </div>
           </Link>
 
+          <Link href="/haberler/2023-05-31-haber">
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">31</div>
+              <div className="date-month">Mayıs</div>
+              <div className="date-year">2023</div>
+            </div>
+            <div className="block-subtitle-text">INQAAHE Genel Kurulu </div>
+          </div>
+          </Link>
+
           <Link href="/haberler/2023-05-25-26-haber">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">

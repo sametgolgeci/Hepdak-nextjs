@@ -219,6 +219,32 @@ Kuzey Kıbrıs YÖDAK’ temsilen Akile Gürsoy sunumlar yapmışlardır.</p>
 			</div>
 			<h4>- INQAAHE Faaliyetleri</h4>
 			<div className="madde-p">
+				<a className="uluslararasi-link" data-toggle="collapse" href="#collapseINQAAHE310523" role="button" aria-expanded="false" aria-controls="collapseINQAAHE310523">- INQAAHE Genel Kurulu (31 Mayıs 2023)</a>
+				<div className="collapse" id="collapseINQAAHE310523">
+					<p>HEPDAK uluslararası ilişkiler komisyonu üyeleri INQAAHE tarafından 31 Mayıs 2023
+tarihinde Astana / Kazakistan da düzenlenen General Assembly Board of Elections’da online
+oylamaya çevrimiçi katılmışlardır.</p>
+				</div>
+				<a className="uluslararasi-link" data-toggle="collapse" href="#collapseINQAAHE080523" role="button" aria-expanded="false" aria-controls="collapseINQAAHE080523">- INQAAHE Toplantısı - Talks on Building
+a Global Culture of Quality: the Role of Students in QA (08 Mayıs 2023)</a>
+				<div className="collapse" id="collapseINQAAHE080523">
+					<p>HEPDAK uluslararası ilişkiler komisyonu üyeleri, 8 Mayıs 2023 tarihinde “Talks on Building
+a Global Culture of Quality: the Role of Students in QA” konulu toplantıya çevrimiçi
+katılmıştır.</p>
+				</div>
+				<a className="uluslararasi-link" data-toggle="collapse" href="#collapseINQAAHE240123" role="button" aria-expanded="false" aria-controls="collapseINQAAHE240123">- INQAAHE Toplantısı - Talks Session Led by Tertiary Education Global Experts (24 Ocak 2023)</a>
+				<div className="collapse" id="collapseINQAAHE240123">
+					<p>HEPDAK uluslararası ilişkiler komisyonu üyeleri, 24 Ocak 2023 tarihinde INQAAHE
+tarafından düzenlenen “Talks session led by Tertiary Education global experts” konulu
+toplantıya çevrimiçi katılmıştır.</p>
+				</div>
+				<a className="uluslararasi-link" data-toggle="collapse" href="#collapseINQAAHE070123" role="button" aria-expanded="false" aria-controls="collapseINQAAHE070123">- INQAAHE 25 Conference 2025 Ev Sahipliği Başvurusu (07 Ocak 2023)</a>
+				<div className="collapse" id="collapseINQAAHE070123">
+					<p>HEPDAK Uluslararası İlişkiler Komisyonu (UİK), 7 Ocak 2023 tarihinde INQAAHE
+tarafından 2025 yılında düzenlenecek 25 Conference 2025 konferansı için ev sahipliği
+başvurusu yapmış ancak kongrenin ev sahipliğini yapmak üzere başvuru yapan kurumlar
+içinden JUAA- Japan University Accreditation Association seçilmiştir.</p>
+				</div>
 				<a className="uluslararasi-link" data-toggle="collapse" href="#collapseINQAAHE161122" role="button" aria-expanded="false" aria-controls="collapseINQAAHE161122">- INQAAHE Konuşmaları Webinar Toplantısı (16 Kasım 2022)</a>
 				<div className="collapse" id="collapseINQAAHE161122">
 					<p>Güney Afrika Kalite Güvenliği Ağı (Southern African Quality Assurance Network)
@@ -295,6 +321,12 @@ Dr. Sergül Duygulu katılmışlardır. Toplantıda öğrencilerin öğrenme ç�
 			</div>
 			<h4>- Diğer Uluslararası Toplantılar</h4>
 			<div className="madde-p">
+				<a className="uluslararasi-link" data-toggle="collapse" href="#collapseother2" role="button" aria-expanded="false" aria-controls="collapseother2">- UNESCO Toplantısı (26 Ocak 2023)</a>
+				<div className="collapse" id="collapseother2">
+					<p>HEPDAK uluslararası ilişkiler komisyonu üyeleri UNESCO tarafından gerçekleştirilen
+“Explores ways to organize micro-credentials as a means for offering up-to-date, quality”
+toplantısına katılım göstermiştir.</p>
+				</div>
 				<a className="uluslararasi-link" data-toggle="collapse" href="#collapseother1" role="button" aria-expanded="false" aria-controls="collapseother1">- NAQA “Higher Education Quality Assurance in Wartime” Toplantısı (Savaş
 Zamanında Eğitimde Kaliteyi Sürdürmek) (24 Mayıs 2022)</a>
 				<div className="collapse" id="collapseother1">
@@ -319,7 +351,17 @@ hem öğrenci hem öğretim elemanı değişimini gerçekleştirdiklerini ve öz
 				</div>
 			</div>
 
-
+			<h4>- Uluslararası Değerlendiricilik Faaliyetleri</h4>
+			<div className="madde-p">
+				<a className="uluslararasi-link" data-toggle="collapse" href="#collapseIAAHEH071123" role="button" aria-expanded="false" aria-controls="collapseIAAHEH071123">- IAAHEH Değerlendirici Eğitimi (07-11 Ağustos 2023)</a>
+				<div className="collapse" id="collapseIAAHEH071123">
+					<p>HEPDAK değerlendiricilerimizden ve komisyon üyelerimizden Prof. Dr. Sergül Duygulu, ve
+Doç. Dr. İmatullah AKYAR bu dönem Indonesian Accreditation Agency for Higher
+Education in Health (IAAHEH) tarafından General Medical Council (GMC), United
+Kingdom işbirliği ile 07-11 Ağustos 2023 tarihleri arasında Jakarta’da düzenlenen “IAAHEH
+International Assessor Taining of Trainers" eğitimine katılmışlardır.</p>
+				</div>
+			</div>
 
 
 
