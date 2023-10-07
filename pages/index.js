@@ -48,6 +48,12 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
+                  <Link href="doc/2023-kurum-egitimi-form.doc"><a target="_blank">
+                    <div className="main-top-one-title">Duyuru</div>
+                    <div className="main-top-one-content">HEPDAK 2023 Kurumlar İçin Eğitim Çaliştayi Başvuru Formu’na <strong>buradan</strong> ulaşabilirsiniz.</div>
+                  </a></Link>
+                </div>
+                <div className="carousel-item">
                   <div className="main-top-one-title">Hemşirelik Ulusal Çekirdek Programı - 2022 YÖK'te Onaylandı</div>
                   <div className="main-top-one-content">Hemşirelik Fakülteleri Dekanlar Konseyi tarafından "Hemşirelik Ulusal Çekirdek Eğitim Programı
 2014"ün güncellenmesi çalışmaları kapsamında hazırlanan Hemşirelik Ulusal Çekirdek Eğitim
