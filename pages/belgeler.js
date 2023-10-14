@@ -32,7 +32,7 @@ const Belgeler = () => (
                 </tr>
                 <tr>
                   <th scope="row">4</th>
-                  <td>HEPDAK Standartları Belirleme ve Geliştirme Komisyonu Çalışma Yönergesi <Link href="doc/a4.pdf"><a>Sürüm 1.0</a></Link></td>
+                  <td>HEPDAK Standartları Belirleme ve Geliştirme Komisyonu Çalışma Yönergesi <Link href="doc/a4_v1.pdf"><a>Sürüm 1.0</a></Link> | <Link href="doc/a4_v2.pdf"><a>Sürüm 2.0</a></Link></td>
                 </tr>
                 <tr>
                   <th scope="row">5</th>
