@@ -68,8 +68,9 @@ const Navigation = () => (
 					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">EĞİTİMLER</a>
 					<div className="dropdown-menu">
 						<Link href="/webinar"><a className="dropdown-item">Webinarlar</a></Link>
-						<Link href="/sempozyumlar"><a className="dropdown-item">Sempozyumlar</a></Link>
+						<Link href="/sempozyumlar-kongreler"><a className="dropdown-item">Sempozyumlar / Kongreler</a></Link>
 						<Link href="/egitim-etkinlikleri"><a className="dropdown-item">Eğitim Etkinlikleri</a></Link>
+						<Link href="/iyi-uygulama-ornekleri"><a className="dropdown-item">İyi Uygulama Örnekleri</a></Link>
 					</div>
 				</li>
 	      <li className="nav-item dropdown">
@@ -77,7 +78,7 @@ const Navigation = () => (
 					<div className="dropdown-menu">
 						<Link href="/hepdak-sunumlari"><a className="dropdown-item">HEPDAK Sunumları</a></Link>
 						<Link href="/kaynaklar"><a className="dropdown-item">Kaynaklar</a></Link>
-						<Link href="/sempozyum-kitaplari"><a className="dropdown-item">Sempozyum Kitapları</a></Link>
+						<Link href="/sempozyum-kongre-kitaplari"><a className="dropdown-item">Sempozyum / Kongre Kitapları</a></Link>
 					</div>
 				</li>
 	      <li className="nav-item">

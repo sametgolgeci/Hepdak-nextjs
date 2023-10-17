@@ -48,6 +48,19 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
+                  <Link href="https://vimeo.com/user183760186/review/868070082/df9a20ad9b"><a target="_blank">
+                    <div className="main-top-one-title">1.Uluslararası Hemşirelik Eğitiminin Geleceği Kongresi</div>
+                    <div className="main-top-one-content">HEPDAK ve HEMED iş birliği ile 20-22 Eylül 2023
+tarihlerinde çevrim içi olarak gerçekleştirilen <strong>“Akreditasyonun
+Getirdiği Yenilikler ve Hemşirelik Eğitiminin Dönüşümü”</strong> temalı <strong>1.Uluslararası Hemşirelik Eğitiminin Geleceği Kongresi</strong>’nin
+birinci gününde Prof. Dr. Gülseren KOCAMAN, Prof. Dr. İnci
+EREFE ile <strong>“Cumhuriyet’in 100. Yılında Hemşirelik Eğitimi: Bir
+Asırlık Kazanımlar Üzerine Bir Söyleşi”</strong> gerçekleştirdi. Türkiye’de
+hemşirelik eğitimine ilişkin oldukça aydınlatıcı, duygu yüklü ve ufuk
+açıcı söyleşiye <strong>buradan</strong> ulaşabilirsiniz.</div>
+                  </a></Link>
+                </div>
+                <div className="carousel-item">
                   <Link href="doc/2023-kurum-egitimi-form.doc"><a target="_blank">
                     <div className="main-top-one-title">Duyuru</div>
                     <div className="main-top-one-content">HEPDAK 2023 Kurumlar İçin Eğitim Çaliştayi Başvuru Formu’na <strong>buradan</strong> ulaşabilirsiniz.</div>
