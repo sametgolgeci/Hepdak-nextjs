@@ -5,10 +5,17 @@ import Link from 'next/link'
 const Uye = () => (
     <MasterPage>
 	    <Head>
-	      <title>HEPDAK | Değerlendirici Listesi</title>
+	      <title>HEPDAK | Değerlendiriciler Listesi</title>
 	    </Head>
       <div className="genel">
-	    <h1>HEPDAK Değerlendirici Listesi</h1>
+	    <h1>HEPDAK Değerlendiriciler Listesi</h1>
+      <div className="jumbotron">
+        <p>HEPDAK Değerlendirici Listesine  <Link href="doc/degerlendiriciler_listesi/degerlendirici-listesi.pdf"><a target="_blank">buradan</a></Link> ulaşabilirsiniz. <strong>(13 Ekim 2023)</strong></p>
+      </div>
+      <div className="jumbotron">
+        <p>HEPDAK Öğrenci Değerlendirici Listesine  <Link href="doc/degerlendiriciler_listesi/ogrenci-degerlendirici-listesi.pdf"><a target="_blank">buradan</a></Link> ulaşabilirsiniz. <strong>(13 Ekim 2023)</strong></p>
+      </div>
+      {/*
 	    <table className="table table-striped">
                 <tbody>
                   <tr>
@@ -539,7 +546,6 @@ const Uye = () => (
                   </tr>
                 </tbody>
               </table>
-      <h1>HEPDAK Öğrenci Değerlendirici Listesi</h1>
       <table className="table table-striped">
                 <tbody>
                   <tr>
@@ -1073,6 +1079,7 @@ const Uye = () => (
                   </tr>
                 </tbody>
               </table>
+              */}
               </div>
     </MasterPage>
 )
