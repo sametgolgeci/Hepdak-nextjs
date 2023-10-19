@@ -48,7 +48,7 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
-                  <Link href="https://vimeo.com/user183760186/review/868070082/df9a20ad9b"><a target="_blank">
+                  <Link href="https://vimeo.com/user/208483267/folder/18180846"><a target="_blank">
                     <div className="main-top-one-title">1.Uluslararası Hemşirelik Eğitiminin Geleceği Kongresi</div>
                     <div className="main-top-one-content">HEPDAK ve HEMED iş birliği ile 20-22 Eylül 2023
 tarihlerinde çevrim içi olarak gerçekleştirilen <strong>“Akreditasyonun
