@@ -15,12 +15,10 @@ const Kaynak = () => (
                     <th scope="row" width="10px">-</th>
                     <td><Link href="https://www.youtube.com/watch?v=qge5DtnNH0A"><a target="_blank">Hemşirelik Eğitiminin Geleceği 3</a></Link></td>
                   </tr>
-                  {/*
                   <tr>
                     <th scope="row" width="10px">-</th>
-                    <td><Link href="https://www.youtube.com/watch?v=qge5DtnNH0A"><a target="_blank">HEGK 2023</a></Link></td>
+                    <td><Link href="https://vimeo.com/user208483267/review/875876969/c6feebe682"><a target="_blank">HEGK 2023</a></Link></td>
                   </tr>
-                  */}
                 </tbody>
               </table>
             </div>
