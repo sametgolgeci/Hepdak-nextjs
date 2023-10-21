@@ -13,11 +13,11 @@ const Kaynak = () => (
                 <tbody>
                   <tr>
                     <th scope="row" width="10px">-</th>
-                    <td><Link href="https://www.youtube.com/watch?v=qge5DtnNH0A"><a target="_blank">Hemşirelik Eğitiminin Geleceği 3</a></Link></td>
+                    <td><Link href="https://vimeo.com/user208483267/review/875876969/c6feebe682"><a target="_blank">HEGK 2023 (20-22 Eylül 2023)</a></Link></td>
                   </tr>
                   <tr>
                     <th scope="row" width="10px">-</th>
-                    <td><Link href="https://vimeo.com/user208483267/review/875876969/c6feebe682"><a target="_blank">HEGK 2023</a></Link></td>
+                    <td><Link href="https://www.youtube.com/watch?v=qge5DtnNH0A"><a target="_blank">Hemşirelik Eğitiminin Geleceği 3 (27-29 Eylül 2021)</a></Link></td>
                   </tr>
                 </tbody>
               </table>

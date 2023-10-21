@@ -63,7 +63,7 @@ açıcı söyleşiye <strong>buradan</strong> ulaşabilirsiniz.</div>
                 <div className="carousel-item">
                   <Link href="doc/2023-kurum-egitimi-form.doc"><a target="_blank">
                     <div className="main-top-one-title">Duyuru</div>
-                    <div className="main-top-one-content">HEPDAK 2023 Kurumlar İçin Eğitim Çaliştayi Başvuru Formu’na <strong>buradan</strong> ulaşabilirsiniz.</div>
+                    <div className="main-top-one-content">HEPDAK tarafından <strong>02 Aralık 2023</strong> tarihinde, <strong>Kurumlar için Eğitim Çalıştayı - 2023</strong> gerçekleştirilecektir. Çalıştay, hemşirelik lisans eğitim programı standartları dereceli değerlendirmesine göre planlanmış olup, başvurular alınmaya başlamıştır. Çalıştaya bir kurumdan en fazla 4 öğretim elemanı katılabilecektir. Başvuru formuna <strong>buradan</strong> ulaşabilirsiniz.</div>
                   </a></Link>
                 </div>
                 <div className="carousel-item">
@@ -178,6 +178,17 @@ Başkanlığı → Ulusal Çekirdek Eğitim Programları sekmesinden ulaşılabi
             <div className="block-title-all"><a href="/tum-haberler">Tüm Haberler</a></div>
           </div>
          
+          <Link href="/haberler/2023-10-19-haber">
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">19</div>
+              <div className="date-month">Ekim</div>
+              <div className="date-year">2023</div>
+            </div>
+            <div className="block-subtitle-text">HEPDAK Hemşirelik Lisans Programı Yöneticileri Toplantısı - 3</div>
+          </div>
+          </Link>
+
           <Link href="/haberler/2023-09-20-22-haber">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
