@@ -51,6 +51,12 @@ const Anasayfa = () => (
                   <div className="main-top-one-content-full"><img className="slider-full-img" src="img/duyurular/29ekim2023.jpeg"/></div>
                 </div>
                 <div className="carousel-item">
+                  <div className="main-top-one-content-full"><img className="slider-full-img" src="img/duyurular/29ekim2023-1.jpeg"/></div>
+                </div>
+                <div className="carousel-item">
+                  <div className="main-top-one-content-full"><img className="slider-full-img" src="img/duyurular/29ekim2023-2.jpeg"/></div>
+                </div>
+                <div className="carousel-item">
                   <Link href="https://vimeo.com/user208483267/review/875875755/b101ca6082"><a target="_blank">
                     <div className="main-top-one-title">1.Uluslararası Hemşirelik Eğitiminin Geleceği Kongresi</div>
                     <div className="main-top-one-content">HEPDAK ve HEMED iş birliği ile 20-22 Eylül 2023
