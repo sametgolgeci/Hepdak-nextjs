@@ -48,7 +48,7 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
-                  <div className="main-top-one-content-full"><img className="slider-full-img" src="img/duyurular/29ekim2023.jpeg"/></div>
+                  <div className="main-top-one-content-full"><img className="slider-full-img" src="img/duyurular/10kasim2023.jpeg"/></div>
                 </div>
                 <div className="carousel-item">
                   <Link href="https://vimeo.com/user208483267/review/875875755/b101ca6082"><a target="_blank">
