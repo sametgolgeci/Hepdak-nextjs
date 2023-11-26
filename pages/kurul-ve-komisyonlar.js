@@ -25,7 +25,6 @@ const Kurul = () => (
 	    	<span className="madde-span">• Prof. Dr. Gülseren Kocaman (Başkan), Emekli Öğretim Üyesi</span>
 	    	<span className="madde-span">• Prof. Dr. Dilek Özmen (Başkan Yardımcısı), Manisa Celal Bayar Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Ümit Seviğ, Emekli Öğretim Üyesi</span>
-	    	<span className="madde-span">• Prof. Dr. Sevgi Hatipoğlu, Karatay Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Kadriye Buldukoğlu, Akdeniz Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Ayla Bayık Temel, Emekli Öğretim Üyesi</span>
 	    	<span className="madde-span">• Prof. Dr. Hülya Okumuş, (Hemşirelik Eğitimi Derneği Temsilcisi) Emekli Öğretim Üyesi</span>
@@ -41,7 +40,7 @@ const Kurul = () => (
 	    	<span className="madde-span">• Prof. Dr. Ayla Bayık Temel, Emekli Öğretim Üyesi</span>
 	    	<span className="madde-span">• Prof. Dr. Ayişe Karadağ, Koç Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Şeyda Seren İntepeler, Dokuz Eylül Üniversitesi, Hemşirelik Fakülteleri Dekanlar Konseyi Başkanı</span>
-	    	<span className="madde-span">• Doç. Dr. Memnun Seven,, Assistant Professor University of Massachusetts Amherst, ABD</span>
+	    	<span className="madde-span">• Doç. Dr. Memnun Seven, Assistant Professor University of Massachusetts Amherst, ABD</span>
 	    	<span className="madde-span">• Dr. Oya Gümüşkaya, Lecturer, The University of Newcastle, Avustralya</span>
 	    
 	    <h1>Komisyonlar</h1>
