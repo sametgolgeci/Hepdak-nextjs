@@ -68,7 +68,7 @@ açıcı söyleşiye <strong>buradan</strong> ulaşabilirsiniz.</div>
                 <div className="carousel-item">
                   <Link href="doc/2023-kurum-egitimi-program.pdf"><a target="_blank">
                     <div className="main-top-one-title">Duyuru</div>
-                    <div className="main-top-one-content">HEPDAK tarafından <strong>02 Aralık 2023</strong> tarihinde, <strong>Kurumlar için Eğitim Çalıştayı - 2023</strong> gerçekleştirilecektir. Çalıştay, hemşirelik lisans eğitim programı standartları dereceli değerlendirmesine göre planlanmış olup, başvurular alınmaya başlamıştır. Programa <strong>buradan</strong> ulaşabilirsiniz.</div>
+                    <div className="main-top-one-content">HEPDAK tarafından <strong>02 Aralık 2023</strong> tarihinde, <strong>Kurumlar için Eğitim Çalıştayı - 2023</strong> gerçekleştirilecektir. Çalıştay, hemşirelik lisans eğitim programı standartları dereceli değerlendirmesine göre planlanmıştır. Programa <strong>buradan</strong> ulaşabilirsiniz.</div>
                   </a></Link>
                 </div>
                 <div className="carousel-item">
