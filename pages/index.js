@@ -48,6 +48,9 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
+                  <div className="main-top-one-content-full"><img className="slider-full-img" src="img/duyurular/hepdak-webinar-6.jpeg"/></div>
+                </div>
+                <div className="carousel-item">
                   <Link href="https://vimeo.com/user208483267/review/875875755/b101ca6082"><a target="_blank">
                     <div className="main-top-one-title">1.Uluslararası Hemşirelik Eğitiminin Geleceği Kongresi</div>
                     <div className="main-top-one-content">HEPDAK ve HEMED iş birliği ile 20-22 Eylül 2023
@@ -61,9 +64,9 @@ açıcı söyleşiye <strong>buradan</strong> ulaşabilirsiniz.</div>
                   </a></Link>
                 </div>
                 <div className="carousel-item">
-                  <Link href="doc/2023-kurum-egitimi-form.doc"><a target="_blank">
+                  <Link href="doc/2023-kurum-egitimi-program.pdf"><a target="_blank">
                     <div className="main-top-one-title">Duyuru</div>
-                    <div className="main-top-one-content">HEPDAK tarafından <strong>02 Aralık 2023</strong> tarihinde, <strong>Kurumlar için Eğitim Çalıştayı - 2023</strong> gerçekleştirilecektir. Çalıştay, hemşirelik lisans eğitim programı standartları dereceli değerlendirmesine göre planlanmış olup, başvurular alınmaya başlamıştır. Çalıştaya bir kurumdan en fazla 4 öğretim elemanı katılabilecektir. Başvuru formuna <strong>buradan</strong> ulaşabilirsiniz.</div>
+                    <div className="main-top-one-content">HEPDAK tarafından <strong>02 Aralık 2023</strong> tarihinde, <strong>Kurumlar için Eğitim Çalıştayı - 2023</strong> gerçekleştirilecektir. Çalıştay, hemşirelik lisans eğitim programı standartları dereceli değerlendirmesine göre planlanmış olup, başvurular alınmaya başlamıştır. Programa <strong>buradan</strong> ulaşabilirsiniz.</div>
                   </a></Link>
                 </div>
                 <div className="carousel-item">
