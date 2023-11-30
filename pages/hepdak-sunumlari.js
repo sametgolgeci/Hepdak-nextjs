@@ -11,6 +11,7 @@ const Kaynak = () => (
             <h1>HEPDAK Sunumları</h1>
               <table className="table table-striped">
                 <tbody>
+                  <tr>
                     <td><Link href="doc/hepdak_sunumlari/Prof.Dr.MedineYilmaz-ACINE2023.pdf"><a target="_blank">- Prof. Dr. Medine Yılmaz - 5th Asian Congress in Nursing Education (ACiNE 2023) (24 - 25 Kasım 2023)</a></Link></td>
                   </tr>
                   <tr>
