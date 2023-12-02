@@ -48,8 +48,8 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
-                  <Link href="img/duyurular/hepdak-webinar-6.jpeg"><a target="_blank">
-                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/duyurular/hepdak-webinar-6.jpeg"/></div>
+                  <Link href="img/duyurular/hepdak-webinar-7.jpeg"><a target="_blank">
+                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/duyurular/hepdak-webinar-7.jpeg"/></div>
                   </a></Link>
                 </div>
                 <div className="carousel-item">
@@ -183,6 +183,17 @@ Başkanlığı → Ulusal Çekirdek Eğitim Programları sekmesinden ulaşılabi
             <div className="block-title-all"><a href="/tum-haberler">Tüm Haberler</a></div>
           </div>
          
+          <Link href="/haberler/2023-12-01-haber">
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">01</div>
+              <div className="date-month">Aralık</div>
+              <div className="date-year">2023</div>
+            </div>
+            <div className="block-subtitle-text">Deprem Felaketi sonrası Hemşirelik Eğitimi ve Kriz Dönemleri...</div>
+          </div>
+          </Link>
+
           <Link href="/haberler/2023-10-19-haber">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
