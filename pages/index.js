@@ -390,6 +390,7 @@ Başkanlığı → Ulusal Çekirdek Eğitim Programları sekmesinden ulaşılabi
             <div className="block-title-all"><a href="/tum-duyurular">Tüm Duyurular</a></div>
           </div>
 
+          {/*
           <Link href="/doc/2023-toplanti-takvim.pdf">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
@@ -411,7 +412,8 @@ Başkanlığı → Ulusal Çekirdek Eğitim Programları sekmesinden ulaşılabi
             <div className="block-subtitle-text">HEPDAK 2023 Eğitim Takvimi</div>
           </div>
           </Link>
-
+          */}
+          
         </div>
       </div>
       <div className="main-new-block col-md-4 col-sm-12">

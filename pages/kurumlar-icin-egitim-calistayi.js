@@ -18,6 +18,59 @@ const Calistay = () => (
 		<p className="madde-p">• Değerlendirme süreci; Fakülte ve Bölümlerin akreditasyon hazırlıkları</p>
 		<p className="madde-p">• Özdeğerlendirme raporları</p>
 		<p className="madde-p">• Değerlendirme takımlarınca yapılan kurum ziyaretleri</p>
+		<h6><span className="badge badge-custom">11</span> 02 Aralık 2023</h6>
+		<p>
+			<ul className="nav calistay-nav">
+				{/*
+			  <li className="nav-item">
+			    <a className="nav-link calistay-button" href="doc/kurumlar_egitim_10/program.pdf">Program</a>
+			  </li>
+			  */}
+			  <li className="nav-item">
+			    <a className="nav-link calistay-button" href="doc/kurumlar_egitim_11/katilimci-listesi.pdf">Katılımcı Listesi</a>
+			  </li>
+			  <li className="nav-item">
+			    <a className="nav-link calistay-button" data-toggle="collapse" href="#collapseOnBir" role="button" aria-expanded="false" aria-controls="collapseBir">Sunumlar</a>
+			  </li>
+			  <li className="nav-item">
+			    <a className="nav-link calistay-button" data-toggle="collapse" href="#collapseExampleFoto11" role="button" aria-expanded="false" aria-controls="collapseExampleFoto11">Fotoğraflar</a>
+			  </li>
+			  <li className="nav-item">
+			    <a className="nav-link calistay-button" href="doc/kurumlar_egitim_11/degerlendirme.pdf">Değerlendirme</a>
+			  </li>
+			</ul>
+		</p>
+		<div className="collapse" id="collapseExampleFoto11">
+			<p><strong>-> Fotoğraflar</strong></p>
+			<div className="container">
+				<div className="row">
+					<div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_11/photo_01.png" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_11/photo_01.png" alt="Kurumlar için Eğitim Çalıştayı 11"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_11/photo_02.png" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_11/photo_02.png" alt="Kurumlar için Eğitim Çalıştayı 11"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_11/photo_03.png" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_11/photo_03.png" alt="Kurumlar için Eğitim Çalıştayı 11"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_11/photo_04.png" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_11/photo_04.png" alt="Kurumlar için Eğitim Çalıştayı 11"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_11/photo_05.png" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_11/photo_05.png" alt="Kurumlar için Eğitim Çalıştayı 11"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_11/photo_06.png" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_11/photo_06.png" alt="Kurumlar için Eğitim Çalıştayı 11"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_11/photo_07.png" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_11/photo_07.png" alt="Kurumlar için Eğitim Çalıştayı 11"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_11/photo_08.png" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_11/photo_08.png" alt="Kurumlar için Eğitim Çalıştayı 11"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_11/photo_09.png" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_11/photo_09.png" alt="Kurumlar için Eğitim Çalıştayı 11"/></a></div>
+				</div>
+			</div>
+		</div>
+		<div className="collapse" id="collapseOnBir">
+		<p><strong>-> Sunumlar</strong></p>
+		<p className="madde-p">
+		<a href="/doc/kurumlar_egitim_11/kurumlar11_01.pdf">1. Giriş</a><br/>
+		<a href="/doc/kurumlar_egitim_11/kurumlar11_02.pdf">2. HEPDAK Yapısı ve Akreditasyon Süreci</a><br/>
+		<a href="/doc/kurumlar_egitim_11/kurumlar11_03.pdf">3. Standart 1 - Program Amaçları</a><br/>
+		<a href="/doc/kurumlar_egitim_11/kurumlar11_04.pdf">4. Standart 2 - Program Çıktıları</a><br/>
+		<a href="/doc/kurumlar_egitim_11/kurumlar11_05.pdf">5. Standart 3 - Eğitim Programı</a><br/>
+		<a href="/doc/kurumlar_egitim_11/kurumlar11_06.pdf">6. Standart 4 - Öğrenciler</a><br/>
+		<a href="/doc/kurumlar_egitim_11/kurumlar11_07.pdf">7. Standart 5 - Öğretim Elemanları</a><br/>
+		<a href="/doc/kurumlar_egitim_11/kurumlar11_08.pdf">8. Standart 6 - Fiziksel Altyapı</a><br/>
+		<a href="/doc/kurumlar_egitim_11/kurumlar11_09.pdf">9. Standart 7 - Eğitim Yönetimi</a><br/>
+		<a href="/doc/kurumlar_egitim_11/kurumlar11_10.pdf">10. Özdeğerlendirme İçeriğinin Hazırlaması ve Dikkat Edilecek Konular</a><br/>
+		<a href="/doc/kurumlar_egitim_11/kurumlar11_11.pdf">11. Uzaktan ve Yerinde Değerlendirme Süreci</a></p>
+		</div>
 		<h6><span className="badge badge-custom">10</span> 15 Ekim 2022</h6>
 		<p>
 			<ul className="nav calistay-nav">
