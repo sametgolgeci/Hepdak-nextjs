@@ -423,6 +423,8 @@ Başkanlığı → Ulusal Çekirdek Eğitim Programları sekmesinden ulaşılabi
             <div className="block-title-all"><a href="/#">Tüm Etkinlikler</a></div>
           </div>
 
+          {/*
+
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
               <div className="date-day">25-26</div>
@@ -432,25 +434,7 @@ Başkanlığı → Ulusal Çekirdek Eğitim Programları sekmesinden ulaşılabi
             <div className="block-subtitle-text">Değerlendirici Eğitim Çalıştayı</div>
           </div>
 
-          <Link href="https://www.hegk2023.com/tr/">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">20-22</div>
-              <div className="date-month">Eylül</div>
-              <div className="date-year">2023</div>
-            </div>
-            <div className="block-subtitle-text">1. Uluslararası Hemşirelik Eğitiminin Geleceği Kongresi</div>
-          </div>
-          </Link>
-
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">02</div>
-              <div className="date-month">Aralık</div>
-              <div className="date-year">2023</div>
-            </div>
-            <div className="block-subtitle-text">Kurumlar İçin Eğitim Çalıştayı</div>
-          </div>
+          */}
 
         </div>
       </div>
