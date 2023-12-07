@@ -21,11 +21,9 @@ const Calistay = () => (
 		<h6><span className="badge badge-custom">11</span> 02 Aralık 2023</h6>
 		<p>
 			<ul className="nav calistay-nav">
-				{/*
 			  <li className="nav-item">
-			    <a className="nav-link calistay-button" href="doc/kurumlar_egitim_10/program.pdf">Program</a>
+			    <a className="nav-link calistay-button" href="doc/kurumlar_egitim_11/program.pdf">Program</a>
 			  </li>
-			  */}
 			  <li className="nav-item">
 			    <a className="nav-link calistay-button" href="doc/kurumlar_egitim_11/katilimci-listesi.pdf">Katılımcı Listesi</a>
 			  </li>
