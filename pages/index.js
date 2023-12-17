@@ -48,11 +48,6 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
-                  <Link href="https://us02web.zoom.us/j/82015465870?pwd=cHFncC9tY2dYMmJsRHdZYzVTQTY5UT09"><a target="_blank">
-                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/duyurular/hepdak-webinar-7.jpeg"/></div>
-                  </a></Link>
-                </div>
-                <div className="carousel-item">
                   <Link href="https://vimeo.com/user208483267/review/875875755/b101ca6082"><a target="_blank">
                     <div className="main-top-one-title">1.Uluslararası Hemşirelik Eğitiminin Geleceği Kongresi</div>
                     <div className="main-top-one-content">HEPDAK ve HEMED iş birliği ile 20-22 Eylül 2023
