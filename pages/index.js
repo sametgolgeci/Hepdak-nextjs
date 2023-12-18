@@ -151,7 +151,7 @@ Başkanlığı → Ulusal Çekirdek Eğitim Programları sekmesinden ulaşılabi
 
     <div className="main-fast-akredite">
       <div className="fast-akredite-button col-md-4">
-        <Link href="/doc/b1-basvuru-2023-2024.doc"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faCheck}/>Akreditasyon Başvurusu</button></a></Link>
+        <Link href="/#"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faCheck}/>Akreditasyon Başvurusu</button></a></Link>
       </div>
       <div className="fast-akredite-button col-md-4">
         <Link href="/akreditasyon-sureci"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faHourglassStart}/>Akreditasyon Süreci</button></a></Link>
