@@ -178,6 +178,17 @@ Başkanlığı → Ulusal Çekirdek Eğitim Programları sekmesinden ulaşılabi
             <div className="block-title-all"><a href="/tum-haberler">Tüm Haberler</a></div>
           </div>
          
+          <Link href="/haberler/2023-12-14-haber">
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">14</div>
+              <div className="date-month">Aralık</div>
+              <div className="date-year">2023</div>
+            </div>
+            <div className="block-subtitle-text">Webinar: Bakım Bilimine Dayalı Hemşirelik Müfredatı</div>
+          </div>
+          </Link>
+
           <Link href="/haberler/2023-12-02-haber">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
@@ -196,7 +207,7 @@ Başkanlığı → Ulusal Çekirdek Eğitim Programları sekmesinden ulaşılabi
               <div className="date-month">Aralık</div>
               <div className="date-year">2023</div>
             </div>
-            <div className="block-subtitle-text">Deprem Felaketi sonrası Hemşirelik Eğitimi ve Kriz Dönemleri...</div>
+            <div className="block-subtitle-text">Webinar: Deprem Felaketi sonrası Hemşirelik Eğitimi ve Kriz Dönemleri...</div>
           </div>
           </Link>
 

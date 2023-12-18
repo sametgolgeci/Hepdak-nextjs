@@ -30,6 +30,35 @@ const Tum = () => (
           <div className="tab-content">
             <div id="yirmiuc" className="container tab-pane active">
               <div className="main-top-second">
+                <div className="main-top-second-title">Webinar: Bakım Bilimine Dayalı Hemşirelik Müfredatı: Güçlenmek ve Güçlendirmek için (14 Aralık 2023)</div> 
+                <div className="main-top-second-content">
+                  <p>Bakım Bilimine Dayalı Hemşirelik Müfredatı: Güçlenmek ve Güçlendirmek için
+webinarı HEPDAK ve HEMED işbirliğiyle gerçekleştirildi. Ondokuz Mayıs
+Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü öğretim elemanı ve
+HEPDAK yönetim kurulu üyesi Prof. Dr. Özen KULAKAÇ’ın “Hemşirelik
+müfredatının bakım bilimine dayalı evrimi gerekli mi? Neden?” ve Akdeniz
+Üniversitesi Hemşirelik Fakültesi öğretim üyesi Doç. Dr. İlkay BOZ’un
+“Hemşirelik eğitiminde bakım kültürü nasıl oluşturulur? başlıklı konuşmalarını
+sunduğu wbinarın Moderatörlüğünü Prof. Dr. Hülya OKUMUŞ yaptı. Toplantıya
+Türkiye'nin farklı üniversitelerinden 217 öğretim elemanı katılmıştır. Webinarın
+son bölümünde katılımcıların soru ve katkılarına yer verilmiştir. Webinar
+katılımcıların iyi dilekleriyle sona ermiştir. Toplantıya katılamayanlar ya da
+yeniden izlemek isteyenler webinarın videosuna HEPDAK sayfasında yer alan
+eğitimler sekmesinden ulaşabilir.</p>
+                </div>
+                <div className="main-top-second-content">
+                  <div className="row">
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2023-webinar-7/01.png" target="_blank"><img className="calistay-img" src="/img/haberler/2023-webinar-7/01.png" alt="HEPDAK - HEMED Webinar 7"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2023-webinar-7/02.png" target="_blank"><img className="calistay-img" src="/img/haberler/2023-webinar-7/02.png" alt="HEPDAK - HEMED Webinar 7"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2023-webinar-7/03.png" target="_blank"><img className="calistay-img" src="/img/haberler/2023-webinar-7/03.png" alt="HEPDAK - HEMED Webinar 7"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2023-webinar-7/04.png" target="_blank"><img className="calistay-img" src="/img/haberler/2023-webinar-7/04.png" alt="HEPDAK - HEMED Webinar 7"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2023-webinar-7/05.png" target="_blank"><img className="calistay-img" src="/img/haberler/2023-webinar-7/05.png" alt="HEPDAK - HEMED Webinar 7"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2023-webinar-7/06.png" target="_blank"><img className="calistay-img" src="/img/haberler/2023-webinar-7/06.png" alt="HEPDAK - HEMED Webinar 7"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2023-webinar-7/07.png" target="_blank"><img className="calistay-img" src="/img/haberler/2023-webinar-7/07.png" alt="HEPDAK - HEMED Webinar 7"/></a></div>
+                  </div>
+                </div>  
+              </div>
+              <div className="main-top-second">
                 <div className="main-top-second-title">HEPDAK 11. Kurumlar için Eğitim Çalıştayı (02 Aralık 2023)</div> 
                 <div className="main-top-second-content">
                   <p>HEPDAK 2023 Kurum Eğitimi Çalıştaylarının 11.si 02 Aralık 2023 tarihinde çevrimiçi olarak gerçekleştirilmiştir. Rubrik derecelendirme sistemine göre hazırlanmış olan eğitime 11’i akredite programda olmak üzere 47 farklı kurumdan 115 öğretim elemanı  katılım göstermiştir. Eğitimde, her bir temel standarda ilişkin olarak hazırlanan örnek vakalar üzerinden 14 ayrı grupta grup çalışması yapılmıştır.  Toplantıda Prof. Dr. Ebru AKGÜN ÇITAK Başkent Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü, Doç. Dr. Demet İNANGİL Sağlık Bilimleri Üniversitesi Hamidiye Hemşirelik Fakültesi akreditasyon süreçlerine ilişkin deneyimlerini paylaşmıştır. Toplantı genel tartışma bölümüyle sona ermiştir.</p>

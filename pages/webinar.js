@@ -10,22 +10,34 @@ const Webinar = () => (
 	    <div className="genel">
 	    	<h1>HEPDAK Webinar</h1>
 	    	<div className="webinar-genel">
-	    	
+	    	{/*
 	    		<h4>- Yaklaşan Webinarlar -</h4>
 	    		<div className="row justify-content-center">
 	    			<div className="col-md-6">
 	    				<a target="_blank" href="https://us02web.zoom.us/j/82015465870?pwd=cHFncC9tY2dYMmJsRHdZYzVTQTY5UT09"><img className="webinar-afis" src="img/duyurular/hepdak-webinar-7.jpeg"></img></a>
 	    			</div>
 	    		</div>
-	    	
+	    	*/}
 	    		<h4>- Tamamlanan Webinarlar -</h4> 
 	    	</div>
 	    </div>
 	    <div className="webinar-bottom">
-	    	<iframe width="560" height="315" src="https://www.youtube.com/embed/z6OorFME2Aw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	    	<div className="webinar-bottom-title">Hemşirelik Programlarında Öğrenme ve Öğretme Destek Sistemeleri: Program Örnekleri (12.04.2023)</div>
+	    	<iframe width="560" height="315" src="https://www.youtube.com/embed/yZUSH3-PKcA?si=3mnLOsAFXydkOKf7" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	    	<div className="webinar-bottom-title">HEPDAK - HEMED Webinar VII (14 Aralık 2023)</div>
 	    </div>
 	    <div className="row">
+	    	<div className="col-md-4">
+		   		<div className="embed-responsive embed-responsive-16by9">
+					  <iframe className="embed-responsive-item" src="https://www.youtube.com/embed/AKodE-uXUlM?si=ad-NGWxpE8MgzokF" allowFullScreen></iframe>
+					</div>
+				<div className="webinar-bottom-title">HEPDAK - HEMED Webinar VI (1 Aralık 2023)</div>
+	     	</div>
+	    	<div className="col-md-4">
+		   		<div className="embed-responsive embed-responsive-16by9">
+					  <iframe className="embed-responsive-item" src="https://www.youtube.com/embed/z6OorFME2Aw" allowFullScreen></iframe>
+					</div>
+				<div className="webinar-bottom-title">Hemşirelik Programlarında Öğrenme ve Öğretme Destek Sistemeleri: Program Örnekleri (12 Nisan 2023)</div>
+	     	</div>
 	    	<div className="col-md-4">
 		   		<div className="embed-responsive embed-responsive-16by9">
 					  <iframe className="embed-responsive-item" src="https://www.youtube.com/embed/p4dcGYS3umI" allowFullScreen></iframe>
