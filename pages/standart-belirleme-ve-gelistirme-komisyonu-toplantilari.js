@@ -12,16 +12,20 @@ const Toplantilar = () => (
 			<h1 id="heak">Standard Belirleme ve Geliştirme Komisyonu Toplantıları</h1>
 			<table className="table table-striped">
 	      <tbody>
+	      	<tr>
+	          <th scope="row" width="140px">Ekim 2023</th>
+	          <td><Link href="doc/standart_belirleme_toplanti/02.pdf"><a>Hemşirelik Lisans Eğitim Programı Standartları Dereceli Değerlendirme Aracına (Sürüm 6.0) Yönelik Alınan Paydaş Görüşlerinin Değerlendirilmesi ve Gerekli Düzenlemelerin Yapılması</a></Link></td>
+	        </tr>
 	        <tr>
-	          <th scope="row" width="140px">8 Şubat 2022</th>
-	          <td><Link href="doc/standart_belirleme_toplanti/standart-1.pdf"><a>2021-2022 yılı Akreditasyon Değerlendirme Takım Başkanları ile Standart Belirleme ve Geliştirme Komisyonu üyeleri ile Hemşirelik Lisans Eğitim Programı Standartları son sürümleri hakkında görüşülmesi</a></Link></td>
+	          <th scope="row" width="140px">08 Şubat 2022</th>
+	          <td><Link href="doc/standart_belirleme_toplanti/01.pdf"><a>2021-2022 yılı Akreditasyon Değerlendirme Takım Başkanları ile Standart Belirleme ve Geliştirme Komisyonu üyeleri ile Hemşirelik Lisans Eğitim Programı Standartları Son Sürümleri Hakkında Görüşülmesi</a></Link></td>
 	        </tr>
 	      </tbody>
 	    </table>
 			<table className="table table-striped">
 	      <tbody>
 	        <tr>
-	          <th scope="row" width="140px">2 Kasım 2019 (İzmir)</th>
+	          <th scope="row" width="140px">02 Kasım 2019 (İzmir)</th>
 	          <td>Hemşirelik Lisans Eğitim Programı Standardının yeni sürümüne (Sürüm 4.0)  ve Özdeğerlendirme Raporu Hazırlama (ÖDR) Kılavuzunun yeni sürümüne  (Sürüm 5.0) son şeklinin verilmesi</td>
 	        </tr>
 	        <tr>
@@ -29,7 +33,7 @@ const Toplantilar = () => (
 	          <td>Hemşirelik Lisans Eğitim Programı Standardının yeni sürümünün (Sürüm 4.0)  ve Özdeğerlendirme Raporu Hazırlama (ÖDR) Kılavuzunun yeni sürümünün  (Sürüm 5.0) oluşturulması</td>
 	        </tr>
 	        <tr>
-	          <th scope="row" >1 Mart 2019 (İzmir)</th>
+	          <th scope="row" >01 Mart 2019 (İzmir)</th>
 	          <td>Her bir Hemşirelik Lisans Eğitim Programı Standardının (Sürüm 3.0) ve Özdeğerlendirme Raporu Hazırlama (ÖDR) Kılavuzunun (Sürüm 4.0) gözden geçirilmesi ve güncellenmesi</td>
 	        </tr> 
 	      </tbody>

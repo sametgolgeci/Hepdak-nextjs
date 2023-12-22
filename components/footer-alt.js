@@ -67,9 +67,11 @@ const Footer = () => (
 			<div className="footer-item-link"><Link href="/faaliyet-raporlari"><a>Faaliyet Raporları</a></Link></div>
 			<div className="footer-item-link"><Link href="/paydas-gorusleri"><a>Paydaş Görüşü Raporları</a></Link></div>	
 			<div className="footer-item-title footer-item-title-calistay"><strong>Toplantılar</strong></div>
-			<div className="footer-item-link"><Link href="/heak-ve-komisyon-toplantilari"><a>HEAK ve Komisyon Toplantıları</a></Link></div>
+			<div className="footer-item-link"><Link href="/heak-toplantilari"><a>HEAK Toplantıları</a></Link></div>
 			<div className="footer-item-link"><Link href="/tutarlilik-komisyonu-toplantilari"><a>Tutarlılık Komisyonu Toplantıları</a></Link></div>
-			<div className="footer-item-link"><Link href="/takim-baskani-toplantilari"><a>Takım Başkanları Toplantıları</a></Link></div>
+			<div className="footer-item-link"><Link href="/komisyon-toplantilari"><a>Komisyon Toplantıları</a></Link></div>
+			<div className="footer-item-link"><Link href="/uluslararasi-toplantilar"><a>Uluslararası Toplantılar ve Faaliyetler</a></Link></div>
+			<div className="footer-item-link"><Link href="/paydas-toplantilari"><a>Paydaş Toplantıları</a></Link></div>
 			{/*
 			<div className="footer-item-title footer-item-title-calistay"><strong>Eğitimler</strong></div>
 			<div className="footer-item-link"><Link href="/webinar"><a>Webinarlar</a></Link></div>

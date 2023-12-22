@@ -55,10 +55,10 @@ const Navigation = () => (
         <li className="nav-item dropdown">
 					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">TOPLANTILAR</a>
 					<div className="dropdown-menu">
-						<Link href="/heak-ve-komisyon-toplantilari"><a className="dropdown-item">HEAK ve Komisyon Toplantıları</a></Link>
+						<Link href="/heak-toplantilari"><a className="dropdown-item">HEAK Toplantıları</a></Link>
+						<Link href="/danisma-kurulu-toplantilari"><a className="dropdown-item">Danışma Kurulu Toplantıları</a></Link>
 						<Link href="/tutarlilik-komisyonu-toplantilari"><a className="dropdown-item">Tutarlılık Komisyonu Toplantıları</a></Link>
-						<Link href="/takim-baskani-toplantilari"><a className="dropdown-item">Takım Başkanı Toplantıları</a></Link>
-						<Link href="/standart-belirleme-ve-gelistirme-komisyonu-toplantilari"><a className="dropdown-item">Standart Belirleme ve Geliştirme Komisyonu Toplantıları</a></Link>
+						<Link href="/komisyon-toplantilari"><a className="dropdown-item">Komisyon Toplantıları</a></Link>
 						<Link href="/uluslararasi-toplantilar"><a className="dropdown-item">Uluslararası Toplantılar ve Faaliyetler</a></Link>
 						<Link href="/paydas-toplantilari"><a className="dropdown-item">Paydaş Toplantıları</a></Link>
 					</div>

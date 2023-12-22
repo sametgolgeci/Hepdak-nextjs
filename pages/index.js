@@ -47,26 +47,8 @@ const Anasayfa = () => (
           <div className="main-top-one">
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
+
                 <div className="carousel-item active">
-                  <Link href="https://vimeo.com/user208483267/review/875875755/b101ca6082"><a target="_blank">
-                    <div className="main-top-one-title">1.Uluslararası Hemşirelik Eğitiminin Geleceği Kongresi</div>
-                    <div className="main-top-one-content">HEPDAK ve HEMED iş birliği ile 20-22 Eylül 2023
-tarihlerinde çevrim içi olarak gerçekleştirilen <strong>“Akreditasyonun
-Getirdiği Yenilikler ve Hemşirelik Eğitiminin Dönüşümü”</strong> temalı <strong>1.Uluslararası Hemşirelik Eğitiminin Geleceği Kongresi</strong>’nin
-birinci gününde Prof. Dr. Gülseren KOCAMAN, Prof. Dr. İnci
-EREFE ile <strong>“Cumhuriyet’in 100. Yılında Hemşirelik Eğitimi: Bir
-Asırlık Kazanımlar Üzerine Bir Söyleşi”</strong> gerçekleştirdi. Türkiye’de
-hemşirelik eğitimine ilişkin oldukça aydınlatıcı, duygu yüklü ve ufuk
-açıcı söyleşiye <strong>buradan</strong> ulaşabilirsiniz.</div>
-                  </a></Link>
-                </div>
-                <div className="carousel-item">
-                  <Link href="doc/2023-kurum-egitimi-program.pdf"><a target="_blank">
-                    <div className="main-top-one-title">Duyuru</div>
-                    <div className="main-top-one-content">HEPDAK tarafından <strong>02 Aralık 2023</strong> tarihinde, <strong>Kurumlar için Eğitim Çalıştayı - 2023</strong> gerçekleştirilecektir. Çalıştay, hemşirelik lisans eğitim programı standartları dereceli değerlendirmesine göre planlanmıştır. Programa <strong>buradan</strong> ulaşabilirsiniz.</div>
-                  </a></Link>
-                </div>
-                <div className="carousel-item">
                   <div className="main-top-one-title">Hemşirelik Ulusal Çekirdek Programı - 2022 YÖK'te Onaylandı</div>
                   <div className="main-top-one-content">Hemşirelik Fakülteleri Dekanlar Konseyi tarafından "Hemşirelik Ulusal Çekirdek Eğitim Programı
 2014"ün güncellenmesi çalışmaları kapsamında hazırlanan Hemşirelik Ulusal Çekirdek Eğitim
@@ -76,19 +58,7 @@ toplantısında uygun görülmüş ve kabul edilmiştir. Paydaşlarımız HUÇEP
 https://www.yok.gov.tr/ internet adresinden Kurumsal → İdari Birimler→ Eğitim-Öğretim Dairesi
 Başkanlığı → Ulusal Çekirdek Eğitim Programları sekmesinden ulaşılabilmektedir.</div>
                 </div>
-                <div className="carousel-item">
-                  <Link href="doc/2023-egitim-takvim.pdf"><a target="_blank">
-                    <div className="main-top-one-title">Duyuru</div>
-                    <div className="main-top-one-content">HEPDAK 2023 Eğitim takvimi yayınlandı. Eğitim takvimine <strong>buradan</strong> ulaşabilirsiniz.</div>
-                  </a></Link>
-                </div>
-                <div className="carousel-item">
-                  <Link href="doc/2023-toplanti-takvim.pdf"><a target="_blank">
-                    <div className="main-top-one-title">Duyuru</div>
-                    <div className="main-top-one-content">HEPDAK 2023 Toplantı takvimi yayınlandı. Toplantı takvimine <strong>buradan</strong> ulaşabilirsiniz.</div>
-                  </a></Link>
-                </div>
-                
+
                 {/*
                 *** Desing 5 ***
                 <div className="carousel-item">
@@ -233,167 +203,13 @@ Başkanlığı → Ulusal Çekirdek Eğitim Programları sekmesinden ulaşılabi
           </div>
           </Link>
 
-          <Link href="/haberler/2023-07-17-haber">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">17</div>
-              <div className="date-month">Temmuz</div>
-              <div className="date-year">2023</div>
-            </div>
-            <div className="block-subtitle-text">YÖKAK Başkanı Ziyareti</div>
-          </div>
-          </Link>
-
-          <Link href="/haberler/2023-07-11-haber">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">11</div>
-              <div className="date-month">Temmuz</div>
-              <div className="date-year">2023</div>
-            </div>
-            <div className="block-subtitle-text">2023 - 2024 Dönemi Takım Başkanları Ön İnceleme Toplantısı</div>
-          </div>
-          </Link>
-
-          <Link href="/haberler/2023-belge-takdim">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">15</div>
-              <div className="date-month">Haziran</div>
-              <div className="date-year">2023</div>
-            </div>
-            <div className="block-subtitle-text">Akreditasyon Belgesi Takdim Töreni</div>
-          </div>
-          </Link>
-
-          <Link href="/haberler/2023-05-31-haber">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">31</div>
-              <div className="date-month">Mayıs</div>
-              <div className="date-year">2023</div>
-            </div>
-            <div className="block-subtitle-text">INQAAHE Genel Kurulu </div>
-          </div>
-          </Link>
-
-          <Link href="/haberler/2023-05-25-26-haber">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">25-26</div>
-              <div className="date-month">Mayıs</div>
-              <div className="date-year">2023</div>
-            </div>
-            <div className="block-subtitle-text">HEPDAK 2023 yılı Değerlendirici Eğitimi tamamlandı</div>
-          </div>
-          </Link>
-
-          <Link href="/haberler/2023-04-12-haber">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">12</div>
-              <div className="date-month">Nisan</div>
-              <div className="date-year">2023</div>
-            </div>
-            <div className="block-subtitle-text">Webinar: Hemşirelik Programlarınta Öğretme ve Öğrenme Destek Sistemleri: Program Örnekleri</div>
-          </div>
-          </Link>
-
-          <Link href="/haberler/2023-03-20-haber">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">20</div>
-              <div className="date-month">Mart</div>
-              <div className="date-year">2023</div>
-            </div>
-            <div className="block-subtitle-text">2023-2024 Dönemi Akreditasyon İçin Başvuran Kurumlara Yönelik Bilgilendirme Toplantısı</div>
-          </div>
-          </Link>
-
-          <Link href="/haberler/2023-03-13-haber">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">13</div>
-              <div className="date-month">Mart</div>
-              <div className="date-year">2023</div>
-            </div>
-            <div className="block-subtitle-text">2022-2023 Dönemi Akreditasyon İçin Ziyaret Edilen Kurumlar ile Değerlendirme Toplantısı</div>
-          </div>
-          </Link>
-
-          <Link href="/haberler/2023-02-22-haber">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">22</div>
-              <div className="date-month">Şubat</div>
-              <div className="date-year">2023</div>
-            </div>
-            <div className="block-subtitle-text">Yükseköğretim Kalite Kurulu 2022 Yılı HEPDAK İzleme Ziyareti</div>
-          </div>
-          </Link>
-
-          <Link href="/haberler/2023-01-27-28-haber">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">27-28</div>
-              <div className="date-month">Ocak</div>
-              <div className="date-year">2023</div>
-            </div>
-            <div className="block-subtitle-text">HEPDAK 2023 Öğrenci Değerlendirici Eğitimi tamamlandı</div>
-          </div>
-          </Link>
-
-          <Link href="/haberler/2023-01-25-haber">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">25</div>
-              <div className="date-month">Ocak</div>
-              <div className="date-year">2023</div>
-            </div>
-            <div className="block-subtitle-text">HEPDAK Öğrenci Değerlendirici Toplantısı - 5</div>
-          </div>
-          </Link>
-
-          <Link href="/haberler/2023-01-12-haber">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">12</div>
-              <div className="date-month">Ocak</div>
-              <div className="date-year">2023</div>
-            </div>
-            <div className="block-subtitle-text">HEPDAK Öğrenci Değerlendirici Adayları Toplantısı</div>
-          </div>
-          </Link>
-
-          <Link href="/haberler/2023-01-11-haber">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">11</div>
-              <div className="date-month">Ocak</div>
-              <div className="date-year">2023</div>
-            </div>
-            <div className="block-subtitle-text">HEPDAK Değerlendiriciler Toplantısı - 5</div>
-          </div>
-          </Link>
-
-          <Link href="/haberler/2023-01-04-haber">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">04</div>
-              <div className="date-month">Ocak</div>
-              <div className="date-year">2023</div>
-            </div>
-            <div className="block-subtitle-text">HEPDAK Takım Başkanları Toplantısı - 5</div>
-          </div>
-          </Link>
-
         </div>
       </div>
       <div className="main-new-block col-md-4 col-sm-12">
         <div className="main-new-block-alt">
           <div className="main-block-title">
             <div className="block-title-main">Duyurular</div>
-            <div className="block-title-all"><a href="/tum-duyurular">Tüm Duyurular</a></div>
+            <div className="block-title-all"><a href="/#">Tüm Duyurular</a></div>
           </div>
 
           {/*
