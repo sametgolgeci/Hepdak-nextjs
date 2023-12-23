@@ -26,7 +26,7 @@ const Navigation = () => (
 				<li className="nav-item dropdown">
 					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">ACCREDITATION</a>
 					<div className="dropdown-menu">
-						<Link href="/doc/b1-basvuru-2023-2024.doc"><a className="dropdown-item">Application</a></Link>
+						<Link href="/doc/b1-basvuru-2024-2025.pdf"><a className="dropdown-item">Application</a></Link>
 						<Link href="/en/documents"><a className="dropdown-item">Documents</a></Link>
 						<Link href="#"><a className="dropdown-item">Fees</a></Link>
 						<Link href="#"><a className="dropdown-item">Accredited Programs</a></Link>

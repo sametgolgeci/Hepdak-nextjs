@@ -47,7 +47,7 @@ const Footer = () => (
 		</div>	
 		<div className="col-sm-12 col-md-3 footer-item">
 			<div className="footer-item-title"><strong>Accreditation</strong></div>
-			<div className="footer-item-link"><Link href="/doc/b1-basvuru-2023-2024.doc"><a>Application</a></Link></div>
+			<div className="footer-item-link"><Link href="/doc/b1-basvuru-2024-2025.pdf"><a>Application</a></Link></div>
 			<div className="footer-item-link"><Link href="/en/documents"><a>Documents</a></Link></div>
 			<div className="footer-item-link"><Link href="#"><a>Fees</a></Link></div>
 			<div className="footer-item-link"><Link href="#"><a>Accredited Programs</a></Link></div>
