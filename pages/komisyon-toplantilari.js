@@ -12,22 +12,41 @@ const Paydas = () => (
 			<h1>Komisyon Toplantıları</h1>
 			<h5><a data-toggle="collapse" href="#SBGKT" role="button" aria-expanded="false" aria-controls="SBGKT">Standartları Belirleme ve Geliştirme Komisyonu Toplantıları</a></h5>
 			<div className="collapse" id="SBGKT">
+			<h6>2023</h6>
 			<table className="table table-striped">
 	      <tbody>
 	      	<tr>
-	          <th scope="row" width="140px">Ekim 2023</th>
-	          <td><Link href="doc/standart_belirleme_toplanti/02.pdf"><a>Hemşirelik Lisans Eğitim Programı Standartları Dereceli Değerlendirme Aracına (Sürüm 6.0) Yönelik Alınan Paydaş Görüşlerinin Değerlendirilmesi ve Gerekli Düzenlemelerin Yapılması</a></Link></td>
+	          <th scope="row" width="150px">Ekim 2023</th>
+	          <td><Link href="doc/komisyon_toplantilari/standart_belirleme_toplanti/2023-04.pdf"><a>Hemşirelik Lisans Eğitim Programı Standartları Dereceli Değerlendirme Aracına (Sürüm 6.0) Yönelik Alınan Paydaş Görüşlerinin Değerlendirilmesi ve Gerekli Düzenlemelerin Yapılması</a></Link></td>
 	        </tr>
 	        <tr>
-	          <th scope="row" width="140px">08 Şubat 2022</th>
-	          <td><Link href="doc/standart_belirleme_toplanti/01.pdf"><a>2021-2022 yılı Akreditasyon Değerlendirme Takım Başkanları ile Standart Belirleme ve Geliştirme Komisyonu üyeleri ile Hemşirelik Lisans Eğitim Programı Standartları Son Sürümleri Hakkında Görüşülmesi</a></Link></td>
+	          <th scope="row" width="150px">Mayıs - Temmuz 2023</th>
+	          <td><Link href="doc/komisyon_toplantilari/standart_belirleme_toplanti/2023-03.pdf"><a>HEPDAK Standartları Belirleme ve Geliştirme Komisyonu (SBGK) çalışma yönergesinin hazırlanması</a></Link></td>
+	        </tr>
+	        <tr>
+	          <th scope="row" width="150px">Mart 2023</th>
+	          <td><Link href="doc/komisyon_toplantilari/standart_belirleme_toplanti/2023-02.pdf"><a>T.S.7’nin güncellenmesi</a></Link></td>
+	        </tr>
+	        <tr>
+	          <th scope="row" width="150px">Ocak - Şubat 2023</th>
+	          <td><Link href="doc/komisyon_toplantilari/standart_belirleme_toplanti/2023-01.pdf"><a>T.S.4, T.S.5 ve T.S.6’nın güncellenmesi</a></Link></td>
 	        </tr>
 	      </tbody>
 	    </table>
+	    <h6>2022</h6>
+	    <table className="table table-striped">
+	    	<tbody> 
+	        <tr>
+	          <th scope="row" width="150px">Şubat 2022</th>
+	          <td><Link href="doc/komisyon_toplantilari/standart_belirleme_toplanti/2022-01.pdf"><a>2021-2022 yılı Akreditasyon Değerlendirme Takım Başkanları ile Standart Belirleme ve Geliştirme Komisyonu üyeleri ile Hemşirelik Lisans Eğitim Programı Standartları Son Sürümleri Hakkında Görüşülmesi</a></Link></td>
+	        </tr>
+	      </tbody>
+	    </table>
+	    <h6>2019</h6>
 			<table className="table table-striped">
 	      <tbody>
 	        <tr>
-	          <th scope="row" width="140px">02 Kasım 2019 (İzmir)</th>
+	          <th scope="row" width="150px">02 Kasım 2019 (İzmir)</th>
 	          <td>Hemşirelik Lisans Eğitim Programı Standardının yeni sürümüne (Sürüm 4.0)  ve Özdeğerlendirme Raporu Hazırlama (ÖDR) Kılavuzunun yeni sürümüne  (Sürüm 5.0) son şeklinin verilmesi</td>
 	        </tr>
 	        <tr>
