@@ -35,10 +35,10 @@ const Footer = () => (
 		</div>
 		<div className="col-sm-12 col-md-3 footer-item">
 			<div className="footer-item-title"><strong>About Us</strong></div> 
-			<div className="footer-item-link"><Link href="/mission-vision"><a>Mission, Vision</a></Link></div>
+			<div className="footer-item-link"><Link href="/en/mission-vision"><a>Mission, Vision</a></Link></div>
 			<div className="footer-item-link"><Link href="/doc/en/hepdak-strategic-plan.pdf"><a target="_blank">Strategic Plan</a></Link></div>
-			<div className="footer-item-link"><Link href="/objective-activities"><a>Objective and Activities</a></Link></div>
-			<div className="footer-item-link"><Link href="/quality-policy"><a>Quality Policy</a></Link></div>
+			<div className="footer-item-link"><Link href="/en/objective-activities"><a>Objective and Activities</a></Link></div>
+			<div className="footer-item-link"><Link href="/en/quality-policy"><a>Quality Policy</a></Link></div>
 			<div className="footer-item-link"><Link href="doc/en/hepdak-organizational-structure.png"><a target="_blank">HEPDAK Organizational Structure</a></Link></div>
 			<div className="footer-item-link"><Link href="/en/boards-commissions"><a>Boards and Commissions</a></Link></div>
 			<div className="footer-item-link"><Link href="/en/member-list"><a>Member List</a></Link></div>
@@ -49,9 +49,9 @@ const Footer = () => (
 			<div className="footer-item-title"><strong>Accreditation</strong></div>
 			<div className="footer-item-link"><Link href="/doc/b1-basvuru-2024-2025.pdf"><a>Application</a></Link></div>
 			<div className="footer-item-link"><Link href="/en/documents"><a>Documents</a></Link></div>
-			<div className="footer-item-link"><Link href="#"><a>Fees</a></Link></div>
-			<div className="footer-item-link"><Link href="#"><a>Accredited Programs</a></Link></div>
-			<div className="footer-item-link"><Link href="#"><a>Related Organizations</a></Link></div>
+			<div className="footer-item-link"><Link href="/doc/en/fees.pdf"><a>Fees</a></Link></div>
+			<div className="footer-item-link"><Link href="/doc/en/accredited-programs.pdf"><a>Accredited Programs</a></Link></div>
+			<div className="footer-item-link"><Link href="/en/related-organizations"><a>Related Organizations</a></Link></div>
 			<div className="footer-item-title footer-item-title-calistay"><strong>Workshops</strong></div>
 			<div className="footer-item-link"><Link href="#"><a>Training Workshop for Institutions</a></Link></div>
 			<div className="footer-item-link"><Link href="#"><a>Evaluator Training Workshop</a></Link></div>
