@@ -22,6 +22,11 @@ const Tescil = () => (
 	    		<p><Link href="doc/HEPDAK-2019-tescilbelge.jpg"><a>İlgili Yükseköğretim Kalite Kurulu yazısı için tıklayınız</a></Link></p>
 	    		<p><Link href="doc/HEPDAK-2019-TESCIL.jpg"><a>İlgili YÖKAK yazısı için tıklayınız</a></Link></p>
 	    	</div>
+	    	<div className="jumbotron">
+	    		<p>HEPDAK 2023 yılında Yükseköğretim Kalite Kurulu tarafından tekrar değerlendirilmiş, 23.11.2023 tarihli Kurul toplantısında Kalite Değerlendirme ve Tescil Belgesi’nin geçerlilik süresinin 25.12.2028 tarihine kadar  beş yıl süreyle uzatılmasına karar verilmiştir.</p>
+	    		<p><Link href="doc/HEPDAK-2023-tescilbelge.jpeg"><a>İlgili Yükseköğretim Kalite Kurulu yazısı için tıklayınız</a></Link></p>
+	    		<p><Link href="doc/HEPDAK-2023-TESCIL.jpeg"><a>İlgili YÖKAK yazısı için tıklayınız</a></Link></p>
+	    	</div>
 	    	<h1>HEPDAK Tescil Başvuru Yazıları ve YÖKAK Değerlendirme Raporları</h1>
 	    	<h6>2023</h6>
 	    	<p className="madde-p">• <Link href="doc/hepdak_2022_izleme_raporu.pdf"><a>HEPDAK 2022 yılı İzleme Raporu</a></Link></p>	
