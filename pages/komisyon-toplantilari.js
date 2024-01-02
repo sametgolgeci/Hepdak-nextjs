@@ -64,7 +64,14 @@ const Paydas = () => (
 			<div className="collapse" id="SIKT">
 				<table className="table table-striped">
 					<tbody>
-						
+						<tr>
+	          	<th scope="row" width="150px">15 Eylül 2023</th>
+	          	<td><Link href="doc/komisyon_toplantilari/surekli_iyilestirme_komisyonu/2023-02.pdf"><a>Sürekli İyileştirme Komisyonu Toplantı Tutanağı - 2</a></Link></td>
+	        	</tr>
+						<tr>
+	          	<th scope="row" width="150px">02 Şubat 2023</th>
+	          	<td><Link href="doc/komisyon_toplantilari/surekli_iyilestirme_komisyonu/2023-01.pdf"><a>Sürekli İyileştirme Komisyonu Toplantı Tutanağı - 1</a></Link></td>
+	        	</tr>
 					</tbody>
 				</table>
 			</div>
