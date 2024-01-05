@@ -26,7 +26,7 @@ const Navigation = () => (
 				<li className="nav-item dropdown">
 					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">ACCREDITATION</a>
 					<div className="dropdown-menu">
-						<Link href="/doc/b1-basvuru-2024-2025.pdf"><a className="dropdown-item">Application</a></Link>
+						<Link href="/doc/en/application.pdf"><a className="dropdown-item">Application</a></Link>
 						<Link href="/en/documents"><a className="dropdown-item">Documents</a></Link>
 						<Link href="/doc/en/fees.pdf"><a className="dropdown-item">Fees</a></Link>
 						<Link href="/doc/en/accredited-programs.pdf"><a className="dropdown-item">Accredited Programs</a></Link>
@@ -36,9 +36,9 @@ const Navigation = () => (
         <li className="nav-item dropdown">
 					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">WORKSHOPS</a>
 					<div className="dropdown-menu">
-						<Link href="#"><a className="dropdown-item">Training Workshop for Institutions</a></Link>
-						<Link href="#"><a className="dropdown-item">Evaluator Training Workshop</a></Link>
-						<Link href="#"><a className="dropdown-item">Student Evaluator Training Workshop</a></Link>
+						<Link href="doc/en/training-workshop-for-institutions.pdf"><a className="dropdown-item">Training Workshop for Institutions</a></Link>
+						<Link href="doc/en/evaluator-training-workshop.pdf"><a className="dropdown-item">Evaluator Training Workshop</a></Link>
+						<Link href="doc/en/student-evaluator-training-workshop.pdf"><a className="dropdown-item">Student Evaluator Training Workshop</a></Link>
 					</div>
 				</li>
 				<li className="nav-item dropdown">
@@ -46,7 +46,7 @@ const Navigation = () => (
 					<div className="dropdown-menu">
 						<Link href="#"><a className="dropdown-item">General Assembly and Reports</a></Link>
 						<Link href="#"><a className="dropdown-item">Thematic Analysis Report</a></Link>
-						<Link href="#"><a className="dropdown-item">Activity Reports/Annual Reports</a></Link>
+						<Link href="doc/en/hepdak-annual-report-2022.pdf"><a className="dropdown-item">Activity Reports/Annual Reports</a></Link>
 						<Link href="#"><a className="dropdown-item">Stakeholder Opinion Reports</a></Link>
 					</div>
 				</li>

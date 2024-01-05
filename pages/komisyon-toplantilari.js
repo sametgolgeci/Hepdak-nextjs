@@ -16,20 +16,20 @@ const Paydas = () => (
 			<table className="table table-striped">
 	      <tbody>
 	      	<tr>
-	          <th scope="row" width="150px">Ekim 2023</th>
-	          <td><Link href="doc/komisyon_toplantilari/standart_belirleme_toplanti/2023-04.pdf"><a>Hemşirelik Lisans Eğitim Programı Standartları Dereceli Değerlendirme Aracına (Sürüm 6.0) Yönelik Alınan Paydaş Görüşlerinin Değerlendirilmesi ve Gerekli Düzenlemelerin Yapılması</a></Link></td>
+	          <th scope="row" width="160px">Ekim 2023</th>
+	          <td><Link href="doc/komisyon_toplantilari/standart_belirleme_komisyonu/2023-04.pdf"><a>Hemşirelik Lisans Eğitim Programı Standartları Dereceli Değerlendirme Aracına (Sürüm 6.0) Yönelik Alınan Paydaş Görüşlerinin Değerlendirilmesi ve Gerekli Düzenlemelerin Yapılması</a></Link></td>
 	        </tr>
 	        <tr>
-	          <th scope="row" width="150px">Mayıs - Temmuz 2023</th>
-	          <td><Link href="doc/komisyon_toplantilari/standart_belirleme_toplanti/2023-03.pdf"><a>HEPDAK Standartları Belirleme ve Geliştirme Komisyonu (SBGK) çalışma yönergesinin hazırlanması</a></Link></td>
+	          <th scope="row" width="160px">Mayıs - Temmuz 2023</th>
+	          <td><Link href="doc/komisyon_toplantilari/standart_belirleme_komisyonu/2023-03.pdf"><a>HEPDAK Standartları Belirleme ve Geliştirme Komisyonu (SBGK) çalışma yönergesinin hazırlanması</a></Link></td>
 	        </tr>
 	        <tr>
-	          <th scope="row" width="150px">Mart 2023</th>
-	          <td><Link href="doc/komisyon_toplantilari/standart_belirleme_toplanti/2023-02.pdf"><a>T.S.7’nin güncellenmesi</a></Link></td>
+	          <th scope="row" width="160px">Mart 2023</th>
+	          <td><Link href="doc/komisyon_toplantilari/standart_belirleme_komisyonu/2023-02.pdf"><a>T.S.7’nin güncellenmesi</a></Link></td>
 	        </tr>
 	        <tr>
-	          <th scope="row" width="150px">Ocak - Şubat 2023</th>
-	          <td><Link href="doc/komisyon_toplantilari/standart_belirleme_toplanti/2023-01.pdf"><a>T.S.4, T.S.5 ve T.S.6’nın güncellenmesi</a></Link></td>
+	          <th scope="row" width="160px">Ocak - Şubat 2023</th>
+	          <td><Link href="doc/komisyon_toplantilari/standart_belirleme_komisyonu/2023-01.pdf"><a>T.S.4, T.S.5 ve T.S.6’nın güncellenmesi</a></Link></td>
 	        </tr>
 	      </tbody>
 	    </table>
@@ -37,8 +37,8 @@ const Paydas = () => (
 	    <table className="table table-striped">
 	    	<tbody> 
 	        <tr>
-	          <th scope="row" width="150px">Şubat 2022</th>
-	          <td><Link href="doc/komisyon_toplantilari/standart_belirleme_toplanti/2022-01.pdf"><a>2021-2022 yılı Akreditasyon Değerlendirme Takım Başkanları ile Standart Belirleme ve Geliştirme Komisyonu üyeleri ile Hemşirelik Lisans Eğitim Programı Standartları Son Sürümleri Hakkında Görüşülmesi</a></Link></td>
+	          <th scope="row" width="160px">Şubat 2022</th>
+	          <td><Link href="doc/komisyon_toplantilari/standart_belirleme_komisyonu/2022-01.pdf"><a>2021-2022 yılı Akreditasyon Değerlendirme Takım Başkanları ile Standart Belirleme ve Geliştirme Komisyonu üyeleri ile Hemşirelik Lisans Eğitim Programı Standartları Son Sürümleri Hakkında Görüşülmesi</a></Link></td>
 	        </tr>
 	      </tbody>
 	    </table>
@@ -46,7 +46,7 @@ const Paydas = () => (
 			<table className="table table-striped">
 	      <tbody>
 	        <tr>
-	          <th scope="row" width="150px">02 Kasım 2019 (İzmir)</th>
+	          <th scope="row" width="160px">02 Kasım 2019 (İzmir)</th>
 	          <td>Hemşirelik Lisans Eğitim Programı Standardının yeni sürümüne (Sürüm 4.0)  ve Özdeğerlendirme Raporu Hazırlama (ÖDR) Kılavuzunun yeni sürümüne  (Sürüm 5.0) son şeklinin verilmesi</td>
 	        </tr>
 	        <tr>
@@ -62,32 +62,43 @@ const Paydas = () => (
 			</div>
 			<h5><a data-toggle="collapse" href="#SIKT" role="button" aria-expanded="false" aria-controls="SIKT">Sürekli İyileştirme Komisyonu Toplantıları</a></h5>
 			<div className="collapse" id="SIKT">
+				<h6>2023</h6>
 				<table className="table table-striped">
 					<tbody>
 						<tr>
-	          	<th scope="row" width="150px">15 Eylül 2023</th>
-	          	<td><Link href="doc/komisyon_toplantilari/surekli_iyilestirme_komisyonu/2023-02.pdf"><a>Sürekli İyileştirme Komisyonu Toplantı Tutanağı - 2</a></Link></td>
+	          	<td><Link href="doc/komisyon_toplantilari/surekli_iyilestirme_komisyonu/2023-02.pdf"><a>HEPDAK Standartları Dereceli Değerlendirme Aracı'nın Değerlendirilmesi Toplantı Tutanağı (15 Eylül 2023)</a></Link></td>
 	        	</tr>
 						<tr>
-	          	<th scope="row" width="150px">02 Şubat 2023</th>
-	          	<td><Link href="doc/komisyon_toplantilari/surekli_iyilestirme_komisyonu/2023-01.pdf"><a>Sürekli İyileştirme Komisyonu Toplantı Tutanağı - 1</a></Link></td>
+	          	<td><Link href="doc/komisyon_toplantilari/surekli_iyilestirme_komisyonu/2023-01.pdf"><a>HEPDAK Komisyonları Yönergeleri İncelemesi Toplantı Tutanağı (02 Şubat 2023)</a></Link></td>
 	        	</tr>
 					</tbody>
 				</table>
 			</div>
 			<h5><a data-toggle="collapse" href="#EKT" role="button" aria-expanded="false" aria-controls="EKT">Eğitim Komisyonu Toplantıları</a></h5>
 			<div className="collapse" id="EKT">
+				<h6>2023</h6>
 				<table className="table table-striped">
 					<tbody>
-
+						<tr>
+	          	<td><Link href="doc/komisyon_toplantilari/egitim_komisyonu/2023-02.pdf"><a>HEPDAK Eğitim Komisyonu Temmuz - Aralık 2023 Dönemi Raporu</a></Link></td>
+	        	</tr>
+						<tr>
+	          	<td><Link href="doc/komisyon_toplantilari/egitim_komisyonu/2023-01.pdf"><a>HEPDAK Eğitim Komisyonu Ocak - Haziran 2023 Dönemi Raporu</a></Link></td>
+	        	</tr>
 					</tbody>
 				</table>
 			</div>
 			<h5><a data-toggle="collapse" href="#UIKT" role="button" aria-expanded="false" aria-controls="UIKT">Uluslararası İlişkiler Komisyonu Toplantıları</a></h5>
 			<div className="collapse" id="UIKT">
+				<h6>2023</h6>
 				<table className="table table-striped">
 					<tbody>
-
+						<tr>
+	          	<td><Link href="doc/komisyon_toplantilari/uluslararasi_iliskiler_komisyonu/2023-02.pdf"><a>Uluslararası İlişkiler Komisyonu Temmuz - Aralık 2023 Dönemi Raporu</a></Link></td>
+	        	</tr>
+						<tr>
+	          	<td><Link href="doc/komisyon_toplantilari/uluslararasi_iliskiler_komisyonu/2023-01.pdf"><a>Uluslararası İlişkiler Komisyonu Ocak - Haziran 2023 Dönemi Raporu</a></Link></td>
+	        	</tr>
 					</tbody>
 				</table>
 			</div>

@@ -47,21 +47,21 @@ const Footer = () => (
 		</div>	
 		<div className="col-sm-12 col-md-3 footer-item">
 			<div className="footer-item-title"><strong>Accreditation</strong></div>
-			<div className="footer-item-link"><Link href="/doc/b1-basvuru-2024-2025.pdf"><a>Application</a></Link></div>
+			<div className="footer-item-link"><Link href="/doc/en/application.pdf"><a>Application</a></Link></div>
 			<div className="footer-item-link"><Link href="/en/documents"><a>Documents</a></Link></div>
 			<div className="footer-item-link"><Link href="/doc/en/fees.pdf"><a>Fees</a></Link></div>
 			<div className="footer-item-link"><Link href="/doc/en/accredited-programs.pdf"><a>Accredited Programs</a></Link></div>
 			<div className="footer-item-link"><Link href="/en/related-organizations"><a>Related Organizations</a></Link></div>
 			<div className="footer-item-title footer-item-title-calistay"><strong>Workshops</strong></div>
-			<div className="footer-item-link"><Link href="#"><a>Training Workshop for Institutions</a></Link></div>
-			<div className="footer-item-link"><Link href="#"><a>Evaluator Training Workshop</a></Link></div>
-			<div className="footer-item-link"><Link href="#"><a>Student Evaluator Training Workshop</a></Link></div>
+			<div className="footer-item-link"><Link href="/doc/en/training-workshop-for-institutions.pdf"><a>Training Workshop for Institutions</a></Link></div>
+			<div className="footer-item-link"><Link href="/doc/en/evaluator-training-workshop.pdf"><a>Evaluator Training Workshop</a></Link></div>
+			<div className="footer-item-link"><Link href="/doc/en/student-evaluator-training-workshop.pdf"><a>Student Evaluator Training Workshop</a></Link></div>
 		</div>
 		<div className="col-sm-12 col-md-3 footer-item">
 			<div className="footer-item-title"><strong>Reports</strong></div>
 			<div className="footer-item-link"><Link href="#"><a>General Assembly and Reports</a></Link></div>
 			<div className="footer-item-link"><Link href="#"><a>Thematic Analysis Report</a></Link></div>
-			<div className="footer-item-link"><Link href="#"><a>Activity Reports/Annual Reports</a></Link></div>
+			<div className="footer-item-link"><Link href="/doc/en/hepdak-annual-report-2022.pdf"><a>Activity Reports/Annual Reports</a></Link></div>
 			<div className="footer-item-link"><Link href="#"><a>Stakeholder Opinion Reports</a></Link></div>	
 			<div className="footer-item-title footer-item-title-calistay"><strong>Meetings</strong></div>
 			<div className="footer-item-link"><Link href="#"><a>HEAK and Commission Meetings</a></Link></div>
