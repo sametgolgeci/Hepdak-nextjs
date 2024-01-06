@@ -44,7 +44,7 @@ const Belgeler = () => (
                 </tr>
                 <tr>
                   <th scope="row">2</th>
-                  <td><Link href="#"><a target="_blank">International Relations Committee Working Directive</a></Link></td>
+                  <td><Link href="../doc/en/doc-international-relations-committee.pdf"><a target="_blank">International Relations Committee Working Directive</a></Link></td>
                 </tr>
                 <tr>
                   <th scope="row">3</th>
