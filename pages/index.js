@@ -49,9 +49,6 @@ const Anasayfa = () => (
               <div className="carousel-inner">
 
                 <div className="carousel-item active">
-                  <div className="main-top-one-content-full"><img className="slider-full-img" src="img/duyurular/2024yilbasi.jpeg"/></div>
-                </div>
-                <div className="carousel-item">
                   <div className="main-top-one-title">Hemşirelik Ulusal Çekirdek Programı - 2022 YÖK'te Onaylandı</div>
                   <div className="main-top-one-content">Hemşirelik Fakülteleri Dekanlar Konseyi tarafından "Hemşirelik Ulusal Çekirdek Eğitim Programı
 2014"ün güncellenmesi çalışmaları kapsamında hazırlanan Hemşirelik Ulusal Çekirdek Eğitim
