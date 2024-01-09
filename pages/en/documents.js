@@ -44,7 +44,7 @@ const Belgeler = () => (
                 </tr>
                 <tr>
                   <th scope="row">2</th>
-                  <td><Link href="../doc/en/doc-international-relations-committee.pdf"><a target="_blank">International Relations Committee Working Directive</a></Link></td>
+                  <td><Link href="../doc/en/doc-international-relations-committee.pdf"><a target="_blank">HEPDAK International Relations Committee Working Directive</a></Link></td>
                 </tr>
                 <tr>
                   <th scope="row">3</th>
@@ -52,7 +52,15 @@ const Belgeler = () => (
                 </tr>
                 <tr>
                   <th scope="row">4</th>
-                  <td><Link href="../doc/en/doc-sbgk.pdf"><a target="_blank">Standards Setting and Development Committee (SBGK) Working Directive</a></Link></td>
+                  <td><Link href="../doc/en/doc-sbgk.pdf"><a target="_blank">HEPDAK Standards Setting and Development Committee (SBGK) Working Directive</a></Link></td>
+                </tr>
+                <tr>
+                  <th scope="row">5</th>
+                  <td><Link href="../doc/en/doc-cicwp.pdf"><a target="_blank">HEPDAK Continuous Improvement Commission Working Procedures And Principles</a></Link></td>
+                </tr>
+                <tr>
+                  <th scope="row">6</th>
+                  <td><Link href="../doc/en/doc-tcwd.pdf"><a target="_blank">HEPDAK Training Commission Working Directive</a></Link></td>
                 </tr>
               </tbody>
             </table>        

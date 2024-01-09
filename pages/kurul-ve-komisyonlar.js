@@ -33,7 +33,7 @@ const Kurul = () => (
 	    	<span className="madde-span">• Uzm. Hem. Pınar Akçay, Sağlık Bakanlığı Hastaneleri Temsilcisi</span>
 	    	<span className="madde-span">• <strong>Hemşire:</strong> Uzm. Hem. Serap İleri, Dokuz Eylül Üniversitesi Hastanesi</span>
 	    	<span className="madde-span">• <strong>Toplum Temsilcisi:</strong> Hadiye Akçay, Kadın Haklarını Koruma Derneği</span>
-	    	<span className="madde-span">• <strong>Öğrenci:</strong> Öğrenci Gizem Tunç, Hacettepe Üniversitesi</span>	
+	    	<span className="madde-span">• <strong>Öğrenci:</strong> Gizem Tunç, Hacettepe Üniversitesi</span>	
 	    	
 	    	<h3 className="kurul-title">Danışma Kurulu</h3>
 	    	<span className="madde-span">• Prof. Dr. Gülseren Kocaman (Koordinatör), Emekli Öğretim Üyesi</span>
@@ -63,7 +63,7 @@ const Kurul = () => (
 	    	<span className="madde-span">• Prof. Dr. Hülya Okumuş, Emekli Öğretim Üyesi</span>
 	    	<span className="madde-span">• Prof. Dr. Özen Kulakaç, Ondokuz Mayıs Üniversitesi</span>
 	    	<span className="madde-span">• Dr. Öğ. Üyesi Hale Sezer, Bakırçay Üniversitesi</span>
-	    	<span className="madde-span">• <strong>Öğrenci:</strong> Öğrenci Talha Muhammed Sabah, Başkent Üniversitesi</span>    	
+	    	<span className="madde-span">• <strong>Öğrenci:</strong> Talha Muhammed Sabah, Başkent Üniversitesi</span>    	
 
 	    	<h3 className="kurul-title">Sürekli İyileştirme Komisyonu</h3>
 	    	<span className="madde-span">• Prof. Dr. Ayla Keçeci (Başkan), Düzce Üniversitesi</span>
