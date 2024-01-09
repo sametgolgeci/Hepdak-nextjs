@@ -69,7 +69,7 @@ const Belgeler = () => (
                 </tr>
                 <tr>
                   <th scope="row">3</th>
-                  <td>Hemşirelik Lisans Eğitim Programı Standartları <Link href="doc/b3_v1.pdf"><a>Sürüm 1.0</a></Link> | <Link href="doc/b3_v2.pdf"><a>Sürüm 2.0</a></Link> | <Link href="doc/b3_v3.pdf"><a>Sürüm 3.0</a></Link> | <strong>Sürüm 4.0</strong> (<Link href="doc/b3_v4.pdf"><a>PDF</a></Link> | <Link href="doc/b3_v4.doc"><a>Word</a></Link>) | <strong>Sürüm 4.1 <span className="belge-span">Güncel</span></strong> (<Link href="doc/b3_v4_1.pdf"><a>PDF</a></Link> | <Link href="doc/b3_v4_1.doc"><a>Word</a></Link>)</td>
+                  <td>HEPDAK Hemşirelik Lisans Eğitim Programı Standartları <Link href="doc/b3_v1.pdf"><a>Sürüm 1.0</a></Link> | <Link href="doc/b3_v2.pdf"><a>Sürüm 2.0</a></Link> | <Link href="doc/b3_v3.pdf"><a>Sürüm 3.0</a></Link> | <strong>Sürüm 4.0</strong> (<Link href="doc/b3_v4.pdf"><a>PDF</a></Link> | <Link href="doc/b3_v4.doc"><a>Word</a></Link>) | <strong>Sürüm 4.1</strong> (<Link href="doc/b3_v4_1.pdf"><a>PDF</a></Link> | <Link href="doc/b3_v4_1.doc"><a>Word</a></Link>) | <strong>Sürüm 6.0 <span className="belge-span">Güncel</span></strong> (<Link href="doc/b3_v6.pdf"><a>PDF</a></Link> | <Link href="doc/b3_v6.doc"><a>Word</a></Link>)</td>
                 </tr>
                 <tr>
                   <th scope="row">4</th>
@@ -81,23 +81,23 @@ const Belgeler = () => (
                 </tr>
                 <tr>
                   <th scope="row">6</th>
-                  <td>Program Değerlendiricisi Raporu <Link href="doc/b6_v1.pdf"><a>Sürüm 1.0</a></Link> | <Link href="doc/b6_v2.pdf"><a>Sürüm 2.0</a></Link> | <strong>Sürüm 3.0</strong> (<Link href="doc/b6_v3.pdf"><a>PDF</a></Link> | <Link href="doc/b6_v3.doc"><a>Word</a></Link>) | <strong>Sürüm 3.1 <span className="belge-span">Güncel</span></strong> (<Link href="doc/b6_v3_1.pdf"><a>PDF</a></Link> | <Link href="doc/b6_v3_1.doc"><a>Word</a></Link>) | <strong>Sürüm 4.0</strong> (<Link href="doc/b6_v4.pdf"><a>PDF</a></Link> | <Link href="doc/b6_v4.doc"><a>Word</a></Link>) | <strong>Sürüm 4.1</strong> (<Link href="doc/b6_v4_1.pdf"><a>PDF</a></Link> | <Link href="doc/b6_v4_1.docx"><a>Word</a></Link>)</td>
+                  <td>HEPDAK Program Değerlendiricisi Raporu <Link href="doc/b6_v1.pdf"><a>Sürüm 1.0</a></Link> | <Link href="doc/b6_v2.pdf"><a>Sürüm 2.0</a></Link> | <strong>Sürüm 3.0</strong> (<Link href="doc/b6_v3.pdf"><a>PDF</a></Link> | <Link href="doc/b6_v3.doc"><a>Word</a></Link>) | <strong>Sürüm 3.1 <span className="belge-span">Güncel</span></strong> (<Link href="doc/b6_v3_1.pdf"><a>PDF</a></Link> | <Link href="doc/b6_v3_1.doc"><a>Word</a></Link>) | <strong>Sürüm 4.0</strong> (<Link href="doc/b6_v4.pdf"><a>PDF</a></Link> | <Link href="doc/b6_v4.doc"><a>Word</a></Link>) | <strong>Sürüm 4.1</strong> (<Link href="doc/b6_v4_1.pdf"><a>PDF</a></Link> | <Link href="doc/b6_v4_1.docx"><a>Word</a></Link>)</td>
                 </tr>
                 <tr>
                   <th scope="row">7</th>
-                  <td>Program Değerlendirme Çizelgesi <Link href="doc/b7_v1.pdf"><a>Sürüm 1.0</a></Link> | <Link href="doc/b7_v2.pdf"><a>Sürüm 2.0</a></Link> | <Link href="doc/b7_v3.pdf"><a>Sürüm 3.0</a></Link> | <strong>Sürüm 4.0</strong> (<Link href="doc/b7_v4.pdf"><a>PDF</a></Link> | <Link href="doc/b7_v4.doc"><a>Word</a></Link>) | <strong>Sürüm 4.1</strong>  (<Link href="doc/b7_v4_1.pdf"><a>PDF</a></Link> | <Link href="doc/b7_v4_1.docx"><a>Word</a></Link>) | <strong>Sürüm 5.0</strong> (<Link href="doc/b7_v5.pdf"><a>PDF</a></Link> | <Link href="doc/b7_v5.doc"><a>Word</a></Link>) | <strong>Sürüm 5.1</strong> (<Link href="doc/b7_v5_1.pdf"><a>PDF</a></Link> | <Link href="doc/b7_v5_1.doc"><a>Word</a></Link>) | <strong>Sürüm 6.0 <span className="belge-span">Güncel</span></strong> (<Link href="doc/b7_v6.pdf"><a>PDF</a></Link> | <Link href="doc/b7_v6.docx"><a>Word</a></Link>)</td>
+                  <td>HEPDAK Program Değerlendirme Çizelgesi <Link href="doc/b7_v1.pdf"><a>Sürüm 1.0</a></Link> | <Link href="doc/b7_v2.pdf"><a>Sürüm 2.0</a></Link> | <Link href="doc/b7_v3.pdf"><a>Sürüm 3.0</a></Link> | <strong>Sürüm 4.0</strong> (<Link href="doc/b7_v4.pdf"><a>PDF</a></Link> | <Link href="doc/b7_v4.doc"><a>Word</a></Link>) | <strong>Sürüm 4.1</strong>  (<Link href="doc/b7_v4_1.pdf"><a>PDF</a></Link> | <Link href="doc/b7_v4_1.docx"><a>Word</a></Link>) | <strong>Sürüm 5.0</strong> (<Link href="doc/b7_v5.pdf"><a>PDF</a></Link> | <Link href="doc/b7_v5.doc"><a>Word</a></Link>) | <strong>Sürüm 5.1</strong> (<Link href="doc/b7_v5_1.pdf"><a>PDF</a></Link> | <Link href="doc/b7_v5_1.doc"><a>Word</a></Link>) | <strong>Sürüm 6.0 <span className="belge-span">Güncel</span></strong> (<Link href="doc/b7_v6.pdf"><a>PDF</a></Link> | <Link href="doc/b7_v6.doc"><a>Word</a></Link>)</td>
                 </tr>
                 <tr>
                   <th scope="row">8</th>
-                  <td>Ara Rapor Hazirlarken Dikkat Edilmesi Gereken Konular <Link href="doc/b8_v1.pdf"><a>Sürüm 1.0</a></Link> | <Link href="doc/b8_v2.pdf"><a>Sürüm 2.0</a></Link></td>
+                  <td>HEPDAK Ara Rapor Hazirlarken Dikkat Edilmesi Gereken Konular <Link href="doc/b8_v1.pdf"><a>Sürüm 1.0</a></Link> | <Link href="doc/b8_v2.pdf"><a>Sürüm 2.0</a></Link></td>
                 </tr>
                 <tr>
                   <th scope="row">9</th>
-                  <td>Özdeğerlendirme Raporu Hazırlarken Dikkat Edilmesi Gereken Noktalar <Link href="doc/b9_v1.pdf"><a>Sürüm 1.0</a></Link> | <Link href="doc/b9_v2.pdf"><a>Sürüm 2.0</a></Link> | <strong>Sürüm 3.0 <span className="belge-span">Güncel</span></strong> (<Link href="doc/b9_v3.pdf"><a>PDF</a></Link> | <Link href="doc/b9_v3.docx"><a>Word</a></Link>)</td>
+                  <td>HEPDAK Özdeğerlendirme Raporu Hazırlarken Dikkat Edilmesi Gereken Noktalar <Link href="doc/b9_v1.pdf"><a>Sürüm 1.0</a></Link> | <Link href="doc/b9_v2.pdf"><a>Sürüm 2.0</a></Link> | <strong>Sürüm 3.0 <span className="belge-span">Güncel</span></strong> (<Link href="doc/b9_v3.pdf"><a>PDF</a></Link> | <Link href="doc/b9_v3.docx"><a>Word</a></Link>)</td>
                 </tr>
                 <tr>
                   <th scope="row">10</th>
-                  <td>Değerlendirme Takım Üyelerinin Değerlendirilmesi <Link href="doc/b10_v1.pdf"><a>Sürüm 1.0</a></Link> | <strong>Sürüm 2.0</strong> (<Link href="doc/b10_v2.pdf"><a>PDF</a></Link> | <Link href="doc/b10_v2.doc"><a>Word</a></Link>) | <strong>Sürüm 2.1</strong> (<Link href="doc/b10_v2_1.pdf"><a>PDF</a></Link> | <Link href="doc/b10_v2_1.doc"><a>Word</a></Link>)</td>
+                  <td>HEPDAK Değerlendirme Takım Üyelerinin Değerlendirilmesi <Link href="doc/b10_v1.pdf"><a>Sürüm 1.0</a></Link> | <strong>Sürüm 2.0</strong> (<Link href="doc/b10_v2.pdf"><a>PDF</a></Link> | <Link href="doc/b10_v2.doc"><a>Word</a></Link>) | <strong>Sürüm 2.1</strong> (<Link href="doc/b10_v2_1.pdf"><a>PDF</a></Link> | <Link href="doc/b10_v2_1.doc"><a>Word</a></Link>)</td>
                 </tr>
                 <tr>
                   <th scope="row">11</th>
@@ -109,7 +109,7 @@ const Belgeler = () => (
                 </tr>
                 <tr>
                   <th scope="row">13</th>
-                  <td>HEPDAK Akredite Eğitim Programları İçin Gelişim Raporu Hazırlama Rehberi <strong>Sürüm 1.0</strong> (<Link href="doc/b13_v1.pdf"><a>PDF</a></Link> | <Link href="doc/b13_v1.doc"><a>Word</a></Link>) | <strong>Sürüm 2.0</strong> (<Link href="doc/b13_v2.pdf"><a>PDF</a></Link> | <Link href="doc/b13_v2.docx"><a>Word</a></Link>) | <strong>Sürüm 2.1</strong> (<Link href="doc/b13_v2_1.pdf"><a>PDF</a></Link> | <Link href="doc/b13_v2_1.docx"><a>Word</a></Link>) | <strong>Sürüm 2.2 <span className="belge-span">Güncel</span></strong> (<Link href="doc/b13_v2_2.pdf"><a>PDF</a></Link> | <Link href="doc/b13_v2_2.docx"><a>Word</a></Link>)</td>
+                  <td>HEPDAK Akredite Eğitim Programları İçin Gelişim Raporu Hazırlama Rehberi <strong>Sürüm 1.0</strong> (<Link href="doc/b13_v1.pdf"><a>PDF</a></Link> | <Link href="doc/b13_v1.doc"><a>Word</a></Link>) | <strong>Sürüm 2.0</strong> (<Link href="doc/b13_v2.pdf"><a>PDF</a></Link> | <Link href="doc/b13_v2.docx"><a>Word</a></Link>) | <strong>Sürüm 2.1</strong> (<Link href="doc/b13_v2_1.pdf"><a>PDF</a></Link> | <Link href="doc/b13_v2_1.docx"><a>Word</a></Link>) | <strong>Sürüm 2.2</strong> (<Link href="doc/b13_v2_2.pdf"><a>PDF</a></Link> | <Link href="doc/b13_v2_2.docx"><a>Word</a></Link>) | <strong>Sürüm 2.3 <span className="belge-span">Güncel</span></strong> (<Link href="doc/b13_v2_3.pdf"><a>PDF</a></Link> | <Link href="doc/b13_v2_3.docx"><a>Word</a></Link>)</td>
                 </tr>
                 <tr>
                   <th scope="row">14</th>
@@ -125,11 +125,11 @@ const Belgeler = () => (
                 </tr>
                 <tr>
                   <th scope="row">17</th>
-                  <td><p>HEPDAK Değerlendirici Başvuru Formu <Link href="doc/b17_v1.doc"><a>Word</a></Link></p></td>
+                  <td>HEPDAK Değerlendirici Başvuru Formu <Link href="doc/b17_v1.doc"><a>Word</a></Link></td>
                 </tr>
                 <tr>
                   <th scope="row">18</th>
-                  <td><p>HEPDAK Öğrenci Değerlendirici Başvuru Formu <Link href="doc/b18_v1.docx"><a>Word</a></Link></p></td>
+                  <td>HEPDAK Öğrenci Değerlendirici Başvuru Formu <Link href="doc/b18_v1.docx"><a>Word</a></Link></td>
                 </tr>
               </tbody>
             </table>
@@ -142,19 +142,19 @@ const Belgeler = () => (
               <tbody>
                 <tr>
                   <th scope="row" width="10px">1</th>
-                  <td>HEPDAK Akreditasyon Süreci Akış Şeması <Link href="doc/d1_v1.pdf"><a>Sürüm 1.0</a></Link> | <strong>Sürüm 1.1</strong> (<Link href="doc/d1_v1_1.pdf"><a>PDF</a></Link> | <Link href="doc/d1_v1_1.docx"><a>Word</a></Link>) | <Link href="doc/d1_v1_2.pdf"><a>Sürüm 1.2</a></Link></td>
+                  <td>Hemşirelik Eğitimi Programları Akreditasyon Süreci Akış Şeması <Link href="doc/d1_v1.pdf"><a>Sürüm 1.0</a></Link> | <strong>Sürüm 1.1</strong> (<Link href="doc/d1_v1_1.pdf"><a>PDF</a></Link> | <Link href="doc/d1_v1_1.docx"><a>Word</a></Link>) | <Link href="doc/d1_v1_2.pdf"><a>Sürüm 1.2</a></Link> | <strong>Sürüm 1.3</strong> (<Link href="doc/d1_v1_3.pdf"><a>PDF</a></Link> | <Link href="doc/d1_v1_3.docx"><a>Word</a></Link>)</td>
                 </tr>
                 <tr>
                   <th scope="row">2</th>
-                  <td>Genel Değerlendirme - Ziyaret Öncesi Süreçler - Akış <Link href="doc/d2_v1.pdf"><a>Sürüm 1.0</a></Link> | <strong>Sürüm 2.0</strong> (<Link href="doc/d2_v2.pdf"><a>PDF</a></Link> | <Link href="doc/d2_v2.docx"><a>Word</a></Link>)</td>
+                  <td>Genel Değerlendirme - Ziyaret Öncesi Hazırlıklar - İş Akış Şeması <Link href="doc/d2_v1.pdf"><a>Sürüm 1.0</a></Link> | <strong>Sürüm 2.0</strong> (<Link href="doc/d2_v2.pdf"><a>PDF</a></Link> | <Link href="doc/d2_v2.docx"><a>Word</a></Link>)</td>
                 </tr>
                 <tr>
                   <th scope="row">3</th>
-                  <td>Genel Değerlendirme - Ziyaret Sırasındaki Süreçler - İş Akışı <Link href="doc/d3_v1.pdf"><a>Sürüm 1.0</a></Link> | <strong>Sürüm 2.0</strong> (<Link href="doc/d3_v2.pdf"><a>PDF</a></Link> | <Link href="doc/d3_v2.docx"><a>Word</a></Link>)</td>
+                  <td>Genel Değerlendirme - Ziyaret Sırasındaki Süreçler - İş Akışı Şeması <Link href="doc/d3_v1.pdf"><a>Sürüm 1.0</a></Link> | <strong>Sürüm 2.0</strong> (<Link href="doc/d3_v2.pdf"><a>PDF</a></Link> | <Link href="doc/d3_v2.docx"><a>Word</a></Link>)</td>
                 </tr>
                 <tr>
                   <th scope="row">4</th>
-                  <td>Genel Değerlendirme Kontrol Listesi <Link href="doc/d4_v1.pdf"><a>Sürüm 1.0</a></Link> | <strong>Sürüm 2.0</strong> (<Link href="doc/d4_v2.pdf"><a>PDF</a></Link> | <Link href="doc/d4_v2.docx"><a>Word</a></Link>)</td>
+                  <td>Genel Değerlendirme için Kontrol Listesi <Link href="doc/d4_v1.pdf"><a>Sürüm 1.0</a></Link> | <strong>Sürüm 2.0</strong> (<Link href="doc/d4_v2.pdf"><a>PDF</a></Link> | <Link href="doc/d4_v2.docx"><a>Word</a></Link>)</td>
                 </tr>
                 <tr>
                   <th scope="row">5</th>
@@ -162,11 +162,11 @@ const Belgeler = () => (
                 </tr>
                 <tr>
                   <th scope="row">6</th>
-                  <td>HEPDAK Öğrenci Değerlendirici Genel İşler Kontrol Listesi <strong>Sürüm 1.0</strong> (<Link href="doc/d6_v1.pdf"><a>PDF</a></Link> | <Link href="doc/d6_v1.docx"><a>Word</a></Link>)</td>
+                  <td>Öğrenci Değerlendirici Genel İşler Kontrol Listesi <strong>Sürüm 1.0</strong> (<Link href="doc/d6_v1.pdf"><a>PDF</a></Link> | <Link href="doc/d6_v1.docx"><a>Word</a></Link>)</td>
                 </tr>
                 <tr>
                   <th scope="row">7</th>
-                  <td>HEPDAK Öğrenci Değerlendirici Yerinde Ziyaret Takvimi <strong>Sürüm 1.0</strong> (<Link href="doc/d7_v1.pdf"><a>PDF</a></Link> | <Link href="doc/d7_v1.docx"><a>Word</a></Link>)</td>
+                  <td>Öğrenci Değerlendirici Yerinde Ziyaret Takvimi <strong>Sürüm 1.0</strong> (<Link href="doc/d7_v1.pdf"><a>PDF</a></Link> | <Link href="doc/d7_v1.docx"><a>Word</a></Link>)</td>
                 </tr>
               </tbody>
             </table>
