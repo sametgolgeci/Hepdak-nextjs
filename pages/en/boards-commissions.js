@@ -39,7 +39,7 @@ const Kurul = () => (
 	    	<span className="madde-span">• Prof. Dr. Gülseren Kocaman (Coordinator), Emekli Öğretim Üyesi</span>
 	    	<span className="madde-span">• Prof. Dr. Ayla Bayık Temel, Emekli Öğretim Üyesi</span>
 	    	<span className="madde-span">• Prof. Dr. Ayişe Karadağ, Koç Üniversitesi</span>
-	    	<span className="madde-span">• Prof. Dr. Şeyda Seren İntepeler, Dokuz Eylül Üniversitesi, Hemşirelik Fakülteleri Dekanlar Konseyi Başkanı</span>
+	    	<span className="madde-span">• Prof. Dr. Merdiye Şendir, Sağlık Bilimleri Üniversitesi, Hemşirelik Fakülteleri Dekanlar Konseyi  Başkanı</span>
 	    	<span className="madde-span">• Doç. Dr. Memnun Seven, Assistant Professor University of Massachusetts Amherst, ABD</span>
 	    	<span className="madde-span">• Dr. Oya Gümüşkaya, Lecturer, The University of Newcastle, Avustralya</span>
 	    
@@ -50,12 +50,13 @@ const Kurul = () => (
 	    	<span className="madde-span">• Doç. Dr. Emine Türkmen (Secretary), İstinye Üniversitesi</span>
 	    	<span className="madde-span">• Doç. Dr. Sergül Duygulu, Hacettepe Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Hülya Kaya, İstanbul Üniversitesi - Cerrahpaşa</span>
-	    	<span className="madde-span">• Dr. Hümeyra Zengin, Hacettepe Üniversitesi Erişkin Hastanesi Hemşire Müdürü</span>
-	    	<span className="madde-span">• Dr. Öğr. Üyesi Gülçin Uyanık,, İzmir Katip Çelebi Üniversitesi</span>
+	    	<span className="madde-span">• Doç. Dr. Gülten Koç,  Hacettepe Üniversitesi, THD Temsilcisi</span>
+	    	<span className="madde-span">• Doç. Dr. Demet İnangil, Sağlık Bilimleri Üniversitesi</span>
+	    	<span className="madde-span">• Dr. Öğr. Üyesi Gülçin Uyanık, İzmir Katip Çelebi Üniversitesi</span>
 	    	<span className="madde-span">• Uzm. Demet Gökmen Kavak, Türkiye Sağlık Hizmetleri Kalite Ve Akreditasyon Enstitüsü Standart Geliştirme Birim Sorumlusu</span>
 	    	<span className="madde-span">• Uzm. Hem. Gülnur Gül, İzmir SBÜ Dr. Suat Seren Göğüs Hastalıkları ve Cerrahisi Eğitim ve Araştırma Hastanesi</span>
 	    	<span className="madde-span">• Öğ. Gör. Dr. Yasin Çetin, Adıyaman Üniversitesi</span>
-	    	<span className="madde-span">• <strong>Öğrenci:</strong> Mervenur Doğan, Manisa Celal Bayar Üniversitesi</span>
+	    	<span className="madde-span">• <strong>Öğrenci:</strong> Uz. Hem. Özlem Bakan Demirel, İzmir Katip Çelebi Üniversitesi Kalite Koordinatörlüğü</span>
 
 	    	<h3 className="kurul-title">Training Comission</h3>
 	    	<span className="madde-span">• Prof. Dr. Medine Yılmaz (Chair), Katip Çelebi Üniversitesi</span>

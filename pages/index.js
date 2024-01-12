@@ -19,7 +19,7 @@ const Anasayfa = () => (
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
       
-      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossOrigin="anonymous"></script>
       <script src="js/bootstrap.js"></script>
 
     </Head>
@@ -49,14 +49,13 @@ const Anasayfa = () => (
               <div className="carousel-inner">
 
                 <div className="carousel-item active">
-                  <div className="main-top-one-title">Hemşirelik Ulusal Çekirdek Programı - 2022 YÖK'te Onaylandı</div>
-                  <div className="main-top-one-content">Hemşirelik Fakülteleri Dekanlar Konseyi tarafından "Hemşirelik Ulusal Çekirdek Eğitim Programı
-2014"ün güncellenmesi çalışmaları kapsamında hazırlanan Hemşirelik Ulusal Çekirdek Eğitim
-Programı-2022 (HUÇEP 2022)’ye Üniversitelerarası Kurul ve Sağlık Eğitimi ve Hizmetleri Komisyonu
-"uygun" görüşü vermiştir. Ardından HUÇEP-2022 17.08.2023 tarihli Yükseköğretim Genel Kurul
-toplantısında uygun görülmüş ve kabul edilmiştir. Paydaşlarımız HUÇEP-2022’ye, YÖK’ün
-https://www.yok.gov.tr/ internet adresinden Kurumsal → İdari Birimler→ Eğitim-Öğretim Dairesi
-Başkanlığı → Ulusal Çekirdek Eğitim Programları sekmesinden ulaşılabilmektedir.</div>
+                  <Link href="/doc/b1-basvuru-2024-2025.pdf"><a target="_blank">
+                    <div className="main-top-one-title">2024-2025 Dönemi Akreditasyon Başvuruları Başlamıştır</div>
+                    <div className="main-top-one-content">Başvurular 01-31 Ocak 2024 Tarihleri arasındadır.</div>
+                  </a></Link>
+                </div>
+                <div className="carousel-item">
+                  <div className="main-top-one-content-full"><img className="slider-full-img" src="doc/HEPDAK-2023-tescilbelge.jpeg"/></div>
                 </div>
 
                 {/*
