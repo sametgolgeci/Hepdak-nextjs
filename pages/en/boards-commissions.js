@@ -47,8 +47,8 @@ const Kurul = () => (
 
 	    	<h3 className="kurul-title">Standards Setting and Development Committee (SBGK) Working Directive</h3>
 	    	<span className="madde-span">• Prof. Dr. Kadriye Buldukoğlu (Chair), Akdeniz Üniversitesi</span>
-	    	<span className="madde-span">• Doç. Dr. Emine Türkmen (Secretary), İstinye Üniversitesi</span>
-	    	<span className="madde-span">• Doç. Dr. Sergül Duygulu, Hacettepe Üniversitesi</span>
+	    	<span className="madde-span">• Prof. Dr. Emine Türkmen (Secretary), İstinye Üniversitesi</span>
+	    	<span className="madde-span">• Prof. Dr. Sergül Duygulu, Hacettepe Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Hülya Kaya, İstanbul Üniversitesi - Cerrahpaşa</span>
 	    	<span className="madde-span">• Doç. Dr. Gülten Koç,  Hacettepe Üniversitesi, THD Temsilcisi</span>
 	    	<span className="madde-span">• Doç. Dr. Demet İnangil, Sağlık Bilimleri Üniversitesi</span>
