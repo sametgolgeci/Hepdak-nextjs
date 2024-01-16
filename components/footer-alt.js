@@ -82,7 +82,7 @@ const Footer = () => (
 		</div>		
 	</div>
 	<div className="footer-copy">
-		<span>© 2020-2023 Hemşirelik Eğitim Programları Değerlendirme ve Akreditasyon Derneği - Tüm Hakları Saklıdır / All Rights Reserved - Desinged by sametgolgeci</span>
+		<span>© 2020-2024 Hemşirelik Eğitim Programları Değerlendirme ve Akreditasyon Derneği - Tüm Hakları Saklıdır / All Rights Reserved - Desinged by sametgolgeci</span>
 	</div>
 </div>
 )

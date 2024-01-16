@@ -49,6 +49,18 @@ const Anasayfa = () => (
               <div className="carousel-inner">
 
                 <div className="carousel-item active">
+                  <Link href="/doc/takvim/2024-egitim-takvim.pdf"><a target="_blank">
+                    <div className="main-top-one-title">Duyuru - 2024 Eğitim Takvimi</div>
+                    <div className="main-top-one-content">HEPDAK 2024 eğitim takvimine <strong>buradan</strong> ulaşabilirsiniz.</div>
+                  </a></Link>
+                </div>
+                <div className="carousel-item">
+                  <Link href="/doc/takvim/2024-toplanti-takvim.pdf"><a target="_blank">
+                    <div className="main-top-one-title">Duyuru - 2024 Toplantı Takvimi</div>
+                    <div className="main-top-one-content">HEPDAK 2024 toplantı takvimine <strong>buradan</strong> ulaşabilirsiniz.</div>
+                  </a></Link>
+                </div>
+                <div className="carousel-item">
                   <Link href="/doc/b1-basvuru-2024-2025.pdf"><a target="_blank">
                     <div className="main-top-one-title">2024-2025 Dönemi Akreditasyon Başvuruları Başlamıştır</div>
                     <div className="main-top-one-content">Başvurular 01-31 Ocak 2024 Tarihleri arasındadır.</div>
@@ -211,30 +223,28 @@ const Anasayfa = () => (
             <div className="block-title-all"><a href="/#">Tüm Duyurular</a></div>
           </div>
 
-          {/*
-          <Link href="/doc/2023-toplanti-takvim.pdf">
+          <Link href="/doc/takvim/2024-egitim-takvim.pdf">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
-              <div className="date-day">06</div>
-              <div className="date-month">Aralık</div>
-              <div className="date-year">2022</div>
+              <div className="date-day">16</div>
+              <div className="date-month">Ocak</div>
+              <div className="date-year">2024</div>
             </div>
-            <div className="block-subtitle-text">HEPDAK 2023 Toplantı Takvimi</div>
+            <div className="block-subtitle-text">HEPDAK 2024 Eğitim Takvimi</div>
+          </div>
+          </Link>
+          
+          <Link href="/doc/takvim/2024-toplanti-takvim.pdf">
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">16</div>
+              <div className="date-month">Ocak</div>
+              <div className="date-year">2024</div>
+            </div>
+            <div className="block-subtitle-text">HEPDAK 2024 Toplantı Takvimi</div>
           </div>
           </Link>
 
-          <Link href="/doc/2023-egitim-takvim.pdf">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">06</div>
-              <div className="date-month">Aralık</div>
-              <div className="date-year">2022</div>
-            </div>
-            <div className="block-subtitle-text">HEPDAK 2023 Eğitim Takvimi</div>
-          </div>
-          </Link>
-          */}
-          
         </div>
       </div>
       <div className="main-new-block col-md-4 col-sm-12">

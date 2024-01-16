@@ -13,6 +13,10 @@ const Calistay = () => (
 		<h4>- CEENQA Faaliyetleri</h4>
 		<h6><span className="badge badge-custom">-</span> CEENQA Haberler </h6>
 			<div className="madde-p">
+				<a className="uluslararasi-link" data-toggle="collapse" href="#collapseCEENQA13" role="button" aria-expanded="false" aria-controls="collapseCEENQA13">- CEENQA Paylaşım Toplantısı - 13 (2023)</a>
+				<div className="collapse" id="collapseCEENQA13">
+					<p>Uluslararası ilişkileri komisyon üyeleri CEENQA tarafından iki ayda bir gerçekleştirilen (18 Ocak 2023, 26 Temmuz 2023 ve 15 Kasım 2023) toplantılara katılım göstermişlerdir. </p>
+				</div>
 				<a className="uluslararasi-link" data-toggle="collapse" href="#collapseCEENQA12" role="button" aria-expanded="false" aria-controls="collapseCEENQA12">- CEENQA Paylaşım Toplantısı - 12 (16 Kasım 2022)</a>
 				<div className="collapse" id="collapseCEENQA12">
 					<p>CEENQA tarafından iki ayda bir yapılan 12. toplantı 16 Kasım 2022 tarihinde gerçekleşmiştir.
