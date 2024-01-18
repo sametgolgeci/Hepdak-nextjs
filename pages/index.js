@@ -49,6 +49,11 @@ const Anasayfa = () => (
               <div className="carousel-inner">
 
                 <div className="carousel-item active">
+                  <Link href="https://us02web.zoom.us/j/83622705147?pwd=OTViVlJhWnhPU1ZGaGxaUHgwZ3pPdz09"><a target="_blank">
+                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/webinar/2024-02-07.png"/></div>
+                  </a></Link>
+                </div>
+                <div className="carousel-item">
                   <Link href="/doc/takvim/2024-egitim-takvim.pdf"><a target="_blank">
                     <div className="main-top-one-title">Duyuru - 2024 Eğitim Takvimi</div>
                     <div className="main-top-one-content">HEPDAK 2024 eğitim takvimine <strong>buradan</strong> ulaşabilirsiniz.</div>
