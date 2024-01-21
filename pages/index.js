@@ -47,8 +47,12 @@ const Anasayfa = () => (
           <div className="main-top-one">
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
-
                 <div className="carousel-item active">
+                  <Link href="/haberler/2024-01-04-haber"><a target="_blank">
+                    <div className="main-top-one-content-full"><img className="slider-full-img" src="/img/haberler/2024-paydas-toplantisi.jpg"/></div>
+                  </a></Link>
+                </div>
+                <div className="carousel-item">
                   <Link href="https://us02web.zoom.us/j/83622705147?pwd=OTViVlJhWnhPU1ZGaGxaUHgwZ3pPdz09"><a target="_blank">
                     <div className="main-top-one-content-full"><img className="slider-full-img" src="img/webinar/2024-02-07.png"/></div>
                   </a></Link>
@@ -164,6 +168,17 @@ const Anasayfa = () => (
             <div className="block-title-all"><a href="/tum-haberler">Tüm Haberler</a></div>
           </div>
          
+          <Link href="/haberler/2024-01-04-haber">
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">04</div>
+              <div className="date-month">Ocak</div>
+              <div className="date-year">2024</div>
+            </div>
+            <div className="block-subtitle-text">Yükseköğretim Kalite Kurulu (YÖKAK) Paydaş Toplantısı</div>
+          </div>
+          </Link>
+
           <Link href="/haberler/2023-12-14-haber">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
