@@ -19,8 +19,8 @@ const News = () => (
 başkanlığında gerçekleştirilen paydaş toplantılarına yükseköğretim kurumlarından
 akademisyenler ile ulusal akreditasyon kuruluşlarından temsilcileri katıldı. 28 Aralık 2023 ve
 04 Ocak 2024 tarihlerinde iki oturum şeklinde çevrimiçi gerçekleşen toplantılardan ikincisine
-HEPDAK başkanı Prof. DR. Dilek ve HEAK başkanı Prof. Dr. Gülseren Kocaman
-katıldı. Toplantıda yükseköğretimde program akreditasyonu uygulaması ele alındı ve ulusal
+HEPDAK başkanı Prof. Dr. Dilek Özmen ve HEAK başkanı Prof. Dr. Gülseren Kocaman
+katıldı. Toplantıda yükseköğretimde program akreditasyonu uygulaması ele alındı ve ulusal
 akreditasyon kuruluşlarından beklentiler, program akreditasyonunun teşviki, akreditasyon
 süreçlerinde yaşanan sorunlar ve çözüm önerileri konuşuldu.</p>
                 </div> 
