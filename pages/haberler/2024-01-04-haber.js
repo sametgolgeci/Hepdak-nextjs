@@ -5,7 +5,7 @@ import Link from 'next/link'
 const News = () => (
     <MasterPage>
       <Head>
-        <title>HEPDAK | Webinar: Bakım Bilimine Dayalı Hemşirelik Müfredatı: Güçlenmek ve Güçlendirmek için (14 Aralık 2023)</title>
+        <title>HEPDAK | Yükseköğretim Kalite Kurulu (YÖKAK) Paydaş Toplantısı (04 Ocak 2024)</title>
       </Head>
       <div className="main-top-second hover-out">
          <div className="main-top-second-content">

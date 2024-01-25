@@ -101,7 +101,7 @@ const Belgeler = () => (
                 </tr>
                 <tr>
                   <th scope="row">11</th>
-                  <td>HEPDAK Değerlendirmelerine Öğrenci Değerlendirici Katılımı Uygulama Esasları <Link href="doc/b11_v1.pdf"><a>Sürüm 1.0</a></Link> | <Link href="doc/b11_v2.pdf"><a>Sürüm 2.0</a></Link> | <Link href="doc/b11_v3.pdf"><a>Sürüm 3.0</a></Link> | <Link href="doc/b11_v4.pdf"><a>Sürüm 4.0</a></Link></td>
+                  <td>HEPDAK Değerlendirmelerine Öğrenci Değerlendirici Katılımı Uygulama Esasları <Link href="doc/b11_v1.pdf"><a>Sürüm 1.0</a></Link> | <Link href="doc/b11_v2.pdf"><a>Sürüm 2.0</a></Link> | <Link href="doc/b11_v3.pdf"><a>Sürüm 3.0</a></Link> | <Link href="doc/b11_v4.pdf"><a>Sürüm 4.0</a></Link> | <strong>Sürüm 6.0</strong> (<Link href="doc/b11_v6.pdf"><a>PDF</a></Link> | <Link href="doc/b11_v6.docx"><a>Word</a></Link>)</td>
                 </tr>
                 <tr>
                   <th scope="row">12</th>
