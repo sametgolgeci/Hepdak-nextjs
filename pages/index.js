@@ -239,6 +239,28 @@ const Anasayfa = () => (
           </div>
           </Link>
 
+          <Link href="/haberler/2023-06-09-haber-2">
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">09</div>
+              <div className="date-month">Haziran</div>
+              <div className="date-year">2023</div>
+            </div>
+            <div className="block-subtitle-text">Dünya Akreditasyon Günü Eğitimde Akreditasyon Süreçleri Üzerine Söyleşi</div>
+          </div>
+          </Link>
+
+          <Link href="/haberler/2023-06-09-haber">
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">09</div>
+              <div className="date-month">Haziran</div>
+              <div className="date-year">2023</div>
+            </div>
+            <div className="block-subtitle-text">Akreditasyonun Eğitimin İyileştirme Sürecine Katkısı Paneli</div>
+          </div>
+          </Link>
+
         </div>
       </div>
       <div className="main-new-block col-md-4 col-sm-12">

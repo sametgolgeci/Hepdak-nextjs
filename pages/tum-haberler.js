@@ -219,6 +219,39 @@ başkanlarının ara ziyaret planı ve işleyişine yönelik görüş ve öneril
                 </div>  
               </div>
               <div className="main-top-second">
+                <div className="main-top-second-title">Dünya Akreditasyon Günü Eğitimde Akreditasyon Süreçleri Üzerine Söyleşi (09 Haziran 2023)</div> 
+                <div className="main-top-second-content">
+                  <p>HEPDAK Başkanı Prof. Dr. Dilek ÖZMEN, HEAK Başkanı Prof. Dr. Gülseren KOCAMAN ve HEAK üyesi
+Prof. Dr. Hülya OKUMUŞ Erzincan Binali Yıldırım Üniversitesi Sağlık Bilimleri Fakültesi’nde “9 Haziran
+Dünya Akreditasyon Günü Eğitimde Akreditasyon Süreçleri Üzerine” konulu söyleşi gerçekleştirdi.
+Söyleşi Fakülte Dekanı Prof. Dr. Nadiye ÖZER, Dekan Yardımcıları, akademik ve idari personelin
+katılımıyla gerçekleşti. Söyleşi de Hemşirelik Bölümü akreditasyon hazırlık sürecine ilişkin
+paylaşımlarda bulunuldu.</p>
+                </div>
+                <div className="main-top-second-content">
+                  <div className="row">
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2023-dunya-akreditasyon-gunu/01.jpg" target="_blank"><img className="calistay-img" src="img/haberler/2023-dunya-akreditasyon-gunu/01.jpg" alt="Dünya Akreditasyon Günü Eğitimde Akreditasyon Süreçleri Üzerine Söyleşi"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2023-dunya-akreditasyon-gunu/02.jpg" target="_blank"><img className="calistay-img" src="img/haberler/2023-dunya-akreditasyon-gunu/02.jpg" alt="Dünya Akreditasyon Günü Eğitimde Akreditasyon Süreçleri Üzerine Söyleşi"/></a></div>
+                  </div>
+                </div>  
+              </div>
+              <div className="main-top-second">
+                <div className="main-top-second-title">Akreditasyonun Eğitimin İyileştirme Sürecine Katkısı Paneli (09 Haziran 2023)</div> 
+                <div className="main-top-second-content">
+                  <p>HEPDAK Başkanı Prof. Dr. Dilek ÖZMEN ve HEAK Başkanı Prof. Dr. Gülseren KOCAMAN Erzincan Binali
+Yıldırım Üniversitesi Sağlık Bilimleri Fakültesi’nde “Akreditasyonun Eğitimin İyileştirme Sürecine
+Katkısı” paneline katıldı. Hemşirelik Eğitim Programları Akreditasyon Kurulu Başkanı Prof. Dr.
+Gülseren Kocaman’ın moderatörlüğünde düzenlenen program, konuşmacılar Prof. Dr. Dilek Özmen,
+Prof. Dr. Seçkin Özden ve Prof. Dr. Dinçay Köksal’ın sunumlarının ardından sona erdi.</p>
+                </div>
+                <div className="main-top-second-content">
+                  <div className="row">
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2023-akreditasyon-panel/01.jpg" target="_blank"><img className="calistay-img" src="img/haberler/2023-akreditasyon-panel/01.jpg" alt="Akreditasyonun Eğitimin İyileştirme Sürecine Katkısı Paneli"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2023-akreditasyon-panel/02.jpg" target="_blank"><img className="calistay-img" src="img/haberler/2023-akreditasyon-panel/02.jpg" alt="Akreditasyonun Eğitimin İyileştirme Sürecine Katkısı Paneli"/></a></div>
+                  </div>
+                </div>  
+              </div>
+              <div className="main-top-second">
                 <div className="main-top-second-title">Akreditasyon Belgesi Takdim Töreni (Mayıs - Haziran 2023)</div> 
                 <div className="main-top-second-content">
                   <p>HEPDAK Akreditasyon değerlendirmeleri sonucu 2022-2023 döneminde akredite olan 14
