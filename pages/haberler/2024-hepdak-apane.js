@@ -10,7 +10,7 @@ const News = () => (
       <div className="main-top-second hover-out">
          <div className="main-top-second-content">
                   <div className="row">
-                    <div className="col-md-12 col-sm-12"><img className="calistay-img" src="../img/haberler/2024/hepdak-apane.jpeg" alt="Hepdak Apane"/></div>
+                    <div className="col-md-12 col-sm-12"><img className="calistay-img" src="../img/haberler/2024/hepdak-apane.jpg" alt="Hepdak Apane"/></div>
                   </div>
                 </div>
                 <div className="main-top-second-title">APANE Üyeliği Hakkında</div> 
