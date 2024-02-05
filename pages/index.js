@@ -75,12 +75,6 @@ const Anasayfa = () => (
                   </a></Link>
                 </div>
                 <div className="carousel-item">
-                  <Link href="/doc/b1-basvuru-2024-2025.pdf"><a target="_blank">
-                    <div className="main-top-one-title">2024-2025 Dönemi Akreditasyon Başvuruları Başlamıştır</div>
-                    <div className="main-top-one-content">Başvurular 01-31 Ocak 2024 Tarihleri arasındadır.</div>
-                  </a></Link>
-                </div>
-                <div className="carousel-item">
                   <div className="main-top-one-content-full"><img className="slider-full-img" src="doc/HEPDAK-2023-tescilbelge.jpeg"/></div>
                 </div>
 
