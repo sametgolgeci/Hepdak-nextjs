@@ -10,27 +10,33 @@ const Webinar = () => (
 	    <div className="genel">
 	    	<h1>HEPDAK Webinar</h1>
 	    	<div className="webinar-genel">
-	    	
+	    	{/*
 	    		<h4>- Yaklaşan Webinarlar -</h4>
 	    		<div className="row justify-content-center">
 	    			<div className="col-md-6">
 	    				<a target="_blank" href="https://us02web.zoom.us/j/83622705147?pwd=OTViVlJhWnhPU1ZGaGxaUHgwZ3pPdz09"><img className="webinar-afis" src="img/webinar/2024-02-07.png"></img></a>
 	    			</div>
 	    		</div>
-	    	
+	    	*/}
 	    		<h4>- Tamamlanan Webinarlar -</h4> 
 	    	</div>
 	    </div>
 	    <div className="webinar-bottom">
-	    	<iframe width="560" height="315" src="https://www.youtube.com/embed/yZUSH3-PKcA?si=3mnLOsAFXydkOKf7" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	    	<div className="webinar-bottom-title">HEPDAK - HEMED Webinar VII (14 Aralık 2023)</div>
+	    	<iframe width="560" height="315" src="https://www.youtube.com/embed/YBWlM0_Vp6w?si=0XDj4nlJUV7iHZ-E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	    	<div className="webinar-bottom-title">HEPDAK - HEMED Webinar VIII (07 Şubat 2024)</div>
 	    </div>
 	    <div className="row">
 	    	<div className="col-md-4">
 		   		<div className="embed-responsive embed-responsive-16by9">
+					  <iframe className="embed-responsive-item" src="https://www.youtube.com/embed/yZUSH3-PKcA?si=3mnLOsAFXydkOKf7" allowFullScreen></iframe>
+					</div>
+				<div className="webinar-bottom-title">HEPDAK - HEMED Webinar VII (14 Aralık 2023)</div>
+	     	</div>
+	    	<div className="col-md-4">
+		   		<div className="embed-responsive embed-responsive-16by9">
 					  <iframe className="embed-responsive-item" src="https://www.youtube.com/embed/AKodE-uXUlM?si=ad-NGWxpE8MgzokF" allowFullScreen></iframe>
 					</div>
-				<div className="webinar-bottom-title">HEPDAK - HEMED Webinar VI (1 Aralık 2023)</div>
+				<div className="webinar-bottom-title">HEPDAK - HEMED Webinar VI (01 Aralık 2023)</div>
 	     	</div>
 	    	<div className="col-md-4">
 		   		<div className="embed-responsive embed-responsive-16by9">

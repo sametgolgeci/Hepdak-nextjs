@@ -58,11 +58,6 @@ const Anasayfa = () => (
                   </a></Link>
                 </div>
                 <div className="carousel-item">
-                  <Link href="https://us02web.zoom.us/j/83622705147?pwd=OTViVlJhWnhPU1ZGaGxaUHgwZ3pPdz09"><a target="_blank">
-                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/webinar/2024-02-07.png"/></div>
-                  </a></Link>
-                </div>
-                <div className="carousel-item">
                   <Link href="/doc/takvim/2024-egitim-takvim.pdf"><a target="_blank">
                     <div className="main-top-one-title">Duyuru - 2024 Eğitim Takvimi</div>
                     <div className="main-top-one-content">HEPDAK 2024 eğitim takvimine <strong>buradan</strong> ulaşabilirsiniz.</div>
@@ -167,6 +162,17 @@ const Anasayfa = () => (
             <div className="block-title-all"><a href="/tum-haberler">Tüm Haberler</a></div>
           </div>
          
+          <Link href="/haberler/2024-02-07-haber">
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">07</div>
+              <div className="date-month">Şubat</div>
+              <div className="date-year">2024</div>
+            </div>
+            <div className="block-subtitle-text">Webinar: Akademisyenlerin Eğitim - Öğretim Performansının Değerlendirilmesi</div>
+          </div>
+          </Link>
+
           <Link href="/haberler/2024-01-04-haber">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
