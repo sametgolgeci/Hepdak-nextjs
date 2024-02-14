@@ -17,8 +17,8 @@ const Ucretler = () => (
             <table className="table table-striped">
               <thead className="thead-dark">
                 <tr>
-                  <th scope="col">Değerlendirme Türü</th>
-                  <th scope="col">Normal Öğretim</th>
+                  <th scope="col" width="50%">Değerlendirme Türü</th>
+                  <th scope="col">Akreditasyon Bedeli</th>
                 </tr>
               </thead>
               <tbody>
@@ -41,7 +41,7 @@ const Ucretler = () => (
               <thead className="thead-dark">
                 <tr>
                   <th scope="col" width="50%">Genel Değerlendirme</th>
-                  <th scope="col">Normal Öğretim</th>
+                  <th scope="col">Akreditasyon Bedeli</th>
                 </tr>
               </thead>
               <tbody>
@@ -67,7 +67,7 @@ const Ucretler = () => (
               <thead className="thead-dark">
                 <tr>
                   <th scope="col" width="50%">Ara Değerlendirme</th>
-                  <th scope="col">Normal Öğretim</th>
+                  <th scope="col">Akreditasyon Bedeli</th>
                 </tr>
               </thead>
               <tbody>
