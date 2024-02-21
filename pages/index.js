@@ -75,7 +75,7 @@ const Anasayfa = () => (
                   </a></Link>
                 </div>
                 <div className="carousel-item">
-                  <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/tescil-suresi.jpeg"/></div>
+                  <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2024-tescil-suresi.jpeg"/></div>
                 </div>
 
                 {/*
