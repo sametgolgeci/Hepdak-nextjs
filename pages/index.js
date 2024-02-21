@@ -25,9 +25,11 @@ const Anasayfa = () => (
     </Head>
     <Header/>
     <Navigation/>
+    {/*
     <div className="home-duyuru">
       <Link href="/hepdak-duyuru"><a>!! HEPDAK Yönetim Kurulunun 2023-2024 döneminde akredite olmak için başvuran programların akreditasyon süreçleri ile ilgili 25.03.2023 tarihli kararlarına ilişkin duyurusu !!</a></Link>
     </div>
+    */}
     <div className="main-top">
       <div className="main-top-nav">
         <ul className="main-top-akredite">
@@ -49,12 +51,12 @@ const Anasayfa = () => (
               <div className="carousel-inner">
                 <div className="carousel-item active">
                   <Link href="https://us02web.zoom.us/j/89896583821?pwd=K2hIY0FKa1FldDRIUDR5Y1cvb2hpQT09"><a target="_blank">
-                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/webinar/2024-02-28.jpeg"/></div>
+                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2024-webinar-9.jpeg"/></div>
                   </a></Link>
                 </div>
                 <div className="carousel-item">
                   <Link href="/haberler/2024-hepdak-apane"><a target="_blank">
-                    <div className="main-top-one-content-full"><img className="slider-full-img" src="/img/haberler/2024/hepdak-apane.jpg"/></div>
+                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2024-apane-uyelik.jpeg"/></div>
                   </a></Link>
                 </div>
                 <div className="carousel-item">
@@ -64,18 +66,16 @@ const Anasayfa = () => (
                 </div>
                 <div className="carousel-item">
                   <Link href="/doc/takvim/2024-egitim-takvim.pdf"><a target="_blank">
-                    <div className="main-top-one-title">Duyuru - 2024 Eğitim Takvimi</div>
-                    <div className="main-top-one-content">HEPDAK 2024 eğitim takvimine <strong>buradan</strong> ulaşabilirsiniz.</div>
+                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2024-egitim-takvim.jpeg"/></div>
                   </a></Link>
                 </div>
                 <div className="carousel-item">
                   <Link href="/doc/takvim/2024-toplanti-takvim.pdf"><a target="_blank">
-                    <div className="main-top-one-title">Duyuru - 2024 Toplantı Takvimi</div>
-                    <div className="main-top-one-content">HEPDAK 2024 toplantı takvimine <strong>buradan</strong> ulaşabilirsiniz.</div>
+                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2024-toplanti-takvim.jpeg"/></div>
                   </a></Link>
                 </div>
                 <div className="carousel-item">
-                  <div className="main-top-one-content-full"><img className="slider-full-img" src="doc/HEPDAK-2023-tescilbelge.jpeg"/></div>
+                  <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/tescil-suresi.jpeg"/></div>
                 </div>
 
                 {/*
