@@ -145,11 +145,15 @@ const Paydas = () => (
 					<tbody>
 						<tr>
 		          <th scope="row" width="10px"></th>
-		          <td><Link href="doc/paydas_toplantilari/ogrenci_degerlendiriciler_toplanti/02.pdf"><a target="_blank">HEPDAK Öğrenci Değerlendiricileri Toplantısı - 2 (25 Ocak 2023)</a></Link></td>
+		          <td><Link href="doc/paydas_toplantilari/ogrenci_degerlendiriciler_toplanti/04.pdf"><a target="_blank">HEPDAK Öğrenci Değerlendiricileri Toplantısı - 3 (14 Şubat 2024)</a></Link></td>
+		        </tr>
+						<tr>
+		          <th scope="row" width="10px"></th>
+		          <td><Link href="doc/paydas_toplantilari/ogrenci_degerlendiriciler_toplanti/02.pdf"><a target="_blank">HEPDAK Öğrenci Değerlendiricileri Toplantısı - 2 (30 Aralık 2022)</a></Link></td>
 		        </tr>
 		        <tr>
 		          <th scope="row" width="10px"></th>
-		          <td><Link href="doc/paydas_toplantilari/ogrenci_degerlendiriciler_toplanti/01.pdf"><a target="_blank">HEPDAK Öğrenci Değerlendiricileri Toplantısı - 1 (18 Ocak 2022)</a></Link></td>
+		          <td><Link href="doc/paydas_toplantilari/ogrenci_degerlendiriciler_toplanti/01.pdf"><a target="_blank">HEPDAK Öğrenci Değerlendiricileri Toplantısı - 1 (20 Aralık 2021)</a></Link></td>
 		        </tr>
 					</tbody>
 				</table>
