@@ -51,7 +51,7 @@ const Anasayfa = () => (
               <div className="carousel-inner">
                 <div className="carousel-item active">
                   <Link href="/doc/2024-degerlendirici-aday-basvuru-formu.doc"><a target="_blank">
-                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2024-degerlendirici-aday-basvuru-formu.jpeg.jpeg"/></div>
+                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2024-degerlendirici-aday-basvuru-formu.jpeg"/></div>
                   </a></Link>
                 </div>
                 <div className="carousel-item">
