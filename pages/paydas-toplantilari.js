@@ -145,7 +145,7 @@ const Paydas = () => (
 					<tbody>
 						<tr>
 		          <th scope="row" width="10px"></th>
-		          <td><Link href="doc/paydas_toplantilari/ogrenci_degerlendiriciler_toplanti/04.pdf"><a target="_blank">HEPDAK Öğrenci Değerlendiricileri Toplantısı - 3 (14 Şubat 2024)</a></Link></td>
+		          <td><Link href="doc/paydas_toplantilari/ogrenci_degerlendiriciler_toplanti/03.pdf"><a target="_blank">HEPDAK Öğrenci Değerlendiricileri Toplantısı - 3 (14 Şubat 2024)</a></Link></td>
 		        </tr>
 						<tr>
 		          <th scope="row" width="10px"></th>
