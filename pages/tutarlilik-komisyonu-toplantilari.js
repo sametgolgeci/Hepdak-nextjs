@@ -30,19 +30,19 @@ const Toplantilar = () => (
 	        </tr>
 	        <tr>
 	          <th scope="row" width="10px">4</th>
-	          <td>Tutarlılık Komisyonu Toplantısı - <Link href="doc/heak_tutarlilik/heak_tutarli_komisyon_4.pdf"><a>2 Mart 2019</a></Link></td>
+	          <td>Tutarlılık Komisyonu Toplantısı - <Link href="doc/heak_tutarlilik/heak_tutarli_komisyon_4.pdf"><a>02 Mart 2019</a></Link></td>
 	        </tr>
 	        <tr>
 	          <th scope="row">3</th>
-	          <td>Tutarlılık Komisyonu Toplantısı - <Link href="doc/heak_tutarlilik/heak_tutarli_komisyon_3.pdf"><a>5 Mart 2018</a></Link></td>
+	          <td>Tutarlılık Komisyonu Toplantısı - <Link href="doc/heak_tutarlilik/heak_tutarli_komisyon_3.pdf"><a>05 Mart 2018</a></Link></td>
 	        </tr>
 	        <tr>
 	          <th scope="row">2</th>
-	          <td>Tutarlılık Komisyonu Toplantısı - <Link href="doc/heak_tutarlilik/heak_tutarli_komisyon_2.pdf"><a>5 Mart 2017</a></Link></td>
+	          <td>Tutarlılık Komisyonu Toplantısı - <Link href="doc/heak_tutarlilik/heak_tutarli_komisyon_2.pdf"><a>05 Mart 2017</a></Link></td>
 	        </tr>
 	        <tr>
 	          <th scope="row">1</th>
-	          <td>Tutarlılık Komisyonu Toplantısı - <Link href="doc/heak_tutarlilik/heak_tutarli_komisyon_1.pdf"><a>6 Mart 2016</a></Link></td>
+	          <td>Tutarlılık Komisyonu Toplantısı - <Link href="doc/heak_tutarlilik/heak_tutarli_komisyon_1.pdf"><a>06 Mart 2016</a></Link></td>
 	        </tr>
 	      </tbody>
 	    </table>

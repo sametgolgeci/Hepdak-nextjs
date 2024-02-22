@@ -16,19 +16,19 @@ const Paydas = () => (
 			<table className="table table-striped">
 	      <tbody>
 	      	<tr>
-	          <th scope="row" width="160px">Ekim 2023</th>
+	          <th scope="row" width="160px">Ekim<br/>2023</th>
 	          <td><Link href="doc/komisyon_toplantilari/standart_belirleme_komisyonu/2023-04.pdf"><a>Hemşirelik Lisans Eğitim Programı Standartları Dereceli Değerlendirme Aracına (Sürüm 6.0) Yönelik Alınan Paydaş Görüşlerinin Değerlendirilmesi ve Gerekli Düzenlemelerin Yapılması</a></Link></td>
 	        </tr>
 	        <tr>
-	          <th scope="row" width="160px">Mayıs - Temmuz 2023</th>
+	          <th scope="row" width="160px">Mayıs - Temmuz<br/>2023</th>
 	          <td><Link href="doc/komisyon_toplantilari/standart_belirleme_komisyonu/2023-03.pdf"><a>HEPDAK Standartları Belirleme ve Geliştirme Komisyonu (SBGK) çalışma yönergesinin hazırlanması</a></Link></td>
 	        </tr>
 	        <tr>
-	          <th scope="row" width="160px">Mart 2023</th>
+	          <th scope="row" width="160px">Mart<br/>2023</th>
 	          <td><Link href="doc/komisyon_toplantilari/standart_belirleme_komisyonu/2023-02.pdf"><a>T.S.7’nin güncellenmesi</a></Link></td>
 	        </tr>
 	        <tr>
-	          <th scope="row" width="160px">Ocak - Şubat 2023</th>
+	          <th scope="row" width="160px">Ocak - Şubat<br/>2023</th>
 	          <td><Link href="doc/komisyon_toplantilari/standart_belirleme_komisyonu/2023-01.pdf"><a>T.S.4, T.S.5 ve T.S.6’nın güncellenmesi</a></Link></td>
 	        </tr>
 	      </tbody>
@@ -37,7 +37,7 @@ const Paydas = () => (
 	    <table className="table table-striped">
 	    	<tbody> 
 	        <tr>
-	          <th scope="row" width="160px">Şubat 2022</th>
+	          <th scope="row" width="160px">Şubat<br/>2022</th>
 	          <td><Link href="doc/komisyon_toplantilari/standart_belirleme_komisyonu/2022-01.pdf"><a>2021-2022 yılı Akreditasyon Değerlendirme Takım Başkanları ile Standart Belirleme ve Geliştirme Komisyonu üyeleri ile Hemşirelik Lisans Eğitim Programı Standartları Son Sürümleri Hakkında Görüşülmesi</a></Link></td>
 	        </tr>
 	      </tbody>
