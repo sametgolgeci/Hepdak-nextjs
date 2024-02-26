@@ -50,6 +50,11 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
+                  <Link href="https://us02web.zoom.us/j/84521067434?pwd=NXBJSUp6QWczUEtXdGRtSEtETml5Zz09"><a target="_blank">
+                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2024-webinar-10.jpeg"/></div>
+                  </a></Link>
+                </div>
+                <div className="carousel-item">
                   <Link href="/doc/2024-degerlendirici-aday-basvuru-formu.doc"><a>
                     <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2024-degerlendirici-aday-basvuru-formu.jpeg"/></div>
                   </a></Link>
