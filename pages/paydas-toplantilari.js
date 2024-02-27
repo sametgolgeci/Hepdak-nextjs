@@ -47,6 +47,13 @@ const Paydas = () => (
 						<tr>
 		          <th scope="row" width="10px"></th>
 		          <td>
+		          	<Link href="doc/paydas_toplantilari/basvuran_kurum_yoneticileri_toplanti/04_1.pdf"><a target="_blank">2024-2024 Dönemi HEPDAK Akreditasyon için Başvuran Kurumlara Yönelik Bilgilendirme Toplantı Duyurusu (20 Şubat 2024)</a></Link><br/>
+		          	<Link href="doc/paydas_toplantilari/basvuran_kurum_yoneticileri_toplanti/04_2.pdf"><a target="_blank">2024-2025 Dönemi HEPDAK Akreditasyon için Başvuran Kurumlara Yönelik Bilgilendirme Toplantısı (27 Şubat 2024)</a></Link>
+		          </td>
+		        </tr>
+						<tr>
+		          <th scope="row" width="10px"></th>
+		          <td>
 		          	<Link href="doc/paydas_toplantilari/basvuran_kurum_yoneticileri_toplanti/03_1.pdf"><a target="_blank">2023-2024 Dönemi HEPDAK Akreditasyon için Başvuran Kurumlara Yönelik Bilgilendirme Toplantı Duyurusu (15 Mart 2023)</a></Link><br/>
 		          	<Link href="doc/paydas_toplantilari/basvuran_kurum_yoneticileri_toplanti/03_2.pdf"><a target="_blank">2023-2024 Dönemi HEPDAK Akreditasyon için Başvuran Kurumlara Yönelik Bilgilendirme Toplantısı (20 Mart 2023)</a></Link><br/>
 		          	<Link href="doc/paydas_toplantilari/basvuran_kurum_yoneticileri_toplanti/03_3.pdf"><a target="_blank">Özdeğerlendirme İçeriğinin Raporu Hazırlanması (20 Mart 2023)</a></Link>
