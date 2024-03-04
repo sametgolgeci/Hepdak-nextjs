@@ -127,7 +127,7 @@ const Belgeler = () => (
             <table className="table table-striped">
               <thead className="thead-dark">
                 <tr>
-                  <th scope="col" colSpan="2">Kurumlar için Belgeler</th>
+                  <th scope="col" colSpan="2">Değerlendirme Takımları için Belgeler</th>
                 </tr>
                 <tr>
                   <th scope="col" colSpan="2" className="table-alt-baslik">-> Öğretim Üyeleri</th>
