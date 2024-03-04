@@ -1105,6 +1105,8 @@ table{
 	color: #008ac3;
 	transition: 0.3s;
 }
-
+.table-alt-baslik {
+	opacity: 0.9;
+}
 
 
