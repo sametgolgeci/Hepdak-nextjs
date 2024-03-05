@@ -33,6 +33,50 @@ const Tum = () => (
           <div className="tab-content">
             <div id="yirmidort" className="container tab-pane active">
               <div className="main-top-second">
+                <div className="main-top-second-title">Webinar: Doçentlik Değerlendirme Sürecinde Yaşanan Sorunlar (28 Şubat 2024)</div> 
+                <div className="main-top-second-content">
+                  <p>HEPDAK ve HEMED İşbirliğiyle düzenlenen webinarlardan IX.sunda “Doçentlik
+Değerlendirme Sürecinde Yaşanan Sorunlar” ele alındı. İnönü Üniversitesi
+Hemşirelik Fakültesi öğretim üyesi Prof. Dr. Rukuye AYLAZ’ın
+moderatörlüğünde gerçekleştirilen webinarın konuşmacıları Atatürk
+Üniversitesinden Prof.Dr. Ayda ÇELEBİOĞLU, İstanbul Üniversitesi-
+Cerrahpaşa’dan Prof.Dr. Hülya KAYA, Akdeniz Üniversitesinden Prof.Dr. Kadriye
+BULDUKOĞLU, Atlas Üniversitesinden Prof.Dr. Kafiye EROĞLU, Ege
+Üniversitesinden Prof.Dr. Meryem YAVUZ VAN GİERSGBERGEN, Hacettepe
+Üniversitesinden Prof.Dr. Sevgisun KAPUCU, Acıbadem Üniversitesinden
+Prof.Dr. Ükke KARABACAK ve İstanbul Üniversitesi-Cerrahpaşa’dan Prof.Dr.
+Ülkü BAYKAL‘dı. Toplantıya Türkiye'nin farklı üniversitelerinin hemşirelik
+programlarından 441 öğretim elemanı katıldı.</p>
+                </div>
+                <div className="main-top-second-content">
+                  <div className="row">
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2024/2024-02-28-webinar-09/01.png" target="_blank"><img className="calistay-img" src="/img/haberler/2024/2024-02-28-webinar-09/01.png" alt="Webinar: Doçentlik Değerlendirme Sürecinde Yaşanan Sorunlar (28 Şubat 2024)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2024/2024-02-28-webinar-09/02.png" target="_blank"><img className="calistay-img" src="/img/haberler/2024/2024-02-28-webinar-09/02.png" alt="Webinar: Doçentlik Değerlendirme Sürecinde Yaşanan Sorunlar (28 Şubat 2024)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2024/2024-02-28-webinar-09/03.png" target="_blank"><img className="calistay-img" src="/img/haberler/2024/2024-02-28-webinar-09/03.png" alt="Webinar: Doçentlik Değerlendirme Sürecinde Yaşanan Sorunlar (28 Şubat 2024)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2024/2024-02-28-webinar-09/04.png" target="_blank"><img className="calistay-img" src="/img/haberler/2024/2024-02-28-webinar-09/04.png" alt="Webinar: Doçentlik Değerlendirme Sürecinde Yaşanan Sorunlar (28 Şubat 2024)"/></a></div>
+                  </div>
+                </div>  
+              </div>
+              <div className="main-top-second">
+                <div className="main-top-second-title">Bilgilendirme Toplantısı (27 Şubat 2024)</div> 
+                <div className="main-top-second-content">
+                  <p>HEPDAK 27 Şubat 2024 tarihinde, 2024-2025 döneminde akredite edilmek üzere başvuruda
+bulunan programlarla bir “Bilgilendirme Toplantısı” toplantısı gerçekleştirdi. Başvuran
+programdan 41 kişinin katıldığı toplantıda HEPDAK değerlerine göre değerlendirme, Tematik
+analiz ve HEPDAK beklentileri, ÖDR hazırlığında dikkat edilmesi gerekenler, akreditasyon
+sürecinde HEPDAK desteği ve HEPDAK değerlendirme süreci konuları ele alınmıştır.</p>
+                </div>
+                <div className="main-top-second-content">
+                  <div className="row">
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2024/2024-02-27-bilgilendirme-toplantisi/01.png" target="_blank"><img className="calistay-img" src="/img/haberler/2024/2024-02-27-bilgilendirme-toplantisi/01.png" alt="Bilgilendirme Toplantısı (27 Şubat 2024)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2024/2024-02-27-bilgilendirme-toplantisi/02.png" target="_blank"><img className="calistay-img" src="/img/haberler/2024/2024-02-27-bilgilendirme-toplantisi/02.png" alt="Bilgilendirme Toplantısı (27 Şubat 2024)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2024/2024-02-27-bilgilendirme-toplantisi/03.png" target="_blank"><img className="calistay-img" src="/img/haberler/2024/2024-02-27-bilgilendirme-toplantisi/03.png" alt="Bilgilendirme Toplantısı (27 Şubat 2024)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2024/2024-02-27-bilgilendirme-toplantisi/04.png" target="_blank"><img className="calistay-img" src="/img/haberler/2024/2024-02-27-bilgilendirme-toplantisi/04.png" alt="Bilgilendirme Toplantısı (27 Şubat 2024)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2024/2024-02-27-bilgilendirme-toplantisi/05.png" target="_blank"><img className="calistay-img" src="/img/haberler/2024/2024-02-27-bilgilendirme-toplantisi/05.png" alt="Bilgilendirme Toplantısı (27 Şubat 2024)"/></a></div>
+                  </div>
+                </div>  
+              </div>
+              <div className="main-top-second">
                 <div className="main-top-second-title">Webinar: Akademisyenlerin Eğitim - Öğretim Performansının Değerlendirilmesi (07 Şubat 2024)</div> 
                 <div className="main-top-second-content">
                   <p>HEPDAK ve HEMED İşbirliğiyle düzenlenen webinarlardan XIII.si
