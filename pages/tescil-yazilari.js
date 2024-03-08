@@ -40,7 +40,9 @@ const Tescil = () => (
 	    	<p className="madde-p">• <Link href="doc/2018_yokak_hepdak_degerlendirme_raporu.pdf"><a>YÖKAK HEPDAK Değerlendirme Raporu</a></Link></p>
 	    	<h6>2016</h6>
 	    	<p className="madde-p">• <Link href="doc/2016-yokak-hepdak-degerlendirme-raporu.pdf"><a>YÖK HEPDAK Değerlendirme Raporu</a></Link></p>
-	    	<h1>HEPDAK Tescil Başvuru Yazıları</h1>		
+	    	<h1>HEPDAK Tescil Başvuru Yazıları</h1>
+	    	<h6>2023</h6>
+	    	<p className="madde-p">• <Link href="doc/2023-hepdak-ozdegerlendirme-raporu.pdf"><a>HEPDAK Öz Değerlendirme Raporu</a></Link></p>				
 	    	<h6>2018</h6>	
 	    	<p className="madde-p">• <Link href="doc/2018-hepdak-yokak-tescil-basvuru-raporu.pdf"><a>HEPDAK YÖKAK Tescil Başvuru Raporu</a></Link></p>
 	    	<p className="madde-p">• <Link href="doc/2018-hepdak-raporunda-yer-alan-belgeler.pdf"><a>HEPDAK Raporunda Yer Alan Belgeler</a></Link></p>

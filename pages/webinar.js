@@ -10,25 +10,32 @@ const Webinar = () => (
 	    <div className="genel">
 	    	<h1>HEPDAK Webinar</h1>
 	    	<div className="webinar-genel">
-	    	
+	    	{/*
 	    		<h4>- Yaklaşan Webinarlar -</h4>
 	    		<div className="row justify-content-center">
 	    			<div className="col-md-6">
 	    				<a target="_blank" href="https://us02web.zoom.us/j/84521067434?pwd=NXBJSUp6QWczUEtXdGRtSEtETml5Zz09"><img className="webinar-afis" src="img/webinar/2024-03-06.jpeg"></img></a>
 	    			</div>
-	    			<div className="col-md-6">
-	    				<a target="_blank" href="https://us02web.zoom.us/j/89896583821?pwd=K2hIY0FKa1FldDRIUDR5Y1cvb2hpQT09"><img className="webinar-afis" src="img/webinar/2024-02-28.jpeg"></img></a>
-	    			</div>
 	    		</div>
-	    	
+	    	*/}
 	    		<h4>- Tamamlanan Webinarlar -</h4> 
 	    	</div>
 	    </div>
 	    <div className="webinar-bottom">
-	    	<iframe width="560" height="315" src="https://www.youtube.com/embed/YBWlM0_Vp6w?si=0XDj4nlJUV7iHZ-E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	    	<div className="webinar-bottom-title">HEPDAK - HEMED Webinar VIII (07 Şubat 2024)</div>
+	    	<iframe width="560" height="315" src="https://www.youtube.com/embed/6CeRBZq7kRM?si=yoi_Yb-nS30y9ots" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	    	<div className="webinar-bottom-title">HEPDAK - HEMED Webinar X (06 Mart 2024)</div>
 	    </div>
 	    <div className="row">
+	    	<div className="col-md-4">	   		
+				<img className="webinar-afis-2" src="img/webinar/2024-02-28-2.png"></img>
+				<div className="webinar-bottom-title">HEPDAK - HEMED Webinar IX (28 Şubat 2024)(Kayıt Alınamadı)</div>
+	     	</div>
+	     	<div className="col-md-4">
+		   		<div className="embed-responsive embed-responsive-16by9">
+					  <iframe className="embed-responsive-item" src="https://www.youtube.com/embed/YBWlM0_Vp6w?si=0XDj4nlJUV7iHZ-E" allowFullScreen></iframe>
+					</div>
+				<div className="webinar-bottom-title">HEPDAK - HEMED Webinar VIII (07 Şubat 2024)</div>
+	     	</div>
 	    	<div className="col-md-4">
 		   		<div className="embed-responsive embed-responsive-16by9">
 					  <iframe className="embed-responsive-item" src="https://www.youtube.com/embed/yZUSH3-PKcA?si=3mnLOsAFXydkOKf7" allowFullScreen></iframe>
