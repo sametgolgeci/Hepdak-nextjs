@@ -1106,7 +1106,9 @@ table{
 	transition: 0.3s;
 }
 .table-alt-baslik {
-	opacity: 0.9;
+
+	background-color: #000055 !important;
+	border-color: #000055 !important;
 }
 .webinar-afis-2 {
 	width: 100%;

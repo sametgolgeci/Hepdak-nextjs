@@ -39,9 +39,9 @@ const Belgeler = () => (
                 <tr>
                   <th scope="row">3</th>
                   <td>
-                    HEPDAK Değerlendirme ve Akreditasyon Uygulama Esasları Yönergesi - <Link href="doc/a3_v5.pdf"><a>Sürüm 5.0</a></Link> - <a data-toggle="collapse" href="#a03" role="button" aria-expanded="false" aria-controls="a03">↓</a>
+                    HEPDAK Değerlendirme ve Akreditasyon Uygulama Esasları Yönergesi - <Link href="doc/a3_v6.pdf"><a>Sürüm 6.0</a></Link> - <a data-toggle="collapse" href="#a03" role="button" aria-expanded="false" aria-controls="a03">↓</a>
                     <div className="collapse" id="a03">
-                      <p>- <Link href="doc/a3_v4.pdf"><a>Sürüm 4.0</a></Link><br/>- <Link href="doc/a3_v3.pdf"><a>Sürüm 3.0</a></Link><br/>- <Link href="doc/a3_v2.pdf"><a>Sürüm 2.0</a></Link><br/>- <Link href="doc/a3_v1.pdf"><a>Sürüm 1.0</a></Link></p>
+                      <p>- <Link href="doc/a3_v5.pdf"><a>Sürüm 5.0</a></Link><br/>- <Link href="doc/a3_v4.pdf"><a>Sürüm 4.0</a></Link><br/>- <Link href="doc/a3_v3.pdf"><a>Sürüm 3.0</a></Link><br/>- <Link href="doc/a3_v2.pdf"><a>Sürüm 2.0</a></Link><br/>- <Link href="doc/a3_v1.pdf"><a>Sürüm 1.0</a></Link></p>
                     </div>
                   </td>
                 </tr>
@@ -54,8 +54,12 @@ const Belgeler = () => (
                     </div>
                   </td>
                 </tr>
-               <tr>
+                <tr>
                   <th scope="row">5</th>
+                  <td>HEPDAK Uzaktan Değerlendirme ve Saha Ziyareti Yönergesi <strong>Sürüm 1.0</strong> (<Link href="doc/b16_v1.pdf"><a>PDF</a></Link> | <Link href="doc/b16_v1.docx"><a>Word</a></Link>)</td>
+                </tr>
+               <tr>
+                  <th scope="row">6</th>
                   <td>
                     HEPDAK Eğitim Komisyonu Çalışma Yönergesi - <Link href="doc/a5_v2_1.pdf"><a>Sürüm 2.1</a></Link> - <a data-toggle="collapse" href="#a05" role="button" aria-expanded="false" aria-controls="a05">↓</a>
                     <div className="collapse" id="a05">
@@ -64,15 +68,15 @@ const Belgeler = () => (
                   </td>
                 </tr>
                 <tr>
-                  <th scope="row">6</th>
+                  <th scope="row">7</th>
                   <td>HEPDAK Sürekli İyileştirme Komisyonu Yönergesi <Link href="doc/a6_v1.pdf"><a>Sürüm 1.0</a></Link></td>
                 </tr>
                 <tr>
-                  <th scope="row">7</th>
+                  <th scope="row">8</th>
                   <td>HEPDAK Uluslararası İlişkiler Komisyonu Yönergesi <Link href="doc/a7_v1.pdf"><a>Sürüm 1.0</a></Link></td>
                 </tr>
                 <tr>
-                  <th scope="row">8</th>
+                  <th scope="row">9</th>
                   <td>
                     HEPDAK Arşivleme Yönergesi - <Link href="doc/a8_v2_1.pdf"><a>Sürüm 2.1</a></Link> - <a data-toggle="collapse" href="#a08" role="button" aria-expanded="false" aria-controls="a08">↓</a>
                     <div className="collapse" id="a08">
@@ -115,9 +119,9 @@ const Belgeler = () => (
                 <tr>
                   <th scope="row">4</th>
                   <td>
-                    HEPDAK Akredite Eğitim Programları İçin Gelişim Raporu Hazırlama Rehberi - <strong>Sürüm 2.3</strong> (<Link href="doc/b13_v2_3.pdf"><a>PDF</a></Link> | <Link href="doc/b13_v2_3.doc"><a>Word</a></Link>) - <a data-toggle="collapse" href="#b04" role="button" aria-expanded="false" aria-controls="b04">↓</a>
+                    HEPDAK Akredite Eğitim Programları İçin Gelişim Raporu Hazırlama Rehberi - <strong>Sürüm 2.3</strong> (<Link href="doc/b13_v2_3.pdf"><a>PDF</a></Link> | <Link href="doc/b13_v2_3.docx"><a>Word</a></Link>) - <a data-toggle="collapse" href="#b04" role="button" aria-expanded="false" aria-controls="b04">↓</a>
                     <div className="collapse" id="b04">
-                      <p>- <strong>Sürüm 2.2</strong> (<Link href="doc/b13_v2_2.pdf"><a>PDF</a></Link> | <Link href="doc/b13_v2_2.doc"><a>Word</a></Link>)<br/>- <strong>Sürüm 2.1</strong> (<Link href="doc/b13_v2_1.pdf"><a>PDF</a></Link> | <Link href="doc/b13_v2_1.doc"><a>Word</a></Link>)<br/>- <strong>Sürüm 2.0</strong> (<Link href="doc/b13_v2.pdf"><a>PDF</a></Link> | <Link href="doc/b13_v2.doc"><a>Word</a></Link>)<br/>- <strong>Sürüm 1.0</strong> (<Link href="doc/b13_v1.pdf"><a>PDF</a></Link> | <Link href="doc/b13_v1.doc"><a>Word</a></Link>)</p>
+                      <p>- <strong>Sürüm 2.2</strong> (<Link href="doc/b13_v2_2.pdf"><a>PDF</a></Link> | <Link href="doc/b13_v2_2.docx"><a>Word</a></Link>)<br/>- <strong>Sürüm 2.1</strong> (<Link href="doc/b13_v2_1.pdf"><a>PDF</a></Link> | <Link href="doc/b13_v2_1.docx"><a>Word</a></Link>)<br/>- <strong>Sürüm 2.0</strong> (<Link href="doc/b13_v2.pdf"><a>PDF</a></Link> | <Link href="doc/b13_v2.docx"><a>Word</a></Link>)<br/>- <strong>Sürüm 1.0</strong> (<Link href="doc/b13_v1.pdf"><a>PDF</a></Link> | <Link href="doc/b13_v1.doc"><a>Word</a></Link>)</p>
                     </div>
                   </td>
                 </tr>
@@ -160,24 +164,24 @@ const Belgeler = () => (
               </thead>
               <tbody>
                 <tr>
-                  <th scope="row" width="10px">3</th>
-                  <td><p>HEPDAK Öğrenci Değerlendirici Kılavuzu</p></td>
+                  <th scope="row" width="10px">1</th>
+                  <td>HEPDAK Öğrenci Değerlendirici Kılavuzu <Link href="doc/b19_v6.pdf"><a>Sürüm 6.0</a></Link></td>
                 </tr>
                 <tr>
-                  <th scope="row">4</th>
+                  <th scope="row">2</th>
                   <td>
-                    HEPDAK Öğrenci Değerlendirici Raporu - <strong>Sürüm 4.0</strong> (<Link href="doc/b12_v4.pdf"><a>PDF</a></Link> | <Link href="doc/b12_v4.doc"><a>Word</a></Link>) - <a data-toggle="collapse" href="#c04" role="button" aria-expanded="false" aria-controls="c04">↓</a>
+                    HEPDAK Öğrenci Değerlendirici Raporu - <Link href="doc/b12_v6.pdf"><a>Sürüm 6.0</a></Link> - <a data-toggle="collapse" href="#c04" role="button" aria-expanded="false" aria-controls="c04">↓</a>
                     <div className="collapse" id="c04">
-                      <p>- <strong>Sürüm 3.0</strong> (<Link href="doc/b12_v3.pdf"><a>PDF</a></Link> | <Link href="doc/b12_v3.doc"><a>Word</a></Link>)<br/>- <strong>Sürüm 2.0</strong> (<Link href="doc/b12_v2.pdf"><a>PDF</a></Link> | <Link href="doc/b12_v2.doc"><a>Word</a></Link>)<br/>- <Link href="doc/b6_v1.pdf"><a>Sürüm 1.0</a></Link></p>
+                      <p>- <strong>Sürüm 4.0</strong> (<Link href="doc/b12_v4.pdf"><a>PDF</a></Link> | <Link href="doc/b12_v4.doc"><a>Word</a></Link>)<br/>- <strong>Sürüm 3.0</strong> (<Link href="doc/b12_v3.pdf"><a>PDF</a></Link> | <Link href="doc/b12_v3.doc"><a>Word</a></Link>)<br/>- <strong>Sürüm 2.0</strong> (<Link href="doc/b12_v2.pdf"><a>PDF</a></Link> | <Link href="doc/b12_v2.doc"><a>Word</a></Link>)<br/>- <Link href="doc/b6_v1.pdf"><a>Sürüm 1.0</a></Link></p>
                     </div>
                   </td>
                 </tr>
                 <tr>
-                  <th scope="row">5</th>
+                  <th scope="row">3</th>
                   <td>Öğrenci Değerlendirici Genel İşler Kontrol Listesi <strong>Sürüm 1.0</strong> (<Link href="doc/d6_v1.pdf"><a>PDF</a></Link> | <Link href="doc/d6_v1.docx"><a>Word</a></Link>)</td>
                 </tr>
                 <tr>
-                  <th scope="row">6</th>
+                  <th scope="row">4</th>
                   <td>Öğrenci Değerlendirici Yerinde Ziyaret Takvimi <strong>Sürüm 1.0</strong> (<Link href="doc/d7_v1.pdf"><a>PDF</a></Link> | <Link href="doc/d7_v1.docx"><a>Word</a></Link>)</td>
                 </tr>
               </tbody>
@@ -243,10 +247,6 @@ const Belgeler = () => (
                 </tr>
                 <tr>
                   <th scope="row">5</th>
-                  <td>HEPDAK Uzaktan Değerlendirme ve Saha Ziyareti Yönergesi <strong>Sürüm 1.0</strong> (<Link href="doc/b16_v1.pdf"><a>PDF</a></Link> | <Link href="doc/b16_v1.docx"><a>Word</a></Link>)</td>
-                </tr>
-                <tr>
-                  <th scope="row">6</th>
                   <td>HEPDAK Etik Kuralları <Link href="doc/c2_v1.pdf"><a>Sürüm 1.0</a></Link></td>
                 </tr>
               </tbody>
