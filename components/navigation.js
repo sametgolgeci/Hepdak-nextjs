@@ -20,7 +20,7 @@ const Navigation = () => (
 						<Link href="/uye-listesi"><a className="dropdown-item">Üye Listesi</a></Link>
 						<Link href="/degerlendirici-listesi"><a className="dropdown-item">Değerlendiriciler Listesi</a></Link>
 						<Link href="/idari-personel"><a className="dropdown-item">İdari Personel</a></Link>
-						<Link href="/tescil-yazilari"><a className="dropdown-item">Tescil Yazıları</a></Link>
+						<Link href="/yetkilendirme-ve-uluslararasi-taninirlik"><a className="dropdown-item">Yetkilendirme ve Uluslararası Tanınırlık</a></Link>
 			      <Link href="/doc/iktisadi-isletme.docx"><a className="dropdown-item">İktisadi İşletme</a></Link>
 			      <Link href="/kurumsal-kimlik"><a className="dropdown-item">Kurumsal Kimlik</a></Link>
 					</div>
