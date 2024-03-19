@@ -27,6 +27,7 @@ const Tescil = () => (
 	    		<p>HEPDAK, YÖK tarafından ilk kez 2014 yılında değerlendirilmiş ve 25.12.2014 tarihinde yapılan YÖK Genel Kurulu toplantısında iki yıl süre ile hemşirelik programlarının akreditasyonu için ulusal bir kalite güvence kuruluşu olarak tanınmış ve iki yıl geçerlilik süresi ile Kalite Değerlendirme ve Tescil Belgesi verilmesi uygun bulunmuştur.</p>
 	    		<p><Link href="doc/tescil_belgesi_2014.png"><a>İlgili YÖK yazısı için tıklayınız</a></Link></p>
 	    	</div>
+	    	{/*
 	    	<h1>HEPDAK İzleme Raporları</h1>
 	    	<h6>2023</h6>
 	    	<p className="madde-p">• <Link href="doc/hepdak_2022_izleme_raporu.pdf"><a>HEPDAK 2022 yılı İzleme Raporu</a></Link></p>	
@@ -40,6 +41,7 @@ const Tescil = () => (
 	    	<p className="madde-p">• <Link href="doc/2018_yokak_hepdak_degerlendirme_raporu.pdf"><a>YÖKAK HEPDAK Değerlendirme Raporu</a></Link></p>
 	    	<h6>2016</h6>
 	    	<p className="madde-p">• <Link href="doc/2016-yokak-hepdak-degerlendirme-raporu.pdf"><a>YÖK HEPDAK Değerlendirme Raporu</a></Link></p>
+	    	*/}
 	    	<h1>HEPDAK Tescil Başvuru Yazıları</h1>
 	    	<h6>2023</h6>
 	    	<p className="madde-p">• <Link href="doc/2023-hepdak-ozdegerlendirme-raporu.pdf"><a>HEPDAK Öz Değerlendirme Raporu</a></Link></p>				

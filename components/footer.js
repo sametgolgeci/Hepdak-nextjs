@@ -66,7 +66,8 @@ const Footer = () => (
 			<div className="footer-item-link"><Link href="/hepdak-genel-kurulu-ve-raporlari"><a>Genel Kurul ve Raporları</a></Link></div>
 			<div className="footer-item-link"><Link href="/tematik-analiz-raporu"><a>Tematik Analiz Raporu</a></Link></div>
 			<div className="footer-item-link"><Link href="/faaliyet-raporlari"><a>Faaliyet Raporları</a></Link></div>
-			<div className="footer-item-link"><Link href="/paydas-gorusleri"><a>Paydaş Görüşü Raporları</a></Link></div>	
+			<div className="footer-item-link"><Link href="/paydas-gorusleri"><a>Paydaş Görüşü Raporları</a></Link></div>
+			<div className="footer-item-link"><Link href="/izleme-raporlari"><a>İzleme Raporları</a></Link></div>		
 			<div className="footer-item-title footer-item-title-calistay"><strong>Toplantılar</strong></div>
 			<div className="footer-item-link"><Link href="/heak-toplantilari"><a>HEAK Toplantıları</a></Link></div>
 			<div className="footer-item-link"><Link href="/tutarlilik-komisyonu-toplantilari"><a>Tutarlılık Komisyonu Toplantıları</a></Link></div>
