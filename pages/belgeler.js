@@ -156,6 +156,15 @@ const Belgeler = () => (
                     </div>
                   </td>
                 </tr>
+                <tr>
+                  <th scope="row">3</th>
+                  <td>
+                    HEPDAK Program Takım Üyelerinin Değerlendirilmesi - <strong>Sürüm 4.1</strong> (<Link href="doc/b10_v2_1.pdf"><a>PDF</a></Link> | <Link href="doc/b10_v2_1.docx"><a>Word</a></Link>) - <a data-toggle="collapse" href="#c03" role="button" aria-expanded="false" aria-controls="c03">↓</a>
+                    <div className="collapse" id="c03">
+                      <p>- <strong>Sürüm 2.0</strong> (<Link href="doc/b10_v2.pdf"><a>PDF</a></Link> | <Link href="doc/b10_v2.doc"><a>Word</a></Link>)<br/>- <Link href="doc/b10_v1.pdf"><a>Sürüm 1.0</a></Link></p>
+                    </div>
+                  </td>
+                </tr>
               </tbody>
               <thead className="thead-dark">
                 <tr>
