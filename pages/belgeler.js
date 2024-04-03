@@ -141,25 +141,25 @@ const Belgeler = () => (
                 <tr>
                   <th scope="row">1</th>
                   <td>
-                    HEPDAK Değerlendirme Kılavuzu - <Link href="doc/b5_v3.pdf"><a>Sürüm 3.0</a></Link> - <a data-toggle="collapse" href="#c01" role="button" aria-expanded="false" aria-controls="c01">↓</a>
+                    HEPDAK Değerlendirme Kılavuzu - <strong>Sürüm 4.0</strong> (<Link href="doc/b5_v4.pdf"><a>PDF</a></Link> | <Link href="doc/b5_v4.docx"><a>Word</a></Link>) - <a data-toggle="collapse" href="#c01" role="button" aria-expanded="false" aria-controls="c01">↓</a>
                     <div className="collapse" id="c01">
-                      <p>- <Link href="doc/b5_v2.pdf"><a>Sürüm 2.0</a></Link><br/>- <Link href="doc/b5_v1.pdf"><a>Sürüm 1.0</a></Link></p>
+                      <p>- <Link href="doc/b5_v3.pdf"><a>Sürüm 3.0</a></Link><br/>- <Link href="doc/b5_v2.pdf"><a>Sürüm 2.0</a></Link><br/>- <Link href="doc/b5_v1.pdf"><a>Sürüm 1.0</a></Link></p>
                     </div>
                   </td>
                 </tr>
                 <tr>
                   <th scope="row">2</th>
                   <td>
-                    HEPDAK Program Değerlendiricisi Raporu - <strong>Sürüm 4.1</strong> (<Link href="doc/b6_v4_1.pdf"><a>PDF</a></Link> | <Link href="doc/b6_v4_1.doc"><a>Word</a></Link>) - <a data-toggle="collapse" href="#c02" role="button" aria-expanded="false" aria-controls="c02">↓</a>
+                    HEPDAK Program Değerlendiricisi Raporu - <strong>Sürüm 6.0</strong> (<Link href="doc/b6_v6.pdf"><a>PDF</a></Link> | <Link href="doc/b6_v6.docx"><a>Word</a></Link>) - <a data-toggle="collapse" href="#c02" role="button" aria-expanded="false" aria-controls="c02">↓</a>
                     <div className="collapse" id="c02">
-                      <p>- <strong>Sürüm 4.0</strong> (<Link href="doc/b6_v4.pdf"><a>PDF</a></Link> | <Link href="doc/b6_v4.doc"><a>Word</a></Link>)<br/>- <strong>Sürüm 3.1</strong> (<Link href="doc/b6_v3_1.pdf"><a>PDF</a></Link> | <Link href="doc/b6_v3_1.doc"><a>Word</a></Link>)<br/>- <strong>Sürüm 3.0</strong> (<Link href="doc/b6_v3.pdf"><a>PDF</a></Link> | <Link href="doc/b6_v3.doc"><a>Word</a></Link>)<br/>- <Link href="doc/b6_v2.pdf"><a>Sürüm 2.0</a></Link><br/>- <Link href="doc/b6_v1.pdf"><a>Sürüm 1.0</a></Link></p>
+                      <p>- <strong>Sürüm 4.1</strong> (<Link href="doc/b6_v4_1.pdf"><a>PDF</a></Link> | <Link href="doc/b6_v4_1.doc"><a>Word</a></Link>)<br/>- <strong>Sürüm 4.0</strong> (<Link href="doc/b6_v4.pdf"><a>PDF</a></Link> | <Link href="doc/b6_v4.doc"><a>Word</a></Link>)<br/>- <strong>Sürüm 3.1</strong> (<Link href="doc/b6_v3_1.pdf"><a>PDF</a></Link> | <Link href="doc/b6_v3_1.doc"><a>Word</a></Link>)<br/>- <strong>Sürüm 3.0</strong> (<Link href="doc/b6_v3.pdf"><a>PDF</a></Link> | <Link href="doc/b6_v3.doc"><a>Word</a></Link>)<br/>- <Link href="doc/b6_v2.pdf"><a>Sürüm 2.0</a></Link><br/>- <Link href="doc/b6_v1.pdf"><a>Sürüm 1.0</a></Link></p>
                     </div>
                   </td>
                 </tr>
                 <tr>
                   <th scope="row">3</th>
                   <td>
-                    HEPDAK Program Takım Üyelerinin Değerlendirilmesi - <strong>Sürüm 2.1</strong> (<Link href="doc/b10_v2_1.pdf"><a>PDF</a></Link> | <Link href="doc/b10_v2_1.docx"><a>Word</a></Link>) - <a data-toggle="collapse" href="#c03" role="button" aria-expanded="false" aria-controls="c03">↓</a>
+                    HEPDAK Değerlendirme Takım Üyelerinin Değerlendirilmesi - <strong>Sürüm 2.1</strong> (<Link href="doc/b10_v2_1.pdf"><a>PDF</a></Link> | <Link href="doc/b10_v2_1.docx"><a>Word</a></Link>) - <a data-toggle="collapse" href="#c03" role="button" aria-expanded="false" aria-controls="c03">↓</a>
                     <div className="collapse" id="c03">
                       <p>- <strong>Sürüm 2.0</strong> (<Link href="doc/b10_v2.pdf"><a>PDF</a></Link> | <Link href="doc/b10_v2.doc"><a>Word</a></Link>)<br/>- <Link href="doc/b10_v1.pdf"><a>Sürüm 1.0</a></Link></p>
                     </div>
