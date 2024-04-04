@@ -51,7 +51,7 @@ const Tescil = () => (
 	    		<p><Link href="doc/uluslararasi-taninirlik/INQAAHE.pdf"><a>International Network for Quality Assurance Agencies in Higher Education (INQAAHE) Üyeliği</a></Link></p>
 	    	</div>
 	    	<div className="jumbotron">
-	    		<p><Link href="doc/uluslararasi-taninirlik/APANE.jpeg"><a>Asian and Pasific Alliance for Nursing Education (APANE) Üyeliği</a></Link></p>
+	    		<p><Link href="doc/uluslararasi-taninirlik/APANE.pdf"><a>Asian and Pasific Alliance for Nursing Education (APANE) Üyeliği</a></Link></p>
 	    	</div>
 	    </div>
     </MasterPage>
