@@ -49,14 +49,14 @@ const Kurul = () => (
 	    	<span className="madde-span">• Prof. Dr. Kadriye Buldukoğlu (Başkan), Akdeniz Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Emine Türkmen (Sekreter), İstinye Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Sergül Duygulu, Hacettepe Üniversitesi</span>
-	    	<span className="madde-span">• Prof. Dr. Hülya Kaya, İstanbul Üniversitesi - Cerrahpaşa</span>
+	    	<span className="madde-span">• Prof. Dr. Hülya Kaya, Bezmialem Vakıf Üniversitesi</span>
 	    	<span className="madde-span">• Doç. Dr. Gülten Koç,  Hacettepe Üniversitesi, THD Temsilcisi</span>
 	    	<span className="madde-span">• Doç. Dr. Demet İnangil, Sağlık Bilimleri Üniversitesi</span>
 	    	<span className="madde-span">• Dr. Öğr. Üyesi Gülçin Uyanık, İzmir Katip Çelebi Üniversitesi</span>
 	    	<span className="madde-span">• Uzm. Demet Gökmen Kavak, Türkiye Sağlık Hizmetleri Kalite Ve Akreditasyon Enstitüsü Standart Geliştirme Birim Sorumlusu</span>
 	    	<span className="madde-span">• Uzm. Hem. Gülnur Gül, İzmir SBÜ Dr. Suat Seren Göğüs Hastalıkları ve Cerrahisi Eğitim ve Araştırma Hastanesi</span>
 	    	<span className="madde-span">• Öğ. Gör. Dr. Yasin Çetin, Adıyaman Üniversitesi</span>
-	    	<span className="madde-span">• <strong>Öğrenci:</strong> Uz. Hem. Özlem Bakan Demirel, İzmir Katip Çelebi Üniversitesi Kalite Koordinatörlüğü</span>
+	    	<span className="madde-span">• <strong>Öğrenci:</strong> Uzm. Hem. Özlem Bakan Demirel, İzmir Katip Çelebi Üniversitesi Kalite Koordinatörlüğü</span>
 
 	    	<h3 className="kurul-title">Eğitim Komisyonu (EK)</h3>
 	    	<span className="madde-span">• Prof. Dr. Medine Yılmaz (Başkan), Katip Çelebi Üniversitesi</span>
