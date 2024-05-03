@@ -50,16 +50,6 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
-                  <Link href="https://us02web.zoom.us/j/88494849138?pwd=cGxDU29DWkVVQ1hjMVNWY2ludXRTZz09"><a target="_blank">
-                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2024-webinar-11.jpeg"/></div>
-                  </a></Link>
-                </div>
-                <div className="carousel-item">
-                  <Link href="/doc/2024-degerlendirici-egitim-plani.pdf"><a target="_blank">
-                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2024-degerlendirici-egitim-plani.jpeg"/></div>
-                  </a></Link>
-                </div>
-                <div className="carousel-item">
                   <Link href="/doc/hemed-hepdak-gorus.pdf"><a target="_blank">
                     <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2024-hemed-hepdak-gorus.jpeg"/></div>
                   </a></Link>
@@ -177,6 +167,28 @@ const Anasayfa = () => (
             <div className="block-title-all"><a href="/tum-haberler">Tüm Haberler</a></div>
           </div>
          
+          <Link href="/haberler/2024-04-30-haber">
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">30</div>
+              <div className="date-month">Nisan</div>
+              <div className="date-year">2024</div>
+            </div>
+            <div className="block-subtitle-text">Webinar: Hemşirelik Eğitiminde Akran Yönderliği</div>
+          </div>
+          </Link>
+
+          <Link href="/haberler/2024-04-03-27-haber">
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">03-27</div>
+              <div className="date-month">Nisan</div>
+              <div className="date-year">2024</div>
+            </div>
+            <div className="block-subtitle-text">HEPDAK 2024 yılı Değerlendirici Eğitimi</div>
+          </div>
+          </Link>
+
           <Link href="/haberler/2024-04-01-haber">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
