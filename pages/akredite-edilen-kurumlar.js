@@ -162,7 +162,7 @@ const Akredite = () => (
                   <td>30.09.2024</td>
                 </tr>
                 <tr>
-                  <th scope="row">Tekirdağ Namık Kemal Üniversitesi Sağlık Bilimleri Fakültesi | <Link href="doc/rapor/rapor-tekirdag-ara.pdf"><a className="akreditasyon-rapor">Ara Rapor</a></Link> | <Link href="doc/rapor/rapor-tekirdag-genel.pdf"><a className="akreditasyon-rapor">Genel Rapor</a></Link></th>
+                  <th scope="row">Tekirdağ Namık Kemal Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü | <Link href="doc/rapor/rapor-tekirdag-ara.pdf"><a className="akreditasyon-rapor">Ara Rapor</a></Link> | <Link href="doc/rapor/rapor-tekirdag-genel.pdf"><a className="akreditasyon-rapor">Genel Rapor</a></Link></th>
                   <td>
                     <p>04.04.2022</p>
                     <p>27.03.2024</p>
