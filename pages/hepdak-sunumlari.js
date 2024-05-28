@@ -12,6 +12,15 @@ const Kaynak = () => (
               <table className="table table-striped">
                 <tbody>
                   <tr>
+                    <td><Link href="doc/hepdak_sunumlari/Prof.Dr.MedineYilmaz-HemsirelikteEkonomikEtkinlikAkreditasyonPerspektifi.pdf"><a target="_blank">- Prof. Dr. Medine Yılmaz - Hemşirelikte Ekonomik Etkinlik: Akreditasyon Perspektifi (16 Mayıs 2024)</a></Link></td>
+                  </tr>
+                  <tr>
+                    <td><Link href="doc/hepdak_sunumlari/Prof.Dr.DilekOzmen-HemsirelikEgitimindeGeleceginTasarlanmasi.pdf"><a target="_blank">- Prof. Dr. Dilek Özmen - Hemşirelik Eğitiminde Geleceğin Tasarlanması: Kalite Akreditasyon Süreçleri (15 Mayıs 2024)</a></Link></td>
+                  </tr>
+                  <tr>
+                    <td><Link href="doc/hepdak_sunumlari/Prof.Dr.DilekOzmen-HEPDAKBakisiylaMezuniyetSinavi.pdf"><a target="_blank">- Prof. Dr. Dilek Özmen - HEPDAK Bakışıyla Mezuniyet Sınavı (18 Nisan 2024)</a></Link></td>
+                  </tr>
+                  <tr>
                     <td><Link href="doc/hepdak_sunumlari/Prof.Dr.MedineYilmaz-ACINE2023.pdf"><a target="_blank">- Prof. Dr. Medine Yılmaz - 5th Asian Congress in Nursing Education (ACiNE 2023) (24 - 25 Kasım 2023)</a></Link></td>
                   </tr>
                   <tr>

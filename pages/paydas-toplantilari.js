@@ -47,8 +47,9 @@ const Paydas = () => (
 						<tr>
 		          <th scope="row" width="10px"></th>
 		          <td>
-		          	<Link href="doc/paydas_toplantilari/basvuran_kurum_yoneticileri_toplanti/04_1.pdf"><a target="_blank">2024-2024 Dönemi HEPDAK Akreditasyon için Başvuran Kurumlara Yönelik Bilgilendirme Toplantı Duyurusu (20 Şubat 2024)</a></Link><br/>
-		          	<Link href="doc/paydas_toplantilari/basvuran_kurum_yoneticileri_toplanti/04_2.pdf"><a target="_blank">2024-2025 Dönemi HEPDAK Akreditasyon için Başvuran Kurumlara Yönelik Bilgilendirme Toplantısı (27 Şubat 2024)</a></Link>
+		          	<Link href="doc/paydas_toplantilari/basvuran_kurum_yoneticileri_toplanti/04_1.pdf"><a target="_blank">2024-2025 Dönemi HEPDAK Akreditasyon için Başvuran Kurumlara Yönelik Bilgilendirme Toplantı Duyurusu (20 Şubat 2024)</a></Link><br/>
+		          	<Link href="doc/paydas_toplantilari/basvuran_kurum_yoneticileri_toplanti/04_2.pdf"><a target="_blank">2024-2025 Dönemi HEPDAK Akreditasyon için Başvuran Kurumlara Yönelik Bilgilendirme Toplantısı (27 Şubat 2024)</a></Link><br/>
+		          	<Link href="doc/paydas_toplantilari/basvuran_kurum_yoneticileri_toplanti/04_3.pdf"><a target="_blank">2024-2025 Dönemi HEPDAK Akreditasyon için Başvuran Kurumlara Yönelik HEMSİS Bilgilendirme Toplantısı (28 Mayıs 2024)</a></Link>
 		          </td>
 		        </tr>
 						<tr>
