@@ -12,6 +12,21 @@ const Kaynak = () => (
               <table className="table table-striped">
                 <tbody>
                   <tr>
+                    <td><Link href="doc/hepdak_sunumlari/Prof.Dr.MedineYilmaz-HemsirelikteEkonomikEtkinlikAkreditasyonPerspektifi.pdf"><a target="_blank">- Prof. Dr. Medine Yılmaz - Economic Effectiveness in Nursing: Accreditation Perspective (16 May 2024)</a></Link></td>
+                  </tr>
+                  <tr>
+                    <td><Link href="doc/hepdak_sunumlari/Prof.Dr.DilekOzmen-HemsirelikEgitimindeGeleceginTasarlanmasi.pdf"><a target="_blank">- Prof. Dr. Dilek Özmen - Designing the Future in Nursing Education: Quality Accreditation Processes (15 May 2024)</a></Link></td>
+                  </tr>
+                  <tr>
+                    <td><Link href="doc/hepdak_sunumlari/Prof.Dr.DilekOzmen-HEPDAKBakisiylaMezuniyetSinavi.pdf"><a target="_blank">- Prof. Dr. Dilek Özmen - Graduation Exam from HEPDAK Perspective (18 April 2024)</a></Link></td>
+                  </tr>
+                  <tr>
+                    <td><Link href="doc/hepdak_sunumlari/Prof.Dr.MedineYilmaz-ACINE2023.pdf"><a target="_blank">- Prof. Dr. Medine Yılmaz - 5th Asian Congress in Nursing Education (ACINE 2023) (24-25 November 2023)</a></Link></td>
+                  </tr>
+                  <tr>
+                    <td><Link href="doc/hepdak_sunumlari/Prof.Dr.MedineYilmaz-AkreditasyonCalismalarininHemsirelikEgitimindeKatkisi.pdf"><a target="_blank">- Prof. Dr. Medine Yılmaz - Contribution of HEPDAK Accreditation Studies to Nursing Education (06-08 September 2023)</a></Link></td>
+                  </tr>
+                  <tr>
                     <td><Link href="doc/hepdak_sunumlari/Prof.Dr.DilekOzmen-HemsirelikLisansProgramlarındaEgitim-OgretimSurecleri.pdf"><a target="_blank">- Prof. Dr. Dilek Özmen - Learning - Teaching Processes in Nursing Undergraduate Programs (22-25 September 2022)</a></Link></td>
                   </tr>
                   <tr>

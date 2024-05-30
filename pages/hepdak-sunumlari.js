@@ -21,10 +21,10 @@ const Kaynak = () => (
                     <td><Link href="doc/hepdak_sunumlari/Prof.Dr.DilekOzmen-HEPDAKBakisiylaMezuniyetSinavi.pdf"><a target="_blank">- Prof. Dr. Dilek Özmen - HEPDAK Bakışıyla Mezuniyet Sınavı (18 Nisan 2024)</a></Link></td>
                   </tr>
                   <tr>
-                    <td><Link href="doc/hepdak_sunumlari/Prof.Dr.MedineYilmaz-ACINE2023.pdf"><a target="_blank">- Prof. Dr. Medine Yılmaz - 5th Asian Congress in Nursing Education (ACiNE 2023) (24 - 25 Kasım 2023)</a></Link></td>
+                    <td><Link href="doc/hepdak_sunumlari/Prof.Dr.MedineYilmaz-ACINE2023.pdf"><a target="_blank">- Prof. Dr. Medine Yılmaz - 5th Asian Congress in Nursing Education (ACINE 2023) (24-25 Kasım 2023)</a></Link></td>
                   </tr>
                   <tr>
-                    <td><Link href="doc/hepdak_sunumlari/Prof.Dr.MedineYilmaz-AkreditasyonCalismalarininHemsirelikEgitimindeKatkisi.pdf"><a target="_blank">- Prof. Dr. Medine Yılmaz - HEPDAK Akreditasyon Çalışmalarının Hemşirelik Eğitimine Katkısı (06 - 08 Eylül 2023)</a></Link></td>
+                    <td><Link href="doc/hepdak_sunumlari/Prof.Dr.MedineYilmaz-AkreditasyonCalismalarininHemsirelikEgitimindeKatkisi.pdf"><a target="_blank">- Prof. Dr. Medine Yılmaz - HEPDAK Akreditasyon Çalışmalarının Hemşirelik Eğitimine Katkısı (06-08 Eylül 2023)</a></Link></td>
                   </tr>
                   <tr>
                     <td><Link href="doc/hepdak_sunumlari/Doc.Dr.FatmaOrgun-HemsirelikEgitimProgramlarininDegerlendirilmesi.pdf"><a target="_blank">- Doç. Dr. Fatma Orgun - Hemşirelik Eğitim Programlarının Değerlendirilmesinde Bağlam, Girdi, Süreç ve Ürün Modelinin Kullanımı (24-26 Kasım 2022)</a></Link></td>
