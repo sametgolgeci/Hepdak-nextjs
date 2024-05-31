@@ -219,10 +219,12 @@ const Belgeler = () => (
                   <th scope="row">4</th>
                   <td>Genel Değerlendirme - Ziyaret Sırasındaki Süreçler - İş Akışı Şeması <Link href="doc/d3_v1.pdf"><a>Sürüm 1.0</a></Link> | <strong>Sürüm 2.0</strong> (<Link href="doc/d3_v2.pdf"><a>PDF</a></Link> | <Link href="doc/d3_v2.docx"><a>Word</a></Link>)</td>
                 </tr>
+                {/*
                 <tr>
                   <th scope="row">5</th>
                   <td>Genel Değerlendirme için Kontrol Listesi <Link href="doc/d4_v1.pdf"><a>Sürüm 1.0</a></Link> | <strong>Sürüm 2.0</strong> (<Link href="doc/d4_v2.pdf"><a>PDF</a></Link> | <Link href="doc/d4_v2.docx"><a>Word</a></Link>)</td>
                 </tr>
+                */}
               </tbody>
             </table>
 
