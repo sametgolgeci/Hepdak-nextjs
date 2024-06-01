@@ -24,6 +24,9 @@ const Kaynak = () => (
                     <td><Link href="doc/hepdak_sunumlari/Prof.Dr.DilekOzmen-HEPDAKBakisiylaMezuniyetSinavi.pdf"><a target="_blank">- Prof. Dr. Dilek Özmen - HEPDAK Bakışıyla Mezuniyet Sınavı (18 Nisan 2024)</a></Link></td>
                   </tr>
                   <tr>
+                    <td><Link href="doc/hepdak_sunumlari/Doc.Dr.FatmaOrgun-HemsirelikEgitimindeUygulama.pdf"><a target="_blank">- Doç. Dr. Fatma Orgun - Hemşirelik Eğitiminde Uygulama (23 Şubat 2024)</a></Link></td>
+                  </tr>
+                  <tr>
                     <td><Link href="doc/hepdak_sunumlari/Prof.Dr.MedineYilmaz-ACINE2023.pdf"><a target="_blank">- Prof. Dr. Medine Yılmaz - 5th Asian Congress in Nursing Education (ACINE 2023) (24-25 Kasım 2023)</a></Link></td>
                   </tr>
                   <tr>

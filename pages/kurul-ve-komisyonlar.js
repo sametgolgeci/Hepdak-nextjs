@@ -55,7 +55,7 @@ const Kurul = () => (
 	    	<span className="madde-span">• Dr. Öğr. Üyesi Gülçin Uyanık, İzmir Katip Çelebi Üniversitesi</span>
 	    	<span className="madde-span">• Uzm. Demet Gökmen Kavak, Türkiye Sağlık Hizmetleri Kalite Ve Akreditasyon Enstitüsü Standart Geliştirme Birim Sorumlusu</span>
 	    	<span className="madde-span">• Uzm. Hem. Gülnur Gül, İzmir SBÜ Dr. Suat Seren Göğüs Hastalıkları ve Cerrahisi Eğitim ve Araştırma Hastanesi</span>
-	    	<span className="madde-span">• Öğ. Gör. Dr. Yasin Çetin, Adıyaman Üniversitesi</span>
+	    	<span className="madde-span">• Doç. Dr. Yasin Çetin, Adıyaman Üniversitesi</span>
 	    	<span className="madde-span">• <strong>Öğrenci:</strong> Uzm. Hem. Özlem Bakan Demirel, İzmir Katip Çelebi Üniversitesi Kalite Koordinatörlüğü</span>
 
 	    	<h3 className="kurul-title">Eğitim Komisyonu (EK)</h3>
@@ -63,7 +63,7 @@ const Kurul = () => (
 	    	<span className="madde-span">• Doç. Dr. Fatma Orgun (Sekreter), Ege Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Hülya Okumuş, Emekli Öğretim Üyesi</span>
 	    	<span className="madde-span">• Prof. Dr. Özen Kulakaç, Ondokuz Mayıs Üniversitesi</span>
-	    	<span className="madde-span">• Dr. Öğ. Üyesi Hale Sezer, Bakırçay Üniversitesi</span>
+	    	<span className="madde-span">• Doç. Dr. Hale Sezer, Bakırçay Üniversitesi</span>
 	    	<span className="madde-span">• <strong>Öğrenci:</strong> Talha Muhammed Sabah, Başkent Üniversitesi</span>    	
 
 	    	<h3 className="kurul-title">Sürekli İyileştirme Komisyonu</h3>
