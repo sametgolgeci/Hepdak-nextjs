@@ -76,6 +76,7 @@ const Kurul = () => (
 	    	<h3 className="kurul-title">Uluslararası İlişkiler Komisyonu</h3>
 	    	<span className="madde-span">• Doç. Dr. Fatoş Korkmaz (Başkan), Hacettepe Üniversitesi</span>
 	    	<span className="madde-span">• Doç. Dr. İmatullah Akyar (Sekreter), Hacettepe Üniversitesi</span>
+	    	<span className="madde-span">• Prof. Dr. Medine Yılmaz, İzmir Katip Çelebi Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Vesile Ünver, Acıbadem Mehmet Ali Aydınlar Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Sergül Duygulu, Hacettepe Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Ayhan Lash, Northern Illinois Üniversitesi Emekli Öğretim Üyesi</span>
