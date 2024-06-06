@@ -66,10 +66,13 @@ const Paydas = () => (
 				<table className="table table-striped">
 					<tbody>
 						<tr>
-	          	<td><Link href="doc/komisyon_toplantilari/surekli_iyilestirme_komisyonu/2023-02.pdf"><a>HEPDAK Standartları Dereceli Değerlendirme Aracı'nın Değerlendirilmesi Toplantı Tutanağı (15 Eylül 2023)</a></Link></td>
+	          	<td><Link href="doc/komisyon_toplantilari/surekli_iyilestirme_komisyonu/2024-01.pdf"><a>HEPDAK Sürekli İyileştirme Komisyonu Ocak - Haziran 2024 Dönemi Toplantı Tutanağı</a></Link></td>
 	        	</tr>
 						<tr>
-	          	<td><Link href="doc/komisyon_toplantilari/surekli_iyilestirme_komisyonu/2023-01.pdf"><a>HEPDAK Komisyonları Yönergeleri İncelemesi Toplantı Tutanağı (02 Şubat 2023)</a></Link></td>
+	          	<td><Link href="doc/komisyon_toplantilari/surekli_iyilestirme_komisyonu/2023-02.pdf"><a>HEPDAK Sürekli İyileştirme Komisyonu Temmuz - Aralık 2023 Dönemi Toplantı Tutanağı</a></Link></td>
+	        	</tr>
+						<tr>
+	          	<td><Link href="doc/komisyon_toplantilari/surekli_iyilestirme_komisyonu/2023-01.pdf"><a>HEPDAK Sürekli İyileştirme Komisyonu Ocak - Haziran 2023 Dönemi Toplantı Tutanağı</a></Link></td>
 	        	</tr>
 					</tbody>
 				</table>
