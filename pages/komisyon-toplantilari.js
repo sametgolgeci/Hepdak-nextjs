@@ -80,6 +80,9 @@ const Paydas = () => (
 				<table className="table table-striped">
 					<tbody>
 						<tr>
+	          	<td><Link href="doc/komisyon_toplantilari/egitim_komisyonu/2024-01.pdf"><a>HEPDAK Eğitim Komisyonu Ocak - Haziran 2024 Dönemi Raporu</a></Link></td>
+	        	</tr>
+						<tr>
 	          	<td><Link href="doc/komisyon_toplantilari/egitim_komisyonu/2023-02.pdf"><a>HEPDAK Eğitim Komisyonu Temmuz - Aralık 2023 Dönemi Raporu</a></Link></td>
 	        	</tr>
 						<tr>
@@ -93,6 +96,9 @@ const Paydas = () => (
 				<h6>2023</h6>
 				<table className="table table-striped">
 					<tbody>
+						<tr>
+	          	<td><Link href="doc/komisyon_toplantilari/uluslararasi_iliskiler_komisyonu/2024-01.pdf"><a>Uluslararası İlişkiler Komisyonu Ocak - Haziran 2024 Dönemi Raporu</a></Link></td>
+	        	</tr>
 						<tr>
 	          	<td><Link href="doc/komisyon_toplantilari/uluslararasi_iliskiler_komisyonu/2023-02.pdf"><a>Uluslararası İlişkiler Komisyonu Temmuz - Aralık 2023 Dönemi Raporu</a></Link></td>
 	        	</tr>
