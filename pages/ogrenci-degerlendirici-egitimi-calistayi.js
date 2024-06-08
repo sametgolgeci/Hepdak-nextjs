@@ -25,6 +25,9 @@ const Calistay = () => (
 			    <a className="nav-link calistay-button" href="doc/ogrenci_egitim_6/katilimcilar.pdf" target="_blank">Katılımcı Listesi</a>
 			  </li>
 			  <li className="nav-item">
+			    <a className="nav-link calistay-button" data-toggle="collapse" href="#collapse6Foto" role="button" aria-expanded="false" aria-controls="collapse6Foto">Fotoğraflar</a>
+			  </li>
+			  <li className="nav-item">
 			    <a className="nav-link calistay-button" data-toggle="collapse" href="#collapseExample6" role="button" aria-expanded="false" aria-controls="collapseExample6">Sunumlar</a>
 			  </li>
 			  <li className="nav-item">
@@ -41,6 +44,20 @@ const Calistay = () => (
 				<a href="/doc/ogrenci_egitim_6/belge_4.pdf">4. Davranışsal Boyut</a><br/>
 				<a href="/doc/ogrenci_egitim_6/belge_5.pdf">5. Rapor Yazımı Nasıl Olmalı</a><br/>
 			</p>
+		</div>
+		<div className="collapse" id="collapse6Foto">
+			<p><strong>-> Fotoğraflar</strong></p>
+			<div className="container">
+				<div className="row">
+					<div className="col-md-3 col-sm-12"><a href="/doc/ogrenci_egitim_6/1.png" target="_blank"><img className="calistay-img" src="/doc/ogrenci_egitim_6/1.png" alt="Öğrenci Eğitimi 27 - 28 Ocak 2023"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/ogrenci_egitim_6/2.png" target="_blank"><img className="calistay-img" src="/doc/ogrenci_egitim_6/2.png" alt="Öğrenci Eğitimi 27 - 28 Ocak 2023"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/ogrenci_egitim_6/3.png" target="_blank"><img className="calistay-img" src="/doc/ogrenci_egitim_6/3.png" alt="Öğrenci Eğitimi 27 - 28 Ocak 2023"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/ogrenci_egitim_6/4.png" target="_blank"><img className="calistay-img" src="/doc/ogrenci_egitim_6/4.png" alt="Öğrenci Eğitimi 27 - 28 Ocak 2023"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/ogrenci_egitim_6/5.png" target="_blank"><img className="calistay-img" src="/doc/ogrenci_egitim_6/5.png" alt="Öğrenci Eğitimi 27 - 28 Ocak 2023"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/ogrenci_egitim_6/6.png" target="_blank"><img className="calistay-img" src="/doc/ogrenci_egitim_6/6.png" alt="Öğrenci Eğitimi 27 - 28 Ocak 2023"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/ogrenci_egitim_6/7.png" target="_blank"><img className="calistay-img" src="/doc/ogrenci_egitim_6/7.png" alt="Öğrenci Eğitimi 27 - 28 Ocak 2023"/></a></div>
+				</div>
+			</div>
 		</div>
 		<h6><span className="badge badge-custom">5</span> 05 - 06 Şubat 2022</h6>
 		<p>
