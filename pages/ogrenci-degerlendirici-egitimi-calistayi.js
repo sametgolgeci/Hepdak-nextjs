@@ -15,6 +15,43 @@ const Calistay = () => (
 		<p className="madde-p">• Değerlendirme becerisini geliştirme</p>
 		<p className="madde-p">• Değerlendirici davranışını geliştirme</p>
 		<p className="madde-p">• Öğrenci değerlendiricilerden değerlendirme sürecindeki beklentiler</p>
+		<h6><span className="badge badge-custom">7</span> 08 Haziran 2024</h6>
+		<p>
+			<ul className="nav calistay-nav">
+			  <li className="nav-item">
+			    <a className="nav-link calistay-button" href="doc/ogrenci_egitim_7/program.pdf" target="_blank">Program</a>
+			  </li>
+			  <li className="nav-item">
+			    <a className="nav-link calistay-button" href="doc/ogrenci_egitim_7/katilimcilar.pdf" target="_blank">Katılımcı Listesi</a>
+			  </li>
+			  <li className="nav-item">
+			    <a className="nav-link calistay-button" data-toggle="collapse" href="#collapse7Foto" role="button" aria-expanded="false" aria-controls="collapse7Foto">Fotoğraflar</a>
+			  </li>
+			  <li className="nav-item">
+			    <a className="nav-link calistay-button" data-toggle="collapse" href="#collapseExample7" role="button" aria-expanded="false" aria-controls="collapseExample7">Sunumlar</a>
+			  </li>
+			  <li className="nav-item">
+			    <a className="nav-link calistay-button" href="doc/ogrenci_egitim_7/degerlendirme.pdf" target="_blank">Değerlendirme</a>
+			  </li>
+			</ul>
+		</p>
+		<div className="collapse" id="collapseExample7">
+			<p><strong>-> Sunumlar</strong></p>
+			<p className="madde-p">
+				<a href="/doc/ogrenci_egitim_7/belge_1.pdf">1. Açılış ve Çalıştayın Amaçları</a><br/>
+				<a href="/doc/ogrenci_egitim_7/belge_2.pdf">2. Değerlendirme Sürecinde Davranışsal Boyut</a><br/>
+			</p>
+		</div>
+		<div className="collapse" id="collapse7Foto">
+			<p><strong>-> Fotoğraflar</strong></p>
+			<div className="container">
+				<div className="row">
+					<div className="col-md-3 col-sm-12"><a href="/doc/ogrenci_egitim_7/1.jpeg" target="_blank"><img className="calistay-img" src="/doc/ogrenci_egitim_7/1.jpeg" alt="Öğrenci Eğitimi 08 Haziran 2024"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/ogrenci_egitim_7/2.png" target="_blank"><img className="calistay-img" src="/doc/ogrenci_egitim_7/2.png" alt="Öğrenci Eğitimi 08 Haziran 2024"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/ogrenci_egitim_7/3.png" target="_blank"><img className="calistay-img" src="/doc/ogrenci_egitim_7/3.png" alt="Öğrenci Eğitimi 08 Haziran 2024"/></a></div>
+				</div>
+			</div>
+		</div>
 		<h6><span className="badge badge-custom">6</span> 27 - 28 Ocak 2023</h6>
 		<p>
 			<ul className="nav calistay-nav">
