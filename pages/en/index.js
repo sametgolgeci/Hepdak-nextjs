@@ -42,42 +42,24 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
-                  <Link href="doc/2023-egitim-takvim.pdf"><a target="_blank">
-                    <div className="main-top-one-title">Duyuru</div>
-                    <div className="main-top-one-content">HEPDAK 2023 Eğitim takvimi yayınlandı. Eğitim takvimine <strong>buradan</strong> ulaşabilirsiniz.</div>
+                  <Link href="doc/en/2024-training-calendar.pdf"><a target="_blank">
+                    <div className="main-top-one-title">HEPDAK 2024 Training Calendar</div>
+                    <div className="main-top-one-content"><strong>Click here</strong> access the training calendar to be held by HEPDAK in 2024.</div>
                   </a></Link>
                 </div>
                 <div className="carousel-item">
-                  <div className="main-top-one-title">HEPDAK 4. Olağan Genel Kurulu</div>
-                  <div className="main-top-one-content"><p>HEPDAK 4. Olağan Genel Kurulu 20 Ekim Perşembe günü saat 17.00'de gerçekleştirilmiştir. Genel kurulda Manisa Celal Bayar Üniversitesinnden Prof. Dr. Dilek Özmen, İzmir Katip Çelebi Üniversitesi’nden Prof. Dr. Medine Yılmaz, İzmir Ekonomi Üniversitesinden Doç. Dr. Gülsüm Nihal Çürük, Ondokuz Mayıs Üniversitesinden Prof. Dr. Özen Kulakaç ve Ege Üniversitesinden Doç. Dr. Fatma Orgun HEPDAK Yönetim Kurulu’na seçilmişlerdir.</p></div>
-                </div>
-                <div className="carousel-item">
-                  <Link href="/haberler/01-06-2022-belge"><a target="_blank">
-                    <div className="main-top-one-title">Belge Töreni</div>
-                    <div className="main-top-one-content">
-                      <div className="main-top-one-content-side">
-                        <div className="main-top-one-content-one">
-                          <p>HEPDAK Akreditasyon değerlendirmeleri sonucu 2021-2022 döneminde akredite olmaya hak kazanan kurumlara belge takdim töreni düzenlenmiştir...</p>
-                        </div>
-                        <div className="main-top-one-content-two">
-                          <img className="slider-img" src="/img/haberler/belge-toreni-2022/01.png"/>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="main-top-one-continue">Devamı -></div>
+                  <Link href="doc/en/2024-meeting-calendar.pdf"><a target="_blank">
+                    <div className="main-top-one-title">HEPDAK 2024 Meeting Calendar</div>
+                    <div className="main-top-one-content"><strong>Click here</strong> access the meeting calendar to be held by HEPDAK in 2024.</div>
                   </a></Link>
                 </div>
                 <div className="carousel-item">
-                  <a href="/doc/hepdak_toplanti_takvim_2022.pdf" target="_blank">
-                    <div className="main-top-one-title">HEPDAK 2022 Yılı Toplantı Takvimi</div>
-                    <div className="main-top-one-content">HEPDAK tarafından  2022 yılında yapılacak toplantıların tarihlerine  buradan ulaşabilirsiniz.</div>
-                  </a>
+                  <div className="main-top-one-title">About HEPDAK Registration Duration</div>
+                  <div className="main-top-one-content">HEPDAK Quality Assessment Registration Duration has been Extended for Five (5) Years</div>
                 </div>
                 <div className="carousel-item">
-                  <a href="/doc/2022_egitim_takvim.pdf" target="_blank">
-                    <div className="main-top-one-title">HEPDAK 2022 Eğitim Takvimi</div>
-                    <div className="main-top-one-content">HEPDAK tarafından 2022 yılı içinde yapılacak eğitim takvimine ulaşmak için tıklayınız.</div>
-                  </a>
+                  <div className="main-top-one-title">About APANE Membership</div>
+                  <div className="main-top-one-content">HEPDAK has been a member of APANE – Asian and Pacific Alliance for Nursing Education since November 25, 2023</div>
                 </div>
                 
                 {/*
