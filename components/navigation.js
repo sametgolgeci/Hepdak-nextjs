@@ -51,6 +51,7 @@ const Navigation = () => (
 						<Link href="/faaliyet-raporlari"><a className="dropdown-item">Faaliyet Raporları</a></Link>
 						<Link href="/paydas-gorusleri"><a className="dropdown-item">Paydaş Görüşü Raporları</a></Link>
 						<Link href="/izleme-raporlari"><a className="dropdown-item">İzleme Raporları</a></Link>
+						<Link href="/doc/surekli-iyilestirme-raporu.pdf"><a className="dropdown-item">Sürekli İyileştirme Raporları</a></Link>
 					</div>
 				</li>
         <li className="nav-item dropdown">
