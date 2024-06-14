@@ -55,7 +55,7 @@ const Anasayfa = () => (
                 </div>
                 <div className="carousel-item">
                   <Link href="doc/en/hepdak-hemed.pdf"><a target="_blank">
-                    <div className="main-top-one-title">HEMED and HEPDAK'S Opinio on Problems Related to Practical Education Hours in Nursing Programs</div>
+                    <div className="main-top-one-title">HEMED and HEPDAK'S Opinion on Problems Related to Practical Education Hours in Nursing Programs</div>
                   </a></Link>
                 </div>
                 <div className="carousel-item">
