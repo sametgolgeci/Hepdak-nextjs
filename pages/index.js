@@ -50,6 +50,9 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
+                  <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2024-kurban-bayrami.jpeg"/></div>
+                </div>
+                <div className="carousel-item">
                   <Link href="/doc/hemed-hepdak-gorus.pdf"><a target="_blank">
                     <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2024-hemed-hepdak-gorus.jpeg"/></div>
                   </a></Link>
@@ -167,6 +170,17 @@ const Anasayfa = () => (
             <div className="block-title-all"><a href="/tum-haberler">Tüm Haberler</a></div>
           </div>
          
+          <Link href="/haberler/2024-06-10-haber">
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">10</div>
+              <div className="date-month">Haziran</div>
+              <div className="date-year">2024</div>
+            </div>
+            <div className="block-subtitle-text">YÖKAK tarafından düzenlenen izleme ziyareti gerçekleştirildi</div>
+          </div>
+          </Link>
+
           <Link href="/haberler/2024-06-08-haber">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
@@ -174,7 +188,7 @@ const Anasayfa = () => (
               <div className="date-month">Haziran</div>
               <div className="date-year">2024</div>
             </div>
-            <div className="block-subtitle-text">HEPDAK 2024 Yılı Öğrenci Değerlendirici Eğitimi </div>
+            <div className="block-subtitle-text">HEPDAK 2024 Yılı Öğrenci Değerlendirici Eğitimi</div>
           </div>
           </Link>
 
