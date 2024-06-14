@@ -4,7 +4,7 @@ import Link from 'next/link'
 import ReactDOM from 'react-dom'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faPhone,faEnvelope,faMapMarkerAlt,faChevronRight } from '@fortawesome/free-solid-svg-icons'
-{/*
+
 async function handleOnSubmit(e) {
     e.preventDefault();
 
@@ -27,7 +27,7 @@ async function handleOnSubmit(e) {
 function alertFunction() {
 	alert('Mesajınız başarıyla gönderilmiştir!')
 }
-*/}
+
 const Iletisim = () => (
 <MasterPage>
 	<Head>
@@ -57,7 +57,7 @@ const Iletisim = () => (
 			<p><strong>Sekreter</strong><br/>Ümran Yalçın<br/><Link href="mailto:hepdak2013@gmail.com"><a>hepdak2013@gmail.com</a></Link></p>
 		</div>
 	</div>
-		{/*
+		
 		<h5 className="iletisim-h5">Şikayet ve Öneriler</h5>
 		<div className="iletisim-mesaj">
 	    <form action="" method="post" onSubmit={handleOnSubmit}>
@@ -87,7 +87,7 @@ const Iletisim = () => (
 	      <div><img className="main-bottom-tanınma" src="img/duyurular/CEENQA_tescil.png" title="Yükseköğretim Akademik Değerlendirme ve Kalite Geliştirme Komisyonu"/></div>
 	    </div>
 	  </div>
-*/}
+
 </MasterPage>
 )
 export default Iletisim
