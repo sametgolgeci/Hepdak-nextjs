@@ -174,7 +174,7 @@ const Anasayfa = () => (
               <div className="date-month">Haziran</div>
               <div className="date-year">2024</div>
             </div>
-            <div className="block-subtitle-text">HEPDAK 2024 Yılı Öğrenci Değerlendirici Eğitimi</div>
+            <div className="block-subtitle-text">HEPDAK 2024 Yılı Öğrenci Değerlendirici Eğitimi </div>
           </div>
           </Link>
 
