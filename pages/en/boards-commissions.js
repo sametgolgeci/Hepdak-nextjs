@@ -89,6 +89,12 @@ const Kurul = () => (
 	    	<span className="madde-span">• Prof. Dr. Oya Kavlak, Ege Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Gülengün Türk, Adnan Menderes Üniversitesi</span>
 	    	<span className="madde-span">• Dr. Öğr. Üyesi Hatice Çamveren, Kütahya Sağlık Bilimleri Üniversitesi</span>
+
+	    	<h3 className="kurul-title">WEB Design Commission</h3>
+	    	<span className="madde-span">• Prof. Dr. Özen KULAKAÇ (Chair), Ondokuz Mayıs University</span>
+	    	<span className="madde-span">• Ümran YALÇIN (Secretary), HEPDAK Secretary</span>
+	    	<span className="madde-span">• Asst. Prof. Gürkan ÖZDEN, İnönü University</span>
+	    	<span className="madde-span">• R. A. Selcan Zeynep ERGÖZ AKSOY, Izmir University of Economics</span>
 	    </div>
     </MasterPage>
 )
