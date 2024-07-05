@@ -61,12 +61,14 @@ const Kurul = () => (
 	    	<span className="madde-span">• <strong>Öğrenci:</strong> Uzm. Hem. Özlem Bakan Demirel, İzmir Katip Çelebi Üniversitesi Kalite Koordinatörlüğü</span>
 
 	    	<h3 className="kurul-title">Eğitim Komisyonu (EK)</h3>
-	    	<span className="madde-span">• Prof. Dr. Medine Yılmaz (Başkan), Katip Çelebi Üniversitesi</span>
-	    	<span className="madde-span">• Doç. Dr. Fatma Orgun (Sekreter), Ege Üniversitesi</span>
-	    	<span className="madde-span">• Prof. Dr. Hülya Okumuş, Emekli Öğretim Üyesi</span>
-	    	<span className="madde-span">• Prof. Dr. Özen Kulakaç, Ondokuz Mayıs Üniversitesi</span>
-	    	<span className="madde-span">• Doç. Dr. Hale Sezer, Bakırçay Üniversitesi</span>
-	    	<span className="madde-span">• <strong>Öğrenci:</strong> Talha Muhammed Sabah, Başkent Üniversitesi</span>    	
+	    	<span className="madde-span">• Doç. Dr. Fatma Orgun (Başkan), Ege Üniversitesi</span>
+	    	<span className="madde-span">• Doç. Dr. Hale Sezer (Sekreter), Bakırçay Üniversitesi</span>
+	    	<span className="madde-span">• Prof. Dr. Medine Yılmaz, İzmir Katip Çelebi Üniversitesi</span>
+	    	<span className="madde-span">• Prof. Dr. Hatice Mert, Dokuz Eylül Üniversitesi</span>
+	    	<span className="madde-span">• Doç. Dr. Nihal Gülsüm Çürük, İzmir Ekonomi Üniversitesi</span>
+	    	<span className="madde-span">• Dr. Öğr. Üyesi. Aydan Baysan, Manisa Celal Bayar Üniversitesi</span>
+	    	<span className="madde-span">• Ar. Gör. Dr. Gülsüm Çonoğlu, Çankırı Karatekin Üniversitesi</span>
+	    	<span className="madde-span">• <strong>Öğrenci:</strong> Jale Atak, Manisa Celal Bayar Üniversitesi</span>    	
 
 	    	<h3 className="kurul-title">Sürekli İyileştirme Komisyonu</h3>
 	    	<span className="madde-span">• Prof. Dr. Ayla Keçeci (Başkan), Düzce Üniversitesi</span>
