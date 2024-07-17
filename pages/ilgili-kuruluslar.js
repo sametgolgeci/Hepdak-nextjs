@@ -154,6 +154,10 @@ const Kuruluslar = () => (
                     <th scope="row"><a href="https://www.ceenqa.org" target="_blank">CEENQA</a></th>
                     <td>Central and Eastern European Network of Quality Assurance Agencies in Higher Education, Almanya</td>
                   </tr>
+                  <tr>
+                    <th scope="row"><a href="http://www.apanetw.org" target="_blank">APANE</a></th>
+                    <td>Asian and Pasific Alliance for Nursing Education, Taiwan</td>
+                  </tr>
                 </tbody>
               </table>
             </div>
