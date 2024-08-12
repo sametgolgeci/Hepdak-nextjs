@@ -8,33 +8,14 @@ const Belgeler = () => (
 	      <title>HEPDAK | Documents</title>
 	    </Head>
       <div className="genel"><h1>Documents</h1></div>
-	    <div className="row akreditasyon">
-	    	<div className="col-md-12 akreditasyon-content">
+
+      <div className="row akreditasyon">
+        <div className="col-md-12 akreditasyon-content">
           <div id="belgeler" className="akreditasyon-content-item">         
-            <table className="table table-striped">
-              <tbody>
-                <tr>
-                  <th scope="row" width="10px">1</th>
-                  <td><Link href="../doc/en/doc-hepdak-bylaw.docx"><a target="_blank">Bylaw of the HEPDAK</a></Link></td>
-                </tr>
-                <tr>
-                  <th scope="row">2</th>
-                  <td><Link href="../doc/en/doc-hepdak-standards.docx"><a target="_blank">HEPDAK Nursing Undergraduate Education Program Standards</a></Link></td>
-                </tr>
-                <tr>
-                  <th scope="row">3</th>
-                  <td><Link href="../doc/en/doc-hepdak-pes.docx"><a target="_blank">HEPDAK Program Evaluation Schedule</a></Link></td>
-                </tr>
-                <tr>
-                  <th scope="row">4</th>
-                  <td><Link href="../doc/en/doc-hepdak-principles.docx"><a target="_blank">HEPDAK Directive of Evaluation and Accreditation Implementation Principles</a></Link></td>
-                </tr>
-              </tbody>
-            </table>
             <table className="table table-striped">
               <thead className="thead-dark">
                 <tr>
-                  <th scope="col" colSpan="2">Statutes, Regulations and Directives</th>
+                  <th scope="col" colSpan="2">Statutes, Regulations and Guidelines</th>
                 </tr>
               </thead>
               <tbody>
@@ -62,11 +43,93 @@ const Belgeler = () => (
                   <th scope="row">6</th>
                   <td><Link href="../doc/en/doc-tcwd.pdf"><a target="_blank">HEPDAK Training Commission Working Directive</a></Link></td>
                 </tr>
+                <tr>
+                  <th scope="row">7</th>
+                  <td><Link href="../doc/en/doc-hepdak-bylaw.docx"><a target="_blank">Bylaw of the HEPDAK</a></Link></td>
+                </tr>
+                <tr>
+                  <th scope="row">8</th>
+                  <td><Link href="../doc/en/doc-hepdak-principles.docx"><a target="_blank">HEPDAK Directive of Evaluation and Accreditation Implementation Principles</a></Link></td>
+                </tr>
               </tbody>
-            </table>        
+            </table>
+
+            <table className="table table-striped">
+              <thead className="thead-dark">
+                <tr>
+                  <th scope="col" colSpan="2">Documents for Institutions</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <th scope="row" width="10px">1</th>
+                  <td><Link href="../doc/en/doc-hepdak-standards.docx"><a target="_blank">HEPDAK Nursing Undergraduate Education Program Standards</a></Link></td>
+                </tr>
+              </tbody>
+            </table>
+
+            <table className="table table-striped">
+              <thead className="thead-dark">
+                <tr>
+                  <th scope="col" colSpan="2">Documents for Evaluation Teams</th>
+                </tr>
+                <tr>
+                  <th scope="col" colSpan="2" className="table-alt-baslik">-> Faculties</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <th scope="row" width="10px">1</th>
+                  <td><Link href="../doc/en/doc-hepdak-program-evaluator-report.pdf"><a target="_blank">HEPDAK Program Evaluator Report (Version 6.0)</a></Link></td>
+                </tr>
+              </tbody>
+              <thead className="thead-dark">
+                <tr>
+                  <th scope="col" colSpan="2" className="table-alt-baslik">-> Students</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <th scope="row" width="10px">1</th>
+                  <td><Link href="../doc/en/doc-student-interim-evaluation-process.pdf"><a target="_blank">Student Evaluator in the General Interim Evaluation Process (Version 1.0)</a></Link></td>
+                </tr>
+              </tbody>
+            </table>
+
+            <table className="table table-striped">
+              <thead className="thead-dark">
+                <tr>
+                  <th scope="col" colSpan="2">Flowcharts Related to Evaluation Processes</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <th scope="row" width="10px">1</th>
+                  <td><Link href="../doc/en/doc-flow-chart.pdf"><a target="_blank">Nursing Education Programs Accreditation Process Flow Chart (Version 1.3)</a></Link></td>
+                </tr>
+                <tr>
+                  <th scope="row">2</th>
+                  <td><Link href="../doc/en/doc-general-evaluation.pdf"><a target="_blank">General Evaluation - On-site Visit Process Workflow Chart</a></Link></td>
+                </tr>
+              </tbody>
+            </table>
+
+            <table className="table table-striped">
+              <thead className="thead-dark">
+                <tr>
+                  <th scope="col" colSpan="2">Other Forms / Documents</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <th scope="row" width="10px">1</th>
+                  <td><Link href="../doc/en/doc-hepdak-pes.docx"><a target="_blank">HEPDAK Program Evaluation Schedule</a></Link></td>
+                </tr>
+              </tbody>
+            </table>           
           </div>
-	    	</div>
-	    </div>
+        </div>
+      </div>
     </MasterPage>
 )
 export default Belgeler
