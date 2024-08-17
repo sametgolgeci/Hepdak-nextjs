@@ -17,7 +17,11 @@ const Kaynak = () => (
                   </tr>
                   <tr>
                     <th scope="row" width="10px">-</th>
-                    <td><Link href="doc/sempozyum_kongre_kitaplari/HEGS2019.pdf"><a target="_blank">Hemşirelik Eğitiminin Geleceği Sempozyumu 2</a></Link></td>
+                    <td><Link href="doc/sempozyum_kongre_kitaplari/HEGS2019.pdf"><a target="_blank">Hemşirelik Eğitiminin Geleceği Sempozyumu 2, Sempozyum Kitabı</a></Link></td>
+                  </tr>
+                  <tr>
+                    <th scope="row" width="10px">-</th>
+                    <td><Link href="doc/sempozyum_kongre_kitaplari/HEGS2018.xlsx"><a target="_blank">Hemşirelik Eğitiminin Geleceği Sempozyumu: Akreditasyon, Standartlar, İyi Uygulama Örnekleri Sempozyum Programı</a></Link></td>
                   </tr>
                 </tbody>
               </table>

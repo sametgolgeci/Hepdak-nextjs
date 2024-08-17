@@ -13,7 +13,7 @@ const Kurul = () => (
 	    	<span className="madde-span">• Prof. Dr. Dilek Özmen (Chair), Manisa Celal Bayar University</span>
 	    	<span className="madde-span">• Doç. Dr. Fatma Orgun (Vise Chair), Ege University</span>
 	    	<span className="madde-span">• Prof. Dr. Medine Yılmaz (General Secretary), İzmir Katip Çelebi University</span>
-	    	<span className="madde-span">• Doç. Dr. Gülsüm Nihal Çürük (Accountant), İzmir University of Economics</span>
+	    	<span className="madde-span">• Prof. Dr. Gülsüm Nihal Çürük (Accountant), İzmir University of Economics</span>
 	    	<span className="madde-span">• Prof. Dr. Özen Kulakaç (Member), Ondokuz Mayıs University</span>
 
 	    	<h3 className="kurul-title">Auditing Board</h3>
@@ -63,14 +63,14 @@ const Kurul = () => (
 	    	<span className="madde-span">• Assoc. Dr. Hale Sezer (Secretary), Bakırçay University</span>
 	    	<span className="madde-span">• Prof. Dr. Medine Yılmaz, İzmir Katip Çelebi University</span>
 	    	<span className="madde-span">• Prof. Dr. Hatice Mert, Dokuz Eylül University</span>
-	    	<span className="madde-span">• Assoc. Dr. Nihal Gülsüm Çürük, İzmir University of Economics</span>
+	    	<span className="madde-span">• Prof. Dr. Nihal Gülsüm Çürük, İzmir University of Economics</span>
 	    	<span className="madde-span">• Asst. Prof. Aydan Baysan, Manisa Celal Bayar University</span>
 	    	<span className="madde-span">• R. A. Dr. Gülsüm Çonoğlu, Çankırı Karatekin University</span>
 	    	<span className="madde-span">• <strong>Student:</strong> Jale Atak, Manisa Celal Bayar University</span> 	
 
 	    	<h3 className="kurul-title">Continuous Improvement Commission</h3>
 	    	<span className="madde-span">• Prof. Dr. Ayla Keçeci (Chair), Düzce Üniversitesi</span>
-	    	<span className="madde-span">• Doç. Dr. Gülsüm Nihal Çürük (Secretary), İzmir Ekonomi Üniversitesi</span>
+	    	<span className="madde-span">• Prof. Dr. Gülsüm Nihal Çürük (Secretary), İzmir Ekonomi Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Şeyda Seren İntepeler, Dokuz Eylül Üniversitesi</span>
 	    	<span className="madde-span">• Dr. Öğr. Üyesi. Hatice Şen, Uluslararası Kıbrıs Üniversitesi</span>
 	    	<span className="madde-span">• Ar. Gör. İbrahim Kavaslar, Düzce Üniversitesi</span>
