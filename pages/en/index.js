@@ -46,12 +46,14 @@ const Anasayfa = () => (
                     <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/en/2024-08-01.jpeg"/></div>
                   </a></Link>
                 </div>
+                {/*
                 <div className="carousel-item">
                   <Link href="doc/en/2024-training-calendar.pdf"><a target="_blank">
                     <div className="main-top-one-title">HEPDAK 2024 Training Calendar</div>
                     <div className="main-top-one-content"><strong>Click here</strong> access the training calendar to be held by HEPDAK in 2024.</div>
                   </a></Link>
                 </div>
+                */}
                 <div className="carousel-item">
                   <Link href="doc/en/2024-meeting-calendar.pdf"><a target="_blank">
                     <div className="main-top-one-title">HEPDAK 2024 Meeting Calendar</div>
@@ -313,39 +315,6 @@ const Anasayfa = () => (
             <div className="block-title-all"><a href="/tum-duyurular">All Announcements</a></div>
           </div>
 
-          <Link href="/doc/2023-toplanti-takvim.pdf">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">06</div>
-              <div className="date-month">Aralık</div>
-              <div className="date-year">2022</div>
-            </div>
-            <div className="block-subtitle-text">HEPDAK 2023 Toplantı Takvimi</div>
-          </div>
-          </Link>
-
-          <Link href="/doc/2023-egitim-takvim.pdf">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">06</div>
-              <div className="date-month">Aralık</div>
-              <div className="date-year">2022</div>
-            </div>
-            <div className="block-subtitle-text">HEPDAK 2023 Eğitim Takvimi</div>
-          </div>
-          </Link>
-
-          <Link href="/duyurular/15-06-2021-akreditasyon-takvimi">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">15</div>
-              <div className="date-month">Haziran</div>
-              <div className="date-year">2021</div>
-            </div>
-            <div className="block-subtitle-text">HEPDAK 2021-2022 Dönemi Akreditasyon Takvimi</div>
-          </div>
-          </Link>
-
         </div>
       </div>
       <div className="main-new-block col-md-4 col-sm-12">
@@ -353,24 +322,6 @@ const Anasayfa = () => (
           <div className="main-block-title">
             <div className="block-title-main">Events</div>
             <div className="block-title-all"><a href="/#">All Events</a></div>
-          </div>
-
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">23-24</div>
-              <div className="date-month">Haziran</div>
-              <div className="date-year">2022</div>
-            </div>
-            <div className="block-subtitle-text">Değerlendirici Eğitim Çalıştayı</div>
-          </div>
-
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">15</div>
-              <div className="date-month">Ekim</div>
-              <div className="date-year">2022</div>
-            </div>
-            <div className="block-subtitle-text">Kurumlar İçin Eğitim Çalıştayı</div>
           </div>
 
         </div>

@@ -72,11 +72,13 @@ const Anasayfa = () => (
                     <div className="main-top-one-content-full"><img className="slider-full-img" src="/img/haberler/2024-paydas-toplantisi.jpg"/></div>
                   </a></Link>
                 </div>
+                {/*
                 <div className="carousel-item">
                   <Link href="/doc/takvim/2024-egitim-takvim.pdf"><a target="_blank">
                     <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2024-egitim-takvim.jpeg"/></div>
                   </a></Link>
                 </div>
+                */}
                 <div className="carousel-item">
                   <Link href="/doc/takvim/2024-toplanti-takvim.pdf"><a target="_blank">
                     <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2024-toplanti-takvim.jpeg"/></div>
@@ -381,7 +383,7 @@ const Anasayfa = () => (
             <div className="block-title-main">Duyurular</div>
             <div className="block-title-all"><a href="/#">Tüm Duyurular</a></div>
           </div>
-
+          {/*
           <Link href="/doc/takvim/2024-egitim-takvim.pdf">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
@@ -392,7 +394,7 @@ const Anasayfa = () => (
             <div className="block-subtitle-text">HEPDAK 2024 Eğitim Takvimi</div>
           </div>
           </Link>
-          
+          */}
           <Link href="/doc/takvim/2024-toplanti-takvim.pdf">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
