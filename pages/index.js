@@ -54,24 +54,13 @@ const Anasayfa = () => (
                     <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2024-kurum-egitimi-form.jpeg"/></div>
                   </a></Link>
                 </div>
-                <div className="carousel-item ">
-                  <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2024-vefat-gulsevim-ceviker.jpeg"/></div>
-                </div>
+
                 <div className="carousel-item">
                   <Link href="/doc/hemed-hepdak-gorus.pdf"><a target="_blank">
                     <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2024-hemed-hepdak-gorus.jpeg"/></div>
                   </a></Link>
                 </div>
-                <div className="carousel-item">
-                  <Link href="/haberler/2024-hepdak-apane"><a target="_blank">
-                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2024-apane-uyelik.jpeg"/></div>
-                  </a></Link>
-                </div>
-                <div className="carousel-item">
-                  <Link href="/haberler/2024-01-04-haber"><a target="_blank">
-                    <div className="main-top-one-content-full"><img className="slider-full-img" src="/img/haberler/2024-paydas-toplantisi.jpg"/></div>
-                  </a></Link>
-                </div>
+
                 {/*
                 <div className="carousel-item">
                   <Link href="/doc/takvim/2024-egitim-takvim.pdf"><a target="_blank">

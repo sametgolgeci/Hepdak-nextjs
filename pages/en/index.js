@@ -69,10 +69,6 @@ const Anasayfa = () => (
                   <div className="main-top-one-title">About HEPDAK Registration Duration</div>
                   <div className="main-top-one-content">HEPDAK Quality Assessment Registration Duration has been Extended for Five (5) Years</div>
                 </div>
-                <div className="carousel-item">
-                  <div className="main-top-one-title">About APANE Membership</div>
-                  <div className="main-top-one-content">HEPDAK has been a member of APANE – Asian and Pacific Alliance for Nursing Education since November 25, 2023</div>
-                </div>
                 
                 {/*
                 *** Desing 5 ***
