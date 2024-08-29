@@ -50,6 +50,9 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
+                  <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2024-30agustos.jpeg"/></div>
+                </div>
+                <div className="carousel-item">
                   <Link href="/doc/2024-kurum-egitimi-form.docx"><a target="_blank">
                     <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2024-kurum-egitimi-form.jpeg"/></div>
                   </a></Link>
@@ -384,6 +387,18 @@ const Anasayfa = () => (
           </div>
           </Link>
           */}
+
+          <Link href="/doc/takvim/2024-kurum-egitim.pdf">
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">19-20</div>
+              <div className="date-month">Eylül</div>
+              <div className="date-year">2024</div>
+            </div>
+            <div className="block-subtitle-text">HEPDAK 2024 Kurum Eğitimi</div>
+          </div>
+          </Link>
+
           <Link href="/doc/takvim/2024-toplanti-takvim.pdf">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
