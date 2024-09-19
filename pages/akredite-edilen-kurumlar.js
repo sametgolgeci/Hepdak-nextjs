@@ -231,7 +231,7 @@ const Akredite = () => (
                 <tr>
                   <th scope="row">Yeditepe Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü (İngilizce) | <Link href="doc/rapor/rapor-yeditepe-genel.pdf"><a className="akreditasyon-rapor">Genel Rapor</a></Link></th>
                   <td>07.04.2023</td>
-                  <td>30.09.2025</td>
+                  <td>03.09.2024</td>
                 </tr>
                 <tr>
                   <th scope="row">Sağlık Bilimleri Üniversitesi Hamidiye Hemşirelik Fakültesi | <Link href="doc/rapor/rapor-hamidiye-genel.pdf"><a className="akreditasyon-rapor">Genel Rapor</a></Link></th>
