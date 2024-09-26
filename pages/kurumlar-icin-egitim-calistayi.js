@@ -18,6 +18,36 @@ const Calistay = () => (
 		<p className="madde-p">• Değerlendirme süreci; Fakülte ve Bölümlerin akreditasyon hazırlıkları</p>
 		<p className="madde-p">• Özdeğerlendirme raporları</p>
 		<p className="madde-p">• Değerlendirme takımlarınca yapılan kurum ziyaretleri</p>
+		<h6><span className="badge badge-custom">12</span> 19 - 20 Eylül 2024</h6>
+		<p>
+			<ul className="nav calistay-nav">
+			  <li className="nav-item">
+			    <a className="nav-link calistay-button" href="doc/kurumlar_egitim_12/program.pdf">Program</a>
+			  </li>
+			  <li className="nav-item">
+			    <a className="nav-link calistay-button" href="doc/kurumlar_egitim_12/katilimci-listesi.pdf">Katılımcı Listesi</a>
+			  </li>
+			  <li className="nav-item">
+			    <a className="nav-link calistay-button" data-toggle="collapse" href="#collapseExampleFoto12" role="button" aria-expanded="false" aria-controls="collapseExampleFoto12">Fotoğraflar</a>
+			  </li>
+			  <li className="nav-item">
+			    <a className="nav-link calistay-button" href="doc/kurumlar_egitim_12/degerlendirme.pdf">Değerlendirme</a>
+			  </li>
+			</ul>
+		</p>
+		<div className="collapse" id="collapseExampleFoto12">
+			<p><strong>-> Fotoğraflar</strong></p>
+			<div className="container">
+				<div className="row">
+					<div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_12/photo_01.png" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_12/photo_01.png" alt="Kurumlar için Eğitim Çalıştayı 12"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_12/photo_02.png" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_12/photo_02.png" alt="Kurumlar için Eğitim Çalıştayı 12"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_12/photo_03.png" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_12/photo_03.png" alt="Kurumlar için Eğitim Çalıştayı 12"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_12/photo_04.png" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_12/photo_04.png" alt="Kurumlar için Eğitim Çalıştayı 12"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_12/photo_05.png" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_12/photo_05.png" alt="Kurumlar için Eğitim Çalıştayı 12"/></a></div>
+					<div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_12/photo_06.png" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_12/photo_06.png" alt="Kurumlar için Eğitim Çalıştayı 12"/></a></div>
+				</div>
+			</div>
+		</div>
 		<h6><span className="badge badge-custom">11</span> 02 Aralık 2023</h6>
 		<p>
 			<ul className="nav calistay-nav">

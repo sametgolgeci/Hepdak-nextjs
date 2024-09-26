@@ -42,6 +42,17 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
+                  <div className="main-top-one-title">HEPDAK 12th Training Workshop for Institutions (19-20 September 2024)</div>
+                  <div className="main-top-one-content">The 12th HEPDAK Institutional Training Workshops were held online for two half days on
+19-20 September 2024. One hundred and five faculty members from 51 different institutions
+participated in the training, which was prepared according to the Standards-based grading
+tool. In the training, group work was conducted in separate 12 groups based on sample cases
+prepared for each basic standard. In the meeting, Prof. Dr. Zeynep ÖZER from Akdeniz
+University Faculty of Nursing and Prof. Dr. Ükke Karabacak from Acıbadem University
+Faculty of Health Sciences, Nursing Department shared their experiences on their
+accreditation processes. The meeting ended with a general discussion section.</div>
+                </div>
+                <div className="carousel-item">
                   <Link href="/doc/2024-kurum-egitim-takvim.pdf"><a target="_blank">
                     <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/en/2024-09-16.jpeg"/></div>
                   </a></Link>

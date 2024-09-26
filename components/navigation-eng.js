@@ -36,7 +36,7 @@ const Navigation = () => (
         <li className="nav-item dropdown">
 					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">WORKSHOPS</a>
 					<div className="dropdown-menu">
-						<Link href="../doc/en/training-workshop-for-institutions.pdf"><a className="dropdown-item">Training Workshop for Institutions</a></Link>
+						<Link href="/en/training-workshop-for-institutions"><a className="dropdown-item">Training Workshop for Institutions</a></Link>
 						<Link href="../doc/en/evaluator-training-workshop.pdf"><a className="dropdown-item">Evaluator Training Workshop</a></Link>
 						<Link href="../doc/en/student-evaluator-training-workshop.pdf"><a className="dropdown-item">Student Evaluator Training Workshop</a></Link>
 					</div>

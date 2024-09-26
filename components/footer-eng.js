@@ -53,7 +53,7 @@ const Footer = () => (
 			<div className="footer-item-link"><Link href="/doc/en/accredited-programs.pdf"><a>Accredited Programs</a></Link></div>
 			<div className="footer-item-link"><Link href="/en/related-organizations"><a>Related Organizations</a></Link></div>
 			<div className="footer-item-title footer-item-title-calistay"><strong>Workshops</strong></div>
-			<div className="footer-item-link"><Link href="/doc/en/training-workshop-for-institutions.pdf"><a>Training Workshop for Institutions</a></Link></div>
+			<div className="footer-item-link"><Link href="/en/training-workshop-for-institutions"><a>Training Workshop for Institutions</a></Link></div>
 			<div className="footer-item-link"><Link href="/doc/en/evaluator-training-workshop.pdf"><a>Evaluator Training Workshop</a></Link></div>
 			<div className="footer-item-link"><Link href="/doc/en/student-evaluator-training-workshop.pdf"><a>Student Evaluator Training Workshop</a></Link></div>
 		</div>

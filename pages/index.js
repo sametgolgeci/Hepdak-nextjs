@@ -166,6 +166,17 @@ const Anasayfa = () => (
             <div className="block-title-all"><a href="/tum-haberler">Tüm Haberler</a></div>
           </div>
          
+          <Link href="/haberler/2024-09-19-20-haber">
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">19-20</div>
+              <div className="date-month">Eylül</div>
+              <div className="date-year">2024</div>
+            </div>
+            <div className="block-subtitle-text">HEPDAK 12. Kurumlar için Eğitim Çalıştayı</div>
+          </div>
+          </Link>
+
           <Link href="/haberler/2024-06-10-haber">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
@@ -284,83 +295,6 @@ const Anasayfa = () => (
               <div className="date-year">2024</div>
             </div>
             <div className="block-subtitle-text">Yükseköğretim Kalite Kurulu (YÖKAK) Paydaş Toplantısı</div>
-          </div>
-          </Link>
-
-          <Link href="/haberler/2023-12-14-haber">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">14</div>
-              <div className="date-month">Aralık</div>
-              <div className="date-year">2023</div>
-            </div>
-            <div className="block-subtitle-text">Webinar: Bakım Bilimine Dayalı Hemşirelik Müfredatı</div>
-          </div>
-          </Link>
-
-          <Link href="/haberler/2023-12-02-haber">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">02</div>
-              <div className="date-month">Aralık</div>
-              <div className="date-year">2023</div>
-            </div>
-            <div className="block-subtitle-text">Kurumlar için Eğitim Çalıştayı - 11</div>
-          </div>
-          </Link>
-
-          <Link href="/haberler/2023-12-01-haber">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">01</div>
-              <div className="date-month">Aralık</div>
-              <div className="date-year">2023</div>
-            </div>
-            <div className="block-subtitle-text">Webinar: Deprem Felaketi sonrası Hemşirelik Eğitimi ve Kriz Dönemleri...</div>
-          </div>
-          </Link>
-
-          <Link href="/haberler/2023-10-19-haber">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">19</div>
-              <div className="date-month">Ekim</div>
-              <div className="date-year">2023</div>
-            </div>
-            <div className="block-subtitle-text">HEPDAK Hemşirelik Lisans Programı Yöneticileri Toplantısı - 3</div>
-          </div>
-          </Link>
-
-          <Link href="/haberler/2023-09-20-22-haber">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">20-22</div>
-              <div className="date-month">Eylül</div>
-              <div className="date-year">2023</div>
-            </div>
-            <div className="block-subtitle-text">1.Uluslararası Hemşirelik Eğitiminin Geleceği Kongresi</div>
-          </div>
-          </Link>
-
-          <Link href="/haberler/2023-06-09-haber-2">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">09</div>
-              <div className="date-month">Haziran</div>
-              <div className="date-year">2023</div>
-            </div>
-            <div className="block-subtitle-text">Dünya Akreditasyon Günü Eğitimde Akreditasyon Süreçleri Üzerine Söyleşi</div>
-          </div>
-          </Link>
-
-          <Link href="/haberler/2023-06-09-haber">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">09</div>
-              <div className="date-month">Haziran</div>
-              <div className="date-year">2023</div>
-            </div>
-            <div className="block-subtitle-text">Akreditasyonun Eğitimin İyileştirme Sürecine Katkısı Paneli</div>
           </div>
           </Link>
 
