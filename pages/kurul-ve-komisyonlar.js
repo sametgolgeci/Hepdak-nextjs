@@ -13,7 +13,7 @@ const Kurul = () => (
 	    	<span className="madde-span">• Prof. Dr. Dilek Özmen (Başkan), Manisa Celal Bayar Üniversitesi</span>
 	    	<span className="madde-span">• Doç. Dr. Fatma Orgun (Başkan Yardımcısı), Ege Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Medine Yılmaz (Genel Sekreter), İzmir Katip Çelebi Üniversitesi</span>
-	    	<span className="madde-span">• Doç. Dr. Gülsüm Nihal Çürük (Sayman), İzmir Ekonomi Üniversitesi</span>
+	    	<span className="madde-span">• Prof. Dr. Gülsüm Nihal Çürük (Sayman), İzmir Ekonomi Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Özen Kulakaç (Üye), Ondokuz Mayıs Üniversitesi</span>
 	    	
 	    	<h3 className="kurul-title">HEPDAK Denetleme Kurulu</h3>
@@ -70,10 +70,11 @@ const Kurul = () => (
 	    	<span className="madde-span">• Ar. Gör. Dr. Gülsüm Çonoğlu, Çankırı Karatekin Üniversitesi</span>
 	    	<span className="madde-span">• <strong>Öğrenci:</strong> Jale Atak, Manisa Celal Bayar Üniversitesi</span>    	
 
-	    	<h3 className="kurul-title">Sürekli İyileştirme Komisyonu</h3>
+	    	<h3 className="kurul-title">Sürekli İyileştirme Komisyonu (SÜİK)</h3>
 	    	<span className="madde-span">• Prof. Dr. Ayla Keçeci (Başkan), Düzce Üniversitesi</span>
-	    	<span className="madde-span">• Doç. Dr. Gülsüm Nihal Çürük (Sekreter), İzmir Ekonomi Üniversitesi</span>
+	    	<span className="madde-span">• Prof. Dr. Gülsüm Nihal Çürük (Sekreter), İzmir Ekonomi Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Şeyda Seren İntepeler, Dokuz Eylül Üniversitesi</span>
+	    	<span className="madde-span">• Prof. Dr. Zeynep Özer, Akdeniz Üniversitesi</span>	
 	    	<span className="madde-span">• Dr. Öğr. Üyesi. Hatice Şen, Uluslararası Kıbrıs Üniversitesi</span>
 	    	<span className="madde-span">• Ar. Gör. İbrahim Kavaslar, Düzce Üniversitesi</span>
 	    	
@@ -95,10 +96,10 @@ const Kurul = () => (
 	    	<span className="madde-span">• Dr. Öğr. Üyesi Hatice Çamveren, Kütahya Sağlık Bilimleri Üniversitesi</span>
 
 	    	<h3 className="kurul-title">WEB Tasarım Komisyonu</h3>
-	    	<span className="madde-span">• Prof. Dr. Özen KULAKAÇ (Başkan), Ondokuz Mayıs Üniversitesi</span>
-	    	<span className="madde-span">• Ümran YALÇIN (Sekreter), HEPDAK Sekreteri</span>
-	    	<span className="madde-span">• Dr. Öğretim Üyesi Gürkan ÖZDEN, İnönü Üniversitesi</span>
-	    	<span className="madde-span">• Ar. Gör. Selcan Zeynep ERGÖZ AKSOY, İzmir Ekonomi Üniversitesi</span>
+	    	<span className="madde-span">• Prof. Dr. Özen Kulakaç (Başkan), Ondokuz Mayıs Üniversitesi</span>
+	    	<span className="madde-span">• Ümran Yalçın (Sekreter), HEPDAK Sekreteri</span>
+	    	<span className="madde-span">• Dr. Öğretim Üyesi Gürkan Özden, İnönü Üniversitesi</span>
+	    	<span className="madde-span">• Ar. Gör. Selcan Zeynep Ergöz Aksoy, İzmir Ekonomi Üniversitesi</span>
 	    </div>
     </MasterPage>
 )
