@@ -35,7 +35,7 @@ const Tum = () => (
               <div className="main-top-second">
                 <div className="main-top-second-title">Webinar: 21. Yüzyıl Yetkinliklerine Erişimde Köprü: Program Dışı Öğrenme (03 Ekim 2024)</div> 
                 <div className="main-top-second-content">
-                  <p>HEPDAK - HEMED işbirliğiyle 30 Nisan 2024
+                  <p>HEPDAK - HEMED işbirliğiyle 03 Ekim 2024
 tarihinde gerçekleştirilen webinarların
 XII’cisinde “21. Yüzyıl Yetkinliklerine Erişimde
 Köprü: Program Dışı Öğrenme” konusu ele

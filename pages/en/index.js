@@ -43,8 +43,8 @@ const Anasayfa = () => (
               <div className="carousel-inner">
                 <div className="carousel-item active">
                   <div className="main-top-one-title">Webinar: Bridge to Access 21st Century Competencies: Extracurricular Learning (October 03, 2024)</div>
-                  <div className="main-top-one-content">The subject of the 12th webinar held on April
-30, 2024 with the HEPDAK-HEMED
+                  <div className="main-top-one-content">The subject of the 12th webinar held on October
+03, 2024 with the HEPDAK-HEMED
 collaboration was “Bridge to Access 21st
 Century Competencies: Extracurricular
 Learning”. Dr. Gülsüm ÇONOĞLU from Çankırı
