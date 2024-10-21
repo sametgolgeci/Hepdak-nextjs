@@ -20,7 +20,7 @@ const Navigation = () => (
 						<Link href="/en/member-list"><a className="dropdown-item">Member List</a></Link>
 						<Link href="/en/evaluator-list"><a className="dropdown-item">Evaluator List</a></Link>
 						{/*<Link href="/idari-personel"><a className="dropdown-item">Administrative Staff</a></Link>*/}
-						<Link href="/en/registry-letters"><a className="dropdown-item">Registration/Registry letters</a></Link>
+						<Link href="/en/registry-letters"><a className="dropdown-item">Registration/Registry Letters</a></Link>
 					</div>
 				</li>
 				<li className="nav-item dropdown">

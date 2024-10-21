@@ -83,7 +83,7 @@ const Kurul = () => (
 	    	<span className="madde-span">• Prof. Dr. Vesile Ünver, Acıbadem Mehmet Ali Aydınlar Üniversitesi</span>
 	    	<span className="madde-span">• Doç. Dr. Sergül Duygulu, Hacettepe Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Ayhan Lash, Northern Illinois Üniversitesi Emekli Öğretim Üyesi</span>
-	    	<span className="madde-span">• Doç. Dr. İlkay Boz, Akdeniz Üniversitesi</span>
+	    	<span className="madde-span">• Prof. Dr. İlkay Boz, Akdeniz Üniversitesi</span>
 
 	    	<h3 className="kurul-title">Preparation Commission for Postgraduate Accreditation</h3>
 	    	<span className="madde-span">• Prof. Dr. Gülseren Kocaman (Chair), Emekli Öğretim Üyesi</span>

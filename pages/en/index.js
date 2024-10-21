@@ -42,7 +42,24 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
-                  <div className="main-top-one-title">HEPDAK 12th Training Workshop for Institutions (19-20 September 2024)</div>
+                  <div className="main-top-one-title">Webinar: Bridge to Access 21st Century Competencies: Extracurricular Learning (October 03, 2024)</div>
+                  <div className="main-top-one-content">The subject of the 12th webinar held on April
+30, 2024 with the HEPDAK-HEMED
+collaboration was “Bridge to Access 21st
+Century Competencies: Extracurricular
+Learning”. Dr. Gülsüm ÇONOĞLU from Çankırı
+Karatekin University, Faculty of Health Sciences,
+Department of Nursing was the speaker of the
+webinar, which was moderated by Prof. Dr.
+Ayla KEÇECİ. From different universities in
+Turkey, 215 faculty members attended the
+meeting. The questions and contributions of
+the participants were included in the last part
+of the webinar. The webinar ended with the
+good wishes of the participants.</div>
+                </div>
+                <div className="carousel-item">
+                  <div className="main-top-one-title">HEPDAK 12th Training Workshop for Institutions (September 19-20, 2024)</div>
                   <div className="main-top-one-content">The 12th HEPDAK Institutional Training Workshops were held online for two half days on
 19-20 September 2024. One hundred and five faculty members from 51 different institutions
 participated in the training, which was prepared according to the Standards-based grading
