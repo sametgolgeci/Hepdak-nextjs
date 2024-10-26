@@ -16,7 +16,7 @@ const Paydas = () => (
 					<tbody>
 						<tr>
 		          <th scope="row" width="10px"></th>
-		          <td><Link href="doc/paydas_toplantilari/hemsirelik_lisans_programı_yoneticileri_toplanti/04_1.pdf"><a target="_blank">Hemşirelik Lisans Programı Yöneticileri Toplantı Duyurusu - 4.1 (05 Şubat 2024)</a></Link></td>
+		          <td><Link href="doc/paydas_toplantilari/hemsirelik_lisans_programı_yoneticileri_toplanti/04.pdf"><a target="_blank">Hemşirelik Lisans Programı Yöneticileri Toplantı Duyurusu - 4 (25 Ekim 2024)</a></Link></td>
 		        </tr>
 						<tr>
 	          	<th scope="row" width="10px"></th>
@@ -79,6 +79,10 @@ const Paydas = () => (
 			<div className="collapse" id="AZEKYT">
 				<table className="table table-striped">
 					<tbody>
+						<tr>
+		          <th scope="row" width="10px"></th>
+		          <td><Link href="doc/paydas_toplantilari/akreditasyon_ziyaret_edilen_kurum_yonetici_toplanti/04.pdf"><a target="_blank">2023-2024 Dönemi Akreditasyon İçin Ziyaret Yapılan Kurumlar ile Toplantı Duyurusu (05 Şubat 2024)</a></Link></td>
+		        </tr>
 						<tr>
 		          <th scope="row" width="10px"></th>
 		          <td><Link href="doc/paydas_toplantilari/akreditasyon_ziyaret_edilen_kurum_yonetici_toplanti/03.pdf"><a target="_blank">2022-2023 Dönemi Akreditasyon İçin Ziyaret Yapılan Kurumlar ile Toplantı Duyurusu (13 Mart 2023)</a></Link></td>
