@@ -12,6 +12,10 @@ const Toplantilar = () => (
 			<h1 id="heak">İzleme Raporları</h1>
 			<table className="table table-striped">
 	      <tbody>
+	      	<tr>
+	          <th scope="row" width="10px">5</th>
+	          <td>HEPDAK İzleme Raporu - <Link href="doc/izleme-raporu/hepdak_2023_izleme_raporu.pdf"><a>2023</a></Link></td>
+	        </tr>
 	        <tr>
 	          <th scope="row" width="10px">4</th>
 	          <td>HEPDAK İzleme Raporu - <Link href="doc/izleme-raporu/hepdak_2022_izleme_raporu.pdf"><a>2022</a></Link></td>
