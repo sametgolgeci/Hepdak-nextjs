@@ -153,6 +153,17 @@ const Anasayfa = () => (
             <div className="block-title-all"><a href="/tum-haberler">Tüm Haberler</a></div>
           </div>
          
+          <Link href="/haberler/2024-10-12-haber">
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">12</div>
+              <div className="date-month">Ekim</div>
+              <div className="date-year">2024</div>
+            </div>
+            <div className="block-subtitle-text">Hemşirelik Lisans Programı Yöneticileri Toplantısı - 4</div>
+          </div>
+          </Link>
+
           <Link href="/haberler/2024-10-03-haber">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
