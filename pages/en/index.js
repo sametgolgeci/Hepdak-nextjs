@@ -43,70 +43,44 @@ const Anasayfa = () => (
               <div className="carousel-inner">
                 <div className="carousel-item active">
                   <div className="main-top-one-title">HEPDAK Nursing Undergraduate Program Managers Meeting- 4 (October 12, 2024)</div>
-                  <div className="main-top-one-content">The fourth Nursing Undergraduate
-Program Managers Meeting
-organized by HEPDAK within the
-scope of stakeholder meetings, was
-held online on October 12, 2024. The
-meeting, attended by 114
-managers/faculty members from
-undergraduate programs, began with
-an informative presentation by
-HEPDAK board chair Prof. Dr. Dilek
-ÖZMEN on HEPDAK activities, and
-continued with a presentation by
-Erciyes University Health Sciences
-Faculty Nursing Department faculty
-member Prof. Dr. Sultan TAŞÇI on
-“Leadership and Quality Assurance
-Culture”. The meeting ended with
-goodwill wishes after discussing the
-expectations of nursing
-undergraduate program managers
-from HEPDAK and answering
-participant questions.</div>
+                  <div className="main-top-one-content">The fourth Nursing Undergraduate Program Managers Meetingorganized by HEPDAK within the
+                    scope of stakeholder meetings, was held online on October 12, 2024. The
+                    meeting, attended by 114 managers/faculty members from
+                    undergraduate programs, began with an informative presentation by
+                    HEPDAK board chair Prof. Dr. Dilek ÖZMEN on HEPDAK activities, and
+                    continued with a presentation by Erciyes University Health Sciences
+                    Faculty Nursing Department faculty member Prof. Dr. Sultan TAŞÇI on
+                    “Leadership and Quality Assurance Culture”. The meeting ended with
+                    goodwill wishes after discussing the expectations of nursing
+                    undergraduate program managers from HEPDAK and answering participant questions.</div>
                 </div>
                 <div className="carousel-item">
                   <div className="main-top-one-title">Webinar: Bridge to Access 21st Century Competencies: Extracurricular Learning (October 03, 2024)</div>
                   <div className="main-top-one-content">The subject of the 12th webinar held on October
-03, 2024 with the HEPDAK-HEMED
-collaboration was “Bridge to Access 21st
-Century Competencies: Extracurricular
-Learning”. Dr. Gülsüm ÇONOĞLU from Çankırı
-Karatekin University, Faculty of Health Sciences,
-Department of Nursing was the speaker of the
-webinar, which was moderated by Prof. Dr.
-Ayla KEÇECİ. From different universities in
-Turkey, 215 faculty members attended the
-meeting. The questions and contributions of
-the participants were included in the last part
-of the webinar. The webinar ended with the
-good wishes of the participants.</div>
+                    03, 2024 with the HEPDAK-HEMED collaboration was “Bridge to Access 21st
+                    Century Competencies: Extracurricular Learning”. Dr. Gülsüm ÇONOĞLU from Çankırı
+                    Karatekin University, Faculty of Health Sciences, Department of Nursing was the speaker of the
+                    webinar, which was moderated by Prof. Dr. Ayla KEÇECİ. From different universities in
+                    Turkey, 215 faculty members attended the meeting. The questions and contributions of
+                    the participants were included in the last part of the webinar. The webinar ended with the
+                    good wishes of the participants.</div>
                 </div>
                 <div className="carousel-item">
                   <div className="main-top-one-title">HEPDAK 12th Training Workshop for Institutions (September 19-20, 2024)</div>
                   <div className="main-top-one-content">The 12th HEPDAK Institutional Training Workshops were held online for two half days on
-19-20 September 2024. One hundred and five faculty members from 51 different institutions
-participated in the training, which was prepared according to the Standards-based grading
-tool. In the training, group work was conducted in separate 12 groups based on sample cases
-prepared for each basic standard. In the meeting, Prof. Dr. Zeynep ÖZER from Akdeniz
-University Faculty of Nursing and Prof. Dr. Ükke Karabacak from Acıbadem University
-Faculty of Health Sciences, Nursing Department shared their experiences on their
-accreditation processes. The meeting ended with a general discussion section.</div>
+                    19-20 September 2024. One hundred and five faculty members from 51 different institutions
+                    participated in the training, which was prepared according to the Standards-based grading
+                    tool. In the training, group work was conducted in separate 12 groups based on sample cases
+                    prepared for each basic standard. In the meeting, Prof. Dr. Zeynep ÖZER from Akdeniz
+                    University Faculty of Nursing and Prof. Dr. Ükke Karabacak from Acıbadem University
+                    Faculty of Health Sciences, Nursing Department shared their experiences on their
+                    accreditation processes. The meeting ended with a general discussion section.</div>
                 </div>
                 <div className="carousel-item">
                   <Link href="/doc/2024-kurum-egitim-takvim.pdf"><a target="_blank">
                     <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/en/2024-09-16.jpeg"/></div>
                   </a></Link>
                 </div>
-                {/*
-                <div className="carousel-item">
-                  <Link href="doc/en/2024-training-calendar.pdf"><a target="_blank">
-                    <div className="main-top-one-title">HEPDAK 2024 Training Calendar</div>
-                    <div className="main-top-one-content"><strong>Click here</strong> access the training calendar to be held by HEPDAK in 2024.</div>
-                  </a></Link>
-                </div>
-                */}
                 <div className="carousel-item">
                   <Link href="doc/en/2024-meeting-calendar.pdf"><a target="_blank">
                     <div className="main-top-one-title">HEPDAK 2024 Meeting Calendar</div>
@@ -182,157 +156,15 @@ accreditation processes. The meeting ended with a general discussion section.</d
         </div>
       </div>
     </div>
-    {/*
-    <div className="main-fast-akredite">
-      <div className="fast-akredite-button col-md-4">
-        <Link href="/doc/b1-basvuru-2023-2024.doc"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faCheck}/>Accreditation Application</button></a></Link>
-      </div>
-      <div className="fast-akredite-button col-md-4">
-        <Link href="/akreditasyon-sureci"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faHourglassStart}/>Accreditation Process</button></a></Link>
-      </div>
-      <div className="fast-akredite-button col-md-4">
-        <Link href="/ozdegerlendirme-belgeleri"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faFileAlt}/>Self-Assessment Documents</button></a></Link>
-      </div>
-      <div className="fast-akredite-button col-md-4">
-        <Link href="/doc/kurum-egitimine-basvuru-formu.doc"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faBalanceScale}/>Applications</button></a></Link>
-      </div>
-      <div className="fast-akredite-button col-md-4">
-        <Link href="/rapor-hazirlama"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faPencilAlt}/>Report Preparations</button></a></Link>
-      </div>
-      <div className="fast-akredite-button col-md-4">
-        <Link href="/belgeler"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faFile}/>Other Documents</button></a></Link>
-      </div>
-    </div>
-    */}
+ 
     <div className="main-new">
       <div className="main-new-block col-md-4 col-sm-12">
         <div className="main-new-block-alt">
           <div className="main-block-title">
             <div className="block-title-main">News</div>
-            <div className="block-title-all"><a href="/tum-haberler">All News</a></div>
+            <div className="block-title-all"><a href="/#">All News</a></div>
           </div>
-          
-          <Link href="/haberler/2023-01-12-haber">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">12</div>
-              <div className="date-month">Ocak</div>
-              <div className="date-year">2023</div>
-            </div>
-            <div className="block-subtitle-text">HEPDAK Öğrenci Değerlendirici Adayları Toplantısı</div>
-          </div>
-          </Link>
-
-          <Link href="/haberler/2023-01-11-haber">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">11</div>
-              <div className="date-month">Ocak</div>
-              <div className="date-year">2023</div>
-            </div>
-            <div className="block-subtitle-text">HEPDAK Değerlendiriciler Toplantısı - 5</div>
-          </div>
-          </Link>
-
-          <Link href="/haberler/2023-01-04-haber">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">04</div>
-              <div className="date-month">Ocak</div>
-              <div className="date-year">2023</div>
-            </div>
-            <div className="block-subtitle-text">HEPDAK Takım Başkanları Toplantısı - 5</div>
-          </div>
-          </Link>
-
-          <Link href="/haberler/16-11-2022-CEENQA">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">16</div>
-              <div className="date-month">Kasım</div>
-              <div className="date-year">2022</div>
-            </div>
-            <div className="block-subtitle-text">CEENQA Paylaşım Toplantısı - 12</div>
-          </div>
-          </Link>
-
-          <Link href="/haberler/16-11-2022-INQAAHE">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">16</div>
-              <div className="date-month">Kasım</div>
-              <div className="date-year">2022</div>
-            </div>
-            <div className="block-subtitle-text">INQAAHE Konuşmaları Webinar Toplantısı</div>
-          </div>
-          </Link>
-
-          <Link href="/haberler/10-11-2022-haber">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">10</div>
-              <div className="date-month">Kasım</div>
-              <div className="date-year">2022</div>
-            </div>
-            <div className="block-subtitle-text">Webinar: Hemşirelik Eğitiminde Program Değerlendirme</div>
-          </div>
-          </Link>
-
-          <Link href="/haberler/26-27-10-2022-haber">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">26-27</div>
-              <div className="date-month">Ekim</div>
-              <div className="date-year">2022</div>
-            </div>
-            <div className="block-subtitle-text">HEPDAK Türkiye Yeterlilikler Çerçevesi Uluslararası Konferansı'na Katıldı</div>
-          </div>
-          </Link>
-
-          <Link href="/haberler/15-10-2022-haber">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">15</div>
-              <div className="date-month">Ekim</div>
-              <div className="date-year">2022</div>
-            </div>
-            <div className="block-subtitle-text">HEPDAK 10. Kurumlar için Eğitim Çalıştayı</div>
-          </div>
-          </Link>
-
-          <Link href="/haberler/13-10-2022-haber">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">13</div>
-              <div className="date-month">Ekim</div>
-              <div className="date-year">2022</div>
-            </div>
-            <div className="block-subtitle-text">HEPDAK 2022 yılı Hemşirelik Lisans Programı Yöneticileri Toplantısı - 2</div>
-          </div>
-          </Link>
-
-          <Link href="/haberler/23-09-2022-haber">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">23-24</div>
-              <div className="date-month">Eylül</div>
-              <div className="date-year">2022</div>
-            </div>
-            <div className="block-subtitle-text">HEPDAK CEENQA Genel Kurulu ve Çalıştayına Katıldı</div>
-          </div>
-          </Link>
-
-          <Link href="/haberler/25-06-2022-degerlendirici">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">25</div>
-              <div className="date-month">Haziran</div>
-              <div className="date-year">2022</div>
-            </div>
-            <div className="block-subtitle-text">HEPDAK 2022 yılı Değerlendirici Eğitimi tamamlandı</div>
-          </div>
-          </Link>
-
+          {/*
           <Link href="/haberler/02-06-2022-degerlendirici">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
@@ -343,25 +175,14 @@ accreditation processes. The meeting ended with a general discussion section.</d
             <div className="block-subtitle-text">HEPDAK 2022 yılı Değerlendirici Eğitimi başladı</div>
           </div>
           </Link>
-
-          <Link href="/haberler/01-06-2022-belge">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">01</div>
-              <div className="date-month">Haziran</div>
-              <div className="date-year">2022</div>
-            </div>
-            <div className="block-subtitle-text">Belge Töreni</div>
-          </div>
-          </Link>
-
+          */}
         </div>
       </div>
       <div className="main-new-block col-md-4 col-sm-12">
         <div className="main-new-block-alt">
           <div className="main-block-title">
             <div className="block-title-main">Announcements</div>
-            <div className="block-title-all"><a href="/tum-duyurular">All Announcements</a></div>
+            <div className="block-title-all"><a href="/#">All Announcements</a></div>
           </div>
 
         </div>

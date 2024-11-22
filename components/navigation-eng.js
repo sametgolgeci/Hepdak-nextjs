@@ -63,13 +63,13 @@ const Navigation = () => (
 						<Link href="#"><a className="dropdown-item">Stakeholder Meetings</a></Link>
 					</div>
 				</li>
-			
 				<li className="nav-item dropdown">
 					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">EDUCATIONS</a>
 					<div className="dropdown-menu">
-						<Link href="#"><a className="dropdown-item">Webinars</a></Link>
-						<Link href="#"><a className="dropdown-item">Symposiums</a></Link>
-						<Link href="#"><a className="dropdown-item">Educational Activities</a></Link>
+						<Link href="/en/webinar"><a className="dropdown-item">Webinars</a></Link>
+						<Link href="/en/symposiums"><a className="dropdown-item">Symposiums</a></Link>
+						<Link href="/en/educational-activities"><a className="dropdown-item">Educational Activities</a></Link>
+						<Link href="/en/good-practice-examples"><a className="dropdown-item">Good Practice Examples</a></Link>
 					</div>
 				</li>
 	      <li className="nav-item dropdown">

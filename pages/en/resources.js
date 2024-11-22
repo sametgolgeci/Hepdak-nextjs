@@ -132,11 +132,71 @@ const Kaynaklar = () => (
 	                    <td><Link href="http://www.jret.org/FileUpload/ks281142/File/07.tonbuloglu..pdf"><a>Tonbuloğlu, B., & Aydın, H. (2015). Uzaktan Eğitimde Kalite Standartları</a></Link></td>
 	                  </tr>
 	                </tbody>
-	              </table>
+	            </table>
 							</div>
 				    </div>
-				  </div>
 				</div>
+				<div class="card">
+				    <div class="card-header" id="headingThree">
+				      <h5 class="mb-0">
+				        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree"><h5>Resources about Nursing Education and Educational Skills</h5></button>
+				      </h5>
+				    </div>
+				    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+				      <div class="card-body">
+				      	<table className="table table-hover">
+	                		<tbody>
+	                			<tr>
+	                		    	<th scope="row">1</th>
+	                		    	<td><Link href="#"><a>Alonso, R. Q., Ortega, M. M., Rebollo, E. C., Redondo, E. G., Isidoro, S. G., & García, J. A. C. (2023). Competency model for academic excellence in nursing educators. Educación Médica, 24(2), 100794.</a></Link></td>
+	                		  	</tr>
+	                		  	<tr>
+	                		    	<th scope="row">2</th>
+	                		    	<td><Link href="#"><a>Gao, X., Yan, D., Zhang, Y., Ruan, X., Kang, T., Wang, R., ... & Zhai, J. (2024). Comparison of the Impact of Team-based Learning and Lecture-based Learning on Nursing Students' Core Competencies: A Systematic Review and Meta-Analysis. Nurse Education in Practice, 103945.</a></Link></td>
+	                		  	</tr>
+	                		  	<tr>
+	                		    	<th scope="row">3</th>
+	                		    	<td><Link href="#"><a>Hills, M., Watson, J. & Cara, C. (2022) Bakım Bilimine Temellenen Hemşirelik Eğitim Programı. Okumuş H., Kulakac Ö., Boz İ. Ed, Yayın Dağıtım, Ankara,</a></Link></td>
+	                		  	</tr>
+	                		  	<tr>
+	                		    	<th scope="row">4</th>
+	                		    	<td><Link href="#"><a>Hornsby, D. (2013, June). Teaching large classes in higher education: challenges and opportunities in a developing context. In Canadian International Education Conference, University of Toronto, Canada.</a></Link></td>
+	                		  	</tr>
+	                		  	<tr>
+	                		    	<th scope="row">5</th>
+	                		    	<td><Link href="#"><a>Horton-Deutsch, S., Pardue, K., Young, P. K., Morales, M. L., Halstead, J., & Pearsall, C. (2014). Becoming a nurse faculty leader: Taking risks by doing the right thing. Nursing outlook, 62(2), 89-96.</a></Link></td>
+	                		  	</tr>
+	                		  	<tr>
+	                		    	<th scope="row">6</th>
+	                		    	<td><Link href="#"><a>Lewis, L. S., Rebeschi, L. M., & Hunt, E. (2022). Nursing education practice update 2022: competency-based education in nursing. SAGE Open Nursing, 8, 23779608221140774.</a></Link></td>
+	                		  	</tr>
+	                		  	<tr>
+	                		    	<th scope="row">7</th>
+	                		    	<td><Link href="#"><a>Lim, S., Min, L. X., Chan, C. J. W., Dong, Y., Mikkonen, K., & Zhou, W. (2022). Peer mentoring programs for nursing students: A mixed methods systematic review. Nurse Education Today, 119, 105577.</a></Link></td>
+	                		  	</tr>
+	                		  	<tr>
+	                		    	<th scope="row">8</th>
+	                		    	<td><Link href="#"><a>Lynch, R. P., & Pappas, E. (2017). A Model for Teaching Large Classes: Facilitating a "Small Class Feel". International Journal of Higher Education, 6(2), 199-212.</a></Link></td>
+	                		  	</tr>
+	                		  	<tr>
+	                		    	<th scope="row">9</th>
+	                		    	<td><Link href="#"><a>Ng, E. K. L. (2023). Student engagement in flipped classroom in nursing education: An integrative review. Nurse Education in Practice, 68, 103585.</a></Link></td>
+	                		  	</tr>
+	                		  	<tr>
+	                		    	<th scope="row">10</th>
+	                		    	<td><Link href="#"><a>Oermann, M. H., Bailey, H. E., Carter-Templeton, H., Condy, C., Wrigley, J., & Ledbetter, L. S. (2024). Bibliometric analysis of nursing education reviews. Nurse Education Today, 139, 106217.</a></Link></td>
+	                		  	</tr>
+	                		  	<tr>
+	                		    	<th scope="row">11</th>
+	                		    	<td><Link href="#"><a>Salminen, L, Elonen, I, Camilleri, M, Sollár, T, Zrubcová, D, Haycock-Stuart, E & Linares, PF (eds) 2023, Empowering Future Nurse Educators.</a></Link></td>
+	                		  	</tr>
+	                		</tbody>
+	              		</table>
+						</div>
+				    </div>
+					</div>
+
+			</div>
 	    </div>	
 	    <div className="safe"></div>
     </MasterPage>
