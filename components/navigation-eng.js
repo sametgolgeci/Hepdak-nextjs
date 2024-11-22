@@ -44,10 +44,12 @@ const Navigation = () => (
 				<li className="nav-item dropdown">
 					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">REPORTS</a>
 					<div className="dropdown-menu">
-						<Link href="#"><a className="dropdown-item">General Assembly and Reports</a></Link>
-						<Link href="#"><a className="dropdown-item">Thematic Analysis Report</a></Link>
-						<Link href="../doc/en/hepdak-annual-report-2022.pdf"><a className="dropdown-item">Activity Reports/Annual Reports</a></Link>
-						<Link href="#"><a className="dropdown-item">Stakeholder Opinion Reports</a></Link>
+						<Link href="/en/general-assembly-and-reports"><a className="dropdown-item">General Assembly and Reports</a></Link>
+						<Link href="/en/thematic-analysis-reports"><a className="dropdown-item">Thematic Analysis Report</a></Link>
+						<Link href="/en/activity-reports"><a className="dropdown-item">Activity Reports/Annual Reports</a></Link>
+						<Link href="/en/stakeholder-opinion-reports"><a className="dropdown-item">Stakeholder Opinion Reports</a></Link>
+						<Link href="/en/monitoring-reports"><a className="dropdown-item">Monitoring Reports</a></Link>
+						<Link href="/en/continuous-improvement-reports"><a className="dropdown-item">Continious Improvement Reports</a></Link>
 					</div>
 				</li>
         <li className="nav-item dropdown">

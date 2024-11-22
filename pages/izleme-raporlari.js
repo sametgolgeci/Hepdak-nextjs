@@ -7,36 +7,15 @@ const Toplantilar = () => (
 	<Head>
 		<title>HEPDAK | İzleme Raporları</title>
 	</Head>
-	<div className="row">
-		<div className="genel col-md-12 col-sm-12">
-			<h1 id="heak">İzleme Raporları</h1>
-			<table className="table table-striped">
-	      <tbody>
-	      	<tr>
-	          <th scope="row" width="10px">5</th>
-	          <td>HEPDAK İzleme Raporu - <Link href="doc/izleme-raporu/hepdak_2023_izleme_raporu.pdf"><a>2023</a></Link></td>
-	        </tr>
-	        <tr>
-	          <th scope="row" width="10px">4</th>
-	          <td>HEPDAK İzleme Raporu - <Link href="doc/izleme-raporu/hepdak_2022_izleme_raporu.pdf"><a>2022</a></Link></td>
-	        </tr>
-	        <tr>
-	          <th scope="row">3</th>
-	          <td>HEPDAK İzleme Raporu - <Link href="doc/izleme-raporu/hepdak_2021_izleme_raporu.pdf"><a>2021</a></Link></td>
-	        </tr>
-	        <tr>
-	          <th scope="row">2</th>
-	          <td>HEPDAK İzleme Raporu - <Link href="doc/izleme-raporu/hepdak_2020_izleme_raporu.pdf"><a>2020</a></Link></td>
-	        </tr>
-	        <tr>
-	          <th scope="row">1</th>
-	          <td>HEPDAK İzleme Raporu - <Link href="doc/izleme-raporu/hepdak_2019_izleme_raporu.pdf"><a>2019</a></Link></td>
-	        </tr>
-	      </tbody>
-	    </table>
+		<div className="genel">
+	    <h1>İzleme Raporları</h1>
+	    <p className="madde-p">HEPDAK İzleme Raporu 2023 için <Link href="doc/izleme-raporu/hepdak_2023_izleme_raporu.pdf"><a target="_blank">tıklayınız</a></Link></p>
+	    <p className="madde-p">HEPDAK İzleme Raporu 2022 için <Link href="doc/izleme-raporu/hepdak_2022_izleme_raporu.pdf"><a target="_blank">tıklayınız</a></Link></p>
+	    <p className="madde-p">HEPDAK İzleme Raporu 2021 için <Link href="doc/izleme-raporu/hepdak_2021_izleme_raporu.pdf"><a target="_blank">tıklayınız</a></Link></p>
+	    <p className="madde-p">HEPDAK İzleme Raporu 2020 için <Link href="doc/izleme-raporu/hepdak_2020_izleme_raporu.pdf"><a target="_blank">tıklayınız</a></Link></p>
+	    <p className="madde-p">HEPDAK İzleme Raporu 2019 için <Link href="doc/izleme-raporu/hepdak_2019_izleme_raporu.pdf"><a target="_blank">tıklayınız</a></Link></p>
 		</div>
-	</div>
-	<div className="safe"></div>
+		<div className="safe"></div>
 </MasterPage>
 )
 export default Toplantilar
