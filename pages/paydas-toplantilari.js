@@ -16,7 +16,11 @@ const Paydas = () => (
 					<tbody>
 						<tr>
 		          <td scope="row" width="110px">12 Kasım 2024</td>
-		          <td><Link href="doc/paydas_toplantilari/hemsirelik_lisans_programı_yoneticileri_toplanti/04.pdf"><a target="_blank">Hemşirelik Lisans Programı Yöneticileri Toplantı Duyurusu</a></Link></td>
+		          <td>
+		          	<Link href="doc/paydas_toplantilari/hemsirelik_lisans_programı_yoneticileri_toplanti/04_1.pdf"><a target="_blank">Hemşirelik Lisans Programı Yöneticileri Toplantı Duyurusu</a></Link><br/>
+		          	<Link href="doc/paydas_toplantilari/hemsirelik_lisans_programı_yoneticileri_toplanti/04_2.pdf"><a target="_blank">Hemşirelik Lisans Programı Yöneticileri Toplantısı</a></Link><br/>
+		          	<Link href="doc/paydas_toplantilari/hemsirelik_lisans_programı_yoneticileri_toplanti/04_3.pdf"><a target="_blank">Liderlik ve Kalite Güvencesi Kültürü Sunumu - Prof. Dr. Sultan Taşçı</a></Link><br/>
+		          </td>
 		        </tr>
 						<tr>
 	          	<td scope="row" width="110px">19 Ekim 2023</td>
