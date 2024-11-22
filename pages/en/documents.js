@@ -82,6 +82,10 @@ const Belgeler = () => (
                   <th scope="row" width="10px">1</th>
                   <td><Link href="../doc/en/doc-hepdak-program-evaluator-report.pdf"><a target="_blank">HEPDAK Program Evaluator Report (Version 6.0)</a></Link></td>
                 </tr>
+                <tr>
+                  <th scope="row" width="10px">2</th>
+                  <td><Link href="../doc/en/documents/hepdak-evaluation-guide.pdf"><a target="_blank">HEPDAK Evaluation Guide</a></Link></td>
+                </tr>
               </tbody>
               <thead className="thead-dark">
                 <tr>
@@ -124,6 +128,10 @@ const Belgeler = () => (
                 <tr>
                   <th scope="row" width="10px">1</th>
                   <td><Link href="../doc/en/doc-hepdak-pes.docx"><a target="_blank">HEPDAK Program Evaluation Schedule</a></Link></td>
+                </tr>
+                <tr>
+                  <th scope="row" width="10px">2</th>
+                  <td><Link href="../doc/en/documents/hepdak-academic-evaluator-application-form.pdf"><a target="_blank">HEPDAK Acedemic Evaluator Candidate Application Form</a></Link></td>
                 </tr>
               </tbody>
             </table>           
