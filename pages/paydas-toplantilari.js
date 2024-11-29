@@ -53,8 +53,8 @@ const Paydas = () => (
 						<tr>
 		          <td scope="row" width="110px">27 Şubat 2024</td>
 		          <td>
-		          	<Link href="doc/paydas_toplantilari/basvuran_kurum_yoneticileri_toplanti/04_1.pdf"><a target="_blank">2024-2025 Dönemi HEPDAK Akreditasyon için Başvuran Kurumlara Yönelik Bilgilendirme Toplantı Duyurusu</a></Link><br/>
-		          	<Link href="doc/paydas_toplantilari/basvuran_kurum_yoneticileri_toplanti/04_2.pdf"><a target="_blank">2024-2025 Dönemi HEPDAK Akreditasyon için Başvuran Kurumlara Yönelik Bilgilendirme Toplantısı</a></Link>
+		          	<Link href="doc/paydas_toplantilari/basvuran_kurum_yoneticileri_toplanti/05_1.pdf"><a target="_blank">2024-2025 Dönemi HEPDAK Akreditasyon için Başvuran Kurumlara Yönelik Bilgilendirme Toplantı Duyurusu</a></Link><br/>
+		          	<Link href="doc/paydas_toplantilari/basvuran_kurum_yoneticileri_toplanti/05_2.pdf"><a target="_blank">2024-2025 Dönemi HEPDAK Akreditasyon için Başvuran Kurumlara Yönelik Bilgilendirme Toplantısı</a></Link>
 		          </td>
 		        </tr>
 		        <tr>
