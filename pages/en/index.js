@@ -42,41 +42,6 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
-                  <div className="main-top-one-title">HEPDAK Nursing Undergraduate Program Managers Meeting- 4 (October 12, 2024)</div>
-                  <div className="main-top-one-content">The fourth Nursing Undergraduate Program Managers Meetingorganized by HEPDAK within the
-                    scope of stakeholder meetings, was held online on October 12, 2024. The
-                    meeting, attended by 114 managers/faculty members from
-                    undergraduate programs, began with an informative presentation by
-                    HEPDAK board chair Prof. Dr. Dilek ÖZMEN on HEPDAK activities, and
-                    continued with a presentation by Erciyes University Health Sciences
-                    Faculty Nursing Department faculty member Prof. Dr. Sultan TAŞÇI on
-                    “Leadership and Quality Assurance Culture”. The meeting ended with
-                    goodwill wishes after discussing the expectations of nursing
-                    undergraduate program managers from HEPDAK and answering participant questions.</div>
-                </div>
-                <div className="carousel-item">
-                  <div className="main-top-one-title">Webinar: Bridge to Access 21st Century Competencies: Extracurricular Learning (October 03, 2024)</div>
-                  <div className="main-top-one-content">The subject of the 12th webinar held on October
-                    03, 2024 with the HEPDAK-HEMED collaboration was “Bridge to Access 21st
-                    Century Competencies: Extracurricular Learning”. Dr. Gülsüm ÇONOĞLU from Çankırı
-                    Karatekin University, Faculty of Health Sciences, Department of Nursing was the speaker of the
-                    webinar, which was moderated by Prof. Dr. Ayla KEÇECİ. From different universities in
-                    Turkey, 215 faculty members attended the meeting. The questions and contributions of
-                    the participants were included in the last part of the webinar. The webinar ended with the
-                    good wishes of the participants.</div>
-                </div>
-                <div className="carousel-item">
-                  <div className="main-top-one-title">HEPDAK 12th Training Workshop for Institutions (September 19-20, 2024)</div>
-                  <div className="main-top-one-content">The 12th HEPDAK Institutional Training Workshops were held online for two half days on
-                    19-20 September 2024. One hundred and five faculty members from 51 different institutions
-                    participated in the training, which was prepared according to the Standards-based grading
-                    tool. In the training, group work was conducted in separate 12 groups based on sample cases
-                    prepared for each basic standard. In the meeting, Prof. Dr. Zeynep ÖZER from Akdeniz
-                    University Faculty of Nursing and Prof. Dr. Ükke Karabacak from Acıbadem University
-                    Faculty of Health Sciences, Nursing Department shared their experiences on their
-                    accreditation processes. The meeting ended with a general discussion section.</div>
-                </div>
-                <div className="carousel-item">
                   <Link href="/doc/2024-kurum-egitim-takvim.pdf"><a target="_blank">
                     <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/en/2024-09-16.jpeg"/></div>
                   </a></Link>
@@ -162,20 +127,53 @@ const Anasayfa = () => (
         <div className="main-new-block-alt">
           <div className="main-block-title">
             <div className="block-title-main">News</div>
-            <div className="block-title-all"><a href="/#">All News</a></div>
+            <div className="block-title-all"><Link href="en/all-news">All News</Link></div>
           </div>
-          {/*
-          <Link href="/haberler/02-06-2022-degerlendirici">
+
+          <Link href="en/all-news#12october2024">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
-              <div className="date-day">02</div>
-              <div className="date-month">Haziran</div>
-              <div className="date-year">2022</div>
+              <div className="date-day">12</div>
+              <div className="date-month">October</div>
+              <div className="date-year">2024</div>
             </div>
-            <div className="block-subtitle-text">HEPDAK 2022 yılı Değerlendirici Eğitimi başladı</div>
+            <div className="block-subtitle-text">HEPDAK Nursing Undergraduate Program Managers Meeting - 4</div>
           </div>
           </Link>
-          */}
+
+          <Link href="en/all-news#03october2024">
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">03</div>
+              <div className="date-month">October</div>
+              <div className="date-year">2024</div>
+            </div>
+            <div className="block-subtitle-text">Webinar: Bridge to Access 21st Century Competencies: Extracurricular Learning</div>
+          </div>
+          </Link>
+          
+          <Link href="en/all-news#1920september2024">
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">19-20</div>
+              <div className="date-month">September</div>
+              <div className="date-year">2024</div>
+            </div>
+            <div className="block-subtitle-text">HEPDAK 12th Training Workshop for Institutions</div>
+          </div>
+          </Link>
+
+          <Link href="en/all-news#10june2024">
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">10</div>
+              <div className="date-month">June</div>
+              <div className="date-year">2024</div>
+            </div>
+            <div className="block-subtitle-text">A monitoring visit organized by YÖKAK was held</div>
+          </div>
+          </Link>
+          
         </div>
       </div>
       <div className="main-new-block col-md-4 col-sm-12">
