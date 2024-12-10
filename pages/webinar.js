@@ -10,14 +10,14 @@ const Webinar = () => (
 	    <div className="genel">
 	    	<h1>HEPDAK Webinar</h1>
 	    	<div className="webinar-genel">
-	    	{/*
+	    	
 	    		<h4>- Yaklaşan Webinarlar -</h4>
-	    		<div className="row justify-content-center">
-	    			<div className="col-md-6">
-	    				<a target="_blank" href="https://us02web.zoom.us/j/87261775628?pwd=kFNeWvDQlCFrEPt13pjTGsaS2aexVg.1"><img className="webinar-afis" src="img/webinar/webinar-12.jpeg"></img></a>
-	    			</div>
-	    		</div>
-	    	*/}
+        		<div className="row justify-content-center">
+        			<div className="col-md-6">
+        		     	<a target="_blank" href="https://us02web.zoom.us/j/87466779498?pwd=mNUCFuUYhRUa7hKhvKu43P5YT0ATW2.1"><img className="webinar-afis" src="img/webinar/webinar-13.jpeg"></img></a>
+        		    </div>
+        		</div>
+	    
 	    		<h4>- Tamamlanan Webinarlar -</h4> 
 	    	</div>
 	    </div>
