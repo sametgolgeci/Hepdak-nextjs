@@ -42,11 +42,6 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
-                  <Link href="/doc/2024-kurum-egitim-takvim.pdf"><a target="_blank">
-                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/en/2024-09-16.jpeg"/></div>
-                  </a></Link>
-                </div>
-                <div className="carousel-item">
                   <Link href="doc/en/2024-meeting-calendar.pdf"><a target="_blank">
                     <div className="main-top-one-title">HEPDAK 2024 Meeting Calendar</div>
                     <div className="main-top-one-content"><strong>Click here</strong> access the meeting calendar to be held by HEPDAK in 2024.</div>
