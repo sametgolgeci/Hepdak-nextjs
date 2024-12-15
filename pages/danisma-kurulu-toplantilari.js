@@ -14,6 +14,10 @@ const Toplantilar = () => (
 	      <tbody>
 	      	<tr>
 	          <th scope="row" width="10px"></th>
+	          <td><Link href="doc/danisma_kurulu_toplantilari/04.pdf"><a target="_blank">HEPDAK Danışma Kurulu Toplantısı - 4 (08 Ekim 2024)</a></Link></td>
+	        </tr>
+	      	<tr>
+	          <th scope="row" width="10px"></th>
 	          <td><Link href="doc/danisma_kurulu_toplantilari/03.pdf"><a target="_blank">HEPDAK Danışma Kurulu Toplantısı - 3 (27 Haziran 2024)</a></Link></td>
 	        </tr>
 	      	<tr>

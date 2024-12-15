@@ -93,7 +93,7 @@ const Kurul = () => (
 	    	<span className="madde-span">• Prof. Dr. Ayhan Lash, Northern Illinois Üniversitesi Emekli Öğretim Üyesi</span>
 	    	<span className="madde-span">• Prof. Dr. Oya Kavlak, Ege Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Gülengün Türk, Adnan Menderes Üniversitesi</span>
-	    	<span className="madde-span">• Dr. Öğr. Üyesi Hatice Çamveren, Kütahya Sağlık Bilimleri Üniversitesi</span>
+	    	<span className="madde-span">• Dr. Öğr. Üyesi Damla Çamveren, Kütahya Sağlık Bilimleri Üniversitesi</span>
 
 	    	<h3 className="kurul-title">WEB Tasarım Komisyonu</h3>
 	    	<span className="madde-span">• Prof. Dr. Özen Kulakaç (Başkan), Ondokuz Mayıs Üniversitesi</span>

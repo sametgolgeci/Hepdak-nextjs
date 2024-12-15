@@ -17,6 +17,14 @@ const Tum = () => (
           </ul>
           <div className="tab-content">
             <div id="twentyfour" className="container tab-pane active">
+              <div className="main-top-second" id="26november2024">
+                <div className="main-top-second-title">Applied Education Workshop in Nursing Programs (November 26, 2024)</div> 
+                <div className="main-top-second-content">
+                  <p>The ‘Applied Education Workshop in Nursing Programs’ organized in collaboration with HEMDEK, HEPDAK and HEMED was held online on November 26, 2024. 179 nursing managers and academicians attended the workshop hosted by Istanbul University Faculty of Nursing.</p>
+                  <p>The opening speeches of the workshop were made by HEMDEK President Prof. Dr. Merdiye Şendir, HEPDAK President Prof. Dr. Dilek Özmen and HEMED President Assoc. Prof. Dr. Havva Arslan Yürümezoğlu. Following the opening speeches, Istanbul University Faculty of Nursing Dean Prof. Dr. Ayfer Aydın gave a speech on ‘Sharing Applied Education Survey Results’ and the session continued with ‘Sharing Applied Education Examples’. Assoc. Prof. Dr. Selda Arslan, Necmettin Erbakan University Faculty of Nursing, Assist. Prof. Esra Ardahan Akgül, Izmir Katip Çelebi University Faculty of Health Sciences, Prof. Dr. Sonay Göktaş Health Sciences University Hamidiye Faculty of Nursing presented practical training examples.</p>
+                  <p>The meeting ended with a session moderated by Prof. Dr. Merdiye Şendir, Prof. Dr. Ayfer Aydın and Prof. Dr. Gülseren Kocaman, where participants questions were opened to discussion.</p>
+                </div> 
+              </div>
               <div className="main-top-second" id="12october2024">
                 <div className="main-top-second-title">HEPDAK Nursing Undergraduate Program Managers Meeting - 4 (October 12, 2024)</div> 
                 <div className="main-top-second-content">
