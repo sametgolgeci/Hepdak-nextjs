@@ -84,6 +84,10 @@ const Belgeler = () => (
                     </div>
                   </td>
                 </tr>
+                <tr>
+                  <th scope="row">10</th>
+                  <td>HEPDAK Web Tasarım Komisyonu Çalışma ve Usul ve Esasları Yönergesi <Link href="doc/a10_v1.pdf"><a>Sürüm 1.0</a></Link></td>
+                </tr>
               </tbody>
             </table>
 

@@ -50,6 +50,11 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
+                  <Link href="/doc/takvim/2025-toplanti-takvim.pdf"><a target="_blank">
+                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2025/2025-toplanti-takvim.jpeg"/></div>
+                  </a></Link>
+                </div>
+                <div className="carousel-item">
                   <Link href="https://us02web.zoom.us/j/87466779498?pwd=mNUCFuUYhRUa7hKhvKu43P5YT0ATW2.1"><a target="_blank">
                     <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2024-webinar-13.jpeg"/></div>
                   </a></Link>
@@ -343,6 +348,17 @@ const Anasayfa = () => (
           </Link>
           */}
 
+          <Link href="/doc/takvim/2025-toplanti-takvim.pdf">
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day"></div>
+              <div className="date-month">25'</div>
+              <div className="date-year">Takvim</div>
+            </div>
+            <div className="block-subtitle-text">HEPDAK 2025 Toplantı Takvimi</div>
+          </div>
+          </Link>
+
           <Link href="/doc/takvim/2024-kurum-egitim-takvim.pdf">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
@@ -357,9 +373,9 @@ const Anasayfa = () => (
           <Link href="/doc/takvim/2024-toplanti-takvim.pdf">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
-              <div className="date-day">16</div>
-              <div className="date-month">Ocak</div>
-              <div className="date-year">2024</div>
+              <div className="date-day"></div>
+              <div className="date-month">24'</div>
+              <div className="date-year">Takvim</div>
             </div>
             <div className="block-subtitle-text">HEPDAK 2024 Toplantı Takvimi</div>
           </div>
