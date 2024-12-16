@@ -246,7 +246,7 @@ katılımcıların iyi dilekleriyle sona ermiştir.</p>
               <div className="main-top-second">
                 <div className="main-top-second-title">HEPDAK 2024 yılı Değerlendirici Eğitimi tamamlandı (03-26-27 Nisan 2024)</div> 
                 <div className="main-top-second-content">
-                  <p>HEPDAK 2023 yılı Değerlendirici Eğitimi çevrimiçi ortamda üç aşamalı olarak (2
+                  <p>HEPDAK 2024 yılı Değerlendirici Eğitimi çevrimiçi ortamda üç aşamalı olarak (2
 yarım bir tam gün) gerçekleştirilmiştir. 3 Nisan 2024’de yapılan yarım günlük ön
 toplantıda katılımcılara lisans programı akreditasyon süreci, HEPDAK Rubrik
 Değerlendirme Süreci ve HEPDAK Ziyaret Süreci hakkında genel bilgi verilmiş,

@@ -227,7 +227,7 @@ const Anasayfa = () => (
             <div className="block-subtitle-text">HEPDAK 2024 Yılı Öğrenci Değerlendirici Eğitimi</div>
           </div>
           </Link>
-
+          {/*
           <Link href="/haberler/2024-05-24-haber">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
@@ -326,7 +326,7 @@ const Anasayfa = () => (
             <div className="block-subtitle-text">Yükseköğretim Kalite Kurulu (YÖKAK) Paydaş Toplantısı</div>
           </div>
           </Link>
-
+              */}
         </div>
       </div>
       <div className="main-new-block col-md-4 col-sm-12">

@@ -42,9 +42,9 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
-                  <Link href="doc/en/2024-meeting-calendar.pdf"><a target="_blank">
-                    <div className="main-top-one-title">HEPDAK 2024 Meeting Calendar</div>
-                    <div className="main-top-one-content"><strong>Click here</strong> access the meeting calendar to be held by HEPDAK in 2024.</div>
+                  <Link href="doc/en/2025-meeting-calendar.pdf"><a target="_blank">
+                    <div className="main-top-one-title">HEPDAK 2025 Meeting Calendar</div>
+                    <div className="main-top-one-content"><strong>Click here</strong> access the meeting calendar to be held by HEPDAK in 2025.</div>
                   </a></Link>
                 </div>
                 <div className="carousel-item">
@@ -132,7 +132,7 @@ const Anasayfa = () => (
               <div className="date-month">November</div>
               <div className="date-year">2024</div>
             </div>
-            <div className="block-subtitle-text">Applied Education Workshop in Nursing Programs</div>
+            <div className="block-subtitle-text">Workshop on Practical Education in Nursing Programs</div>
           </div>
           </Link>
 
@@ -179,6 +179,17 @@ const Anasayfa = () => (
             <div className="block-subtitle-text">A monitoring visit organized by YÖKAK was held</div>
           </div>
           </Link>
+
+          <Link href="en/all-news#08june2024">
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">08</div>
+              <div className="date-month">June</div>
+              <div className="date-year">2024</div>
+            </div>
+            <div className="block-subtitle-text">HEPDAK 2024 Student Evaluator Training completed</div>
+          </div>
+          </Link>
           
         </div>
       </div>
@@ -188,6 +199,17 @@ const Anasayfa = () => (
             <div className="block-title-main">Announcements</div>
             <div className="block-title-all"><a href="/#">All Announcements</a></div>
           </div>
+
+          <Link href="doc/en/2025-meeting-calendar.pdf">
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day"></div>
+              <div className="date-month">25'</div>
+              <div className="date-year">Calendar</div>
+            </div>
+            <div className="block-subtitle-text">HEPDAK Meeting Calendar 2025</div>
+          </div>
+          </Link>
 
         </div>
       </div>
