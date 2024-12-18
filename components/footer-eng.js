@@ -49,7 +49,7 @@ const Footer = () => (
 			<div className="footer-item-title"><strong>Accreditation</strong></div>
 			<div className="footer-item-link"><Link href="/doc/en/application.pdf"><a>Application</a></Link></div>
 			<div className="footer-item-link"><Link href="/en/documents"><a>Documents</a></Link></div>
-			<div className="footer-item-link"><Link href="/doc/en/fees.pdf"><a>Fees</a></Link></div>
+			<div className="footer-item-link"><Link href="/doc/en/fees-2025.pdf"><a>Fees</a></Link></div>
 			<div className="footer-item-link"><Link href="/doc/en/accredited-programs.pdf"><a>Accredited Programs</a></Link></div>
 			<div className="footer-item-link"><Link href="/en/related-organizations"><a>Related Organizations</a></Link></div>
 			<div className="footer-item-title footer-item-title-calistay"><strong>Workshops</strong></div>

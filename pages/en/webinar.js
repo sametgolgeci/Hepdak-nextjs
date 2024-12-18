@@ -14,7 +14,7 @@ const Webinar = () => (
           <h4>- Yaklaşan Webinarlar -</h4>
           <div className="row justify-content-center">
             <div className="col-md-6">
-              <a target="_blank" href="https://us02web.zoom.us/j/87466779498?pwd=mNUCFuUYhRUa7hKhvKu43P5YT0ATW2.1"><img className="webinar-afis" src="img/webinar/webinar-13.jpeg"></img></a>
+              <a target="_blank" href="https://us02web.zoom.us/meeting/register/tZIldeyorTMpH9WvELyN5tVH69gzQ7-sQoVd"><img className="webinar-afis" src="img/webinar/webinar-14.jpeg"></img></a>
             </div>
           </div>
         */}
@@ -22,10 +22,16 @@ const Webinar = () => (
         </div>
       </div>
       <div className="webinar-bottom">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/Kq-C0KBWSJ4?si=fPTU5BeKn0kVt5IN" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <div className="webinar-bottom-title">21. YY. Yetkinliklerine Erişimde Köprü: Program Dışı Öğrenme (October 03, 2024)(in Turkish)</div>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/ZOFayPaPBfo?si=q3hBEWswcRLN-KMD" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <div className="webinar-bottom-title">Yönetici Hemşireler Mezunlarımızın Yetkinliklerini Nasıl Değerlendiriyor? (December 18, 2024)(in Turkish)</div>
       </div>
       <div className="row">
+        <div className="col-md-4">
+          <div className="embed-responsive embed-responsive-16by9">
+            <iframe className="embed-responsive-item" src="https://www.youtube.com/embed/Kq-C0KBWSJ4?si=fPTU5BeKn0kVt5IN" allowFullScreen></iframe>
+          </div>
+        <div className="webinar-bottom-title">21. YY. Yetkinliklerine Erişimde Köprü: Program Dışı Öğrenme (October 03, 2024)(in Turkish)</div>
+        </div>
         <div className="col-md-4">
           <div className="embed-responsive embed-responsive-16by9">
             <iframe className="embed-responsive-item" src="https://www.youtube.com/embed/hL9ivPF_v5U?si=FNtYUrKFAV_9cOE2" allowFullScreen></iframe>

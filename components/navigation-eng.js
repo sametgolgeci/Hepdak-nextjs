@@ -28,7 +28,7 @@ const Navigation = () => (
 					<div className="dropdown-menu">
 						<Link href="../doc/en/application.pdf"><a className="dropdown-item">Application</a></Link>
 						<Link href="/en/documents"><a className="dropdown-item">Documents</a></Link>
-						<Link href="../doc/en/fees.pdf"><a className="dropdown-item">Fees</a></Link>
+						<Link href="../doc/en/fees-2025.pdf"><a className="dropdown-item">Fees</a></Link>
 						<Link href="../doc/en/accredited-programs.pdf"><a className="dropdown-item">Accredited Programs</a></Link>
 						<Link href="/en/related-organizations"><a className="dropdown-item">Related Organizations</a></Link>
 					</div>

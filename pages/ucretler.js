@@ -12,8 +12,8 @@ const Ucretler = () => (
 	    <div className="row akreditasyon">
 	    	<div className="col-md-12 akreditasyon-content">
           <div id="ucretler" className="akreditasyon-content-item">         
-            <div className="akreditasyon-content-subtitle">2024-2025 Değerlendirme Dönemi Akreditasyon Bedelleri</div>
-            <p>2024-2025 döneminde değerlendirilecek programlar için akreditasyon değerlendirme bedelleri aşağıdaki tabloda yer almaktadır.</p>
+            <div className="akreditasyon-content-subtitle">2025-2026 Değerlendirme Dönemi Akreditasyon Bedelleri</div>
+            <p>2025-2026 döneminde değerlendirilecek programlar için akreditasyon değerlendirme bedelleri aşağıdaki tabloda yer almaktadır.</p>
             <table className="table table-striped">
               <thead className="thead-dark">
                 <tr>
@@ -24,11 +24,11 @@ const Ucretler = () => (
               <tbody>
                 <tr>
                   <th scope="row">Genel Değerlendirme(1)</th>
-                  <td>135.000 TL + KDV*</td>
+                  <td>230.000 TL + KDV*</td>
                 </tr>
                 <tr>
                   <th scope="row">Ara Değerlendirme(2)</th>
-                  <td>85.000 TL + KDV*/**</td>
+                  <td>170.000 TL + KDV*/**</td>
                 </tr>
               </tbody>
             </table>

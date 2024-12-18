@@ -30,7 +30,7 @@ const Navigation = () => (
 					<div className="dropdown-menu">
 						<Link href="/doc/b1-basvuru-2024-2025.pdf"><a className="dropdown-item">Başvuru</a></Link>
 						<Link href="/belgeler"><a className="dropdown-item">Belgeler</a></Link>
-						<Link href="/ucretler"><a className="dropdown-item">Ücretler</a></Link>
+						<Link href="/doc/ucretler-2025.pdf"><a className="dropdown-item">Ücretler</a></Link>
 						<Link href="/akredite-edilen-kurumlar"><a className="dropdown-item">Akredite Edilen Kurumlar</a></Link>
 						<Link href="/ilgili-kuruluslar"><a className="dropdown-item">İlgili Kuruluşlar</a></Link>
 					</div>
