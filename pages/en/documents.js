@@ -51,6 +51,10 @@ const Belgeler = () => (
                   <th scope="row">8</th>
                   <td><Link href="../doc/en/doc-hepdak-principles.docx"><a target="_blank">HEPDAK Directive of Evaluation and Accreditation Implementation Principles</a></Link></td>
                 </tr>
+                <tr>
+                  <th scope="row">9</th>
+                  <td><Link href="../doc/en/doc-wdcwpp.pdf"><a target="_blank">HEPDAK Web Design Commission Working Procedures and Principles</a></Link></td>
+                </tr>
               </tbody>
             </table>
 
