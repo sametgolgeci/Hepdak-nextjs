@@ -65,11 +65,6 @@ const Anasayfa = () => (
                   </a></Link>
                 </div>
                 <div className="carousel-item">
-                  <Link href="/doc/takvim/2024-toplanti-takvim.pdf"><a target="_blank">
-                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2024-toplanti-takvim.jpeg"/></div>
-                  </a></Link>
-                </div>
-                <div className="carousel-item">
                   <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2024-tescil-suresi.jpeg"/></div>
                 </div>
 
@@ -356,28 +351,6 @@ const Anasayfa = () => (
               <div className="date-year">Takvim</div>
             </div>
             <div className="block-subtitle-text">HEPDAK 2025 Toplantı Takvimi</div>
-          </div>
-          </Link>
-
-          <Link href="/doc/takvim/2024-kurum-egitim-takvim.pdf">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">19-20</div>
-              <div className="date-month">Eylül</div>
-              <div className="date-year">2024</div>
-            </div>
-            <div className="block-subtitle-text">HEPDAK 2024 Kurum Eğitimi</div>
-          </div>
-          </Link>
-
-          <Link href="/doc/takvim/2024-toplanti-takvim.pdf">
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day"></div>
-              <div className="date-month">24'</div>
-              <div className="date-year">Takvim</div>
-            </div>
-            <div className="block-subtitle-text">HEPDAK 2024 Toplantı Takvimi</div>
           </div>
           </Link>
 
