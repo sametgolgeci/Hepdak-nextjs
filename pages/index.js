@@ -157,14 +157,14 @@ const Anasayfa = () => (
             <div className="block-title-all"><a href="/tum-haberler">Tüm Haberler</a></div>
           </div>
          
-          <Link href="/haberler/2024-12-10-haber">
+          <Link href="/haberler/2024-12-18-haber">
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
-              <div className="date-day">26</div>
-              <div className="date-month">Kasım</div>
+              <div className="date-day">18</div>
+              <div className="date-month">Aralık</div>
               <div className="date-year">2024</div>
             </div>
-            <div className="block-subtitle-text">Hemşirelik Programlarında Uygulamalı Eğitim Çalıştayı</div>
+            <div className="block-subtitle-text">Webinar: Yönetici Hemşireler Mezunlarımızın Yetkinliklerini Nasıl Değerlendiriyor?</div>
           </div>
           </Link>
 
@@ -175,7 +175,7 @@ const Anasayfa = () => (
               <div className="date-month">Kasım</div>
               <div className="date-year">2024</div>
             </div>
-            <div className="block-subtitle-text">Webinar: Yönetici Hemşireler Mezunlarımızın Yetkinliklerini Nasıl Değerlendiriyor?</div>
+            <div className="block-subtitle-text">Hemşirelik Programlarında Uygulamalı Eğitim Çalıştayı</div>
           </div>
           </Link>
 
