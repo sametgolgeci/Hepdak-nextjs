@@ -96,9 +96,14 @@ const Paydas = () => (
 			</div>
 			<h5><a data-toggle="collapse" href="#UIKT" role="button" aria-expanded="false" aria-controls="UIKT">Uluslararası İlişkiler Komisyonu Toplantıları</a></h5>
 			<div className="collapse" id="UIKT">
-				<h6>2023</h6>
 				<table className="table table-striped">
 					<tbody>
+						<tr>
+	          	<td><Link href="doc/komisyon_toplantilari/uluslararasi_iliskiler_komisyonu/2024-03.pdf"><a>Uluslararası İlişkiler Komisyonu 2024 Yılı INQAAHE Toplantı Katılımı</a></Link></td>
+	        	</tr>
+	        	<tr>
+	          	<td><Link href="doc/komisyon_toplantilari/uluslararasi_iliskiler_komisyonu/2024-02.pdf"><a>Uluslararası İlişkiler Komisyonu 2024 Yılı CEENQA Toplantı Katılımı</a></Link></td>
+	        	</tr>
 						<tr>
 	          	<td><Link href="doc/komisyon_toplantilari/uluslararasi_iliskiler_komisyonu/2024-01.pdf"><a>Uluslararası İlişkiler Komisyonu Ocak - Haziran 2024 Dönemi Raporu</a></Link></td>
 	        	</tr>

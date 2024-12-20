@@ -18,6 +18,12 @@ const Tum = () => (
           <div className="tab-content">
             <div id="twentyfour" className="container tab-pane active">
 
+              <div className="main-top-second" id="18december2024">
+                <div className="main-top-second-title">Webinar: How Do Nurse Managers Assess the Competencies of Our Graduates? (December 18, 2024)</div> 
+                <div className="main-top-second-content">
+                  <p>The XIIIth webinar held on December 18, 2024 with the HEPDAK - HEMED collaboration addressed the topic of "Nurse Managers Assessment of the Competencies of Nursing Undergraduate Program Graduates". The moderator of the webinar was Assoc. Prof. Dr. Havva Arslan Yürümezoğlu. The speakers of the webinar were; Hacettepe Adult Hospital Nursing Services Director Dr. Hümeyra ZENGİN, Anadolu Health Center Patient Care and Nursing Services Director Specialist Nursing Birsen CİVİL SUBAŞ, Ankara Bilkent City Hospital Gastroenterology Clinic Responsible Nurse Dr. Gülfikar GULKAYA. 222 faculty members from different universities in Turkey attended the meeting. Guest speakers answered the questions and contributions of the participants in the webinar. The webinar ended with the well-wishes of the participants.</p>
+                </div> 
+              </div>
               <div className="main-top-second" id="26november2024">
                 <div className="main-top-second-title">Workshop on Practical Education in Nursing Programs (November 26, 2024)</div> 
                 <div className="main-top-second-content">

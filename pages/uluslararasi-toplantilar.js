@@ -13,6 +13,10 @@ const Calistay = () => (
 		<h4>- CEENQA Faaliyetleri</h4>
 		<h6><span className="badge badge-custom">-</span> CEENQA Haberler </h6>
 			<div className="madde-p">
+				<a className="uluslararasi-link" data-toggle="collapse" href="#collapseCEENQA2024" role="button" aria-expanded="false" aria-controls="collapseCEENQA2024">- CEENQA Toplantısı (2024) </a>
+				<div className="collapse" id="collapseCEENQA2024">
+					<p>HEPDAK Uluslararası Komisyonu Çalışma Yönergesi doğrultusunda 2024 yılı ikinci yarısında çalışmalarını gerçekleştirmiştir. Komisyon HEPDAK’ın üyesi olduğu Central and Eastern European Network of Quality Assurance Agencies‘in (CEENQA) akreditasyon kuruluşunun gerçekleştirdiği toplantıları izlemiştir. CEENQA-tarafından iki ayda bir gerçekleştirilen toplantılara (18 Eylül 2024 ve 20 Kasım 2024) katılım gösterilmiştir.</p>
+				</div>
 				<a className="uluslararasi-link" data-toggle="collapse" href="#collapseCEENQA13" role="button" aria-expanded="false" aria-controls="collapseCEENQA13">- CEENQA Paylaşım Toplantısı - 13 (2023)</a>
 				<div className="collapse" id="collapseCEENQA13">
 					<p>Uluslararası ilişkileri komisyon üyeleri CEENQA tarafından iki ayda bir gerçekleştirilen (18 Ocak 2023, 26 Temmuz 2023 ve 15 Kasım 2023) toplantılara katılım göstermişlerdir. </p>
@@ -223,6 +227,18 @@ Kuzey Kıbrıs YÖDAK’ temsilen Akile Gürsoy sunumlar yapmışlardır.</p>
 			</div>
 			<h4>- INQAAHE Faaliyetleri</h4>
 			<div className="madde-p">
+				<a className="uluslararasi-link" data-toggle="collapse" href="#collapseINQAAHE2024" role="button" aria-expanded="false" aria-controls="collapseINQAAHE2024">- INQAAHE Toplantısı (2024)</a>
+				<div className="collapse" id="collapseINQAAHE2024">
+					<p>HEPDAK Uluslararası Komisyonu Çalışma Yönergesi doğrultusunda 2024 yılı ikinci
+yarısında çalışmalarını gerçekleştirmiştir. Komisyon HEPDAK’ın üyesi olduğu INQAAHE
+(The International Network for Quality Assurance Agencies in Higher Education)
+akreditasyon kuruluşunun gerçekleştirdiği toplantıları izlemiştir. Komisyon,
+INQAAHE’nın 22 Ekim tarihindeki toplantısına katılmıştır. Komisyon üyesi Sergül
+Duygulu Romanya ARACIS (Agency for Quality Assurance in Higher Education)
+tarafından uluslararası değerlendirici olarak kurumsal (06-08 Kasım 2024 / Grigore T.
+Popa University of Medicine and Pharmacy Iaşi - UMF "Grigore T. Popa" Iaşi)
+değerlendirmeye davet edilmiş ve kurum değerlendiricisi olarak faaliyet gerçekleşmiştir.</p>
+				</div>
 				<a className="uluslararasi-link" data-toggle="collapse" href="#collapseINQAAHE310523" role="button" aria-expanded="false" aria-controls="collapseINQAAHE310523">- INQAAHE Genel Kurulu (31 Mayıs 2023)</a>
 				<div className="collapse" id="collapseINQAAHE310523">
 					<p>HEPDAK uluslararası ilişkiler komisyonu üyeleri INQAAHE tarafından 31 Mayıs 2023
