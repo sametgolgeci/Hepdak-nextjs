@@ -22,10 +22,16 @@ const Webinar = () => (
         </div>
       </div>
       <div className="webinar-bottom">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/ZOFayPaPBfo?si=q3hBEWswcRLN-KMD" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <div className="webinar-bottom-title">Yönetici Hemşireler Mezunlarımızın Yetkinliklerini Nasıl Değerlendiriyor? (December 18, 2024)(in Turkish)</div>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/pTbunEXbihI?si=qcc22pAY5OXBc5r6" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <div className="webinar-bottom-title">Hemşirelikte Değer Temelli Eğitim Nasıl Olmalı? (December 26, 2024)(in Turkish)</div>
       </div>
       <div className="row">
+        <div className="col-md-4">
+          <div className="embed-responsive embed-responsive-16by9">
+            <iframe className="embed-responsive-item" src="https://www.youtube.com/embed/ZOFayPaPBfo?si=q3hBEWswcRLN-KMD" allowFullScreen></iframe>
+          </div>
+        <div className="webinar-bottom-title">Yönetici Hemşireler Mezunlarımızın Yetkinliklerini Nasıl Değerlendiriyor? (December 18, 2024)(in Turkish)</div>
+        </div>
         <div className="col-md-4">
           <div className="embed-responsive embed-responsive-16by9">
             <iframe className="embed-responsive-item" src="https://www.youtube.com/embed/Kq-C0KBWSJ4?si=fPTU5BeKn0kVt5IN" allowFullScreen></iframe>

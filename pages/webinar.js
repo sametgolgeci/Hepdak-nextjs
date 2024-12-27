@@ -10,22 +10,28 @@ const Webinar = () => (
 	    <div className="genel">
 	    	<h1>HEPDAK Webinar</h1>
 	    	<div className="webinar-genel">
-	    	
+	    		{/*
 	    		<h4>- Yaklaşan Webinarlar -</h4>
           		<div className="row justify-content-center">
           		  <div className="col-md-6">
           		    <a target="_blank" href="https://us02web.zoom.us/meeting/register/tZIldeyorTMpH9WvELyN5tVH69gzQ7-sQoVd"><img className="webinar-afis" src="img/webinar/webinar-14.jpeg"></img></a>
           		  </div>
           		</div>
-	    
+	    		*/}
 	    		<h4>- Tamamlanan Webinarlar -</h4> 
 	    	</div>
 	    </div>
 	    <div className="webinar-bottom">
-	    	<iframe width="560" height="315" src="https://www.youtube.com/embed/ZOFayPaPBfo?si=q3hBEWswcRLN-KMD" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	    	<div className="webinar-bottom-title">Yönetici Hemşireler Mezunlarımızın Yetkinliklerini Nasıl Değerlendiriyor? (18 Aralık 2024)</div>
+	    	<iframe width="560" height="315" src="https://www.youtube.com/embed/pTbunEXbihI?si=qcc22pAY5OXBc5r6" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	    	<div className="webinar-bottom-title">Hemşirelikte Değer Temelli Eğitim Nasıl Olmalı? (26 Aralık 2024)</div>
 		</div>
 	    <div className="row">
+	    	<div className="col-md-4">
+          		<div className="embed-responsive embed-responsive-16by9">
+            		<iframe className="embed-responsive-item" src="https://www.youtube.com/embed/ZOFayPaPBfo?si=q3hBEWswcRLN-KMD" allowFullScreen></iframe>
+          		</div>
+        		<div className="webinar-bottom-title">Yönetici Hemşireler Mezunlarımızın Yetkinliklerini Nasıl Değerlendiriyor? (18 Aralık 2024)</div>
+        	</div>
 	    	<div className="col-md-4">
           		<div className="embed-responsive embed-responsive-16by9">
             		<iframe className="embed-responsive-item" src="https://www.youtube.com/embed/Kq-C0KBWSJ4?si=fPTU5BeKn0kVt5IN" allowFullScreen></iframe>
