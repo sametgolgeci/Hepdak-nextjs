@@ -56,7 +56,7 @@ const Navigation = () => (
 					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">MEETINGS</a>
 					<div className="dropdown-menu">
 						<Link href="#"><a className="dropdown-item">HEAK Meetings</a></Link>
-						<Link href="#"><a className="dropdown-item">Consistency Committee Meetings</a></Link>
+						<Link href="en/commission-meetings"><a className="dropdown-item">Commission Meetings</a></Link>
 						<Link href="#"><a className="dropdown-item">Team Leader Meetings</a></Link>
 						<Link href="#"><a className="dropdown-item">Standard Setting and Development Committee Meetings</a></Link>
 						<Link href="#"><a className="dropdown-item">International Meetings and Activities</a></Link>
