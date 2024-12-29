@@ -62,17 +62,19 @@ const Paydas = () => (
 			</div>
 			<h5><a data-toggle="collapse" href="#SIKT" role="button" aria-expanded="false" aria-controls="SIKT">Sürekli İyileştirme Komisyonu Toplantıları</a></h5>
 			<div className="collapse" id="SIKT">
-				<h6>2023</h6>
 				<table className="table table-striped">
 					<tbody>
 						<tr>
-	          	<td><Link href="doc/komisyon_toplantilari/surekli_iyilestirme_komisyonu/2024-01.pdf"><a>HEPDAK Sürekli İyileştirme Komisyonu Ocak - Haziran 2024 Dönemi Toplantı Tutanağı</a></Link></td>
+	          	<td><Link href="doc/komisyon_toplantilari/surekli_iyilestirme_komisyonu/2024-02.pdf"><a>HEPDAK Sürekli İyileştirme Komisyonu Temmuz - Aralık 2024 Dönemi Raporu</a></Link></td>
 	        	</tr>
 						<tr>
-	          	<td><Link href="doc/komisyon_toplantilari/surekli_iyilestirme_komisyonu/2023-02.pdf"><a>HEPDAK Sürekli İyileştirme Komisyonu Temmuz - Aralık 2023 Dönemi Toplantı Tutanağı</a></Link></td>
+	          	<td><Link href="doc/komisyon_toplantilari/surekli_iyilestirme_komisyonu/2024-01.pdf"><a>HEPDAK Sürekli İyileştirme Komisyonu Ocak - Haziran 2024 Dönemi Raporu</a></Link></td>
 	        	</tr>
 						<tr>
-	          	<td><Link href="doc/komisyon_toplantilari/surekli_iyilestirme_komisyonu/2023-01.pdf"><a>HEPDAK Sürekli İyileştirme Komisyonu Ocak - Haziran 2023 Dönemi Toplantı Tutanağı</a></Link></td>
+	          	<td><Link href="doc/komisyon_toplantilari/surekli_iyilestirme_komisyonu/2023-02.pdf"><a>HEPDAK Sürekli İyileştirme Komisyonu Temmuz - Aralık 2023 Dönemi Raporu</a></Link></td>
+	        	</tr>
+						<tr>
+	          	<td><Link href="doc/komisyon_toplantilari/surekli_iyilestirme_komisyonu/2023-01.pdf"><a>HEPDAK Sürekli İyileştirme Komisyonu Ocak - Haziran 2023 Dönemi Raporu</a></Link></td>
 	        	</tr>
 					</tbody>
 				</table>
