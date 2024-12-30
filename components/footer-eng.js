@@ -64,7 +64,7 @@ const Footer = () => (
 			<div className="footer-item-link"><Link href="en/activity-reports"><a>Activity Reports/Annual Reports</a></Link></div>
 			<div className="footer-item-link"><Link href="en/stakeholder-opinion-reports"><a>Stakeholder Opinion Reports</a></Link></div>	
 			<div className="footer-item-title footer-item-title-calistay"><strong>Meetings</strong></div>
-			<div className="footer-item-link"><Link href="#"><a>HEAK and Commission Meetings</a></Link></div>
+			<div className="footer-item-link"><Link href="en/heak-meetings"><a>HEAK Meetings</a></Link></div>
 			<div className="footer-item-link"><Link href="en/commission-meetings"><a>Commission Meetings</a></Link></div>
 			<div className="footer-item-link"><Link href="#"><a>Team Leader Meetings</a></Link></div>
 		</div>		
