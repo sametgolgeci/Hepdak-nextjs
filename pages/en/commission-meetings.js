@@ -9,6 +9,16 @@ const Belgeler = () => (
       </Head>
       <div className="genel komisyon-paydas">
         <h1>Commission Meetings</h1>
+        <h5><a data-toggle="collapse" href="#SSDC" role="button" aria-expanded="false" aria-controls="SSDC">Standards Setting and Development Commission (SSDC)</a></h5>
+        <div className="collapse" id="SSDC">
+          <table className="table table-striped">
+            <tbody>
+              <tr>
+                <td><Link href="doc/en/commission_meetings/SSDC/2024.pdf"><a>2024 Annual Report</a></Link></td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
         <h5><a data-toggle="collapse" href="#CIC" role="button" aria-expanded="false" aria-controls="CIC">Continuous Improvement Commission (CIC)</a></h5>
         <div className="collapse" id="CIC">
           <table className="table table-striped">

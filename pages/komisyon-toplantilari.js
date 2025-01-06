@@ -12,6 +12,15 @@ const Paydas = () => (
 			<h1>Komisyon Toplantıları</h1>
 			<h5><a data-toggle="collapse" href="#SBGKT" role="button" aria-expanded="false" aria-controls="SBGKT">Standartları Belirleme ve Geliştirme Komisyonu Toplantıları</a></h5>
 			<div className="collapse" id="SBGKT">
+			<h6>2024</h6>
+			<table className="table table-striped">
+	      <tbody>
+	        <tr>
+	          <th scope="row" width="160px">Ocak - Aralık<br/>2024</th>
+	          <td><Link href="doc/komisyon_toplantilari/standart_belirleme_komisyonu/2024-01.pdf"><a>Standartları Belirleme ve Geliştirme Komisyonu 2024 yılı Toplantı Raporu</a></Link></td>
+	        </tr>
+	      </tbody>
+	    </table>
 			<h6>2023</h6>
 			<table className="table table-striped">
 	      <tbody>
