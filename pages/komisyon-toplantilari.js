@@ -107,6 +107,40 @@ const Paydas = () => (
 					</tbody>
 				</table>
 			</div>
+			<h5><a data-toggle="collapse" href="#TKT" role="button" aria-expanded="false" aria-controls="TKT">Tutarlılık Komisyonu Toplantıları</a></h5>
+			<div className="collapse" id="TKT">
+				<table className="table table-striped">
+					<tbody>
+	      	<tr>
+	          <td>Tutarlılık Komisyonu Toplantısı - <Link href="doc/komisyon_toplantilari/tutarlilik_komisyonu/09.pdf"><a>14 Mart 2024</a></Link></td>
+	        </tr>
+	      	<tr>
+	          <td>Tutarlılık Komisyonu Toplantısı - <Link href="doc/komisyon_toplantilari/tutarlilik_komisyonu/08.pdf"><a>16-17 Mart 2023</a></Link></td>
+	        </tr>
+	      	<tr>
+	          <td>Tutarlılık Komisyonu Toplantısı - <Link href="doc/komisyon_toplantilari/tutarlilik_komisyonu/07.pdf"><a>17-18 Mart 2022</a></Link></td>
+	        </tr>
+	      	<tr>
+	          <td>Tutarlılık Komisyonu Toplantısı - <Link href="doc/komisyon_toplantilari/tutarlilik_komisyonu/06.pdf"><a>15-16 Mart 2021</a></Link></td>
+	        </tr>
+	        <tr>
+	          <td>Tutarlılık Komisyonu Toplantısı - <Link href="doc/komisyon_toplantilari/tutarlilik_komisyonu/05.pdf"><a>14 Mart 2020</a></Link></td>
+	        </tr>
+	        <tr>
+	          <td>Tutarlılık Komisyonu Toplantısı - <Link href="doc/komisyon_toplantilari/tutarlilik_komisyonu/04.pdf"><a>02 Mart 2019</a></Link></td>
+	        </tr>
+	        <tr>
+	          <td>Tutarlılık Komisyonu Toplantısı - <Link href="doc/komisyon_toplantilari/tutarlilik_komisyonu/03.pdf"><a>05 Mart 2018</a></Link></td>
+	        </tr>
+	        <tr>
+	          <td>Tutarlılık Komisyonu Toplantısı - <Link href="doc/komisyon_toplantilari/tutarlilik_komisyonu/02.pdf"><a>05 Mart 2017</a></Link></td>
+	        </tr>
+	        <tr>
+	          <td>Tutarlılık Komisyonu Toplantısı - <Link href="doc/komisyon_toplantilari/tutarlilik_komisyonu/01.pdf"><a>06 Mart 2016</a></Link></td>
+	        </tr>
+	      </tbody>
+				</table>
+			</div>
 			<h5><a data-toggle="collapse" href="#WBKT" role="button" aria-expanded="false" aria-controls="WBKT">Web Tasarım Komisyonu Toplantıları</a></h5>
 			<div className="collapse" id="WBKT">
 				<table className="table table-striped">

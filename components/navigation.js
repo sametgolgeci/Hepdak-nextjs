@@ -59,7 +59,6 @@ const Navigation = () => (
 					<div className="dropdown-menu">
 						<Link href="/heak-toplantilari"><a className="dropdown-item">HEAK Toplantıları</a></Link>
 						<Link href="/danisma-kurulu-toplantilari"><a className="dropdown-item">Danışma Kurulu Toplantıları</a></Link>
-						<Link href="/tutarlilik-komisyonu-toplantilari"><a className="dropdown-item">Tutarlılık Komisyonu Toplantıları</a></Link>
 						<Link href="/komisyon-toplantilari"><a className="dropdown-item">Komisyon Toplantıları</a></Link>
 						<Link href="/uluslararasi-toplantilar"><a className="dropdown-item">Uluslararası Toplantılar ve Faaliyetler</a></Link>
 						<Link href="/paydas-toplantilari"><a className="dropdown-item">Paydaş Toplantıları</a></Link>

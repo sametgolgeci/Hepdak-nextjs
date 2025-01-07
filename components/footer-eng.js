@@ -59,14 +59,15 @@ const Footer = () => (
 		</div>
 		<div className="col-sm-12 col-md-3 footer-item">
 			<div className="footer-item-title"><strong>Reports</strong></div>
-			<div className="footer-item-link"><Link href="en/general-assembly-and-reports"><a>General Assembly and Reports</a></Link></div>
-			<div className="footer-item-link"><Link href="en/thematic-analysis-reports"><a>Thematic Analysis Report</a></Link></div>
-			<div className="footer-item-link"><Link href="en/activity-reports"><a>Activity Reports/Annual Reports</a></Link></div>
-			<div className="footer-item-link"><Link href="en/stakeholder-opinion-reports"><a>Stakeholder Opinion Reports</a></Link></div>	
+			<div className="footer-item-link"><Link href="/en/general-assembly-and-reports"><a>General Assembly and Reports</a></Link></div>
+			<div className="footer-item-link"><Link href="/en/thematic-analysis-reports"><a>Thematic Analysis Report</a></Link></div>
+			<div className="footer-item-link"><Link href="/en/activity-reports"><a>Activity Reports/Annual Reports</a></Link></div>
+			<div className="footer-item-link"><Link href="/en/stakeholder-opinion-reports"><a>Stakeholder Opinion Reports</a></Link></div>	
 			<div className="footer-item-title footer-item-title-calistay"><strong>Meetings</strong></div>
-			<div className="footer-item-link"><Link href="en/heak-meetings"><a>HEAK Meetings</a></Link></div>
-			<div className="footer-item-link"><Link href="en/commission-meetings"><a>Commission Meetings</a></Link></div>
-			<div className="footer-item-link"><Link href="#"><a>Team Leader Meetings</a></Link></div>
+			<div className="footer-item-link"><Link href="/en/heak-meetings"><a>HEAK Meetings</a></Link></div>
+			<div className="footer-item-link"><Link href="/en/advisory-board-meetings"><a>Advisory Board Meetings</a></Link></div>
+			<div className="footer-item-link"><Link href="/en/commission-meetings"><a>Commission Meetings</a></Link></div>
+			<div className="footer-item-link"><Link href="/en/international-meetings"><a>International Meetings and Activities</a></Link></div>
 		</div>		
 	</div>
 	<div className="footer-copy">
