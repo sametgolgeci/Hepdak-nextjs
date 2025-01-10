@@ -115,6 +115,10 @@ const Paydas = () => (
 				<table className="table table-striped">
 					<tbody>
 						<tr>
+		          <td scope="row" width="110px">07 Ocak 2025</td>
+		          <td><Link href="doc/paydas_toplantilari/takim_baskanlari_toplanti/06.pdf"><a target="_blank">Takım Başkanları Toplantısı</a></Link></td>
+		        </tr>
+						<tr>
 		          <td scope="row" width="110px">04 Ocak 2023</td>
 		          <td><Link href="doc/paydas_toplantilari/takim_baskanlari_toplanti/05.pdf"><a target="_blank">Takım Başkanları Toplantısı</a></Link></td>
 		        </tr>

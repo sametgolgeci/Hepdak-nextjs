@@ -12,11 +12,31 @@ const Tum = () => (
         <div>
           <ul className="nav justify-content-center">
             <li className="nav-item">
-              <a className="nav-link main-second-nav-item active" data-toggle="pill" href="#twentyfour">2024</a>
+              <a className="nav-link main-second-nav-item active" data-toggle="pill" href="#twentyfive">2025</a>
+            </li>
+            <li className="nav-item">
+              <a className="nav-link main-second-nav-item" data-toggle="pill" href="#twentyfour">2024</a>
             </li>
           </ul>
           <div className="tab-content">
-            <div id="twentyfour" className="container tab-pane active">
+            <div id="twentyfive" className="container tab-pane active">
+              <div className="main-top-second" id="070125">
+                <div className="main-top-second-title">HEPDAK Team Leaders Meeting - 8 (January 07, 2025)</div> 
+                <div className="main-top-second-content">
+                  <p>HEPDAK Board of Directors held an online evaluation meeting with the Team Presidents on January 07, 2025. 26 people attended the meeting, including HEPDAK board members, Standards Setting and Development Committee representatives and team leaders. At the meeting, the team leaders shared their experiences on institution evaluation visits and the evaluation process, especially the opinions, problems and suggestions regarding the use of the HEPDAK Standards-Based Grading (SBG) Tool, which was implemented for the first time in 2024.</p>
+                </div>
+                <div className="main-top-second-content">
+                  <div className="row">
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/takim-baskani-toplantisi/01.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/takim-baskani-toplantisi/01.png" alt="HEPDAK Takım Başkanları Toplantısı - 8 (07 Ocak 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/takim-baskani-toplantisi/02.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/takim-baskani-toplantisi/02.png" alt="HEPDAK Takım Başkanları Toplantısı - 8 (07 Ocak 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/takim-baskani-toplantisi/03.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/takim-baskani-toplantisi/03.png" alt="HEPDAK Takım Başkanları Toplantısı - 8 (07 Ocak 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/takim-baskani-toplantisi/04.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/takim-baskani-toplantisi/04.png" alt="HEPDAK Takım Başkanları Toplantısı - 8 (07 Ocak 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/takim-baskani-toplantisi/05.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/takim-baskani-toplantisi/05.png" alt="HEPDAK Takım Başkanları Toplantısı - 8 (07 Ocak 2025)"/></a></div>
+                  </div>
+                </div>  
+              </div>
+            </div>
+            <div id="twentyfour" className="container tab-pane ">
               <div className="main-top-second" id="26december2024">
                 <div className="main-top-second-title">Webinar: How should value-based education be like in nursing? A critical look at current education programs and HUÇEP (December 26, 2024)</div> 
                 <div className="main-top-second-content">
