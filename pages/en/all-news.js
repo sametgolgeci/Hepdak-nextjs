@@ -27,11 +27,11 @@ const Tum = () => (
                 </div>
                 <div className="main-top-second-content">
                   <div className="row">
-                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/takim-baskani-toplantisi/01.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/takim-baskani-toplantisi/01.png" alt="HEPDAK Takım Başkanları Toplantısı - 8 (07 Ocak 2025)"/></a></div>
-                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/takim-baskani-toplantisi/02.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/takim-baskani-toplantisi/02.png" alt="HEPDAK Takım Başkanları Toplantısı - 8 (07 Ocak 2025)"/></a></div>
-                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/takim-baskani-toplantisi/03.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/takim-baskani-toplantisi/03.png" alt="HEPDAK Takım Başkanları Toplantısı - 8 (07 Ocak 2025)"/></a></div>
-                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/takim-baskani-toplantisi/04.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/takim-baskani-toplantisi/04.png" alt="HEPDAK Takım Başkanları Toplantısı - 8 (07 Ocak 2025)"/></a></div>
-                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/takim-baskani-toplantisi/05.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/takim-baskani-toplantisi/05.png" alt="HEPDAK Takım Başkanları Toplantısı - 8 (07 Ocak 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/takim-baskanlari-toplantisi/01.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/takim-baskanlari-toplantisi/01.png" alt="HEPDAK Takım Başkanları Toplantısı - 8 (07 Ocak 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/takim-baskanlari-toplantisi/02.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/takim-baskanlari-toplantisi/02.png" alt="HEPDAK Takım Başkanları Toplantısı - 8 (07 Ocak 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/takim-baskanlari-toplantisi/03.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/takim-baskanlari-toplantisi/03.png" alt="HEPDAK Takım Başkanları Toplantısı - 8 (07 Ocak 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/takim-baskanlari-toplantisi/04.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/takim-baskanlari-toplantisi/04.png" alt="HEPDAK Takım Başkanları Toplantısı - 8 (07 Ocak 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/takim-baskanlari-toplantisi/05.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/takim-baskanlari-toplantisi/05.png" alt="HEPDAK Takım Başkanları Toplantısı - 8 (07 Ocak 2025)"/></a></div>
                   </div>
                 </div>  
               </div>
