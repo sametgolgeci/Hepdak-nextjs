@@ -15,6 +15,7 @@ const Kurul = () => (
 	    	<span className="madde-span">• Prof. Dr. Medine Yılmaz (Genel Sekreter), İzmir Katip Çelebi Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Gülsüm Nihal Çürük (Sayman), İzmir Ekonomi Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Özen Kulakaç (Üye), Ondokuz Mayıs Üniversitesi</span>
+	    	<span className="madde-span"><h6><Link href="/yonetim-kurullari">Önceki Dönemlerdeki Yönetim Kurulları</Link></h6></span>
 	    	
 	    	<h3 className="kurul-title">HEPDAK Denetleme Kurulu</h3>
 	    	<span className="madde-span">• Prof. Dr. Hatice Yıldırım Sarı (Başkan), İzmir Katip Çelebi Üniversitesi</span>
@@ -77,6 +78,7 @@ const Kurul = () => (
 	    	<span className="madde-span">• Prof. Dr. Zeynep Özer, Akdeniz Üniversitesi</span>	
 	    	<span className="madde-span">• Dr. Öğr. Üyesi. Hatice Şen, Uluslararası Kıbrıs Üniversitesi</span>
 	    	<span className="madde-span">• Ar. Gör. İbrahim Kavaslar, Düzce Üniversitesi</span>
+	    	<span className="madde-span">• <strong>Öğrenci:</strong> Başak Yazıcı, Ege Üniversitesi</span> 
 	    	
 	    	<h3 className="kurul-title">Uluslararası İlişkiler Komisyonu</h3>
 	    	<span className="madde-span">• Doç. Dr. Fatoş Korkmaz (Başkan), Hacettepe Üniversitesi</span>

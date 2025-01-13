@@ -75,6 +75,7 @@ const Kurul = () => (
 	    	<span className="madde-span">• Prof. Dr. Zeynep Özer, Akdeniz Üniversitesi</span>
 	    	<span className="madde-span">• Dr. Öğr. Üyesi. Hatice Şen, Uluslararası Kıbrıs Üniversitesi</span>
 	    	<span className="madde-span">• Ar. Gör. İbrahim Kavaslar, Düzce Üniversitesi</span>
+	    	<span className="madde-span">• <strong>Student:</strong> Başak Yazıcı, Ege University</span> 
 	    	
 	    	<h3 className="kurul-title">International Relations Committee Working Directive</h3>
 	    	<span className="madde-span">• Doç. Dr. Fatoş Korkmaz (Chair), Hacettepe Üniversitesi</span>
