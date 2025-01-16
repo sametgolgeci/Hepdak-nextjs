@@ -59,7 +59,7 @@ const Navigation = () => (
 						<Link href="/en/advisory-board-meetings"><a className="dropdown-item">Advisory Board Meetings</a></Link>
 						<Link href="/en/commission-meetings"><a className="dropdown-item">Commission Meetings</a></Link>
 						<Link href="/en/international-meetings"><a className="dropdown-item">International Meetings and Activities</a></Link>
-						<Link href="#"><a className="dropdown-item">Stakeholder Meetings</a></Link>
+						<Link href="/en/stakeholder-meetings"><a className="dropdown-item">Stakeholder Meetings</a></Link>
 					</div>
 				</li>
 				<li className="nav-item dropdown">

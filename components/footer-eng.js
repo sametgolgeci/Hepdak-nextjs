@@ -68,10 +68,11 @@ const Footer = () => (
 			<div className="footer-item-link"><Link href="/en/advisory-board-meetings"><a>Advisory Board Meetings</a></Link></div>
 			<div className="footer-item-link"><Link href="/en/commission-meetings"><a>Commission Meetings</a></Link></div>
 			<div className="footer-item-link"><Link href="/en/international-meetings"><a>International Meetings and Activities</a></Link></div>
+			<div className="footer-item-link"><Link href="/en/stakeholder-meetings"><a>Stakeholder Meetings</a></Link></div>
 		</div>		
 	</div>
 	<div className="footer-copy">
-		<span>© 2020-2024 Hemşirelik Eğitim Programları Değerlendirme ve Akreditasyon Derneği - Tüm Hakları Saklıdır / All Rights Reserved - Desinged by sametgolgeci</span>
+		<span>© 2020-2025 Hemşirelik Eğitim Programları Değerlendirme ve Akreditasyon Derneği - All Rights Reserved - Desinged by sametgolgeci</span>
 	</div>
 </div>
 )

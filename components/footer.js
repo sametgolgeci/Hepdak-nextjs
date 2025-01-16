@@ -44,12 +44,10 @@ const Footer = () => (
 			<div className="footer-item-link"><Link href="/uye-listesi"><a>Üye Listesi</a></Link></div>
 			<div className="footer-item-link"><Link href="/degerlendirici-listesi"><a>Değerlendiriciler Listesi</a></Link></div>
 			<div className="footer-item-link"><Link href="/yetkilendirme-ve-uluslararasi-taninirlik"><a>Yetkilendirme ve Uluslararası Tanınırlık</a></Link></div>
-			{/* <div className="footer-item-link"><Link href="/dernek-belgeleri"><a>Dernek Belgeleri</a></Link></div> */}
 			<div className="footer-item-link"><Link href="/kurumsal-kimlik"><a>Kurumsal Kimlik</a></Link></div>
 		</div>	
 		<div className="col-sm-12 col-md-3 footer-item">
 			<div className="footer-item-title"><strong>Akreditasyon</strong></div>
-	{/*		<div className="footer-item-link"><Link href="/surec"><a>Süreç</a></Link></div> */}
 			<div className="footer-item-link"><Link href="/doc/b1-basvuru-2024-2025.pdf"><a>Başvuru</a></Link></div>
 			<div className="footer-item-link"><Link href="/belgeler"><a>Belgeler</a></Link></div>
 			<div className="footer-item-link"><Link href="/doc/ucretler-2025.pdf"><a>Ücretler</a></Link></div>
@@ -59,7 +57,6 @@ const Footer = () => (
 			<div className="footer-item-link"><Link href="/kurumlar-icin-egitim-calistayi"><a>Kurumlar için Eğitim Çalıştayı</a></Link></div>
 			<div className="footer-item-link"><Link href="/degerlendirici-egitimi-calistayi"><a>Değerlendirici Eğitimi Çalıştayı</a></Link></div>
 			<div className="footer-item-link"><Link href="/ogrenci-degerlendirici-egitimi-calistayi"><a>Öğrenci Değerlendirici Eğitimi Çalıştayı</a></Link></div>
-			{/* <div className="footer-item-link"><Link href="/uzaktan-degerlendirme-egitimi-calistayi"><a>Uzaktan Değerlendirme Eğitimi Çalıştayı</a></Link></div> */}
 		</div>
 		<div className="col-sm-12 col-md-3 footer-item">
 			<div className="footer-item-title"><strong>Raporlar</strong></div>
@@ -73,17 +70,10 @@ const Footer = () => (
 			<div className="footer-item-link"><Link href="/komisyon-toplantilari"><a>Komisyon Toplantıları</a></Link></div>
 			<div className="footer-item-link"><Link href="/uluslararasi-toplantilar"><a>Uluslararası Toplantılar ve Faaliyetler</a></Link></div>
 			<div className="footer-item-link"><Link href="/paydas-toplantilari"><a>Paydaş Toplantıları</a></Link></div>
-			{/*
-			<div className="footer-item-title footer-item-title-calistay"><strong>Eğitimler</strong></div>
-			<div className="footer-item-link"><Link href="/webinar"><a>Webinarlar</a></Link></div>
-			<div className="footer-item-link"><Link href="/sempozyumlar"><a>Sempozyumlar</a></Link></div>
-			<div className="footer-item-link"><Link href="/egitim-etkinlikleri"><a>Eğitim Etkinlikleri</a></Link></div>
-			<div className="footer-item-link"><Link href="/cagrili-konusmalar"><a>Çağrılı Konuşmalar</a></Link></div>
-			*/}
 		</div>		
 	</div>
 	<div className="footer-copy">
-		<span>© 2020-2024 Hemşirelik Eğitim Programları Değerlendirme ve Akreditasyon Derneği - Tüm Hakları Saklıdır / All Rights Reserved - Desinged by sametgolgeci</span>
+		<span>© 2020-2025 Hemşirelik Eğitim Programları Değerlendirme ve Akreditasyon Derneği - Tüm Hakları Saklıdır / All Rights Reserved - Desinged by sametgolgeci</span>
 	</div>
 </div>
 )
