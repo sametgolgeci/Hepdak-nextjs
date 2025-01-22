@@ -47,6 +47,9 @@ const Anasayfa = () => (
                   </a></Link>
                 </div>
                 <div className="carousel-item">
+                  <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/en/2025/bolu-taziye.jpeg"/></div>
+                </div>
+                <div className="carousel-item">
                   <Link href="doc/en/2025-meeting-calendar.pdf"><a target="_blank">
                     <div className="main-top-one-title">HEPDAK 2025 Meeting Calendar</div>
                     <div className="main-top-one-content"><strong>Click here</strong> access the meeting calendar to be held by HEPDAK in 2025.</div>
