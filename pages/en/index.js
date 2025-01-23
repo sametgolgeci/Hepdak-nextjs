@@ -61,7 +61,7 @@ const Anasayfa = () => (
                 </div>
                 <div className="carousel-item">
                   <Link href="../doc/en/hepdak-hemed.pdf"><a target="_blank">
-                  <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/en/hepdak-hemed.png"/></div>
+                  <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/en/hepdak-hemed.jpeg"/></div>
                   </a></Link>
                 </div>
                 <div className="carousel-item">

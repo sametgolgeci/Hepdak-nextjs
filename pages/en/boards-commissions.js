@@ -74,7 +74,7 @@ const Kurul = () => (
 	    	<span className="madde-span">• Prof. Dr. Şeyda Seren İntepeler, Dokuz Eylül Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Zeynep Özer, Akdeniz Üniversitesi</span>
 	    	<span className="madde-span">• Dr. Öğr. Üyesi. Hatice Şen, Uluslararası Kıbrıs Üniversitesi</span>
-	    	<span className="madde-span">• Ar. Gör. İbrahim Kavaslar, Düzce Üniversitesi</span>
+	    	<span className="madde-span">• R. A. İbrahim Kavaslar, Düzce Üniversitesi</span>
 	    	<span className="madde-span">• <strong>Student:</strong> Başak Yazıcı, Ege University</span> 
 	    	
 	    	<h3 className="kurul-title">International Relations Committee Working Directive</h3>
@@ -99,6 +99,7 @@ const Kurul = () => (
 	    	<span className="madde-span">• Ümran YALÇIN (Secretary), HEPDAK Secretary</span>
 	    	<span className="madde-span">• Asst. Prof. Gürkan ÖZDEN, İnönü University</span>
 	    	<span className="madde-span">• R. A. Selcan Zeynep ERGÖZ AKSOY, Izmir University of Economics</span>
+	    	<span className="madde-span">• R. A. Hilal Ersan Yaman, Hacettepe University</span>
 	    </div>
     </MasterPage>
 )

@@ -102,6 +102,7 @@ const Kurul = () => (
 	    	<span className="madde-span">• Ümran Yalçın (Sekreter), HEPDAK Sekreteri</span>
 	    	<span className="madde-span">• Dr. Öğretim Üyesi Gürkan Özden, İnönü Üniversitesi</span>
 	    	<span className="madde-span">• Ar. Gör. Selcan Zeynep Ergöz Aksoy, İzmir Ekonomi Üniversitesi</span>
+	    	<span className="madde-span">• Ar. Gör. Hilal Ersan Yaman, Hacettepe Üniversitesi</span>
 	    </div>
     </MasterPage>
 )
