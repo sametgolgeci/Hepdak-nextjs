@@ -42,28 +42,32 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">            
-                  <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/en/2025/bolu-taziye.jpeg"/></div>
+                  <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/en/2025-bolu-taziye.jpeg"/></div>
+                </div>
+                <div className="carousel-item">
+                  <Link href="../doc/en/2025-training-calendar.pdf"><a target="_blank">
+                  <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/en/2025-training-calendar.jpeg"/></div>
+                  </a></Link>
                 </div>
                 <div className="carousel-item">
                   <Link href="../doc/en/application.pdf"><a target="_blank">
-                  <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/en/2025/application.jpeg"/></div>
+                  <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/en/2025-application.jpeg"/></div>
                   </a></Link>
                 </div>
                 <div className="carousel-item">
-                  <Link href="doc/en/2025-meeting-calendar.pdf"><a target="_blank">
-                    <div className="main-top-one-title">HEPDAK 2025 Meeting Calendar</div>
-                    <div className="main-top-one-content"><strong>Click here</strong> access the meeting calendar to be held by HEPDAK in 2025.</div>
+                  <Link href="../doc/en/2025-meeting-calendar.pdf"><a target="_blank">
+                  <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/en/2025-meeting-calendar.jpeg"/></div>
                   </a></Link>
                 </div>
                 <div className="carousel-item">
-                  <Link href="doc/en/hepdak-hemed.pdf"><a target="_blank">
-                    <div className="main-top-one-title">HEMED and HEPDAK'S Opinion on Problems Related to Practical Education Hours in Nursing Programs</div>
+                  <Link href="../doc/en/hepdak-hemed.pdf"><a target="_blank">
+                  <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/en/hepdak-hemed.png"/></div>
                   </a></Link>
                 </div>
                 <div className="carousel-item">
-                  <div className="main-top-one-title">About HEPDAK Registration Duration</div>
-                  <div className="main-top-one-content">HEPDAK Quality Assessment Registration Duration has been Extended for Five (5) Years</div>
+                  <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/en/hepdak-registration.png"/></div>
                 </div>
+
                 
                 {/*
                 *** Desing 5 ***
@@ -240,6 +244,17 @@ const Anasayfa = () => (
             <div className="block-title-main">Announcements</div>
             <div className="block-title-all"><a href="/#">All Announcements</a></div>
           </div>
+
+           <Link href="doc/en/2025-training-calendar.pdf">
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day"></div>
+              <div className="date-month">25'</div>
+              <div className="date-year">Calendar</div>
+            </div>
+            <div className="block-subtitle-text">HEPDAK Training Calendar 2025</div>
+          </div>
+          </Link>
 
           <Link href="doc/en/2025-meeting-calendar.pdf">
           <div className="main-block-subtitle">
