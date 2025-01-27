@@ -36,7 +36,15 @@ table{
 	display: flex;
   flex-direction: row;
   justify-content: space-between;
-  width: 1240px;
+  width: 200px;
+}
+@media(min-width: 768px){
+	.header-logo {
+		display: flex;
+  	flex-direction: row;
+  	justify-content: space-between;
+  	width: 1240px;
+	}
 }
 .header-logo-img{
 	padding: 1rem;
@@ -86,7 +94,7 @@ table{
 }
 /* Navigation CSS */
 .navigation{
-	margin-bottom: 3.125rem;
+	margin-bottom: 3rem;
 }
 .navigation-nav{
 	font-family: 'Gotham','Roboto',sans-serif;
@@ -105,10 +113,18 @@ table{
 	margin: 0 auto;
 }
 .main-top{
-	margin-top: 1.25rem;
+	margin-top: 1rem;
 	display: flex;
-	flex-direction: row-reverse;
+	flex-direction: column-reverse;
 	flex-wrap: wrap;
+}
+@media(min-width: 768px){
+	.main-top{
+		margin-top: 1.25rem;
+		display: flex;
+		flex-direction: row-reverse;
+		flex-wrap: wrap;
+	}
 }
 .main-top-button{
 	width: 100%;
@@ -134,24 +150,51 @@ table{
 }
 .main-top-nav{
 	margin-top: 30px; 
-	width: 20%;
-	border-top: 1px solid rgba(37, 41, 84, 0.2);
+	width: 100%;
+	border-top: 0px solid rgba(37, 41, 84, 0.2);
 	/*border-top: 1px solid rgba(0, 138, 195, 0.2);
 	border-bottom: 1px solid rgba(0, 138, 195, 0.2);*/
 }
 .tab-content{
-	width: 80%;
+	width: 98%;
+}
+@media(min-width: 768px){
+	.tab-content{
+		width: 80%;
+	}
 }
 .main-top-akredite{
 	display: flex;
 	list-style: none;
 	flex-wrap: wrap;
-	flex-direction: column;
+	flex-direction: row;
 	justify-content: center;
 	align-items: center;
 	margin-bottom: 0 !important;
 	padding-left: 0;
 	width: 100%;
+}
+.main-top-akredite li{
+	width: 33%;
+	height: auto;
+}
+.main-top-akredite li img{
+	max-height: 120px;
+	object-fit: contain;
+}
+@media(min-width: 768px){
+	.main-top-akredite{
+		flex-direction: column;
+	}
+	.main-top-nav{
+		margin-top: 30px; 
+		width: 20%;
+		/*border-top: 1px solid rgba(0, 138, 195, 0.2);
+		border-bottom: 1px solid rgba(0, 138, 195, 0.2);*/
+	}
+	.main-top-akredite li{
+		width: 100%;
+	}
 }
 .main-nav{
 	font-family: 'Roboto', sans-serif;
@@ -225,8 +268,16 @@ table{
 	text-align: center; 
 }
 .slider-full-img{
-	width: auto;
-	height: 400px;
+	width: 100%;
+	height: auto;
+	padding-top: 1rem;
+}
+@media(min-width: 768px){
+	.slider-full-img{
+		width: auto;
+		height: 400px;
+		padding-top: 0;
+	}
 }
 .main-top-one-content > a{
 	font-weight: 900;
@@ -1114,4 +1165,11 @@ table{
 	width: 100%;
 	height: auto;
 }
-
+.header-logo-text {
+	display: none;
+}
+@media(min-width: 768px){
+	.header-logo-text {
+		display: block;
+	}
+}
