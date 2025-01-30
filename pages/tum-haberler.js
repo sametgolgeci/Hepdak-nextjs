@@ -354,8 +354,8 @@ merkezli eğitim uygulamaları konuşuldu. Moderatörlüğünü Ege Üniversites
 Hemşirelik Fakültesinden Prof. Dr. Fatma ORGUN'un yaptığı webinara Dokuz
 Eylül Üniversitesi Hemşirelik Fakültesi öğretim üyesi Prof. Dr. Şeyda Seren
 İntepeler “Takıma Dayalı Öğrenme”, Akdeniz Üniversitesi Hemşirelik Fakültesi
-öğretim üyesi Doç. Dr.Serpil YILMAZ “Beyin Temelli Öğrenme” ve Manisa Celal
-Bayar Üniversitesi Sağlık Bilimleri Fakültesi Dr. Öğr. Üyesi Ebru BAYSALékaçış
+öğretim üyesi Doç. Dr. Serpil İNCE “Beyin Temelli Öğrenme” ve Manisa Celal
+Bayar Üniversitesi Sağlık Bilimleri Fakültesi Dr. Öğr. Üyesi Ebru BAYSAL ile Kaçış
 Odası” öğrenci merkezli eğitim uygulamaları başlıklı konularıyla konuşmacı olarak
 katılmışlardır. Toplantıya Türkiye'nin farklı üniversitelerinden 321 öğretim elemanı
 katılmıştır. Toplantıya katılamayanlar ya da yeniden izlemek isteyenler webinarın
