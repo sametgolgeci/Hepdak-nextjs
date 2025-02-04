@@ -130,7 +130,7 @@ const SSS = () => (
 				    </div>
 				    <div id="collapseTen" class="collapse" aria-labelledby="headingTen" data-parent="#accordion">
 				      <div class="card-body-two">
-				      	<p>Değerlendirilecek programlar için akreditasyon değerlendirme bedelleri HEPDAK Web sayfasından duyurulmaktadır.<Link href="/ucretler"><a>(https://www.hepdak.org.tr/ucretler)</a></Link></p>
+				      	<p>Değerlendirilecek programlar için akreditasyon değerlendirme bedelleri HEPDAK Web sayfasından duyurulmaktadır.<Link href="/ucretler">(https://www.hepdak.org.tr/ucretler)</Link></p>
 							</div>
 				    </div>
 				  </div>
@@ -154,7 +154,7 @@ const SSS = () => (
 				    </div>
 				    <div id="collapseTwelve" class="collapse" aria-labelledby="headingTwelve" data-parent="#accordion">
 				      <div class="card-body-two">
-				      	<p>Evet itiraz edilebilir. İtiraz süreci ile ilgili bilgiler “HEPDAK - Değerlendirme ve Akreditasyon Uygulama Esasları Yönergesi (Sürüm:3.0 - 17.02.2020)” Madde14’te yer almaktadır. <Link href="/doc/a3_v3.pdf"><a>(https://www.hepdak.org.tr/doc/a3_v3.pdf)</a></Link></p>
+				      	<p>Evet itiraz edilebilir. İtiraz süreci ile ilgili bilgiler “HEPDAK - Değerlendirme ve Akreditasyon Uygulama Esasları Yönergesi (Sürüm:3.0 - 17.02.2020)” Madde14’te yer almaktadır. <Link href="/doc/a3_v3.pdf">(https://www.hepdak.org.tr/doc/a3_v3.pdf)</Link></p>
 							</div>
 				    </div>
 				  </div>
@@ -166,7 +166,7 @@ const SSS = () => (
 				    </div>
 				    <div id="collapseThirteen" class="collapse" aria-labelledby="headingThirteen" data-parent="#accordion">
 				      <div class="card-body-two">
-				      	<p>HEPDAK tarafından akredite edilmiş bir programda gerçekleşen ve programın akreditasyon statüsünü etkileyebilecek alanlardaki değişikliklerin HEPDAK'a bildirilmesi kurumun yönetim yetkilisinin sorumluluğudur. Değerlendirme Dönemi İçindeki Değişiklikler ile ilgili bilgiler “HEPDAK - Değerlendirme ve Akreditasyon Uygulama Esasları Yönergesi (Sürüm: 3.0 - 17.02.2020)” Madde 15’te yer almaktadır. <Link href="/doc/a3_v3.pdf"><a>(https://www.hepdak.org.tr/doc/a3_v3.pdf)</a></Link></p>
+				      	<p>HEPDAK tarafından akredite edilmiş bir programda gerçekleşen ve programın akreditasyon statüsünü etkileyebilecek alanlardaki değişikliklerin HEPDAK'a bildirilmesi kurumun yönetim yetkilisinin sorumluluğudur. Değerlendirme Dönemi İçindeki Değişiklikler ile ilgili bilgiler “HEPDAK - Değerlendirme ve Akreditasyon Uygulama Esasları Yönergesi (Sürüm: 3.0 - 17.02.2020)” Madde 15’te yer almaktadır. <Link href="/doc/a3_v3.pdf">(https://www.hepdak.org.tr/doc/a3_v3.pdf)</Link></p>
 							</div>
 				    </div>
 				  </div>
@@ -202,7 +202,7 @@ const SSS = () => (
 				    </div>
 				    <div id="collapseSixteen" class="collapse" aria-labelledby="headingSixteen" data-parent="#accordion">
 				      <div class="card-body-two">
-				      	<p>Lisans eğitimi alan hemşirelik öğrencileri akreditasyon süreçlerinde değerlendirme takımları içerisinde öğrenci değerlendirici olarak yer alırlar. HEPDAK Değerlendirmelerine Öğrenci Değerlendirici Katılımı Uygulama Esasları Madde 3’de yer alan koşullara göre öğrenci değerlendirici olunabilmektedir. Ayrıntılı bilgiler <Link href="/doc/b11_v3.pdf"><a>(https://www.hepdak.org.tr/doc/b11_v3.pdf)</a></Link> adresinde yer almaktadır.</p>
+				      	<p>Lisans eğitimi alan hemşirelik öğrencileri akreditasyon süreçlerinde değerlendirme takımları içerisinde öğrenci değerlendirici olarak yer alırlar. HEPDAK Değerlendirmelerine Öğrenci Değerlendirici Katılımı Uygulama Esasları Madde 3’de yer alan koşullara göre öğrenci değerlendirici olunabilmektedir. Ayrıntılı bilgiler <Link href="/doc/b11_v3.pdf">(https://www.hepdak.org.tr/doc/b11_v3.pdf)</Link> adresinde yer almaktadır.</p>
 							</div>
 				    </div>
 				  </div>

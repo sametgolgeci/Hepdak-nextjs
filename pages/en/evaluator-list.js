@@ -10,10 +10,14 @@ const Uye = () => (
       <div className="genel">
 	     <h1>HEPDAK List of Evaluators</h1>
         <div className="jumbotron">
-          <p><Link href="../doc/degerlendiriciler_listesi/degerlendirici-listesi.pdf"><a target="_blank">HEPDAK Evaluator List</a></Link> - (Last Update - 13 May 2024)</p>
+          <p><Link
+            href="../doc/degerlendiriciler_listesi/degerlendirici-listesi.pdf"
+            target="_blank">HEPDAK Evaluator List</Link> - (Last Update - 13 May 2024)</p>
         </div>
         <div className="jumbotron">
-          <p><Link href="../doc/degerlendiriciler_listesi/ogrenci-degerlendirici-listesi.pdf"><a target="_blank">HEPDAK Student Evaluator List</a></Link> - (Last Update - 13 October 2023)</p>
+          <p><Link
+            href="../doc/degerlendiriciler_listesi/ogrenci-degerlendirici-listesi.pdf"
+            target="_blank">HEPDAK Student Evaluator List</Link> - (Last Update - 13 October 2023)</p>
         </div>
       </div>
     </MasterPage>

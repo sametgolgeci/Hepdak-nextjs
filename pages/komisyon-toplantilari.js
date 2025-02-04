@@ -17,7 +17,7 @@ const Paydas = () => (
 	      <tbody>
 	        <tr>
 	          <th scope="row" width="160px">Ocak - Aralık<br/>2024</th>
-	          <td><Link href="doc/komisyon_toplantilari/standart_belirleme_komisyonu/2024-01.pdf"><a>Standartları Belirleme ve Geliştirme Komisyonu 2024 yılı Toplantı Raporu</a></Link></td>
+	          <td><Link href="doc/komisyon_toplantilari/standart_belirleme_komisyonu/2024-01.pdf">Standartları Belirleme ve Geliştirme Komisyonu 2024 yılı Toplantı Raporu</Link></td>
 	        </tr>
 	      </tbody>
 	    </table>
@@ -26,19 +26,19 @@ const Paydas = () => (
 	      <tbody>
 	      	<tr>
 	          <th scope="row" width="160px">Ekim<br/>2023</th>
-	          <td><Link href="doc/komisyon_toplantilari/standart_belirleme_komisyonu/2023-04.pdf"><a>Hemşirelik Lisans Eğitim Programı Standartları Dereceli Değerlendirme Aracına (Sürüm 6.0) Yönelik Alınan Paydaş Görüşlerinin Değerlendirilmesi ve Gerekli Düzenlemelerin Yapılması</a></Link></td>
+	          <td><Link href="doc/komisyon_toplantilari/standart_belirleme_komisyonu/2023-04.pdf">Hemşirelik Lisans Eğitim Programı Standartları Dereceli Değerlendirme Aracına (Sürüm 6.0) Yönelik Alınan Paydaş Görüşlerinin Değerlendirilmesi ve Gerekli Düzenlemelerin Yapılması</Link></td>
 	        </tr>
 	        <tr>
 	          <th scope="row" width="160px">Mayıs - Temmuz<br/>2023</th>
-	          <td><Link href="doc/komisyon_toplantilari/standart_belirleme_komisyonu/2023-03.pdf"><a>HEPDAK Standartları Belirleme ve Geliştirme Komisyonu (SBGK) çalışma yönergesinin hazırlanması</a></Link></td>
+	          <td><Link href="doc/komisyon_toplantilari/standart_belirleme_komisyonu/2023-03.pdf">HEPDAK Standartları Belirleme ve Geliştirme Komisyonu (SBGK) çalışma yönergesinin hazırlanması</Link></td>
 	        </tr>
 	        <tr>
 	          <th scope="row" width="160px">Mart<br/>2023</th>
-	          <td><Link href="doc/komisyon_toplantilari/standart_belirleme_komisyonu/2023-02.pdf"><a>T.S.7’nin güncellenmesi</a></Link></td>
+	          <td><Link href="doc/komisyon_toplantilari/standart_belirleme_komisyonu/2023-02.pdf">T.S.7’nin güncellenmesi</Link></td>
 	        </tr>
 	        <tr>
 	          <th scope="row" width="160px">Ocak - Şubat<br/>2023</th>
-	          <td><Link href="doc/komisyon_toplantilari/standart_belirleme_komisyonu/2023-01.pdf"><a>T.S.4, T.S.5 ve T.S.6’nın güncellenmesi</a></Link></td>
+	          <td><Link href="doc/komisyon_toplantilari/standart_belirleme_komisyonu/2023-01.pdf">T.S.4, T.S.5 ve T.S.6’nın güncellenmesi</Link></td>
 	        </tr>
 	      </tbody>
 	    </table>
@@ -47,7 +47,7 @@ const Paydas = () => (
 	    	<tbody> 
 	        <tr>
 	          <th scope="row" width="160px">Şubat<br/>2022</th>
-	          <td><Link href="doc/komisyon_toplantilari/standart_belirleme_komisyonu/2022-01.pdf"><a>2021-2022 yılı Akreditasyon Değerlendirme Takım Başkanları ile Standart Belirleme ve Geliştirme Komisyonu üyeleri ile Hemşirelik Lisans Eğitim Programı Standartları Son Sürümleri Hakkında Görüşülmesi</a></Link></td>
+	          <td><Link href="doc/komisyon_toplantilari/standart_belirleme_komisyonu/2022-01.pdf">2021-2022 yılı Akreditasyon Değerlendirme Takım Başkanları ile Standart Belirleme ve Geliştirme Komisyonu üyeleri ile Hemşirelik Lisans Eğitim Programı Standartları Son Sürümleri Hakkında Görüşülmesi</Link></td>
 	        </tr>
 	      </tbody>
 	    </table>
@@ -74,16 +74,16 @@ const Paydas = () => (
 				<table className="table table-striped">
 					<tbody>
 						<tr>
-	          	<td><Link href="doc/komisyon_toplantilari/surekli_iyilestirme_komisyonu/2024-02.pdf"><a>HEPDAK Sürekli İyileştirme Komisyonu Temmuz - Aralık 2024 Dönemi Raporu</a></Link></td>
+	          	<td><Link href="doc/komisyon_toplantilari/surekli_iyilestirme_komisyonu/2024-02.pdf">HEPDAK Sürekli İyileştirme Komisyonu Temmuz - Aralık 2024 Dönemi Raporu</Link></td>
 	        	</tr>
 						<tr>
-	          	<td><Link href="doc/komisyon_toplantilari/surekli_iyilestirme_komisyonu/2024-01.pdf"><a>HEPDAK Sürekli İyileştirme Komisyonu Ocak - Haziran 2024 Dönemi Raporu</a></Link></td>
+	          	<td><Link href="doc/komisyon_toplantilari/surekli_iyilestirme_komisyonu/2024-01.pdf">HEPDAK Sürekli İyileştirme Komisyonu Ocak - Haziran 2024 Dönemi Raporu</Link></td>
 	        	</tr>
 						<tr>
-	          	<td><Link href="doc/komisyon_toplantilari/surekli_iyilestirme_komisyonu/2023-02.pdf"><a>HEPDAK Sürekli İyileştirme Komisyonu Temmuz - Aralık 2023 Dönemi Raporu</a></Link></td>
+	          	<td><Link href="doc/komisyon_toplantilari/surekli_iyilestirme_komisyonu/2023-02.pdf">HEPDAK Sürekli İyileştirme Komisyonu Temmuz - Aralık 2023 Dönemi Raporu</Link></td>
 	        	</tr>
 						<tr>
-	          	<td><Link href="doc/komisyon_toplantilari/surekli_iyilestirme_komisyonu/2023-01.pdf"><a>HEPDAK Sürekli İyileştirme Komisyonu Ocak - Haziran 2023 Dönemi Raporu</a></Link></td>
+	          	<td><Link href="doc/komisyon_toplantilari/surekli_iyilestirme_komisyonu/2023-01.pdf">HEPDAK Sürekli İyileştirme Komisyonu Ocak - Haziran 2023 Dönemi Raporu</Link></td>
 	        	</tr>
 					</tbody>
 				</table>
@@ -93,16 +93,16 @@ const Paydas = () => (
 				<table className="table table-striped">
 					<tbody>
 						<tr>
-	          	<td><Link href="doc/komisyon_toplantilari/egitim_komisyonu/2024-02.pdf"><a>HEPDAK Eğitim Komisyonu Temmuz - Aralık 2024 Dönemi Raporu</a></Link></td>
+	          	<td><Link href="doc/komisyon_toplantilari/egitim_komisyonu/2024-02.pdf">HEPDAK Eğitim Komisyonu Temmuz - Aralık 2024 Dönemi Raporu</Link></td>
 	        	</tr>
 						<tr>
-	          	<td><Link href="doc/komisyon_toplantilari/egitim_komisyonu/2024-01.pdf"><a>HEPDAK Eğitim Komisyonu Ocak - Haziran 2024 Dönemi Raporu</a></Link></td>
+	          	<td><Link href="doc/komisyon_toplantilari/egitim_komisyonu/2024-01.pdf">HEPDAK Eğitim Komisyonu Ocak - Haziran 2024 Dönemi Raporu</Link></td>
 	        	</tr>
 						<tr>
-	          	<td><Link href="doc/komisyon_toplantilari/egitim_komisyonu/2023-02.pdf"><a>HEPDAK Eğitim Komisyonu Temmuz - Aralık 2023 Dönemi Raporu</a></Link></td>
+	          	<td><Link href="doc/komisyon_toplantilari/egitim_komisyonu/2023-02.pdf">HEPDAK Eğitim Komisyonu Temmuz - Aralık 2023 Dönemi Raporu</Link></td>
 	        	</tr>
 						<tr>
-	          	<td><Link href="doc/komisyon_toplantilari/egitim_komisyonu/2023-01.pdf"><a>HEPDAK Eğitim Komisyonu Ocak - Haziran 2023 Dönemi Raporu</a></Link></td>
+	          	<td><Link href="doc/komisyon_toplantilari/egitim_komisyonu/2023-01.pdf">HEPDAK Eğitim Komisyonu Ocak - Haziran 2023 Dönemi Raporu</Link></td>
 	        	</tr>
 					</tbody>
 				</table>
@@ -112,31 +112,31 @@ const Paydas = () => (
 				<table className="table table-striped">
 					<tbody>
 	      	<tr>
-	          <td>Tutarlılık Komisyonu Toplantısı - <Link href="doc/komisyon_toplantilari/tutarlilik_komisyonu/09.pdf"><a>14 Mart 2024</a></Link></td>
+	          <td>Tutarlılık Komisyonu Toplantısı - <Link href="doc/komisyon_toplantilari/tutarlilik_komisyonu/09.pdf">14 Mart 2024</Link></td>
 	        </tr>
 	      	<tr>
-	          <td>Tutarlılık Komisyonu Toplantısı - <Link href="doc/komisyon_toplantilari/tutarlilik_komisyonu/08.pdf"><a>16-17 Mart 2023</a></Link></td>
+	          <td>Tutarlılık Komisyonu Toplantısı - <Link href="doc/komisyon_toplantilari/tutarlilik_komisyonu/08.pdf">16-17 Mart 2023</Link></td>
 	        </tr>
 	      	<tr>
-	          <td>Tutarlılık Komisyonu Toplantısı - <Link href="doc/komisyon_toplantilari/tutarlilik_komisyonu/07.pdf"><a>17-18 Mart 2022</a></Link></td>
+	          <td>Tutarlılık Komisyonu Toplantısı - <Link href="doc/komisyon_toplantilari/tutarlilik_komisyonu/07.pdf">17-18 Mart 2022</Link></td>
 	        </tr>
 	      	<tr>
-	          <td>Tutarlılık Komisyonu Toplantısı - <Link href="doc/komisyon_toplantilari/tutarlilik_komisyonu/06.pdf"><a>15-16 Mart 2021</a></Link></td>
+	          <td>Tutarlılık Komisyonu Toplantısı - <Link href="doc/komisyon_toplantilari/tutarlilik_komisyonu/06.pdf">15-16 Mart 2021</Link></td>
 	        </tr>
 	        <tr>
-	          <td>Tutarlılık Komisyonu Toplantısı - <Link href="doc/komisyon_toplantilari/tutarlilik_komisyonu/05.pdf"><a>14 Mart 2020</a></Link></td>
+	          <td>Tutarlılık Komisyonu Toplantısı - <Link href="doc/komisyon_toplantilari/tutarlilik_komisyonu/05.pdf">14 Mart 2020</Link></td>
 	        </tr>
 	        <tr>
-	          <td>Tutarlılık Komisyonu Toplantısı - <Link href="doc/komisyon_toplantilari/tutarlilik_komisyonu/04.pdf"><a>02 Mart 2019</a></Link></td>
+	          <td>Tutarlılık Komisyonu Toplantısı - <Link href="doc/komisyon_toplantilari/tutarlilik_komisyonu/04.pdf">02 Mart 2019</Link></td>
 	        </tr>
 	        <tr>
-	          <td>Tutarlılık Komisyonu Toplantısı - <Link href="doc/komisyon_toplantilari/tutarlilik_komisyonu/03.pdf"><a>05 Mart 2018</a></Link></td>
+	          <td>Tutarlılık Komisyonu Toplantısı - <Link href="doc/komisyon_toplantilari/tutarlilik_komisyonu/03.pdf">05 Mart 2018</Link></td>
 	        </tr>
 	        <tr>
-	          <td>Tutarlılık Komisyonu Toplantısı - <Link href="doc/komisyon_toplantilari/tutarlilik_komisyonu/02.pdf"><a>05 Mart 2017</a></Link></td>
+	          <td>Tutarlılık Komisyonu Toplantısı - <Link href="doc/komisyon_toplantilari/tutarlilik_komisyonu/02.pdf">05 Mart 2017</Link></td>
 	        </tr>
 	        <tr>
-	          <td>Tutarlılık Komisyonu Toplantısı - <Link href="doc/komisyon_toplantilari/tutarlilik_komisyonu/01.pdf"><a>06 Mart 2016</a></Link></td>
+	          <td>Tutarlılık Komisyonu Toplantısı - <Link href="doc/komisyon_toplantilari/tutarlilik_komisyonu/01.pdf">06 Mart 2016</Link></td>
 	        </tr>
 	      </tbody>
 				</table>
@@ -146,7 +146,7 @@ const Paydas = () => (
 				<table className="table table-striped">
 					<tbody>
 						<tr>
-	          	<td><Link href="doc/komisyon_toplantilari/web_tasarim_komisyonu/2024-02.pdf"><a>HEPDAK Web Tasarım Komisyonu Temmuz - Aralık 2024 Dönemi Raporu</a></Link></td>
+	          	<td><Link href="doc/komisyon_toplantilari/web_tasarim_komisyonu/2024-02.pdf">HEPDAK Web Tasarım Komisyonu Temmuz - Aralık 2024 Dönemi Raporu</Link></td>
 	        	</tr>
 					</tbody>
 				</table>
@@ -156,13 +156,13 @@ const Paydas = () => (
 				<table className="table table-striped">
 					<tbody>
 						<tr>
-	          	<td><Link href="doc/komisyon_toplantilari/uluslararasi_iliskiler_komisyonu/2024-01.pdf"><a>Uluslararası İlişkiler Komisyonu Ocak - Haziran 2024 Dönemi Raporu</a></Link></td>
+	          	<td><Link href="doc/komisyon_toplantilari/uluslararasi_iliskiler_komisyonu/2024-01.pdf">Uluslararası İlişkiler Komisyonu Ocak - Haziran 2024 Dönemi Raporu</Link></td>
 	        	</tr>
 						<tr>
-	          	<td><Link href="doc/komisyon_toplantilari/uluslararasi_iliskiler_komisyonu/2023-02.pdf"><a>Uluslararası İlişkiler Komisyonu Temmuz - Aralık 2023 Dönemi Raporu</a></Link></td>
+	          	<td><Link href="doc/komisyon_toplantilari/uluslararasi_iliskiler_komisyonu/2023-02.pdf">Uluslararası İlişkiler Komisyonu Temmuz - Aralık 2023 Dönemi Raporu</Link></td>
 	        	</tr>
 						<tr>
-	          	<td><Link href="doc/komisyon_toplantilari/uluslararasi_iliskiler_komisyonu/2023-01.pdf"><a>Uluslararası İlişkiler Komisyonu Ocak - Haziran 2023 Dönemi Raporu</a></Link></td>
+	          	<td><Link href="doc/komisyon_toplantilari/uluslararasi_iliskiler_komisyonu/2023-01.pdf">Uluslararası İlişkiler Komisyonu Ocak - Haziran 2023 Dönemi Raporu</Link></td>
 	        	</tr>
 					</tbody>
 				</table>

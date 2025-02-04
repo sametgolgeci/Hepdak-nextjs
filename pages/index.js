@@ -50,29 +50,29 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
-                  <Link href="/doc/takvim/2025-egitim-takvim.pdf"><a target="_blank">
+                  <Link href="/doc/takvim/2025-egitim-takvim.pdf" target="_blank">
                     <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2025-egitim-takvim.jpeg"/></div>
-                  </a></Link>
+                  </Link>
                 </div>
                 <div className="carousel-item">
-                  <Link href="/doc/b1-basvuru-2024-2025.pdf"><a target="_blank">
+                  <Link href="/doc/b1-basvuru-2024-2025.pdf" target="_blank">
                     <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2025-basvuru.jpeg"/></div>
-                  </a></Link>
+                  </Link>
                 </div>
                 <div className="carousel-item">
-                  <Link href="/doc/danisma_kurulu_toplantilari/04.pdf"><a target="_blank">
+                  <Link href="/doc/danisma_kurulu_toplantilari/04.pdf" target="_blank">
                     <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2024-duyuru-danisma-kurulu.jpeg"/></div>
-                  </a></Link>
+                  </Link>
                 </div>
                 <div className="carousel-item">
-                  <Link href="/doc/takvim/2025-toplanti-takvim.pdf"><a target="_blank">
+                  <Link href="/doc/takvim/2025-toplanti-takvim.pdf" target="_blank">
                     <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2025-toplanti-takvim.jpeg"/></div>
-                  </a></Link>
+                  </Link>
                 </div>
                 <div className="carousel-item">
-                  <Link href="/doc/hemed-hepdak-gorus.pdf"><a target="_blank">
+                  <Link href="/doc/hemed-hepdak-gorus.pdf" target="_blank">
                     <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2024-hemed-hepdak-gorus.jpeg"/></div>
-                  </a></Link>
+                  </Link>
                 </div>
                 <div className="carousel-item">
                   <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2024-tescil-suresi.jpeg"/></div>
@@ -140,22 +140,22 @@ const Anasayfa = () => (
 
     <div className="main-fast-akredite">
       <div className="fast-akredite-button col-md-4">
-        <Link href="/doc/b1-basvuru-2024-2025.pdf"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faCheck}/>Akreditasyon Başvurusu</button></a></Link>
+        <Link href="/doc/b1-basvuru-2024-2025.pdf"><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faCheck}/>Akreditasyon Başvurusu</button></Link>
       </div>
       <div className="fast-akredite-button col-md-4">
-        <Link href="/akreditasyon-sureci"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faHourglassStart}/>Akreditasyon Süreci</button></a></Link>
+        <Link href="/akreditasyon-sureci"><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faHourglassStart}/>Akreditasyon Süreci</button></Link>
       </div>
       <div className="fast-akredite-button col-md-4">
-        <Link href="/ozdegerlendirme-belgeleri"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faFileAlt}/>Özdeğerlendirme Belgeleri</button></a></Link>
+        <Link href="/ozdegerlendirme-belgeleri"><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faFileAlt}/>Özdeğerlendirme Belgeleri</button></Link>
       </div>
       <div className="fast-akredite-button col-md-4">
-        <Link href="/doc/kurum-egitimine-basvuru-formu.doc"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faBalanceScale}/>Başvurular</button></a></Link>
+        <Link href="/doc/kurum-egitimine-basvuru-formu.doc"><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faBalanceScale}/>Başvurular</button></Link>
       </div>
       <div className="fast-akredite-button col-md-4">
-        <Link href="/rapor-hazirlama"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faPencilAlt}/>Rapor Hazırlama</button></a></Link>
+        <Link href="/rapor-hazirlama"><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faPencilAlt}/>Rapor Hazırlama</button></Link>
       </div>
       <div className="fast-akredite-button col-md-4">
-        <Link href="/belgeler"><a><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faFile}/>Diğer belgeler</button></a></Link>
+        <Link href="/belgeler"><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faFile}/>Diğer belgeler</button></Link>
       </div>
     </div>
     
@@ -167,7 +167,7 @@ const Anasayfa = () => (
             <div className="block-title-all"><a href="/tum-haberler">Tüm Haberler</a></div>
           </div>
          
-          <Link href="/haberler/2025-01-07-haber">
+          <Link href="/haberler/2025-01-07-haber" legacyBehavior>
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
               <div className="date-day">07</div>
@@ -178,7 +178,7 @@ const Anasayfa = () => (
           </div>
           </Link>
 
-          <Link href="/haberler/2024-12-26-haber">
+          <Link href="/haberler/2024-12-26-haber" legacyBehavior>
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
               <div className="date-day">26</div>
@@ -189,7 +189,7 @@ const Anasayfa = () => (
           </div>
           </Link>
 
-          <Link href="/haberler/2024-12-18-haber">
+          <Link href="/haberler/2024-12-18-haber" legacyBehavior>
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
               <div className="date-day">18</div>
@@ -200,7 +200,7 @@ const Anasayfa = () => (
           </div>
           </Link>
 
-          <Link href="/haberler/2024-11-26-haber">
+          <Link href="/haberler/2024-11-26-haber" legacyBehavior>
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
               <div className="date-day">26</div>
@@ -211,7 +211,7 @@ const Anasayfa = () => (
           </div>
           </Link>
 
-          <Link href="/haberler/2024-10-12-haber">
+          <Link href="/haberler/2024-10-12-haber" legacyBehavior>
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
               <div className="date-day">12</div>
@@ -222,7 +222,7 @@ const Anasayfa = () => (
           </div>
           </Link>
 
-          <Link href="/haberler/2024-10-03-haber">
+          <Link href="/haberler/2024-10-03-haber" legacyBehavior>
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
               <div className="date-day">03</div>
@@ -233,7 +233,7 @@ const Anasayfa = () => (
           </div>
           </Link>
 
-          <Link href="/haberler/2024-09-19-20-haber">
+          <Link href="/haberler/2024-09-19-20-haber" legacyBehavior>
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
               <div className="date-day">19-20</div>
@@ -244,7 +244,7 @@ const Anasayfa = () => (
           </div>
           </Link>
 
-          <Link href="/haberler/2024-06-10-haber">
+          <Link href="/haberler/2024-06-10-haber" legacyBehavior>
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
               <div className="date-day">10</div>
@@ -255,7 +255,7 @@ const Anasayfa = () => (
           </div>
           </Link>
 
-          <Link href="/haberler/2024-06-08-haber">
+          <Link href="/haberler/2024-06-08-haber" legacyBehavior>
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
               <div className="date-day">08</div>
@@ -386,7 +386,7 @@ const Anasayfa = () => (
           </Link>
           */}
 
-          <Link href="/doc/takvim/2025-egitim-takvim.pdf">
+          <Link href="/doc/takvim/2025-egitim-takvim.pdf" legacyBehavior>
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
               <div className="date-day"></div>
@@ -397,7 +397,7 @@ const Anasayfa = () => (
           </div>
           </Link>
 
-          <Link href="/doc/takvim/2025-toplanti-takvim.pdf">
+          <Link href="/doc/takvim/2025-toplanti-takvim.pdf" legacyBehavior>
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
               <div className="date-day"></div>

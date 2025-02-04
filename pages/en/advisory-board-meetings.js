@@ -14,19 +14,19 @@ const Symposium = () => (
         <tbody>
           <tr>
             <th scope="row" width="10px"></th>
-            <td><Link href="../doc/danisma_kurulu_toplantilari/04.pdf"><a target="_blank">HEPDAK Advisory Board Meeting - 4 (October 08, 2024)(in Turkish)</a></Link></td>
+            <td><Link href="../doc/danisma_kurulu_toplantilari/04.pdf" target="_blank">HEPDAK Advisory Board Meeting - 4 (October 08, 2024)(in Turkish)</Link></td>
           </tr>
           <tr>
             <th scope="row" width="10px"></th>
-            <td><Link href="../doc/danisma_kurulu_toplantilari/03.pdf"><a target="_blank">HEPDAK Advisory Board Meeting - 3 (June 27, 2024)(in Turkish)</a></Link></td>
+            <td><Link href="../doc/danisma_kurulu_toplantilari/03.pdf" target="_blank">HEPDAK Advisory Board Meeting - 3 (June 27, 2024)(in Turkish)</Link></td>
           </tr>
           <tr>
             <th scope="row" width="10px"></th>
-            <td><Link href="../doc/danisma_kurulu_toplantilari/02.pdf"><a target="_blank">HEPDAK Advisory Board Meeting - 2 (March 16, 2023)(in Turkish)</a></Link></td>
+            <td><Link href="../doc/danisma_kurulu_toplantilari/02.pdf" target="_blank">HEPDAK Advisory Board Meeting - 2 (March 16, 2023)(in Turkish)</Link></td>
           </tr>
           <tr>
             <th scope="row" width="10px"></th>
-            <td><Link href="../doc/danisma_kurulu_toplantilari/01.pdf"><a target="_blank">HEPDAK Advisory Board Meeting - 1 (January 26, 2023)(in Turkish)</a></Link></td>
+            <td><Link href="../doc/danisma_kurulu_toplantilari/01.pdf" target="_blank">HEPDAK Advisory Board Meeting - 1 (January 26, 2023)(in Turkish)</Link></td>
           </tr>
         </tbody>
       </table>

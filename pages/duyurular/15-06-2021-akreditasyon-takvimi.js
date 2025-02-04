@@ -9,7 +9,7 @@ const News = () => (
       </Head>
       <div className="main-top-second hover-out">
         <div className="main-top-second-title">HEPDAK 2021-2022 Dönemi Akreditasyon Takvimi</div>
-        <div className="main-top-second-content">HEPDAK 2021-2022 dönemi akreditasyon takvimine ulaşmak için <Link href="/doc/2021_takvim.pdf"><a target="_blank"><strong>tıklayınız</strong></a></Link>.</div>      
+        <div className="main-top-second-content">HEPDAK 2021-2022 dönemi akreditasyon takvimine ulaşmak için <Link href="/doc/2021_takvim.pdf" target="_blank"><strong>tıklayınız</strong></Link>.</div>      
       </div>
       <div className="safe"></div>
     </MasterPage>

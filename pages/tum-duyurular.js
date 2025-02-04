@@ -25,11 +25,11 @@ const Tum = () => (
             <div id="yirmiiki" className="container tab-pane active">
               <div className="main-top-second" id="akreditasyon">
                 <div className="main-top-second-title">HEPDAK 4. Olağan Genel Kurulu</div>
-                <div className="main-top-second-content"><p>HEPDAK 4. Olağan Genel Kurulu 20 Ekim Perşembe günü saat 17.00'da gerçekleştirecektir. Duyuru içeriğine <Link href="/doc/hepdak_genel_kurulu_4.pdf"><a target="_blank"><strong>buradan</strong></a></Link> ulaşabilirsiniz.</p></div>
+                <div className="main-top-second-content"><p>HEPDAK 4. Olağan Genel Kurulu 20 Ekim Perşembe günü saat 17.00'da gerçekleştirecektir. Duyuru içeriğine <Link href="/doc/hepdak_genel_kurulu_4.pdf" target="_blank"><strong>buradan</strong></Link> ulaşabilirsiniz.</p></div>
               </div>
               <div className="main-top-second" id="akreditasyon">
                 <div className="main-top-second-title">HEPDAK 2022 Kurumlar için Eğitim Çalıştayı 15 Ekim 2022 tarihinde çevrimiçi olarak gerçekleştirilecektir</div>
-                <div className="main-top-second-content"><p>Eğitime başvuru formuna <Link href="/doc/2022_kurum_egitimi_basvuru_formu.doc"><a target="_blank"><strong>buradan</strong></a></Link> ulaşabilirsiniz.<strong> Son başvuru tarihi 30 Eylül 2022'dir. Son başvuru tarihinden itibaren kayıt alınmayacaktır.</strong></p><p><strong>Önemli Not:</strong> 2023 yılında akreditasyona başvurmayı planlayan programdan en az bir yönetici/öğretim elemanının Kurum Tanıtım Eğitimine katılması Yönetim Kurulu kararı ile zorunluluk olarak belirlenmiştir.<strong> Eğitime katılmayan programların başvuruları kabul edilmeyecektir.</strong></p></div>
+                <div className="main-top-second-content"><p>Eğitime başvuru formuna <Link href="/doc/2022_kurum_egitimi_basvuru_formu.doc" target="_blank"><strong>buradan</strong></Link> ulaşabilirsiniz.<strong> Son başvuru tarihi 30 Eylül 2022'dir. Son başvuru tarihinden itibaren kayıt alınmayacaktır.</strong></p><p><strong>Önemli Not:</strong> 2023 yılında akreditasyona başvurmayı planlayan programdan en az bir yönetici/öğretim elemanının Kurum Tanıtım Eğitimine katılması Yönetim Kurulu kararı ile zorunluluk olarak belirlenmiştir.<strong> Eğitime katılmayan programların başvuruları kabul edilmeyecektir.</strong></p></div>
               </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">12-18 Mayıs Hemşirelik Haftası</div>
@@ -49,7 +49,7 @@ const Tum = () => (
               </div>
               <div className="main-top-second" id="akreditasyon">
                 <div className="main-top-second-title">HEPDAK 2021-2022 Dönemi Akreditasyon Takvimi</div>
-                <div className="main-top-second-content">HEPDAK 2021-2022 dönemi akreditasyon takvimine ulaşmak için <Link href="/doc/2021_takvim.pdf"><a target="_blank"><strong>tıklayınız</strong></a></Link>.</div>
+                <div className="main-top-second-content">HEPDAK 2021-2022 dönemi akreditasyon takvimine ulaşmak için <Link href="/doc/2021_takvim.pdf" target="_blank"><strong>tıklayınız</strong></Link>.</div>
               </div>
               <div className="main-top-second" id="calistay2021">
                 <div className="main-top-second-title">Kurumlara Yönelik Eğitim Çalıştayı - 2021</div>
@@ -89,7 +89,7 @@ const Tum = () => (
               </div>
               <div className="main-top-second">
                 <div className="main-top-second-title">CEENQA Üyeliği Hakkında</div>
-                <div className="main-top-second-content"><p>HEPDAK, 15 Mayıs 2020 tarihinden itibaren CEENQA - Central and Eastern European Network of Quality Assurance Agencies in Higher Education'ın tam üyesidir.İlgili dökümana <Link href="doc/CEENQA_Application_HEPDAK_Decision.pdf"><a><strong>buradan</strong></a></Link> ulaşabilirsiniz.</p></div>
+                <div className="main-top-second-content"><p>HEPDAK, 15 Mayıs 2020 tarihinden itibaren CEENQA - Central and Eastern European Network of Quality Assurance Agencies in Higher Education'ın tam üyesidir.İlgili dökümana <Link href="doc/CEENQA_Application_HEPDAK_Decision.pdf"><strong>buradan</strong></Link> ulaşabilirsiniz.</p></div>
               </div>
             </div>
           </div>

@@ -9,7 +9,7 @@ const Belgeler = () => (
       </Head>
       <div className="genel">
         <h1>Continuous Improvement Reports</h1>
-        <p className="madde-p"><Link href="../doc/surekli_iyilestirme_raporlari/2023.pdf"><a target="_blank">HEPDAK Continuous Improvement Report 2023 (in Turkish)</a></Link></p>
+        <p className="madde-p"><Link href="../doc/surekli_iyilestirme_raporlari/2023.pdf" target="_blank">HEPDAK Continuous Improvement Report 2023 (in Turkish)</Link></p>
       </div>
       <div className="safe"></div>
     </MasterPage>

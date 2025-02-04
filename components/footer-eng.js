@@ -10,65 +10,65 @@ const Footer = () => (
 		<div className="col-sm-12 col-md-3 footer-item">
 			<div className="footer-logo">
 				
-				<Link href="/"><a><img className="footer-img" src="../img/hepdak-logo-white.png" title="HEPDAK"></img></a></Link>
+				<Link href="/"><img className="footer-img" src="../img/hepdak-logo-white.png" title="HEPDAK"></img></Link>
 				<div className="footer-info-item"> 
 					<div className="footer-info-icon"><FontAwesomeIcon className="footer-icon" icon={faPhone}/></div>
-					<div className="footer-info-color"><Link href="tel:+90-553-986-4302"><a>+90 (553) 986 43 02</a></Link></div>
+					<div className="footer-info-color"><Link href="tel:+90-553-986-4302">+90 (553) 986 43 02</Link></div>
 				</div>
 				<div className="footer-info-item"> 
 					<div className="footer-info-icon"><FontAwesomeIcon className="footer-icon" icon={faEnvelope}/></div>
-					<div className="footer-info-color"><Link href="mailto:info@hepdak.org.tr"><a>info@hepdak.org.tr</a></Link></div>
+					<div className="footer-info-color"><Link href="mailto:info@hepdak.org.tr">info@hepdak.org.tr</Link></div>
 				</div>
 				<div className="footer-info-item"> 
 					<div className="footer-info-icon"><FontAwesomeIcon className="footer-icon" icon={faYoutube}/></div>
-					<div className="footer-info-color"><Link href="https://www.youtube.com/channel/UC96oXHHypl1WFXpOkvwwj9A/featured"><a>HEPDAK TV</a></Link></div>
+					<div className="footer-info-color"><Link href="https://www.youtube.com/channel/UC96oXHHypl1WFXpOkvwwj9A/featured">HEPDAK TV</Link></div>
 				</div>
 				<div className="footer-info-item"> 
 					<div className="footer-info-icon"><FontAwesomeIcon className="footer-icon" icon={faInstagram}/></div>
-					<div className="footer-info-color"><Link href="https://www.instagram.com/hepdak/"><a>HEPDAK</a></Link></div>
+					<div className="footer-info-color"><Link href="https://www.instagram.com/hepdak/">HEPDAK</Link></div>
 				</div>
 				<div className="footer-info-item"> 
 					<div className="footer-info-icon"><FontAwesomeIcon className="footer-icon" icon={faMapMarkerAlt}/></div>
-					<div className="footer-info-color"><Link href="/iletisim"><a>Konak Mah. 858 Sok.<br/>No: 9 Daire: 706<br/>Konak - İzmir</a></Link></div>
+					<div className="footer-info-color"><Link href="/iletisim">Konak Mah. 858 Sok.<br/>No: 9 Daire: 706<br/>Konak - İzmir</Link></div>
 				</div>
 			</div>
 		</div>
 		<div className="col-sm-12 col-md-3 footer-item">
 			<div className="footer-item-title"><strong>About Us</strong></div> 
-			<div className="footer-item-link"><Link href="/en/mission-vision"><a>Mission, Vision</a></Link></div>
-			<div className="footer-item-link"><Link href="/doc/en/hepdak-strategic-plan.pdf"><a target="_blank">Strategic Plan</a></Link></div>
-			<div className="footer-item-link"><Link href="/en/objective-activities"><a>Objective and Activities</a></Link></div>
-			<div className="footer-item-link"><Link href="/en/quality-policy"><a>Quality Policy</a></Link></div>
-			<div className="footer-item-link"><Link href="/doc/en/hepdak-organizational-structure.pdf"><a target="_blank">HEPDAK Organizational Structure</a></Link></div>
-			<div className="footer-item-link"><Link href="/en/boards-commissions"><a>Boards and Commissions</a></Link></div>
-			<div className="footer-item-link"><Link href="/en/member-list"><a>Member List</a></Link></div>
-			<div className="footer-item-link"><Link href="/en/evaluator-list"><a>Evaluator List</a></Link></div>
-			<div className="footer-item-link"><Link href="/en/registry-letters"><a>Registration/Registry Letters</a></Link></div>
+			<div className="footer-item-link"><Link href="/en/mission-vision">Mission, Vision</Link></div>
+			<div className="footer-item-link"><Link href="/doc/en/hepdak-strategic-plan.pdf" target="_blank">Strategic Plan</Link></div>
+			<div className="footer-item-link"><Link href="/en/objective-activities">Objective and Activities</Link></div>
+			<div className="footer-item-link"><Link href="/en/quality-policy">Quality Policy</Link></div>
+			<div className="footer-item-link"><Link href="/doc/en/hepdak-organizational-structure.pdf" target="_blank">HEPDAK Organizational Structure</Link></div>
+			<div className="footer-item-link"><Link href="/en/boards-commissions">Boards and Commissions</Link></div>
+			<div className="footer-item-link"><Link href="/en/member-list">Member List</Link></div>
+			<div className="footer-item-link"><Link href="/en/evaluator-list">Evaluator List</Link></div>
+			<div className="footer-item-link"><Link href="/en/registry-letters">Registration/Registry Letters</Link></div>
 		</div>	
 		<div className="col-sm-12 col-md-3 footer-item">
 			<div className="footer-item-title"><strong>Accreditation</strong></div>
-			<div className="footer-item-link"><Link href="/doc/en/application.pdf"><a>Application</a></Link></div>
-			<div className="footer-item-link"><Link href="/en/documents"><a>Documents</a></Link></div>
-			<div className="footer-item-link"><Link href="/doc/en/fees-2025.pdf"><a>Fees</a></Link></div>
-			<div className="footer-item-link"><Link href="/doc/en/accredited-programs.pdf"><a>Accredited Programs</a></Link></div>
-			<div className="footer-item-link"><Link href="/en/related-organizations"><a>Related Organizations</a></Link></div>
+			<div className="footer-item-link"><Link href="/doc/en/application.pdf">Application</Link></div>
+			<div className="footer-item-link"><Link href="/en/documents">Documents</Link></div>
+			<div className="footer-item-link"><Link href="/doc/en/fees-2025.pdf">Fees</Link></div>
+			<div className="footer-item-link"><Link href="/doc/en/accredited-programs.pdf">Accredited Programs</Link></div>
+			<div className="footer-item-link"><Link href="/en/related-organizations">Related Organizations</Link></div>
 			<div className="footer-item-title footer-item-title-calistay"><strong>Workshops</strong></div>
-			<div className="footer-item-link"><Link href="/en/training-workshop-for-institutions"><a>Training Workshop for Institutions</a></Link></div>
-			<div className="footer-item-link"><Link href="/doc/en/evaluator-training-workshop.pdf"><a>Evaluator Training Workshop</a></Link></div>
-			<div className="footer-item-link"><Link href="/doc/en/student-evaluator-training-workshop.pdf"><a>Student Evaluator Training Workshop</a></Link></div>
+			<div className="footer-item-link"><Link href="/en/training-workshop-for-institutions">Training Workshop for Institutions</Link></div>
+			<div className="footer-item-link"><Link href="/doc/en/evaluator-training-workshop.pdf">Evaluator Training Workshop</Link></div>
+			<div className="footer-item-link"><Link href="/doc/en/student-evaluator-training-workshop.pdf">Student Evaluator Training Workshop</Link></div>
 		</div>
 		<div className="col-sm-12 col-md-3 footer-item">
 			<div className="footer-item-title"><strong>Reports</strong></div>
-			<div className="footer-item-link"><Link href="/en/general-assembly-and-reports"><a>General Assembly and Reports</a></Link></div>
-			<div className="footer-item-link"><Link href="/en/thematic-analysis-reports"><a>Thematic Analysis Report</a></Link></div>
-			<div className="footer-item-link"><Link href="/en/activity-reports"><a>Activity Reports/Annual Reports</a></Link></div>
-			<div className="footer-item-link"><Link href="/en/stakeholder-opinion-reports"><a>Stakeholder Opinion Reports</a></Link></div>	
+			<div className="footer-item-link"><Link href="/en/general-assembly-and-reports">General Assembly and Reports</Link></div>
+			<div className="footer-item-link"><Link href="/en/thematic-analysis-reports">Thematic Analysis Report</Link></div>
+			<div className="footer-item-link"><Link href="/en/activity-reports">Activity Reports/Annual Reports</Link></div>
+			<div className="footer-item-link"><Link href="/en/stakeholder-opinion-reports">Stakeholder Opinion Reports</Link></div>	
 			<div className="footer-item-title footer-item-title-calistay"><strong>Meetings</strong></div>
-			<div className="footer-item-link"><Link href="/en/heak-meetings"><a>HEAK Meetings</a></Link></div>
-			<div className="footer-item-link"><Link href="/en/advisory-board-meetings"><a>Advisory Board Meetings</a></Link></div>
-			<div className="footer-item-link"><Link href="/en/commission-meetings"><a>Commission Meetings</a></Link></div>
-			<div className="footer-item-link"><Link href="/en/international-meetings"><a>International Meetings and Activities</a></Link></div>
-			<div className="footer-item-link"><Link href="/en/stakeholder-meetings"><a>Stakeholder Meetings</a></Link></div>
+			<div className="footer-item-link"><Link href="/en/heak-meetings">HEAK Meetings</Link></div>
+			<div className="footer-item-link"><Link href="/en/advisory-board-meetings">Advisory Board Meetings</Link></div>
+			<div className="footer-item-link"><Link href="/en/commission-meetings">Commission Meetings</Link></div>
+			<div className="footer-item-link"><Link href="/en/international-meetings">International Meetings and Activities</Link></div>
+			<div className="footer-item-link"><Link href="/en/stakeholder-meetings">Stakeholder Meetings</Link></div>
 		</div>		
 	</div>
 	<div className="footer-copy">

@@ -14,11 +14,11 @@ const Toplantilar = () => (
 	      <tbody>
 	      	<tr>
 	          <th scope="row" width="140px">Ekim 2023</th>
-	          <td><Link href="doc/standart_belirleme_toplanti/02.pdf"><a>Hemşirelik Lisans Eğitim Programı Standartları Dereceli Değerlendirme Aracına (Sürüm 6.0) Yönelik Alınan Paydaş Görüşlerinin Değerlendirilmesi ve Gerekli Düzenlemelerin Yapılması</a></Link></td>
+	          <td><Link href="doc/standart_belirleme_toplanti/02.pdf">Hemşirelik Lisans Eğitim Programı Standartları Dereceli Değerlendirme Aracına (Sürüm 6.0) Yönelik Alınan Paydaş Görüşlerinin Değerlendirilmesi ve Gerekli Düzenlemelerin Yapılması</Link></td>
 	        </tr>
 	        <tr>
 	          <th scope="row" width="140px">08 Şubat 2022</th>
-	          <td><Link href="doc/standart_belirleme_toplanti/01.pdf"><a>2021-2022 yılı Akreditasyon Değerlendirme Takım Başkanları ile Standart Belirleme ve Geliştirme Komisyonu üyeleri ile Hemşirelik Lisans Eğitim Programı Standartları Son Sürümleri Hakkında Görüşülmesi</a></Link></td>
+	          <td><Link href="doc/standart_belirleme_toplanti/01.pdf">2021-2022 yılı Akreditasyon Değerlendirme Takım Başkanları ile Standart Belirleme ve Geliştirme Komisyonu üyeleri ile Hemşirelik Lisans Eğitim Programı Standartları Son Sürümleri Hakkında Görüşülmesi</Link></td>
 	        </tr>
 	      </tbody>
 	    </table>

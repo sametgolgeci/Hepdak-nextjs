@@ -10,10 +10,14 @@ const Uye = () => (
       <div className="genel">
         <h1>HEPDAK Değerlendiriciler Listesi</h1>
         <div className="jumbotron">
-          <p>HEPDAK Değerlendirici Listesine  <Link href="doc/degerlendiriciler_listesi/degerlendirici-listesi.pdf"><a target="_blank">buradan</a></Link> ulaşabilirsiniz. <strong>(13 Mayıs 2024)</strong></p>
+          <p>HEPDAK Değerlendirici Listesine  <Link
+            href="doc/degerlendiriciler_listesi/degerlendirici-listesi.pdf"
+            target="_blank">buradan</Link> ulaşabilirsiniz. <strong>(13 Mayıs 2024)</strong></p>
         </div>
         <div className="jumbotron">
-          <p>HEPDAK Öğrenci Değerlendirici Listesine  <Link href="doc/degerlendiriciler_listesi/ogrenci-degerlendirici-listesi.pdf"><a target="_blank">buradan</a></Link> ulaşabilirsiniz. <strong>(13 Ekim 2023)</strong></p>
+          <p>HEPDAK Öğrenci Değerlendirici Listesine  <Link
+            href="doc/degerlendiriciler_listesi/ogrenci-degerlendirici-listesi.pdf"
+            target="_blank">buradan</Link> ulaşabilirsiniz. <strong>(13 Ekim 2023)</strong></p>
         </div>
       </div>
     </MasterPage>

@@ -42,24 +42,24 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
-                  <Link href="../doc/en/2025-training-calendar.pdf"><a target="_blank">
-                  <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/en/2025-training-calendar.jpeg"/></div>
-                  </a></Link>
+                  <Link href="../doc/en/2025-training-calendar.pdf" target="_blank">
+                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/en/2025-training-calendar.jpeg"/></div>
+                  </Link>
                 </div>
                 <div className="carousel-item">
-                  <Link href="../doc/en/application.pdf"><a target="_blank">
-                  <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/en/2025-application.jpeg"/></div>
-                  </a></Link>
+                  <Link href="../doc/en/application.pdf" target="_blank">
+                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/en/2025-application.jpeg"/></div>
+                  </Link>
                 </div>
                 <div className="carousel-item">
-                  <Link href="../doc/en/2025-meeting-calendar.pdf"><a target="_blank">
-                  <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/en/2025-meeting-calendar.jpeg"/></div>
-                  </a></Link>
+                  <Link href="../doc/en/2025-meeting-calendar.pdf" target="_blank">
+                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/en/2025-meeting-calendar.jpeg"/></div>
+                  </Link>
                 </div>
                 <div className="carousel-item">
-                  <Link href="../doc/en/hepdak-hemed.pdf"><a target="_blank">
-                  <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/en/hepdak-hemed.jpeg"/></div>
-                  </a></Link>
+                  <Link href="../doc/en/hepdak-hemed.pdf" target="_blank">
+                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/en/hepdak-hemed.jpeg"/></div>
+                  </Link>
                 </div>
                 <div className="carousel-item">
                   <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/en/hepdak-registration.png"/></div>
@@ -134,7 +134,7 @@ const Anasayfa = () => (
             <div className="block-title-all"><Link href="en/all-news">All News</Link></div>
           </div>
 
-          <Link href="en/all-news#070125">
+          <Link href="en/all-news#070125" legacyBehavior>
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
               <div className="date-day">07</div>
@@ -145,7 +145,7 @@ const Anasayfa = () => (
           </div>
           </Link>
 
-          <Link href="en/all-news#26december2024">
+          <Link href="en/all-news#26december2024" legacyBehavior>
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
               <div className="date-day">26</div>
@@ -156,7 +156,7 @@ const Anasayfa = () => (
           </div>
           </Link>
 
-          <Link href="en/all-news#18december2024">
+          <Link href="en/all-news#18december2024" legacyBehavior>
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
               <div className="date-day">18</div>
@@ -167,7 +167,7 @@ const Anasayfa = () => (
           </div>
           </Link>
 
-          <Link href="en/all-news#26november2024">
+          <Link href="en/all-news#26november2024" legacyBehavior>
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
               <div className="date-day">26</div>
@@ -178,7 +178,7 @@ const Anasayfa = () => (
           </div>
           </Link>
 
-          <Link href="en/all-news#12october2024">
+          <Link href="en/all-news#12october2024" legacyBehavior>
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
               <div className="date-day">12</div>
@@ -189,7 +189,7 @@ const Anasayfa = () => (
           </div>
           </Link>
 
-          <Link href="en/all-news#03october2024">
+          <Link href="en/all-news#03october2024" legacyBehavior>
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
               <div className="date-day">03</div>
@@ -200,7 +200,7 @@ const Anasayfa = () => (
           </div>
           </Link>
           
-          <Link href="en/all-news#1920september2024">
+          <Link href="en/all-news#1920september2024" legacyBehavior>
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
               <div className="date-day">19-20</div>
@@ -211,7 +211,7 @@ const Anasayfa = () => (
           </div>
           </Link>
 
-          <Link href="en/all-news#10june2024">
+          <Link href="en/all-news#10june2024" legacyBehavior>
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
               <div className="date-day">10</div>
@@ -222,7 +222,7 @@ const Anasayfa = () => (
           </div>
           </Link>
 
-          <Link href="en/all-news#08june2024">
+          <Link href="en/all-news#08june2024" legacyBehavior>
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
               <div className="date-day">08</div>
@@ -242,7 +242,7 @@ const Anasayfa = () => (
             <div className="block-title-all"><a href="/#">All Announcements</a></div>
           </div>
 
-           <Link href="doc/en/2025-training-calendar.pdf">
+           <Link href="doc/en/2025-training-calendar.pdf" legacyBehavior>
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
               <div className="date-day"></div>
@@ -253,7 +253,7 @@ const Anasayfa = () => (
           </div>
           </Link>
 
-          <Link href="doc/en/2025-meeting-calendar.pdf">
+          <Link href="doc/en/2025-meeting-calendar.pdf" legacyBehavior>
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
               <div className="date-day"></div>

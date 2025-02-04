@@ -40,7 +40,7 @@ const Belgeler = () => (
           <tbody>
             <tr>
               <td scope="row" width="10px">-</td>
-              <td><Link href="../doc/en/stakeholder-meetings/TL/01.pdf"><a target="_blank">January 7, 2025</a></Link></td>
+              <td><Link href="../doc/en/stakeholder-meetings/TL/01.pdf" target="_blank">January 7, 2025</Link></td>
             </tr>
           </tbody>
         </table>
