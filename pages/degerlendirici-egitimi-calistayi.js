@@ -39,7 +39,7 @@ const Calistay = () => (
 			</ul>
 		</p>
 		<div className="collapse" id="collapseExampleFoto10">
-			<p><strong>-> Fotoğraflar</strong></p>
+			<p><strong>- Fotoğraflar</strong></p>
 			<div className="container">
 				<div className="row">
 					<div className="col-md-3 col-sm-12"><a href="doc/degerlendirici_egitim_10/01.jpeg" target="_blank"><img className="calistay-img" src="doc/degerlendirici_egitim_10/01.jpeg" alt="HEPDAK 2024 yılı Değerlendirici Eğitimi"/></a></div>
@@ -67,7 +67,7 @@ const Calistay = () => (
 			</ul>
 		</p>
 		<div className="collapse" id="collapseExampleFoto9">
-			<p><strong>-> Fotoğraflar</strong></p>
+			<p><strong>- Fotoğraflar</strong></p>
 			<div className="container">
 				<div className="row">
 					<div className="col-md-3 col-sm-12"><a href="doc/degerlendirici_egitim_9/01.jpg" target="_blank"><img className="calistay-img" src="doc/degerlendirici_egitim_9/01.jpg" alt="HEPDAK 2023 yılı Değerlendirici Eğitimi tamamlandı"/></a></div>
@@ -97,7 +97,7 @@ const Calistay = () => (
 			</ul>
 		</p>
 		<div className="collapse" id="collapseExampleFoto8">
-			<p><strong>-> Fotoğraflar</strong></p>
+			<p><strong>- Fotoğraflar</strong></p>
 			<div className="container">
 				<div className="row">
 					<div className="col-md-3 col-sm-12"><a href="/img/haberler/hepdak-degerlendirici-egitimi-2022/08.PNG" target="_blank"><img className="calistay-img" src="/img/haberler/hepdak-degerlendirici-egitimi-2022/08.PNG" alt="HEPDAK 2022 yılı Değerlendirici Eğitimi tamamlandı"/></a></div>
@@ -149,7 +149,7 @@ const Calistay = () => (
 		</div>
 		*/}
 		<div className="collapse" id="collapseExampleFoto6">
-			<p><strong>-> Fotoğraflar</strong></p>
+			<p><strong>- Fotoğraflar</strong></p>
 			<div className="container">
 				<div className="row">
 					<div className="col-md-3 col-sm-12"><a href="/doc/degerlendirici_egitim_6/1.JPG" target="_blank"><img className="calistay-img" src="/doc/degerlendirici_egitim_6/1.JPG" alt="Değerlendirici Eğitimi 6"/></a></div>
@@ -203,7 +203,7 @@ const Calistay = () => (
 			</ul>
 		</p>
 		<div className="collapse" id="collapseExample">
-		<p><strong>-> Sunumlar</strong></p>
+		<p><strong>- Sunumlar</strong></p>
 		<p className="madde-p"><a href="/doc/degerlendirici_egitim_5/1.acılıs.pptx">1. Çalıştay Açılışı</a><br/>
 		<a href="/doc/degerlendirici_egitim_5/2.akreditasyon_sureci.ppt">2. Akreditasyon Süreci</a><br/>
 		<a href="/doc/degerlendirici_egitim_5/3.HEPDAK_hemsirelik_lisans_egitim_programı_standartları.ppt">3. Hemşirelik Lisans Eğitim Standartları</a><br/>

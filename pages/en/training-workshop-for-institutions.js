@@ -37,7 +37,7 @@ const Uye = () => (
             </ul>
           </p>
           <div className="collapse" id="collapseExamplePhoto12">
-            <p><strong>-> Photos</strong></p>
+            <p><strong>- Photos</strong></p>
             <div className="container">
               <div className="row">
                 <div className="col-md-3 col-sm-12"><a href="../doc/kurumlar_egitim_12/photo_01.png" target="_blank"><img className="calistay-img" src="../doc/kurumlar_egitim_12/photo_01.png" alt="Kurumlar için Eğitim Çalıştayı 12"/></a></div>

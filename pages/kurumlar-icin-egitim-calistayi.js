@@ -36,7 +36,7 @@ const Calistay = () => (
 			</ul>
 		</p>
 		<div className="collapse" id="collapseExampleFoto12">
-			<p><strong>-> Fotoğraflar</strong></p>
+			<p><strong>- Fotoğraflar</strong></p>
 			<div className="container">
 				<div className="row">
 					<div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_12/photo_01.png" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_12/photo_01.png" alt="Kurumlar için Eğitim Çalıştayı 12"/></a></div>
@@ -69,7 +69,7 @@ const Calistay = () => (
 			</ul>
 		</p>
 		<div className="collapse" id="collapseExampleFoto11">
-			<p><strong>-> Fotoğraflar</strong></p>
+			<p><strong>- Fotoğraflar</strong></p>
 			<div className="container">
 				<div className="row">
 					<div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_11/photo_01.png" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_11/photo_01.png" alt="Kurumlar için Eğitim Çalıştayı 11"/></a></div>
@@ -85,7 +85,7 @@ const Calistay = () => (
 			</div>
 		</div>
 		<div className="collapse" id="collapseOnBir">
-		<p><strong>-> Sunumlar</strong></p>
+		<p><strong>- Sunumlar</strong></p>
 		<p className="madde-p">
 		<a href="/doc/kurumlar_egitim_11/kurumlar11_01.pdf">1. Giriş</a><br/>
 		<a href="/doc/kurumlar_egitim_11/kurumlar11_02.pdf">2. HEPDAK Yapısı ve Akreditasyon Süreci</a><br/>
@@ -120,7 +120,7 @@ const Calistay = () => (
 			</ul>
 		</p>
 		<div className="collapse" id="collapseExampleFoto10">
-			<p><strong>-> Fotoğraflar</strong></p>
+			<p><strong>- Fotoğraflar</strong></p>
 			<div className="container">
 				<div className="row">
 					<div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_10/photo-01.PNG" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_10/photo-01.PNG" alt="Kurumlar için Eğitim Çalıştayı 10"/></a></div>
@@ -139,7 +139,7 @@ const Calistay = () => (
 			</div>
 		</div>
 		<div className="collapse" id="collapseOn">
-		<p><strong>-> Sunumlar</strong></p>
+		<p><strong>- Sunumlar</strong></p>
 		<p className="madde-p">
 		<a href="/doc/kurumlar_egitim_10/kurum10_01.pdf">1. Giriş</a><br/>
 		<a href="/doc/kurumlar_egitim_10/kurum10_02.pdf">2. Akreditasyon Süreci</a><br/>
@@ -173,7 +173,7 @@ const Calistay = () => (
 			</ul>
 		</p>
 		<div className="collapse" id="collapseDokuz">
-		<p><strong>-> Sunumlar</strong></p>
+		<p><strong>- Sunumlar</strong></p>
 		<p className="madde-p">
 		<a href="/doc/kurumlar_egitim_9/kurum9_1.pdf">1. Giriş</a><br/>
 		<a href="/doc/kurumlar_egitim_9/kurum9_2.pdf">2. Akreditasyon Süreci</a><br/>
@@ -185,7 +185,7 @@ const Calistay = () => (
 		<a href="/doc/kurumlar_egitim_9/kurum9_8.pdf">8. Özdeğerlendirme İçeriğinin Hazırlaması ve Dikkat Edilecek Konular</a></p>
 		</div>
 		<div className="collapse" id="collapseExampleFoto9">
-			<p><strong>-> Fotoğraflar</strong></p>
+			<p><strong>- Fotoğraflar</strong></p>
 			<div className="container">
 				<div className="row">
 					<div className="col-md-3 col-sm-12"><a href="/doc/kurumlar_egitim_9/photo-1.PNG" target="_blank"><img className="calistay-img" src="/doc/kurumlar_egitim_9/photo-1.PNG" alt="Kurumlar için Eğitim Çalıştayı 9"/></a></div>
@@ -216,7 +216,7 @@ const Calistay = () => (
 			</ul>
 		</p>
 		<div className="collapse" id="collapseExample">
-		<p><strong>-> Sunumlar</strong></p>
+		<p><strong>- Sunumlar</strong></p>
 		<p className="madde-p"><a href="/doc/kurumlar_egitim_8/giris.pptx">1. Çalıştay Açılışı</a><br/>
 		<a href="/doc/kurumlar_egitim_8/akreditasyon_sureci.ppt">2. Akreditasyon Süreci</a><br/>
 		<a href="/doc/kurumlar_egitim_8/program_amaclari.ppt">3. Program Amaçları</a><br/>

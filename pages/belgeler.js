@@ -138,7 +138,7 @@ const Belgeler = () => (
                   <th scope="col" colSpan="2">Değerlendirme Takımları için Belgeler</th>
                 </tr>
                 <tr>
-                  <th scope="col" colSpan="2" className="table-alt-baslik">-> Öğretim Üyeleri</th>
+                  <th scope="col" colSpan="2" className="table-alt-baslik">- Öğretim Üyeleri</th>
                 </tr>
               </thead>
               <tbody>
@@ -172,7 +172,7 @@ const Belgeler = () => (
               </tbody>
               <thead className="thead-dark">
                 <tr>
-                  <th scope="col" colSpan="2" className="table-alt-baslik">-> Öğrenci</th>
+                  <th scope="col" colSpan="2" className="table-alt-baslik">- Öğrenci</th>
                 </tr>
               </thead>
               <tbody>
