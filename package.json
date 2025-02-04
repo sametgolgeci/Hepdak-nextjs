@@ -3,9 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "export SET NODE_OPTIONS=--openssl-legacy-provider && next dev",
     "build": "next build",
-    "start": "next start",
+    "start": "next SET NODE_OPTIONS=--openssl-legacy-provider start",
     "export": "next build && next export"
   },
   "dependencies": {
@@ -13,13 +12,12 @@
     "@fortawesome/free-brands-svg-icons": "^5.15.4",
     "@fortawesome/free-solid-svg-icons": "^5.15.1",
     "@fortawesome/react-fontawesome": "^0.1.12",
-    "@sendgrid/mail": "^7.7.0",
+    "@sendgrid/mail": "^8.1.4",
     "emailjs-com": "^2.6.4",
-    "next": "^10.0.7",
+    "next": "^15.1.6",
     "node-fetch": ">=2.6.1",
     "react": "16.12.0",
     "react-dom": "16.12.0",
     "react-toastify": "^9.1.1"
   }
 }
-
