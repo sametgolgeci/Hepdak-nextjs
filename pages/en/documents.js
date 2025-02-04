@@ -80,7 +80,7 @@ const Belgeler = () => (
                   <th scope="col" colSpan="2">Documents for Evaluation Teams</th>
                 </tr>
                 <tr>
-                  <th scope="col" colSpan="2" className="table-alt-baslik">-> Faculties</th>
+                  <th scope="col" colSpan="2" className="table-alt-baslik">- Faculties</th>
                 </tr>
               </thead>
               <tbody>
@@ -95,7 +95,7 @@ const Belgeler = () => (
               </tbody>
               <thead className="thead-dark">
                 <tr>
-                  <th scope="col" colSpan="2" className="table-alt-baslik">-> Students</th>
+                  <th scope="col" colSpan="2" className="table-alt-baslik">- Students</th>
                 </tr>
               </thead>
               <tbody>

@@ -36,14 +36,14 @@ const Calistay = () => (
 			</ul>
 		</p>
 		<div className="collapse" id="collapseExampleSeven">
-			<p><strong>-> Sunumlar</strong></p>
+			<p><strong>- Sunumlar</strong></p>
 			<p className="madde-p">
 				<a href="/doc/ogrenci_egitim_7/belge_1.pdf">1. Açılış ve Çalıştayın Amaçları</a><br/>
 				<a href="/doc/ogrenci_egitim_7/belge_2.pdf">2. Değerlendirme Sürecinde Davranışsal Boyut</a><br/>
 			</p>
 		</div>
 		<div className="collapse" id="collapseSevenFoto">
-			<p><strong>-> Fotoğraflar</strong></p>
+			<p><strong>- Fotoğraflar</strong></p>
 			<div className="container">
 				<div className="row">
 					<div className="col-md-3 col-sm-12"><a href="/doc/ogrenci_egitim_7/01.jpeg" target="_blank"><img className="calistay-img" src="/doc/ogrenci_egitim_7/01.jpeg" alt="Öğrenci Eğitimi 08 Haziran 2024"/></a></div>
@@ -73,7 +73,7 @@ const Calistay = () => (
 			</ul>
 		</p>
 		<div className="collapse" id="collapseExampleSix">
-			<p><strong>-> Sunumlar</strong></p>
+			<p><strong>- Sunumlar</strong></p>
 			<p className="madde-p">
 				<a href="/doc/ogrenci_egitim_6/belge_1.pdf">1. Açılış ve Çalıştayın Amaçları</a><br/>
 				<a href="/doc/ogrenci_egitim_6/belge_2.pdf">2. HEPDAK Akreditasyon Süreci</a><br/>
@@ -83,7 +83,7 @@ const Calistay = () => (
 			</p>
 		</div>
 		<div className="collapse" id="collapseSixFoto">
-			<p><strong>-> Fotoğraflar</strong></p>
+			<p><strong>- Fotoğraflar</strong></p>
 			<div className="container">
 				<div className="row">
 					<div className="col-md-3 col-sm-12"><a href="/doc/ogrenci_egitim_6/01.png" target="_blank"><img className="calistay-img" src="/doc/ogrenci_egitim_6/01.png" alt="Öğrenci Eğitimi 27 - 28 Ocak 2023"/></a></div>
@@ -114,7 +114,7 @@ const Calistay = () => (
 			</ul>
 		</p>
 		<div className="collapse" id="collapseBesFoto">
-			<p><strong>-> Fotoğraflar</strong></p>
+			<p><strong>- Fotoğraflar</strong></p>
 			<div className="container">
 				<div className="row">
 					<div className="col-md-3 col-sm-12"><a href="/doc/ogrenci_egitim_5/1.png" target="_blank"><img className="calistay-img" src="/doc/ogrenci_egitim_5/1.png" alt="Öğrenci Eğitimi 05 - 06 Şubat 2022"/></a></div>
@@ -149,7 +149,7 @@ const Calistay = () => (
 			</ul>
 		</p>
 		<div className="collapse" id="collapseExample">
-			<p><strong>-> Sunumlar</strong></p>
+			<p><strong>- Sunumlar</strong></p>
 			<p className="madde-p">
 				<a href="/doc/ogrenci_egitim_4/belge_1.ppt">1. Çalıştayın Amaçları</a><br/>
 				<a href="/doc/ogrenci_egitim_4/belge_2.ppt">2. Akreditasyon Süreci</a><br/>
@@ -162,7 +162,7 @@ const Calistay = () => (
 			</p>
 		</div>
 		<div className="collapse" id="collapseExampleFoto">
-			<p><strong>-> Fotoğraflar</strong></p>
+			<p><strong>- Fotoğraflar</strong></p>
 			<div className="container">
 				<div className="row">
 					<div className="col-md-3 col-sm-12"><a href="/doc/ogrenci_egitim_4/1.jpg" target="_blank"><img className="calistay-img" src="/doc/ogrenci_egitim_4/1.jpg" alt="Öğrenci Eğitimi 28 Mart 2021"/></a></div>
