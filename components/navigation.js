@@ -12,7 +12,7 @@ const Navigation = () => (
 					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">KURUMSAL</a>
 					<div className="dropdown-menu">
 						<Link href="/misyon-vizyon" className="dropdown-item">Misyon, Vizyon</Link>
-						<Link href="/doc/hepdak_stratejik_plan.pdf" className="dropdown-item">Stratejik Plan</Link>
+						<Link href="/stratejik-plan" className="dropdown-item">Stratejik Plan</Link>
 						<Link href="/amac-ve-faaliyetler" className="dropdown-item">Amaç ve Faaliyetler</Link>
 						<Link href="/kalite-politikasi" className="dropdown-item">Kalite Politikası</Link>
 						<Link href="/doc/hepdak_org_sema.pdf" className="dropdown-item">HEPDAK Organizasyon Şeması</Link>

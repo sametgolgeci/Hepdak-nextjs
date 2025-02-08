@@ -12,10 +12,7 @@ const Navigation = () => (
 					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">ABOUT US</a>
 					<div className="dropdown-menu">
 						<Link href="/en/mission-vision" className="dropdown-item">Mission, Vision</Link>
-						<Link
-                            href="../doc/en/hepdak-strategic-plan.pdf"
-                            className="dropdown-item"
-                            target="_blank">Strategic Plan</Link>
+						<Link href="/en/strategic-plan" className="dropdown-item">Strategic Plan</Link>
 						<Link href="/en/objective-activities" className="dropdown-item">Objective and Activities</Link>
 						<Link href="/en/quality-policy" className="dropdown-item">Quality Policy</Link>
 						<Link

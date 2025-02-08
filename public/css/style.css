@@ -1088,6 +1088,9 @@ table{
   transform: scaleX(1);
   transform-origin: center;
 }
+.header-up-item a svg {
+	width: 20px !important;
+}
 .header-icon {
 	height: 20px;
 	padding-right: 6px;

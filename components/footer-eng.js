@@ -36,7 +36,7 @@ const Footer = () => (
 		<div className="col-sm-12 col-md-3 footer-item">
 			<div className="footer-item-title"><strong>About Us</strong></div> 
 			<div className="footer-item-link"><Link href="/en/mission-vision">Mission, Vision</Link></div>
-			<div className="footer-item-link"><Link href="/doc/en/hepdak-strategic-plan.pdf" target="_blank">Strategic Plan</Link></div>
+			<div className="footer-item-link"><Link href="/en/strategic-plan" target="_blank">Strategic Plan</Link></div>
 			<div className="footer-item-link"><Link href="/en/objective-activities">Objective and Activities</Link></div>
 			<div className="footer-item-link"><Link href="/en/quality-policy">Quality Policy</Link></div>
 			<div className="footer-item-link"><Link href="/doc/en/hepdak-organizational-structure.pdf" target="_blank">HEPDAK Organizational Structure</Link></div>

@@ -9,6 +9,7 @@ const Gorus = () => (
 	    </Head>
 	    <div className="genel">
 	    	<h1>HEPDAK Paydaş Görüşleri</h1>
+	    	<p className="madde-p">HEPDAK Paydaş Görüşleri 2024 için <Link href="doc/paydas_gorusleri/paydas_gorus_2024.pdf" target="_blank">tıklayınız</Link></p>
 	    	<p className="madde-p">HEPDAK Paydaş Görüşleri 2023 için <Link href="doc/paydas_gorusleri/paydas_gorus_2023.pdf" target="_blank">tıklayınız</Link></p>
 	    	<p className="madde-p">HEPDAK Paydaş Görüşleri 2022 için <Link href="doc/paydas_gorusleri/paydas_gorus_2022.pdf" target="_blank">tıklayınız</Link></p>
 	    	<p className="madde-p">HEPDAK Paydaş Görüşleri 2021 için <Link href="doc/paydas_gorusleri/paydas_gorus_2021.pdf" target="_blank">tıklayınız</Link></p>
