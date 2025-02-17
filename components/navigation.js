@@ -20,9 +20,7 @@ const Navigation = () => (
 						<Link href="/uye-listesi" className="dropdown-item">Üye Listesi</Link>
 						<Link href="/degerlendirici-listesi" className="dropdown-item">Değerlendiriciler Listesi</Link>
 						<Link href="/idari-personel" className="dropdown-item">İdari Personel</Link>
-						<Link
-                            href="/yetkilendirme-ve-uluslararasi-taninirlik"
-                            className="dropdown-item">Yetkilendirme ve Uluslararası Tanınırlık</Link>
+						<Link href="/yetkilendirme-ve-uluslararasi-taninirlik" className="dropdown-item">Yetkilendirme ve Uluslararası Tanınırlık</Link>
 			      <Link href="/doc/iktisadi-isletme.docx" className="dropdown-item">İktisadi İşletme</Link>
 			      <Link href="/kurumsal-kimlik" className="dropdown-item">Kurumsal Kimlik</Link>
 					</div>
@@ -32,7 +30,7 @@ const Navigation = () => (
 					<div className="dropdown-menu">
 						<Link href="/doc/b1-basvuru-2024-2025.pdf" className="dropdown-item">Başvuru</Link>
 						<Link href="/belgeler" className="dropdown-item">Belgeler</Link>
-						<Link href="/doc/ucretler-2025.pdf" className="dropdown-item">Ücretler</Link>
+						<Link href="/ucretler" className="dropdown-item">Ücretler</Link>
 						<Link href="/akredite-edilen-kurumlar" className="dropdown-item">Akredite Edilen Kurumlar</Link>
 						<Link href="/ilgili-kuruluslar" className="dropdown-item">İlgili Kuruluşlar</Link>
 					</div>

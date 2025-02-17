@@ -36,7 +36,8 @@ const Ucretler = () => (
             <p>(2) Daha önce yapılan genel değerlendirme sonucunda kısa süreli akreditasyon verilmiş olan programların değerlendirmesidir.</p>
             <p>* KDV miktarı %20 üzerinden hesaplanır.</p>
             <p>** Programın genel değerlendirmesi yüz yüze yapıldı ise, bu değerlendirmesi çevrimiçi yapılabilir. Fakat değerlendirme takımının gereksinim belirtmesi durumunda HEAK onayı ile ziyaretin bir bölümü yüz yüze yapılabilir.</p>
-            <div className="akreditasyon-content-subtitle">2024-2025 Değerlendirme Dönemi Akreditasyon Bedelleri Ödeme Planı*/**</div>
+            {/*
+            <div className="akreditasyon-content-subtitle">2024-2025 Değerlendirme Dönemi Akreditasyon Bedelleri Ödeme Planı</div>
             <table className="table table-striped">
               <thead className="thead-dark">
                 <tr>
@@ -89,9 +90,17 @@ const Ucretler = () => (
                 </tr>
               </tbody>
             </table>
+            
             <p>* Ödeme planını takip etmek kurumun sorumluluğudur.</p>
             <p>** Ön inceleme sonrası ziyaret edilmeme kararı alınan programların ödemiş oldukları Mart taksit tutarı geri ödenmez.</p>
             <p>Toplu ödeme yapmak isteyen programların, HEPDAK Saymanı ile iletişime geçmesi gerekmektedir.</p>
+            */}
+            <h5>Bilgi Notu</h5>
+            <p>- Ödemeler ilki Şubat, ikincisi Temmuz ayında olmak üzere iki eşit taksit olarak yapılır.</p>
+            <p>- Ödeme planını takip etmek kurumun sorumluluğudur. Kurum ödemeyi yapmadan önce HEPDAK Sekreteri ile iletişime geçerek faturasını talep etmelidir.</p>
+            <p>- Öninceleme sonrası ziyaret edilmeme kararı alınan programların ödemiş oldukları Şubat taksit tutarı geri ödenmez.</p>
+            <p>- Kurumlar akreditasyon bedelinin tamamını tek seferde ödeyebilir. Bunun için kurumların, HEPDAK Saymanı ile iletişime geçmesi gerekmektedir.</p>
+            <p>- Otogardan/havaalanından kuruma gidiş-dönüş, konaklanan yerden kuruma gidiş-dönüş, kurum içinde birim ziyaretleri için araç temini, konaklanan yerdeki çalışma odasının ücreti kurum tarafından karşılanır.</p>
           </div>
 	    	</div>
 	    </div>
