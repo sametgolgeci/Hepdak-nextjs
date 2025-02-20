@@ -20,6 +20,21 @@ const Tum = () => (
           </ul>
           <div className="tab-content">
             <div id="twentyfive" className="container tab-pane active">
+              <div className="main-top-second" id="190225">
+                <div className="main-top-second-title">HEPDAK 2024-2025 Period Evaluation Meeting with Institutions Visited for Accreditation (February 19, 2025)</div> 
+                <div className="main-top-second-content">
+                  <p>HEPDAK held an online meeting with program managers visited for accreditation in the 2024-2025 period on February 19, 2025. 18 institution managers or representatives attended the meeting and exchanged views on standards and accreditation processes.</p>
+                </div>
+                <div className="main-top-second-content">
+                  <div className="row">
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/akreditasyon-icin-ziyaret-edilen-kurumlar/01.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/akreditasyon-icin-ziyaret-edilen-kurumlar/01.png" alt="EPDAK 2024-2025 Period Evaluation Meeting with Institutions Visited for Accreditation (February 19, 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/akreditasyon-icin-ziyaret-edilen-kurumlar/02.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/akreditasyon-icin-ziyaret-edilen-kurumlar/02.png" alt="EPDAK 2024-2025 Period Evaluation Meeting with Institutions Visited for Accreditation (February 19, 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/akreditasyon-icin-ziyaret-edilen-kurumlar/03.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/akreditasyon-icin-ziyaret-edilen-kurumlar/03.png" alt="EPDAK 2024-2025 Period Evaluation Meeting with Institutions Visited for Accreditation (February 19, 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/akreditasyon-icin-ziyaret-edilen-kurumlar/04.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/akreditasyon-icin-ziyaret-edilen-kurumlar/04.png" alt="EPDAK 2024-2025 Period Evaluation Meeting with Institutions Visited for Accreditation (February 19, 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/akreditasyon-icin-ziyaret-edilen-kurumlar/05.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/akreditasyon-icin-ziyaret-edilen-kurumlar/05.png" alt="EPDAK 2024-2025 Period Evaluation Meeting with Institutions Visited for Accreditation (February 19, 2025)"/></a></div>
+                  </div>
+                </div>  
+              </div>
               <div className="main-top-second" id="070125">
                 <div className="main-top-second-title">HEPDAK Team Leaders Meeting - 8 (January 07, 2025)</div> 
                 <div className="main-top-second-content">

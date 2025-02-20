@@ -36,6 +36,21 @@ const Tum = () => (
           <div className="tab-content">
             <div id="yirmibes" className="container tab-pane active">
               <div className="main-top-second">
+                <div className="main-top-second-title">HEPDAK 2024-2025 Dönemi Akreditasyon İçin Ziyaret Edilen Kurumlar ile Değerlendirme Toplantısı (19 Şubat 2025)</div> 
+                <div className="main-top-second-content">
+                  <p>HEPDAK 19 Şubat 2025 tarihinde, 2024-2025 döneminde akreditasyon için ziyaret edilen program yöneticiliyle çevrimiçi bir toplantı gerçekleştirmiştir. Toplantıya 18 kurum yöneticisi veya temsilcisi katılmıştır. Toplantıda standartlara ve akreditasyon süreçlerine ilişkin görüş alışverişinde bulunulmuştur.</p>
+                </div>
+                <div className="main-top-second-content">
+                  <div className="row">
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/akreditasyon-icin-ziyaret-edilen-kurumlar/01.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/akreditasyon-icin-ziyaret-edilen-kurumlar/01.png" alt="HEPDAK 2024-2025 Dönemi Akreditasyon İçin Ziyaret Edilen Kurumlar ile Değerlendirme Toplantısı (19 Şubat 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/akreditasyon-icin-ziyaret-edilen-kurumlar/02.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/akreditasyon-icin-ziyaret-edilen-kurumlar/02.png" alt="HEPDAK 2024-2025 Dönemi Akreditasyon İçin Ziyaret Edilen Kurumlar ile Değerlendirme Toplantısı (19 Şubat 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/akreditasyon-icin-ziyaret-edilen-kurumlar/03.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/akreditasyon-icin-ziyaret-edilen-kurumlar/03.png" alt="HEPDAK 2024-2025 Dönemi Akreditasyon İçin Ziyaret Edilen Kurumlar ile Değerlendirme Toplantısı (19 Şubat 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/akreditasyon-icin-ziyaret-edilen-kurumlar/04.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/akreditasyon-icin-ziyaret-edilen-kurumlar/04.png" alt="HEPDAK 2024-2025 Dönemi Akreditasyon İçin Ziyaret Edilen Kurumlar ile Değerlendirme Toplantısı (19 Şubat 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/akreditasyon-icin-ziyaret-edilen-kurumlar/05.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/akreditasyon-icin-ziyaret-edilen-kurumlar/05.png" alt="HEPDAK 2024-2025 Dönemi Akreditasyon İçin Ziyaret Edilen Kurumlar ile Değerlendirme Toplantısı (19 Şubat 2025)"/></a></div>
+                  </div>
+                </div>  
+              </div>
+              <div className="main-top-second">
                 <div className="main-top-second-title">HEPDAK Takım Başkanları Toplantısı - 8 (07 Ocak 2025)</div> 
                 <div className="main-top-second-content">
                   <p>HEPDAK Yönetim Kurulu, 07 Ocak 2025 tarihinde Takım Başkanları ile çevrimiçi değerlendirme toplantısını gerçekleştirmiştir. Toplantıya HEPDAK yönetim kurulu üyeleri, Standartları Belirleme ve Geliştirme Komisyonu temsilcileri ve takım başkanları olmak üzere 26 kişi katılmıştır. Toplantıda takım başkanları 2024 yılında ilk kez uygulanan HEPDAK Dereceli Değerlendirme Aracı kullanımına ilişkin görüşler, sorunlar ve öneriler başta olmak üzere kurum değerlendirme ziyaretleri ve değerlendirme sürecine deneyimlerini paylaşmışlardır.</p>

@@ -127,10 +127,12 @@ const Paydas = () => (
 				<table className="table table-striped">
 					<tbody>
 						<tr>
+		          <td scope="row" width="110px">19 Şubat 2025</td>
+		          <td><Link href="doc/paydas_toplantilari/akreditasyon_ziyaret_edilen_kurum_yonetici_toplanti/05.pdf" target="_blank">2024-2025 Dönemi Akreditasyon İçin Ziyaret Yapılan Kurumlar ile Toplantı Duyurusu</Link></td>
+		        </tr>
+						<tr>
 		          <td scope="row" width="110px">13 Şubat 2024</td>
-		          <td><Link
-                    href="doc/paydas_toplantilari/akreditasyon_ziyaret_edilen_kurum_yonetici_toplanti/04.pdf"
-                    target="_blank">2023-2024 Dönemi Akreditasyon İçin Ziyaret Yapılan Kurumlar ile Toplantı Duyurusu</Link></td>
+		          <td><Link href="doc/paydas_toplantilari/akreditasyon_ziyaret_edilen_kurum_yonetici_toplanti/04.pdf" target="_blank">2023-2024 Dönemi Akreditasyon İçin Ziyaret Yapılan Kurumlar ile Toplantı Duyurusu</Link></td>
 		        </tr>
 						<tr>
 		          <td scope="row" width="110px">13 Mart 2023</td>
