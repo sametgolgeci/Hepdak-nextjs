@@ -44,7 +44,7 @@ const Belgeler = () => (
           <table className="table table-striped">
             <tbody>
               <tr>
-                <td><Link href="../doc/en/commission_meetings/EC/2024.pdf">2024 Annual Report for the Period July-December</Link></td>
+                <td><Link href="../doc/en/commission_meetings/EC/2024-02.pdf">2024 Annual Report for the Period July-December</Link></td>
               </tr>
             </tbody>
           </table>
