@@ -172,7 +172,7 @@ const Calistay = () => (
 			<a className="uluslararasi-link" data-toggle="collapse" href="#collapseINQAAHE250522" role="button" aria-expanded="false" aria-controls="collapseINQAAHE250522">- INQAAHE 2022 Yılı Genel Kurul Toplantısı (25 Mayıs 2022)</a>
 			<div className="collapse" id="collapseINQAAHE250522">
 				<p>HEPDAK 25 Mayıs 2022 tarihinde INQAAHE Genel Kurul toplantısına tam üye statüsü ile üç temsilcisi (Prof. Dr. Ayla Bayık Temel, Doç. Dr. Fatoş Korkmaz, Doç. Dr. İmatullah Akyar) ile katılmışlardır. Genel Kurul toplantısı dönem başkanı Deb Adair ve yönetim kurulunun açılış konuşmaları ile başlamış, sonrasında üç ayrı oturumla INQAAHE’nın 2017- 2022 yılı stratejik planı doğrultusunda gerçekleştirdiği faaliyetleri aktarılmıştır. İlk oturumda INQAAHE faaliyetlerini sürdürülebilirlik, kalite kültürü oluşturma, araştırma ve ilişkili faaliyetleri başlıkları altında sunmuştur. İkinci oturumda INQAAHE’nın bütçe raporu ve finansal kaynaklar ile ilgili paylaşım yapılmıştır. Son oturumda ise yeni üye ülkeler ve yönetim kurulunun tanıtımı ve üyelik ile ilgili stratejilerin görüşülmesi gerçekleştirilmiştir.</p>
-				<p><a href="https://www.inqaahe.org/blog/first-general-assembly-2022-voting-results/">INQAAHE Oylama Sonuçları</a></p>
+				{/*<p><a href="https://www.inqaahe.org/blog/first-general-assembly-2022-voting-results/">INQAAHE Oylama Sonuçları</a></p>*/}
 			</div>
 			<a className="uluslararasi-link" data-toggle="collapse" href="#collapseINQAAHE210422" role="button" aria-expanded="false" aria-controls="collapseINQAAHE210422">- INQAAHE Newsletter (21 Nisan 2022)</a>
 			<div className="collapse" id="collapseINQAAHE210422">

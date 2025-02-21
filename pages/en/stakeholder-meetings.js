@@ -31,7 +31,7 @@ const Belgeler = () => (
         <table className="table table-striped">
           <tbody>
             <tr>
-              <td scope="row" width="110px">February 19, 2025</td>
+              <td scope="row" width="120px">February 19, 2025</td>
               <td><Link href="../doc/paydas_toplantilari/akreditasyon_ziyaret_edilen_kurum_yonetici_toplanti/05.pdf" target="_blank">HEPDAK 2024-2025 Period Institutions Visited for Accreditation Meeting Announcement (in Turkish)</Link></td>
             </tr>
           </tbody>

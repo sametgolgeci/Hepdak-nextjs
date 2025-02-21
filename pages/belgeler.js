@@ -250,9 +250,9 @@ const Belgeler = () => (
                 <tr>
                   <th scope="row">3</th>
                   <td>
-                    HEPDAK Uzaktan Eğitim Standartları - <strong>Sürüm 1.1</strong> (<Link href="doc/b14_v1_1.pdf">PDF</Link> | <Link href="doc/b14_v1_1.doc">Word</Link>) - <a data-toggle="collapse" href="#e03" role="button" aria-expanded="false" aria-controls="e03">↓</a>
+                    HEPDAK Uzaktan Eğitim Standartları - <strong>Sürüm 1.1</strong> (<Link href="doc/b14_v1_1.pdf">PDF</Link> | <Link href="doc/b14_v1_1.docx">Word</Link>) - <a data-toggle="collapse" href="#e03" role="button" aria-expanded="false" aria-controls="e03">↓</a>
                     <div className="collapse" id="e03">
-                      <p>- <strong>Sürüm 1.0</strong> (<Link href="doc/b14_v1.pdf">PDF</Link> | <Link href="doc/b14_v1.doc">Word</Link>)</p>
+                      <p>- <strong>Sürüm 1.0</strong> (<Link href="doc/b14_v1.pdf">PDF</Link> | <Link href="doc/b14_v1.docx">Word</Link>)</p>
                     </div>
                   </td>
                 </tr>
