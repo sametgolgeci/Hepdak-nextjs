@@ -21,7 +21,7 @@ const Tum = () => (
           <div className="tab-content">
             <div id="twentyfive" className="container tab-pane active">
               <div className="main-top-second" id="190225">
-                <div className="main-top-second-title">HEPDAK 2024-2025 Period Evaluation Meeting with Institutions Visited for Accreditation (February 19, 2025)</div> 
+                <div className="main-top-second-title">HEPDAK 2024-2025 Evaluation Meeting with Institutions Visited for Accreditation (February 19, 2025)</div> 
                 <div className="main-top-second-content">
                   <p>HEPDAK held an online meeting with program managers visited for accreditation in the 2024-2025 period on February 19, 2025. 18 institution managers or representatives attended the meeting and exchanged views on standards and accreditation processes.</p>
                 </div>

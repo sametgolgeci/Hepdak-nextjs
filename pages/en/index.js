@@ -141,7 +141,7 @@ const Anasayfa = () => (
               <div className="date-month">February</div>
               <div className="date-year">2025</div>
             </div>
-            <div className="block-subtitle-text">Period Evaluation Meeting with Institutions Visited for Accreditation</div>
+            <div className="block-subtitle-text">Evaluation Meeting with Institutions Visited for Accreditation</div>
           </div>
           </Link>
 
