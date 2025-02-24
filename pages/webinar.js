@@ -76,7 +76,7 @@ const Webinar = () => (
 		   		<div className="embed-responsive embed-responsive-16by9">
 					  <iframe className="embed-responsive-item" src="https://www.youtube.com/embed/z6OorFME2Aw" allowFullScreen></iframe>
 					</div>
-				<div className="webinar-bottom-title">Hemşirelik Programlarında Öğrenme ve Öğretme Destek Sistemeleri: Program Örnekleri (12 Nisan 2023)</div>
+				<div className="webinar-bottom-title">Hemşirelik Programlarında Öğrenme ve Öğretme Destek Sistemleri: Program Örnekleri (12 Nisan 2023)</div>
 	     	</div>
 	    	<div className="col-md-4">
 		   		<div className="embed-responsive embed-responsive-16by9">

@@ -53,7 +53,7 @@ const Iletisim = () => (
 		<div className="col-md-5 col-sm-12 iletisim iletisim-info">
 			<p><strong>Başkan</strong><br/>Prof. Dr. Dilek ÖZMEN<br/><Link href="mailto:ozmendilek@yahoo.com">ozmendilek@yahoo.com</Link></p>
 			<p><strong>Genel Sekreter</strong><br/>Prof. Dr. Medine Yılmaz<br/><Link href="mailto:medine.caliskanyilmaz@gmail.com">medine.caliskanyilmaz@gmail.com</Link></p>
-			<p><strong>Sayman</strong><br/>Doç. Dr. Gülsüm Nihal Çürük<br/><Link href="mailto:guleser38@gmail.com">guleser38@gmail.com</Link></p>
+			<p><strong>Sayman</strong><br/>Prof. Dr. Gülsüm Nihal Çürük<br/><Link href="mailto:guleser38@gmail.com">guleser38@gmail.com</Link></p>
 			<p><strong>Sekreter</strong><br/>Ümran Yalçın<br/><Link href="mailto:hepdak2013@gmail.com">hepdak2013@gmail.com</Link></p>
 		</div>
 	</div>

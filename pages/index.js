@@ -50,13 +50,13 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
-                  <Link href="/doc/takvim/2025-egitim-takvim.pdf" target="_blank">
-                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2025-egitim-takvim.jpeg"/></div>
+                  <Link href="/doc/hepdak-hemed.pdf" target="_blank">
+                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2025-hepdak-hemed.jpeg"/></div>
                   </Link>
                 </div>
                 <div className="carousel-item">
-                  <Link href="/doc/b1-basvuru-2024-2025.pdf" target="_blank">
-                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2025-basvuru.jpeg"/></div>
+                  <Link href="/doc/takvim/2025-egitim-takvim.pdf" target="_blank">
+                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2025-egitim-takvim.jpeg"/></div>
                   </Link>
                 </div>
                 <div className="carousel-item">
@@ -67,11 +67,6 @@ const Anasayfa = () => (
                 <div className="carousel-item">
                   <Link href="/doc/takvim/2025-toplanti-takvim.pdf" target="_blank">
                     <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2025-toplanti-takvim.jpeg"/></div>
-                  </Link>
-                </div>
-                <div className="carousel-item">
-                  <Link href="/doc/hemed-hepdak-gorus.pdf" target="_blank">
-                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2024-hemed-hepdak-gorus.jpeg"/></div>
                   </Link>
                 </div>
                 <div className="carousel-item">

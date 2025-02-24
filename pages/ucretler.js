@@ -97,7 +97,7 @@ const Ucretler = () => (
             */}
             <h5>Bilgi Notu</h5>
             <p>- Ödemeler ilki Şubat, ikincisi Temmuz ayında olmak üzere iki eşit taksit olarak yapılır.</p>
-            <p>- Ödeme planını takip etmek kurumun sorumluluğudur. Kurum ödemeyi yapmadan önce HEPDAK Sekreteri ile iletişime geçerek faturasını talep etmelidir.</p>
+            <p>- Ödeme planını takip etmek kurumun sorumluluğudur. Kurum ödemeyi yapmadan önce fatura bilgilerini (fatura adresi ve VKN ) HEPDAK sekreterine <Link href="mailto:hepdak2013@gmail.com">hepdak2013@gmail.com</Link> adresinden iletmeli ve faturasını talep etmelidir.</p>
             <p>- Öninceleme sonrası ziyaret edilmeme kararı alınan programların ödemiş oldukları Şubat taksit tutarı geri ödenmez.</p>
             <p>- Kurumlar akreditasyon bedelinin tamamını tek seferde ödeyebilir. Bunun için kurumların, HEPDAK Saymanı ile iletişime geçmesi gerekmektedir.</p>
             <p>- Otogardan/havaalanından kuruma gidiş-dönüş, konaklanan yerden kuruma gidiş-dönüş, kurum içinde birim ziyaretleri için araç temini, konaklanan yerdeki çalışma odasının ücreti kurum tarafından karşılanır.</p>

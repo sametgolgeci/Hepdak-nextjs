@@ -42,23 +42,18 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
+                  <Link href="../doc/en/hepdak-hemed.pdf" target="_blank">
+                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/en/2025-hepdak-hemed.jpeg"/></div>
+                  </Link>
+                </div>
+                <div className="carousel-item">
                   <Link href="../doc/en/2025-training-calendar.pdf" target="_blank">
                     <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/en/2025-training-calendar.jpeg"/></div>
                   </Link>
                 </div>
                 <div className="carousel-item">
-                  <Link href="../doc/en/application.pdf" target="_blank">
-                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/en/2025-application.jpeg"/></div>
-                  </Link>
-                </div>
-                <div className="carousel-item">
                   <Link href="../doc/en/2025-meeting-calendar.pdf" target="_blank">
                     <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/en/2025-meeting-calendar.jpeg"/></div>
-                  </Link>
-                </div>
-                <div className="carousel-item">
-                  <Link href="../doc/en/hepdak-hemed.pdf" target="_blank">
-                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/en/hepdak-hemed.jpeg"/></div>
                   </Link>
                 </div>
                 <div className="carousel-item">
