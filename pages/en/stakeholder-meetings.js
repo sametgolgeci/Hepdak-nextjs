@@ -22,7 +22,13 @@ const Belgeler = () => (
       <div className="collapse" id="AID">
         <table className="table table-striped">
           <tbody>
-    
+            <tr>
+              <td scope="row" width="110px">February 26, 2025</td>
+              <td>
+                <Link href="../doc/paydas_toplantilari/basvuran_kurum_yoneticileri_toplanti/06_1.pdf" target="_blank">HEPDAK 2025-2026 Meeting Announcement with Applicant Institution Directors (in Turkish)</Link><br/>
+                <Link href="../doc/paydas_toplantilari/basvuran_kurum_yoneticileri_toplanti/06_2.pdf" target="_blank">HEPDAK 2025-2026 Meeting with Applicant Institution Directors (in Turkish)</Link>
+              </td>
+            </tr>
           </tbody>
         </table>
       </div>

@@ -69,14 +69,17 @@ const Paydas = () => (
 				<table className="table table-striped">
 					<tbody>
 						<tr>
+		          <td scope="row" width="110px">26 Şubat 2025</td>
+		          <td>
+		          	<Link href="doc/paydas_toplantilari/basvuran_kurum_yoneticileri_toplanti/06_1.pdf" target="_blank">2025-2026 Dönemi HEPDAK Akreditasyon için Başvuran Kurumlara Yönelik Bilgilendirme Toplantı Duyurusu</Link><br/>
+		          	<Link href="doc/paydas_toplantilari/basvuran_kurum_yoneticileri_toplanti/06_2.pdf" target="_blank">2025-2026 Dönemi HEPDAK Akreditasyon için Başvuran Kurumlara Yönelik Bilgilendirme Toplantısı</Link>
+		          </td>
+		        </tr>
+						<tr>
 		          <td scope="row" width="110px">27 Şubat 2024</td>
 		          <td>
-		          	<Link
-                      href="doc/paydas_toplantilari/basvuran_kurum_yoneticileri_toplanti/05_1.pdf"
-                      target="_blank">2024-2025 Dönemi HEPDAK Akreditasyon için Başvuran Kurumlara Yönelik Bilgilendirme Toplantı Duyurusu</Link><br/>
-		          	<Link
-                      href="doc/paydas_toplantilari/basvuran_kurum_yoneticileri_toplanti/05_2.pdf"
-                      target="_blank">2024-2025 Dönemi HEPDAK Akreditasyon için Başvuran Kurumlara Yönelik Bilgilendirme Toplantısı</Link>
+		          	<Link href="doc/paydas_toplantilari/basvuran_kurum_yoneticileri_toplanti/05_1.pdf" target="_blank">2024-2025 Dönemi HEPDAK Akreditasyon için Başvuran Kurumlara Yönelik Bilgilendirme Toplantı Duyurusu</Link><br/>
+		          	<Link href="doc/paydas_toplantilari/basvuran_kurum_yoneticileri_toplanti/05_2.pdf" target="_blank">2024-2025 Dönemi HEPDAK Akreditasyon için Başvuran Kurumlara Yönelik Bilgilendirme Toplantısı</Link>
 		          </td>
 		        </tr>
 		        <tr>

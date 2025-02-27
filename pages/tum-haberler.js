@@ -36,6 +36,20 @@ const Tum = () => (
           <div className="tab-content">
             <div id="yirmibes" className="container tab-pane active">
               <div className="main-top-second">
+                <div className="main-top-second-title">Akredite edilmek üzere Başvuran Kurum Yöneticileri ile Toplantı (26 Şubat 2025)</div> 
+                <div className="main-top-second-content">
+                  <p>HEPDAK 26 Şubat 2025 tarihinde, 2025-2026 döneminde akredite edilmek üzere başvuruda bulunan programlarla bir “Bilgilendirme Toplantısı” toplantısı gerçekleştirmiştir. 45 kişinin katıldığı toplantıda HEPDAK yönetim Kurulu Başkanı Prof. Dr. Dilek ÖZMEN HEPDAK değerlerine göre değerlendirme, Tematik analiz ve HEPDAK beklentileri, ÖDR hazırlığında dikkat edilmesi gerekenler, akreditasyon sürecinde HEPDAK danışmanlık desteği, HEPDAK değerlendirme süreci ve HEMSİS konularını içeren sunumunu yapmıştır. Kurumların sürece ilişkin sorularının da yanıtlandığı toplantı katılımcıların iyi dileklerle sona ermiştir.</p>
+                </div>
+                <div className="main-top-second-content">
+                  <div className="row">
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/basvuran-kurum-yoneticileri-toplantisi/01.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/basvuran-kurum-yoneticileri-toplantisi/01.png" alt="Akredite edilmek üzere Başvuran Kurum Yöneticileri ile Toplantı (26 Şubat 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/basvuran-kurum-yoneticileri-toplantisi/02.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/basvuran-kurum-yoneticileri-toplantisi/02.png" alt="Akredite edilmek üzere Başvuran Kurum Yöneticileri ile Toplantı (26 Şubat 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/basvuran-kurum-yoneticileri-toplantisi/03.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/basvuran-kurum-yoneticileri-toplantisi/03.png" alt="Akredite edilmek üzere Başvuran Kurum Yöneticileri ile Toplantı (26 Şubat 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/basvuran-kurum-yoneticileri-toplantisi/04.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/basvuran-kurum-yoneticileri-toplantisi/04.png" alt="Akredite edilmek üzere Başvuran Kurum Yöneticileri ile Toplantı (26 Şubat 2025)"/></a></div>
+                  </div>
+                </div>  
+              </div>
+              <div className="main-top-second">
                 <div className="main-top-second-title">HEPDAK 2024-2025 Dönemi Akreditasyon İçin Ziyaret Edilen Kurumlar ile Değerlendirme Toplantısı (19 Şubat 2025)</div> 
                 <div className="main-top-second-content">
                   <p>HEPDAK 19 Şubat 2025 tarihinde, 2024-2025 döneminde akreditasyon için ziyaret edilen program yöneticiliyle çevrimiçi bir toplantı gerçekleştirmiştir. Toplantıya 18 kurum yöneticisi veya temsilcisi katılmıştır. Toplantıda standartlara ve akreditasyon süreçlerine ilişkin görüş alışverişinde bulunulmuştur.</p>
