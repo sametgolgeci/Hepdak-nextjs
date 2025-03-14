@@ -22,12 +22,12 @@ const Kurul = () => (
 	    	<span className="madde-span">• Uzm. Hem. Dr. Serap İleri, Dokuz Eylül Üniversitesi Hastanesi</span>
 	    	
 	    	<h3 className="kurul-title">Nursing Education Programs Accreditation Board (HEAK)</h3>
-	    	<span className="madde-span">• Prof. Dr. Gülseren Kocaman (Chair), Emekli Öğretim Üyesi</span>
+	    	<span className="madde-span">• Prof. Dr. Gülseren Kocaman (Chair), Retired Faculty Member</span>
 	    	<span className="madde-span">• Prof. Dr. Dilek Özmen (Vise Chair), Manisa Celal Bayar University</span>
 	    	<span className="madde-span">• Prof. Dr. Ümit Seviğ, Emekli Öğretim Üyesi</span>
 	    	<span className="madde-span">• Prof. Dr. Kadriye Buldukoğlu, Akdeniz University</span>
-	    	<span className="madde-span">• Prof. Dr. Ayla Bayık Temel, Emekli Öğretim Üyesi</span>
-	    	<span className="madde-span">• Prof. Dr. Hülya Okumuş, (Hemşirelik Eğitimi Derneği Temsilcisi) Emekli Öğretim Üyesi</span>
+	    	<span className="madde-span">• Prof. Dr. Aynur Uysal Toraman, Ege University</span>
+	    	<span className="madde-span">• Prof. Dr. Hülya Okumuş (Hemşirelik Eğitimi Derneği Temsilcisi), Retired Faculty Member</span>
 	    	<span className="madde-span">• <strong>Türk Hemşireler Derneği:</strong> Dr. Hümeyra Zengin, Hacettepe Üniversitesi Erişkin Hastanesi Hemşire Müdürü</span>
 	    	<span className="madde-span">• Dr. Öğ. Üyesi Leman Kutlu, Haliç Üniversitesi</span>
 	    	<span className="madde-span">• Uzm. Hem. Pınar Akçay, Sağlık Bakanlığı Hastaneleri Temsilcisi</span>
@@ -36,27 +36,27 @@ const Kurul = () => (
 	    	<span className="madde-span">• <strong>Student:</strong> Gizem Tunç, Hacettepe University</span>
 	    	
 	    	<h3 className="kurul-title">Advisory Board</h3>
-	    	<span className="madde-span">• Prof. Dr. Gülseren Kocaman (Coordinator), Emekli Öğretim Üyesi</span>
-	    	<span className="madde-span">• Prof. Dr. Ayla Bayık Temel, Emekli Öğretim Üyesi</span>
-	    	<span className="madde-span">• Prof. Dr. Ayişe Karadağ, Koç Üniversitesi</span>
-	    	<span className="madde-span">• Prof. Dr. Merdiye Şendir, Sağlık Bilimleri Üniversitesi, Hemşirelik Fakülteleri Dekanlar Konseyi  Başkanı</span>
-	    	<span className="madde-span">• Doç. Dr. Memnun Seven, Assistant Professor University of Massachusetts Amherst, ABD</span>
-	    	<span className="madde-span">• Dr. Oya Gümüşkaya, Lecturer, The University of Newcastle, Avustralya</span>
+	    	<span className="madde-span">• Prof. Dr. Gülseren Kocaman (Coordinator), Retired Faculty Member</span>
+	    	<span className="madde-span">• Prof. Dr. Ayla Bayık Temel, Retired Faculty Member</span>
+	    	<span className="madde-span">• Prof. Dr. Ayişe Karadağ, Koç University</span>
+	    	<span className="madde-span">• Prof. Dr. Merdiye Şendir, Sağlık Bilimleri University, Hemşirelik Fakülteleri Dekanlar Konseyi Başkanı</span>
+	    	<span className="madde-span">• Doç. Dr. Memnun Seven, Massachusetts Amherst University, ABD</span>
+	    	<span className="madde-span">• Dr. Oya Gümüşkaya, The University of Newcastle, Avustralya</span>
 	    
 	    <h1>Commissions</h1>
 
 	    	<h3 className="kurul-title">Standards Setting and Development Committee (SBGK) Working Directive</h3>
-	    	<span className="madde-span">• Prof. Dr. Kadriye Buldukoğlu (Chair), Akdeniz Üniversitesi</span>
-	    	<span className="madde-span">• Prof. Dr. Emine Türkmen (Secretary), İstinye Üniversitesi</span>
-	    	<span className="madde-span">• Prof. Dr. Sergül Duygulu, Hacettepe Üniversitesi</span>
-	    	<span className="madde-span">• Prof. Dr. Hülya Kaya, İstanbul Üniversitesi - Cerrahpaşa</span>
-	    	<span className="madde-span">• Doç. Dr. Gülten Koç,  Hacettepe Üniversitesi, THD Temsilcisi</span>
-	    	<span className="madde-span">• Doç. Dr. Demet İnangil, Sağlık Bilimleri Üniversitesi</span>
-	    	<span className="madde-span">• Dr. Öğr. Üyesi Gülçin Uyanık, İzmir Katip Çelebi Üniversitesi</span>
+	    	<span className="madde-span">• Prof. Dr. Kadriye Buldukoğlu (Chair), Akdeniz University</span>
+	    	<span className="madde-span">• Prof. Dr. Emine Türkmen (Secretary), İstinye University</span>
+	    	<span className="madde-span">• Prof. Dr. Sergül Duygulu, Hacettepe University</span>
+	    	<span className="madde-span">• Prof. Dr. Hülya Kaya, İstanbul University - Cerrahpaşa</span>
+	    	<span className="madde-span">• Doç. Dr. Gülten Koç,  Hacettepe University, THD Temsilcisi</span>
+	    	<span className="madde-span">• Doç. Dr. Demet İnangil, Sağlık Bilimleri University</span>
+	    	<span className="madde-span">• Dr. Öğr. Üyesi Gülçin Uyanık, İzmir Katip Çelebi University</span>
 	    	<span className="madde-span">• Uzm. Demet Gökmen Kavak, Türkiye Sağlık Hizmetleri Kalite Ve Akreditasyon Enstitüsü Standart Geliştirme Birim Sorumlusu</span>
 	    	<span className="madde-span">• Uzm. Hem. Gülnur Gül, İzmir SBÜ Dr. Suat Seren Göğüs Hastalıkları ve Cerrahisi Eğitim ve Araştırma Hastanesi</span>
-	    	<span className="madde-span">• Öğ. Gör. Dr. Yasin Çetin, Adıyaman Üniversitesi</span>
-	    	<span className="madde-span">• <strong>Student:</strong> Uz. Hem. Özlem Bakan Demirel, İzmir Katip Çelebi Üniversitesi Kalite Koordinatörlüğü</span>
+	    	<span className="madde-span">• Öğ. Gör. Dr. Yasin Çetin, Adıyaman University</span>
+	    	<span className="madde-span">• <strong>Student:</strong> Uz. Hem. Özlem Bakan Demirel, İzmir Katip Çelebi University Kalite Koordinatörlüğü</span>
 
 	    	<h3 className="kurul-title">Training Comission</h3>
 	    	<span className="madde-span">• Assoc. Dr. Fatma Orgun (Chair), Ege University</span>
@@ -69,30 +69,30 @@ const Kurul = () => (
 	    	<span className="madde-span">• <strong>Student:</strong> Jale Atak, Manisa Celal Bayar University</span> 	
 
 	    	<h3 className="kurul-title">Continuous Improvement Commission</h3>
-	    	<span className="madde-span">• Prof. Dr. Ayla Keçeci (Chair), Düzce Üniversitesi</span>
-	    	<span className="madde-span">• Prof. Dr. Gülsüm Nihal Çürük (Secretary), İzmir Ekonomi Üniversitesi</span>
-	    	<span className="madde-span">• Prof. Dr. Şeyda Seren İntepeler, Dokuz Eylül Üniversitesi</span>
-	    	<span className="madde-span">• Prof. Dr. Zeynep Özer, Akdeniz Üniversitesi</span>
-	    	<span className="madde-span">• Dr. Öğr. Üyesi. Hatice Şen, Uluslararası Kıbrıs Üniversitesi</span>
-	    	<span className="madde-span">• R. A. İbrahim Kavaslar, Düzce Üniversitesi</span>
+	    	<span className="madde-span">• Prof. Dr. Ayla Keçeci (Chair), Düzce University</span>
+	    	<span className="madde-span">• Prof. Dr. Gülsüm Nihal Çürük (Secretary), İzmir Ekonomi University</span>
+	    	<span className="madde-span">• Prof. Dr. Şeyda Seren İntepeler, Dokuz Eylül University</span>
+	    	<span className="madde-span">• Prof. Dr. Zeynep Özer, Akdeniz University</span>
+	    	<span className="madde-span">• Dr. Öğr. Üyesi. Hatice Şen, Uluslararası Kıbrıs University</span>
+	    	<span className="madde-span">• R. A. İbrahim Kavaslar, Düzce University</span>
 	    	<span className="madde-span">• <strong>Student:</strong> Başak Yazıcı, Ege University</span> 
 	    	
 	    	<h3 className="kurul-title">International Relations Committee Working Directive</h3>
-	    	<span className="madde-span">• Doç. Dr. Fatoş Korkmaz (Chair), Hacettepe Üniversitesi</span>
-	    	<span className="madde-span">• Doç. Dr. İmatullah Akyar (Secretary), Hacettepe Üniversitesi</span>
-	    	<span className="madde-span">• Prof. Dr. Medine Yılmaz, İzmir Katip Çelebi Üniversitesi</span>
-	    	<span className="madde-span">• Prof. Dr. Vesile Ünver, Acıbadem Mehmet Ali Aydınlar Üniversitesi</span>
-	    	<span className="madde-span">• Doç. Dr. Sergül Duygulu, Hacettepe Üniversitesi</span>
-	    	<span className="madde-span">• Prof. Dr. Ayhan Lash, Northern Illinois Üniversitesi Emekli Öğretim Üyesi</span>
-	    	<span className="madde-span">• Prof. Dr. İlkay Boz, Akdeniz Üniversitesi</span>
+	    	<span className="madde-span">• Doç. Dr. Fatoş Korkmaz (Chair), Hacettepe University</span>
+	    	<span className="madde-span">• Doç. Dr. İmatullah Akyar (Secretary), Hacettepe University</span>
+	    	<span className="madde-span">• Prof. Dr. Medine Yılmaz, İzmir Katip Çelebi University</span>
+	    	<span className="madde-span">• Prof. Dr. Vesile Ünver, Acıbadem Mehmet Ali Aydınlar University</span>
+	    	<span className="madde-span">• Doç. Dr. Sergül Duygulu, Hacettepe University</span>
+	    	<span className="madde-span">• Prof. Dr. Ayhan Lash, Northern Illinois University Retired Faculty Member</span>
+	    	<span className="madde-span">• Prof. Dr. İlkay Boz, Akdeniz University</span>
 
 	    	<h3 className="kurul-title">Preparation Commission for Postgraduate Accreditation</h3>
-	    	<span className="madde-span">• Prof. Dr. Gülseren Kocaman (Chair), Emekli Öğretim Üyesi</span>
-	    	<span className="madde-span">• Prof. Dr. Ayla Bayık Temel, Emekli Öğretim Üyesi</span>
-	    	<span className="madde-span">• Prof. Dr. Ayhan Lash, Northern Illinois Üniversitesi Emekli Öğretim Üyesi</span>
+	    	<span className="madde-span">• Prof. Dr. Gülseren Kocaman (Chair), Retired Faculty Member</span>
+	    	<span className="madde-span">• Prof. Dr. Ayla Bayık Temel, Retired Faculty Member</span>
+	    	<span className="madde-span">• Prof. Dr. Ayhan Lash, Northern Illinois University Retired Faculty Member</span>
 	    	<span className="madde-span">• Prof. Dr. Oya Kavlak, Ege Üniversitesi</span>
-	    	<span className="madde-span">• Prof. Dr. Gülengün Türk, Adnan Menderes Üniversitesi</span>
-	    	<span className="madde-span">• Dr. Öğr. Üyesi Damla Çamveren, Kütahya Sağlık Bilimleri Üniversitesi</span>
+	    	<span className="madde-span">• Prof. Dr. Gülengün Türk, Adnan Menderes University</span>
+	    	<span className="madde-span">• Dr. Öğr. Üyesi Damla Çamveren, Kütahya Sağlık Bilimleri University</span>
 
 	    	<h3 className="kurul-title">WEB Design Commission</h3>
 	    	<span className="madde-span">• Prof. Dr. Özen Kulakaç (Chair), Ondokuz Mayıs University</span>

@@ -27,7 +27,7 @@ const Kurul = () => (
 	    	<span className="madde-span">• Prof. Dr. Dilek Özmen (Başkan Yardımcısı), Manisa Celal Bayar Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Ümit Seviğ, Emekli Öğretim Üyesi</span>
 	    	<span className="madde-span">• Prof. Dr. Kadriye Buldukoğlu, Akdeniz Üniversitesi</span>
-	    	<span className="madde-span">• Prof. Dr. Ayla Bayık Temel, Emekli Öğretim Üyesi</span>
+	    	<span className="madde-span">• Prof. Dr. Aynur Uysal Toraman, Ege Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Hülya Okumuş, (Hemşirelik Eğitimi Derneği Temsilcisi) Emekli Öğretim Üyesi</span>
 	    	<span className="madde-span">• <strong>Türk Hemşireler Derneği:</strong> Dr. Hümeyra Zengin, Hacettepe Üniversitesi Erişkin Hastanesi Hemşire Müdürü</span>
 	    	<span className="madde-span">• Dr. Öğ. Üyesi Leman Kutlu, Haliç Üniversitesi</span>
