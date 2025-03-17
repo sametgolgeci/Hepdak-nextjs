@@ -30,10 +30,10 @@ const Kurul = () => (
 	    	<span className="madde-span">• Prof. Dr. Aynur Uysal Toraman, Ege Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Hülya Okumuş, (Hemşirelik Eğitimi Derneği Temsilcisi) Emekli Öğretim Üyesi</span>
 	    	<span className="madde-span">• <strong>Türk Hemşireler Derneği:</strong> Dr. Hümeyra Zengin, Hacettepe Üniversitesi Erişkin Hastanesi Hemşire Müdürü</span>
-	    	<span className="madde-span">• Dr. Öğ. Üyesi Leman Kutlu, Haliç Üniversitesi</span>
 	    	<span className="madde-span">• Uzm. Hem. Pınar Akçay, Sağlık Bakanlığı Hastaneleri Temsilcisi</span>
+	    	<span className="madde-span">• Ahu Çırlak, Özel Ankara Güven Hastanesi Eğitim ve Ar-Ge Müdürü</span>
 	    	<span className="madde-span">• <strong>Hemşire:</strong> Uzm. Hem. Serap İleri, Dokuz Eylül Üniversitesi Hastanesi</span>
-	    	<span className="madde-span">• <strong>Toplum Temsilcisi:</strong> Hadiye Akçay, Kadın Haklarını Koruma Derneği</span>
+	    	<span className="madde-span">• <strong>Toplum Temsilcisi:</strong> Dr. Öğr. Üyesi Leman Kutlu, Haliç Üniversitesi</span>
 	    	<span className="madde-span">• <strong>Öğrenci:</strong> Gizem Tunç, Hacettepe Üniversitesi</span>	
 	    	
 	    	<h3 className="kurul-title">Danışma Kurulu</h3>

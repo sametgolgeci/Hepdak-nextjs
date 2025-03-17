@@ -139,9 +139,11 @@ const Belgeler = () => (
                 </tr>
                 <tr>
                   <th scope="row" width="10px">2</th>
-                  <td><Link
-                    href="../doc/en/documents/hepdak-academic-evaluator-application-form.pdf"
-                    target="_blank">HEPDAK Acedemic Evaluator Candidate Application Form</Link></td>
+                  <td><Link href="../doc/en/documents/hepdak-academic-evaluator-application-form.pdf" target="_blank">HEPDAK Acedemic Evaluator Candidate Application Form</Link></td>
+                </tr>
+                <tr>
+                  <th scope="row" width="10px">3</th>
+                  <td><Link href="../doc/b17_v1.pdf" target="_blank">HEPDAK Assessor Application Form (in Turkish)</Link></td>
                 </tr>
               </tbody>
             </table>           

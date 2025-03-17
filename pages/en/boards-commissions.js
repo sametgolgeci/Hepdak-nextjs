@@ -29,11 +29,11 @@ const Kurul = () => (
 	    	<span className="madde-span">• Prof. Dr. Aynur Uysal Toraman, Ege University</span>
 	    	<span className="madde-span">• Prof. Dr. Hülya Okumuş (Hemşirelik Eğitimi Derneği Temsilcisi), Retired Faculty Member</span>
 	    	<span className="madde-span">• <strong>Türk Hemşireler Derneği:</strong> Dr. Hümeyra Zengin, Hacettepe Üniversitesi Erişkin Hastanesi Hemşire Müdürü</span>
-	    	<span className="madde-span">• Dr. Öğ. Üyesi Leman Kutlu, Haliç Üniversitesi</span>
 	    	<span className="madde-span">• Uzm. Hem. Pınar Akçay, Sağlık Bakanlığı Hastaneleri Temsilcisi</span>
+	    	<span className="madde-span">• Ahu Çırlak, Özel Ankara Güven Hastanesi Eğitim ve Ar-Ge Müdürü</span>
 	    	<span className="madde-span">• <strong>Hemşire:</strong> Uzm. Hem. Serap İleri, Dokuz Eylül Üniversitesi Hastanesi</span>
-	    	<span className="madde-span">• <strong>Toplum Temsilcisi:</strong> Hadiye Akçay, Kadın Haklarını Koruma Derneği</span>
-	    	<span className="madde-span">• <strong>Student:</strong> Gizem Tunç, Hacettepe University</span>
+	    	<span className="madde-span">• <strong>Toplum Temsilcisi:</strong> Dr. Öğr. Üyesi Leman Kutlu, Haliç Üniversitesi</span>
+	    	<span className="madde-span">• <strong>Öğrenci:</strong> Gizem Tunç, Hacettepe Üniversitesi</span>	
 	    	
 	    	<h3 className="kurul-title">Advisory Board</h3>
 	    	<span className="madde-span">• Prof. Dr. Gülseren Kocaman (Coordinator), Retired Faculty Member</span>
