@@ -32,7 +32,7 @@ const Kurul = () => (
 	    	<span className="madde-span">• <strong>Türk Hemşireler Derneği:</strong> Dr. Hümeyra Zengin, Hacettepe Üniversitesi Erişkin Hastanesi Hemşire Müdürü</span>
 	    	<span className="madde-span">• Uzm. Hem. Pınar Akçay, Sağlık Bakanlığı Hastaneleri Temsilcisi</span>
 	    	<span className="madde-span">• Ahu Çırlak, Özel Ankara Güven Hastanesi Eğitim ve Ar-Ge Müdürü</span>
-	    	<span className="madde-span">• <strong>Hemşire:</strong> Uzm. Hem. Serap İleri, Dokuz Eylül Üniversitesi Hastanesi</span>
+	    	<span className="madde-span">• <strong>Hemşire:</strong> Dr. Öğr. Gör. Serap İleri, Girne Üniversitesi</span>
 	    	<span className="madde-span">• <strong>Toplum Temsilcisi:</strong> Dr. Öğr. Üyesi Leman Kutlu, Haliç Üniversitesi</span>
 	    	<span className="madde-span">• <strong>Öğrenci:</strong> Gizem Tunç, Hacettepe Üniversitesi</span>	
 	    	
