@@ -32,7 +32,7 @@ const Navigation = () => (
 						<Link href="../doc/en/application.pdf" className="dropdown-item">Application</Link>
 						<Link href="/en/documents" className="dropdown-item">Documents</Link>
 						<Link href="../doc/en/fees-2025.pdf" className="dropdown-item">Fees</Link>
-						<Link href="../doc/en/accredited-programs.pdf" className="dropdown-item">Accredited Programs</Link>
+						<Link href="/en/accredited-institutions" className="dropdown-item">Accredited Programs</Link>
 						<Link href="/en/related-organizations" className="dropdown-item">Related Organizations</Link>
 					</div>
 				</li>
