@@ -70,6 +70,25 @@ const Belgeler = () => (
           </tbody>
         </table>
       </div>
+      <h5><a data-toggle="collapse" href="#CM" role="button" aria-expanded="false" aria-controls="CM">Consulting Meetings</a></h5>
+      <div className="collapse" id="CM">
+        <table className="table table-striped">
+          <tbody>
+            <tr>
+              <td scope="row" width="110px">March 25, 2025</td>
+              <td><Link href="../doc/paydas_toplantilari/danisman_toplantilari/03.pdf" target="_blank">Consulting Meeting (in Turkish)</Link></td>
+            </tr>
+            <tr>
+              <td scope="row" width="110px">March 04, 2024</td>
+              <td><Link href="../doc/paydas_toplantilari/danisman_toplantilari/02.pdf" target="_blank">Consulting Meeting (in Turkish)</Link></td>
+            </tr>
+            <tr>
+              <td scope="row" width="110px">March 22, 2023</td>
+              <td><Link href="../doc/paydas_toplantilari/danisman_toplantilari/01.pdf" target="_blank">Consulting Meeting (in Turkish)</Link></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
     </div>
   </div>
   <div className="safe"></div>
