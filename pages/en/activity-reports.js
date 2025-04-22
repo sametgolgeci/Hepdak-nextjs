@@ -9,6 +9,7 @@ const Belgeler = () => (
       </Head>
       <div className="genel">
         <h1>Activity Reports/Annual Reports</h1>
+        <p className="madde-p"><Link href="../doc/hepdak-faaliyet-raporu-2024.pdf" target="_blank">HEPDAK Activity Report 2024 (in Turkish)</Link></p>
         <p className="madde-p"><Link href="../doc/hepdak-faaliyet-raporu-2023.pdf" target="_blank">HEPDAK Activity Report 2023 (in Turkish)</Link></p>
         <p className="madde-p"><Link href="../doc/en/hepdak-annual-report-2022.pdf" target="_blank">HEPDAK Activity Report 2022</Link></p>
         <p className="madde-p"><Link href="../doc/hepdak-faaliyet-raporu-2021.pdf" target="_blank">HEPDAK Activity Report 2021 (in Turkish)</Link></p>
