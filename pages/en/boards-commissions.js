@@ -11,7 +11,7 @@ const Kurul = () => (
 	    <h1>Boards</h1>
 	    	<h3 className="kurul-title">HEPDAK Board of Directors</h3>
 	    	<span className="madde-span">• Prof. Dr. Dilek Özmen (Chair), Manisa Celal Bayar University</span>
-	    	<span className="madde-span">• Doç. Dr. Fatma Orgun (Vise Chair), Ege University</span>
+	    	<span className="madde-span">• Prof. Dr. Fatma Orgun (Vise Chair), Ege University</span>
 	    	<span className="madde-span">• Prof. Dr. Medine Yılmaz (General Secretary), İzmir Katip Çelebi University</span>
 	    	<span className="madde-span">• Prof. Dr. Gülsüm Nihal Çürük (Accountant), İzmir University of Economics</span>
 	    	<span className="madde-span">• Prof. Dr. Özen Kulakaç (Member), Ondokuz Mayıs University</span>
@@ -46,17 +46,16 @@ const Kurul = () => (
 	    <h1>Commissions</h1>
 
 	    	<h3 className="kurul-title">Standards Setting and Development Committee (SBGK) Working Directive</h3>
-	    	<span className="madde-span">• Prof. Dr. Kadriye Buldukoğlu (Chair), Akdeniz University</span>
-	    	<span className="madde-span">• Prof. Dr. Emine Türkmen (Secretary), İstinye University</span>
-	    	<span className="madde-span">• Prof. Dr. Sergül Duygulu, Hacettepe University</span>
-	    	<span className="madde-span">• Prof. Dr. Hülya Kaya, İstanbul University - Cerrahpaşa</span>
-	    	<span className="madde-span">• Doç. Dr. Gülten Koç,  Hacettepe University, THD Temsilcisi</span>
-	    	<span className="madde-span">• Doç. Dr. Demet İnangil, Sağlık Bilimleri University</span>
-	    	<span className="madde-span">• Dr. Öğr. Üyesi Gülçin Uyanık, İzmir Katip Çelebi University</span>
-	    	<span className="madde-span">• Uzm. Demet Gökmen Kavak, Türkiye Sağlık Hizmetleri Kalite Ve Akreditasyon Enstitüsü Standart Geliştirme Birim Sorumlusu</span>
-	    	<span className="madde-span">• Uzm. Hem. Gülnur Gül, İzmir SBÜ Dr. Suat Seren Göğüs Hastalıkları ve Cerrahisi Eğitim ve Araştırma Hastanesi</span>
-	    	<span className="madde-span">• Öğ. Gör. Dr. Yasin Çetin, Adıyaman University</span>
-	    	<span className="madde-span">• <strong>Student:</strong> Uz. Hem. Özlem Bakan Demirel, İzmir Katip Çelebi University Kalite Koordinatörlüğü</span>
+	    	<span className="madde-span">• Prof. Dr. Kadriye Buldukoğlu (Başkan), Akdeniz Üniversitesi</span>
+	    	<span className="madde-span">• Prof. Dr. Emine Türkmen (Sekreter), İstinye Üniversitesi</span>
+	    	<span className="madde-span">• Prof. Dr. Sergül Duygulu, Hacettepe Üniversitesi</span>
+	    	<span className="madde-span">• Prof. Dr. Hülya Kaya, Bezmialem Vakıf Üniversitesi</span>
+	    	<span className="madde-span">• Doç. Dr. Gülten Koç,  Hacettepe Üniversitesi, THD Temsilcisi</span>
+	    	<span className="madde-span">• Doç. Dr. Demet İnangil, Sağlık Bilimleri Üniversitesi</span>
+	    	<span className="madde-span">• Doç. Dr. Yasin Çetin, Adıyaman Üniversitesi</span>
+	    	<span className="madde-span">• Dr. Öğr. Üyesi Gülçin Uyanık, İzmir Katip Çelebi Üniversitesi</span>
+	    	<span className="madde-span">• Uzm. Demet Gökmen Kavak, Türkiye Sağlık Hizmetleri Kalite Ve Akreditasyon Enstitüsü Standart Geliştirme Birim Sorumlusu</span>  	
+	    	<span className="madde-span">• <strong>Öğrenci:</strong> Uzm. Hem. Özlem Bakan Demirel, İzmir Katip Çelebi Üniversitesi Kalite Koordinatörlüğü</span>
 
 	    	<h3 className="kurul-title">Training Comission</h3>
 	    	<span className="madde-span">• Assoc. Dr. Fatma Orgun (Chair), Ege University</span>

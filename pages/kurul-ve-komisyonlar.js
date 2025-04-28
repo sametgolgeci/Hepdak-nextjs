@@ -11,7 +11,7 @@ const Kurul = () => (
 	    <h1>Kurullar</h1>
 	    	<h3 className="kurul-title">HEPDAK Yönetim Kurulu</h3>
 	    	<span className="madde-span">• Prof. Dr. Dilek Özmen (Başkan), Manisa Celal Bayar Üniversitesi</span>
-	    	<span className="madde-span">• Doç. Dr. Fatma Orgun (Başkan Yardımcısı), Ege Üniversitesi</span>
+	    	<span className="madde-span">• Prof. Dr. Fatma Orgun (Başkan Yardımcısı), Ege Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Medine Yılmaz (Genel Sekreter), İzmir Katip Çelebi Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Gülsüm Nihal Çürük (Sayman), İzmir Ekonomi Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Özen Kulakaç (Üye), Ondokuz Mayıs Üniversitesi</span>
@@ -57,18 +57,17 @@ const Kurul = () => (
 	    	<span className="madde-span">• Doç. Dr. Demet İnangil, Sağlık Bilimleri Üniversitesi</span>
 	    	<span className="madde-span">• Doç. Dr. Yasin Çetin, Adıyaman Üniversitesi</span>
 	    	<span className="madde-span">• Dr. Öğr. Üyesi Gülçin Uyanık, İzmir Katip Çelebi Üniversitesi</span>
-	    	<span className="madde-span">• Uzm. Demet Gökmen Kavak, Türkiye Sağlık Hizmetleri Kalite Ve Akreditasyon Enstitüsü Standart Geliştirme Birim Sorumlusu</span>
-	    	<span className="madde-span">• Uzm. Hem. Gülnur Gül, İzmir SBÜ Dr. Suat Seren Göğüs Hastalıkları ve Cerrahisi Eğitim ve Araştırma Hastanesi</span>    	
+	    	<span className="madde-span">• Uzm. Demet Gökmen Kavak, Türkiye Sağlık Hizmetleri Kalite Ve Akreditasyon Enstitüsü Standart Geliştirme Birim Sorumlusu</span>  	
 	    	<span className="madde-span">• <strong>Öğrenci:</strong> Uzm. Hem. Özlem Bakan Demirel, İzmir Katip Çelebi Üniversitesi Kalite Koordinatörlüğü</span>
 
 	    	<h3 className="kurul-title">Eğitim Komisyonu (EK)</h3>
-	    	<span className="madde-span">• Doç. Dr. Fatma Orgun (Başkan), Ege Üniversitesi</span>
+	    	<span className="madde-span">• Prof. Dr. Fatma Orgun (Başkan), Ege Üniversitesi</span>
 	    	<span className="madde-span">• Doç. Dr. Hale Sezer (Sekreter), Bakırçay Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Medine Yılmaz, İzmir Katip Çelebi Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Hatice Mert, Dokuz Eylül Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Gülsüm Nihal Çürük, İzmir Ekonomi Üniversitesi</span>
 	    	<span className="madde-span">• Dr. Öğr. Üyesi. Aydan Baysan, Manisa Celal Bayar Üniversitesi</span>
-	    	<span className="madde-span">• Ar. Gör. Dr. Gülsüm Çonoğlu, Çankırı Karatekin Üniversitesi</span>
+	    	<span className="madde-span">• Dr. Ögr. Üyesi Gülsüm Çonoğlu, Çankırı Karatekin Üniversitesi</span>
 	    	<span className="madde-span">• <strong>Öğrenci:</strong> Jale Atak, Manisa Celal Bayar Üniversitesi</span>    	
 
 	    	<h3 className="kurul-title">Sürekli İyileştirme Komisyonu (SÜİK)</h3>
