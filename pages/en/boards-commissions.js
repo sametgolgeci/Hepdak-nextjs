@@ -58,13 +58,13 @@ const Kurul = () => (
 	    	<span className="madde-span">• <strong>Öğrenci:</strong> Uzm. Hem. Özlem Bakan Demirel, İzmir Katip Çelebi Üniversitesi Kalite Koordinatörlüğü</span>
 
 	    	<h3 className="kurul-title">Training Comission</h3>
-	    	<span className="madde-span">• Assoc. Dr. Fatma Orgun (Chair), Ege University</span>
+	    	<span className="madde-span">• Prof. Dr. Fatma Orgun (Chair), Ege University</span>
 	    	<span className="madde-span">• Assoc. Dr. Hale Sezer (Secretary), Bakırçay University</span>
 	    	<span className="madde-span">• Prof. Dr. Medine Yılmaz, İzmir Katip Çelebi University</span>
 	    	<span className="madde-span">• Prof. Dr. Hatice Mert, Dokuz Eylül University</span>
 	    	<span className="madde-span">• Prof. Dr. Gülsüm Nihal Çürük, İzmir University of Economics</span>
-	    	<span className="madde-span">• Asst. Prof. Aydan Baysan, Manisa Celal Bayar University</span>
-	    	<span className="madde-span">• R. A. Dr. Gülsüm Çonoğlu, Çankırı Karatekin University</span>
+	    	<span className="madde-span">• Dr. Öğr. Üyesi Aydan Baysan, Manisa Celal Bayar University</span>
+	    	<span className="madde-span">• Dr. Öğr. Üyesi Gülsüm Çonoğlu, Çankırı Karatekin University</span>
 	    	<span className="madde-span">• <strong>Student:</strong> Jale Atak, Manisa Celal Bayar University</span> 	
 
 	    	<h3 className="kurul-title">Continuous Improvement Commission</h3>

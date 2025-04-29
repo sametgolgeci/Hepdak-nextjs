@@ -66,7 +66,7 @@ const Kurul = () => (
 	    	<span className="madde-span">• Prof. Dr. Medine Yılmaz, İzmir Katip Çelebi Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Hatice Mert, Dokuz Eylül Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Gülsüm Nihal Çürük, İzmir Ekonomi Üniversitesi</span>
-	    	<span className="madde-span">• Dr. Öğr. Üyesi. Aydan Baysan, Manisa Celal Bayar Üniversitesi</span>
+	    	<span className="madde-span">• Dr. Öğr. Üyesi Aydan Baysan, Manisa Celal Bayar Üniversitesi</span>
 	    	<span className="madde-span">• Dr. Ögr. Üyesi Gülsüm Çonoğlu, Çankırı Karatekin Üniversitesi</span>
 	    	<span className="madde-span">• <strong>Öğrenci:</strong> Jale Atak, Manisa Celal Bayar Üniversitesi</span>    	
 
@@ -99,7 +99,7 @@ const Kurul = () => (
 	    	<h3 className="kurul-title">WEB Tasarım Komisyonu</h3>
 	    	<span className="madde-span">• Prof. Dr. Özen Kulakaç (Başkan), Ondokuz Mayıs Üniversitesi</span>
 	    	<span className="madde-span">• Ümran Yalçın (Sekreter), HEPDAK Sekreteri</span>
-	    	<span className="madde-span">• Dr. Öğretim Üyesi Gürkan Özden, İnönü Üniversitesi</span>
+	    	<span className="madde-span">• Dr. Öğr. Üyesi Gürkan Özden, İnönü Üniversitesi</span>
 	    	<span className="madde-span">• Ar. Gör. Selcan Zeynep Ergöz Aksoy, İzmir Ekonomi Üniversitesi</span>
 	    	<span className="madde-span">• Ar. Gör. Hilal Ersan Yaman, Hacettepe Üniversitesi</span>
 	    </div>
