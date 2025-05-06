@@ -36,6 +36,12 @@ const Tum = () => (
           <div className="tab-content">
             <div id="yirmibes" className="container tab-pane active">
               <div className="main-top-second">
+                <div className="main-top-second-title">YÖKAK tarafından düzenlenen izleme ziyareti gerçekleştirildi (30 Nisan 2025)</div> 
+                <div className="main-top-second-content">
+                  <p>HEPDAK 2024 yılı faaliyetlerinin Yükseköğretim Kalite Kurulu (YÖKAK) tarafından izlemi YÖKAK İzleme Yetkilisi Prof. Dr. Hüseyin Ağır tarafından 30 Nisan 2025 tarihinde gerçekleştirilmiştir. İlk oturumda, izleme yetkilisi Prof. Dr. Hüseyin Ağır ile tanışma sonrası HEPDAK Başkanı Prof. Dr. Dilek ÖZMEN 2024 yılına ilişkin yürütülen HEPDAK faaliyetleri hakkında bir sunum yapmıştır. Yönetim Kurulu Başkanı ve Yönetim Kurulu Üyeleri ile gerçekleşen görüşmenin ardından akreditasyon kurulu üyeleri ve i komisyon/komite üyeleri (Standart, İtiraz, Tutarlılık, vb.) idari personel ile görüşmeler gerçekleştirilmiştir. İzleme ziyareti YÖKAK İzleme Yetkilisi Prof. Dr. Hüseyin Ağır’ın değerlendiriciler ile yaptığı görüşme ile sona ermiştir.</p>
+                </div> 
+              </div>
+              <div className="main-top-second">
                 <div className="main-top-second-title">Akredite edilmek üzere Başvuran Kurum Yöneticileri ile Toplantı (26 Şubat 2025)</div> 
                 <div className="main-top-second-content">
                   <p>HEPDAK 26 Şubat 2025 tarihinde, 2025-2026 döneminde akredite edilmek üzere başvuruda bulunan programlarla bir “Bilgilendirme Toplantısı” toplantısı gerçekleştirmiştir. 45 kişinin katıldığı toplantıda HEPDAK yönetim Kurulu Başkanı Prof. Dr. Dilek ÖZMEN HEPDAK değerlerine göre değerlendirme, Tematik analiz ve HEPDAK beklentileri, ÖDR hazırlığında dikkat edilmesi gerekenler, akreditasyon sürecinde HEPDAK danışmanlık desteği, HEPDAK değerlendirme süreci ve HEMSİS konularını içeren sunumunu yapmıştır. Kurumların sürece ilişkin sorularının da yanıtlandığı toplantı katılımcıların iyi dileklerle sona ermiştir.</p>

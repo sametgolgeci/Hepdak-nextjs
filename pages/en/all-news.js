@@ -20,6 +20,12 @@ const Tum = () => (
           </ul>
           <div className="tab-content">
             <div id="twentyfive" className="container tab-pane active">
+              <div className="main-top-second" id="300425">
+                <div className="main-top-second-title">A monitoring visit organized by YÖKAK was held (April 30, 2025)</div> 
+                <div className="main-top-second-content">
+                  <p>The monitoring of HEPDAK 2024 activities by the Higher Education Quality Board (YÖKAK) is carried out by YÖKAK Monitoring Official Prof. Dr. Hüseyin Ağır on April 30, 2025. In the first session, HEPDAK President Prof. Dr. Dilek ÖZMEN made a presentation about the HEPDAK activities carried out for 2024. Following the meeting with the Chairman and the Members of the Board of Directors, meetings were held with the members of the accreditation board, commission/committee members (Standard, Objection, Consistency, etc.) and administrative staff. The monitoring visit ended with the meeting of YÖKAK Monitoring Officer Prof. Dr. Hüseyin Ağır with the evaluators.</p>
+                </div> 
+              </div>
               <div className="main-top-second" id="260225">
                 <div className="main-top-second-title">Meetings with Applicant Institution Directors (February 26, 2025)</div> 
                 <div className="main-top-second-content">
