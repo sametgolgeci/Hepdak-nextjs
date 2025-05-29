@@ -20,6 +20,21 @@ const Tum = () => (
           </ul>
           <div className="tab-content">
             <div id="twentyfive" className="container tab-pane active">
+              <div className="main-top-second" id="270525">
+                <div className="main-top-second-title">HEPDAK Held a Refresher Workshop for Evaluator Training (May 27, 2025)</div> 
+                <div className="main-top-second-content">
+                  <p>HEPDAK held a refresher workshop for evaluators who had previously been trained according to Version 5.1 of the Self- Evaluation Report Preparation Guide, now updated to Version 6.0. During the workshop, HEPDAK first introduced the HEPDAK Standards-Based Grading (SBG) Tool, followed by an "Evaluation Activity on Selected Sub-Standards" covering five specific sub-standards. The session concluded with a presentation on "Continuous Improvement," enriched with examples. The workshop ended with a Q&A session and participant feedback. A total of 21 faculty members who had previously completed evaluator training participated in the event</p>
+                </div>
+                <div className="main-top-second-content">
+                  <div className="row">
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/tazelenme-calistayi/01.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/tazelenme-calistayi/01.png" alt="HEPDAK Değerlendirici Eğitimi (Tazelenme) Çalıştayı Düzenledi (27 Mayıs 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/tazelenme-calistayi/02.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/tazelenme-calistayi/02.png" alt="HEPDAK Değerlendirici Eğitimi (Tazelenme) Çalıştayı Düzenledi (27 Mayıs 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/tazelenme-calistayi/03.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/tazelenme-calistayi/03.png" alt="HEPDAK Değerlendirici Eğitimi (Tazelenme) Çalıştayı Düzenledi (27 Mayıs 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/tazelenme-calistayi/04.jpeg" target="_blank"><img className="calistay-img" src="/img/haberler/2025/tazelenme-calistayi/04.jpeg" alt="HEPDAK Değerlendirici Eğitimi (Tazelenme) Çalıştayı Düzenledi (27 Mayıs 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/tazelenme-calistayi/05.jpeg" target="_blank"><img className="calistay-img" src="/img/haberler/2025/tazelenme-calistayi/05.jpeg" alt="HEPDAK Değerlendirici Eğitimi (Tazelenme) Çalıştayı Düzenledi (27 Mayıs 2025)"/></a></div>
+                  </div>
+                </div>  
+              </div>
               <div className="main-top-second" id="300425">
                 <div className="main-top-second-title">A monitoring visit organized by YÖKAK was held (April 30, 2025)</div> 
                 <div className="main-top-second-content">

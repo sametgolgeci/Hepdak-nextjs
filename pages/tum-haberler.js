@@ -36,6 +36,21 @@ const Tum = () => (
           <div className="tab-content">
             <div id="yirmibes" className="container tab-pane active">
               <div className="main-top-second">
+                <div className="main-top-second-title">HEPDAK Değerlendirici Eğitimi (Tazelenme) Çalıştayı Düzenledi (27 Mayıs 2025)</div> 
+                <div className="main-top-second-content">
+                  <p>HEPDAK, Özdeğerlendirme Raporu Hazırlama Kılavuzu- Sürüm: 5.1’e göre daha önce eğitim almış olan değerlendiricilere Özdeğerlendirme Raporu Hazırlama Kılavuzu- Sürüm: 6.0’a yönelik tazelenme çalıştayı düzenledi. Çalıştayda önce HEPDAK Dereceli Değerlendirme Aracı’nı tanıtmış daha sonra seçili 5 alt standarda ilişkin “Alt Standart Değerlendirme Etkinliği” gerçekleştirmiştir. Çalıştayda son olarak örneklerle zenginleştirilmiş “Sürekli iyileştirme” anlatılmıştır. Çalıştay soru yanıt ve çalıştayın değerlendirilmesiyle sona ermiştir. Eğitime daha önce değerlendirici eğitimi almış 21 öğretim elemanı katılmıştır.</p>
+                </div>
+                <div className="main-top-second-content">
+                  <div className="row">
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/tazelenme-calistayi/01.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/tazelenme-calistayi/01.png" alt="HEPDAK Değerlendirici Eğitimi (Tazelenme) Çalıştayı Düzenledi (27 Mayıs 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/tazelenme-calistayi/02.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/tazelenme-calistayi/02.png" alt="HEPDAK Değerlendirici Eğitimi (Tazelenme) Çalıştayı Düzenledi (27 Mayıs 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/tazelenme-calistayi/03.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/tazelenme-calistayi/03.png" alt="HEPDAK Değerlendirici Eğitimi (Tazelenme) Çalıştayı Düzenledi (27 Mayıs 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/tazelenme-calistayi/04.jpeg" target="_blank"><img className="calistay-img" src="/img/haberler/2025/tazelenme-calistayi/04.jpeg" alt="HEPDAK Değerlendirici Eğitimi (Tazelenme) Çalıştayı Düzenledi (27 Mayıs 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/tazelenme-calistayi/05.jpeg" target="_blank"><img className="calistay-img" src="/img/haberler/2025/tazelenme-calistayi/05.jpeg" alt="HEPDAK Değerlendirici Eğitimi (Tazelenme) Çalıştayı Düzenledi (27 Mayıs 2025)"/></a></div>
+                  </div>
+                </div>  
+              </div>
+              <div className="main-top-second">
                 <div className="main-top-second-title">YÖKAK tarafından düzenlenen izleme ziyareti gerçekleştirildi (30 Nisan 2025)</div> 
                 <div className="main-top-second-content">
                   <p>HEPDAK 2024 yılı faaliyetlerinin Yükseköğretim Kalite Kurulu (YÖKAK) tarafından izlemi YÖKAK İzleme Yetkilisi Prof. Dr. Hüseyin Ağır tarafından 30 Nisan 2025 tarihinde gerçekleştirilmiştir. İlk oturumda, izleme yetkilisi Prof. Dr. Hüseyin Ağır ile tanışma sonrası HEPDAK Başkanı Prof. Dr. Dilek ÖZMEN 2024 yılına ilişkin yürütülen HEPDAK faaliyetleri hakkında bir sunum yapmıştır. Yönetim Kurulu Başkanı ve Yönetim Kurulu Üyeleri ile gerçekleşen görüşmenin ardından akreditasyon kurulu üyeleri ve i komisyon/komite üyeleri (Standart, İtiraz, Tutarlılık, vb.) idari personel ile görüşmeler gerçekleştirilmiştir. İzleme ziyareti YÖKAK İzleme Yetkilisi Prof. Dr. Hüseyin Ağır’ın değerlendiriciler ile yaptığı görüşme ile sona ermiştir.</p>

@@ -50,6 +50,9 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
+                  <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2025-vefat.jpeg"/></div>
+                </div>
+                <div className="carousel-item">
                   <Link href="/doc/2025-2029-eylem-plani.pdf" target="_blank">
                     <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2025-eylem-plani.jpeg"/></div>
                   </Link>
@@ -167,6 +170,17 @@ const Anasayfa = () => (
             <div className="block-title-all"><a href="/tum-haberler">Tüm Haberler</a></div>
           </div>
          
+          <Link href="/haberler/2025-05-27-haber" legacyBehavior>
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">27</div>
+              <div className="date-month">May</div>
+              <div className="date-year">2025</div>
+            </div>
+            <div className="block-subtitle-text">HEPDAK Değerlendirici Eğitimi (Tazelenme) Çalıştayı</div>
+          </div>
+          </Link>
+
           <Link href="/haberler/2025-04-30-haber" legacyBehavior>
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
