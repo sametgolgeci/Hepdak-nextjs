@@ -20,6 +20,23 @@ const Tum = () => (
           </ul>
           <div className="tab-content">
             <div id="twentyfive" className="container tab-pane active">
+              <div className="main-top-second" id="30310525">
+                <div className="main-top-second-title">HEPDAK 2025 Evaluator Training Completed (April 29 / May 30–31, 2025)</div> 
+                <div className="main-top-second-content">
+                  <p>The HEPDAK 2025 Evaluator Training was conducted online. In the half-day preliminary meeting held on April 29, 2025, participants were provided with general information about the undergraduate program accreditation process, the HEPDAK Standards-Based Grading Process, and the HEPDAK Evaluation Visit Process. Following this, the training program structure, working groups and principles, as well as individual and team assignments were introduced.</p>
+                  <p>In the second phase, between April 29 and May 29, 2025, participants carried out individual and team tasks. On May 30–31, 2025, the training continued in online classrooms with small group discussions and large group presentations. Additionally, presentations were delivered by Prof. Dr. Özen KULAKAÇ on Continuous Improvement and by Prof. Dr. Kadriye BULDUKOĞLU on Interview Techniques with Case Studies – Example of an Exit Statement for Communication. The training concluded with a general evaluation. A total of 32 evaluator candidates from various undergraduate nursing programs across Türkiye participated in the training.</p>
+                </div>
+                <div className="main-top-second-content">
+                  <div className="row">
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/degerlendirici-egitimi/01.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/degerlendirici-egitimi/01.png" alt="HEPDAK 2025 yılı Değerlendirici Eğitimi tamamlandı (29 Nisan/30-31 Mayıs 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/degerlendirici-egitimi/02.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/degerlendirici-egitimi/02.png" alt="HEPDAK 2025 yılı Değerlendirici Eğitimi tamamlandı (29 Nisan/30-31 Mayıs 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/degerlendirici-egitimi/03.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/degerlendirici-egitimi/03.png" alt="HEPDAK 2025 yılı Değerlendirici Eğitimi tamamlandı (29 Nisan/30-31 Mayıs 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/degerlendirici-egitimi/04.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/degerlendirici-egitimi/04.png" alt="HEPDAK 2025 yılı Değerlendirici Eğitimi tamamlandı (29 Nisan/30-31 Mayıs 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/degerlendirici-egitimi/05.jpeg" target="_blank"><img className="calistay-img" src="/img/haberler/2025/degerlendirici-egitimi/05.jpeg" alt="HEPDAK 2025 yılı Değerlendirici Eğitimi tamamlandı (29 Nisan/30-31 Mayıs 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/degerlendirici-egitimi/06.jpeg" target="_blank"><img className="calistay-img" src="/img/haberler/2025/degerlendirici-egitimi/06.jpeg" alt="HEPDAK 2025 yılı Değerlendirici Eğitimi tamamlandı (29 Nisan/30-31 Mayıs 2025)"/></a></div>
+                  </div>
+                </div>  
+              </div>
               <div className="main-top-second" id="270525">
                 <div className="main-top-second-title">HEPDAK Held a Refresher Workshop for Evaluator Training (May 27, 2025)</div> 
                 <div className="main-top-second-content">
