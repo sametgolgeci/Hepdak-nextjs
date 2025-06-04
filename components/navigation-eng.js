@@ -40,12 +40,8 @@ const Navigation = () => (
 					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">WORKSHOPS</a>
 					<div className="dropdown-menu">
 						<Link href="/en/training-workshop-for-institutions" className="dropdown-item">Training Workshop for Institutions</Link>
-						<Link
-                            href="../doc/en/evaluator-training-workshop.pdf"
-                            className="dropdown-item">Evaluator Training Workshop</Link>
-						<Link
-                            href="../doc/en/student-evaluator-training-workshop.pdf"
-                            className="dropdown-item">Student Evaluator Training Workshop</Link>
+						<Link href="en/evaluator-training-workshop" className="dropdown-item">Evaluator Training Workshop</Link>
+						<Link href="../doc/en/student-evaluator-training-workshop.pdf" className="dropdown-item">Student Evaluator Training Workshop</Link>
 					</div>
 				</li>
 				<li className="nav-item dropdown">

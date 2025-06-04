@@ -54,7 +54,7 @@ const Footer = () => (
 			<div className="footer-item-link"><Link href="/en/related-organizations">Related Organizations</Link></div>
 			<div className="footer-item-title footer-item-title-calistay"><strong>Workshops</strong></div>
 			<div className="footer-item-link"><Link href="/en/training-workshop-for-institutions">Training Workshop for Institutions</Link></div>
-			<div className="footer-item-link"><Link href="/doc/en/evaluator-training-workshop.pdf">Evaluator Training Workshop</Link></div>
+			<div className="footer-item-link"><Link href="/en/evaluator-training-workshop">Evaluator Training Workshop</Link></div>
 			<div className="footer-item-link"><Link href="/doc/en/student-evaluator-training-workshop.pdf">Student Evaluator Training Workshop</Link></div>
 		</div>
 		<div className="col-sm-12 col-md-3 footer-item">
