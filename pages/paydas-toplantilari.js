@@ -211,34 +211,28 @@ const Paydas = () => (
 				<table className="table table-striped">
 					<tbody>
 						<tr>
+		          <td scope="row" width="110px">19 Haziran 2025</td>
+		          <td><Link href="doc/paydas_toplantilari/degerlendirme_takimlari_toplanti/06.pdf" target="_blank">HEPDAK Değerlendirme Takım Üyeleri Ön İnceleme Toplantısı</Link></td>
+		        </tr>
+						<tr>
 		          <td scope="row" width="110px">14 Haziran 2024</td>
-		          <td><Link
-                    href="doc/paydas_toplantilari/degerlendirme_takimlari_toplanti/05.pdf"
-                    target="_blank">HEPDAK Değerlendirme Takım Üyeleri Toplantısı</Link></td>
+		          <td><Link href="doc/paydas_toplantilari/degerlendirme_takimlari_toplanti/05.pdf" target="_blank">HEPDAK Değerlendirme Takım Üyeleri Toplantısı</Link></td>
 		        </tr>
 						<tr>
 		          <td scope="row" width="110px">24 Ocak 2024</td>
-		          <td><Link
-                    href="doc/paydas_toplantilari/degerlendirme_takimlari_toplanti/04.pdf"
-                    target="_blank">HEPDAK Değerlendirme Takım Üyeleri Toplantısı</Link></td>
+		          <td><Link href="doc/paydas_toplantilari/degerlendirme_takimlari_toplanti/04.pdf" target="_blank">HEPDAK Değerlendirme Takım Üyeleri Toplantısı</Link></td>
 		        </tr>
 						<tr>
 		          <td scope="row" width="110px">11 Ocak 2023</td>
-		          <td><Link
-                    href="doc/paydas_toplantilari/degerlendirme_takimlari_toplanti/03.pdf"
-                    target="_blank">HEPDAK Değerlendirme Takım Üyeleri Toplantısı</Link></td>
+		          <td><Link href="doc/paydas_toplantilari/degerlendirme_takimlari_toplanti/03.pdf" target="_blank">HEPDAK Değerlendirme Takım Üyeleri Toplantısı</Link></td>
 		        </tr>
 		        <tr>
 		          <td scope="row" width="110px">06 Ocak 2022</td>
-		          <td><Link
-                    href="doc/paydas_toplantilari/degerlendirme_takimlari_toplanti/02.pdf"
-                    target="_blank">HEPDAK Değerlendirme Takım Üyeleri Toplantısı</Link></td>
+		          <td><Link href="doc/paydas_toplantilari/degerlendirme_takimlari_toplanti/02.pdf" target="_blank">HEPDAK Değerlendirme Takım Üyeleri Toplantısı</Link></td>
 		        </tr>
 						<tr>
 		          <td scope="row" width="110px">10 Mart 2021</td>
-		          <td><Link
-                    href="doc/paydas_toplantilari/degerlendirme_takimlari_toplanti/01.pdf"
-                    target="_blank">2020-2021 Dönemi Değerlendirici Toplantısı</Link></td>
+		          <td><Link href="doc/paydas_toplantilari/degerlendirme_takimlari_toplanti/01.pdf" target="_blank">2020-2021 Dönemi Değerlendirici Toplantısı</Link></td>
 		        </tr>
 					</tbody>
 				</table>

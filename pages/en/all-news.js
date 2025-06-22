@@ -20,6 +20,20 @@ const Tum = () => (
           </ul>
           <div className="tab-content">
             <div id="twentyfive" className="container tab-pane active">
+              <div className="main-top-second" id="190625">
+                <div className="main-top-second-title">HEPDAK 2025 Meetings with Evaluation Teams (June 19, 2025)</div> 
+                <div className="main-top-second-content">
+                  <p>The HEPDAK Board of Directors held an online meeting with the HEPDAK evaluation team members for the 2025- 2026 period on June 19, 2025. A total of 37 people, including HEPDAK board members and team members, attended the meeting. In the meeting, changes made in the evaluation process in line with the feedback received from the evaluation teams and stakeholders during the 2025- 2026 accreditation evaluation process, points to be considered to increase consistency in the evaluation of the SAR Guide 6.0, and reminders regarding the entire evaluation process were made. Questions from the evaluation team members were answered by the HEPDAK board members at the meeting.</p>
+                </div>
+                <div className="main-top-second-content">
+                  <div className="row">
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/degerlendirme-takim-uyeleri/01.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/degerlendirme-takim-uyeleri/01.png" alt="2025 HEPDAK Değerlendirme Takım Üyeleri Toplantısı"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/degerlendirme-takim-uyeleri/02.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/degerlendirme-takim-uyeleri/02.png" alt="2025 HEPDAK Değerlendirme Takım Üyeleri Toplantısı"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/degerlendirme-takim-uyeleri/03.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/degerlendirme-takim-uyeleri/03.png" alt="2025 HEPDAK Değerlendirme Takım Üyeleri Toplantısı"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/degerlendirme-takim-uyeleri/04.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/degerlendirme-takim-uyeleri/04.png" alt="2025 HEPDAK Değerlendirme Takım Üyeleri Toplantısı"/></a></div>
+                  </div>
+                </div>  
+              </div>
               <div className="main-top-second" id="30310525">
                 <div className="main-top-second-title">HEPDAK 2025 Evaluator Training Completed (April 29 / May 30–31, 2025)</div> 
                 <div className="main-top-second-content">

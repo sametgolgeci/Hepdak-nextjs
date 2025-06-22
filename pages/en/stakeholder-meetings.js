@@ -58,7 +58,30 @@ const Belgeler = () => (
       <div className="collapse" id="ET">
         <table className="table table-striped">
           <tbody>
-
+            <tr>
+              <td scope="row" width="110px">June 19, 2025</td>
+              <td><Link href="../doc/paydas_toplantilari/degerlendirme_takimlari_toplanti/06.pdf" target="_blank">HEPDAK Evaluation Team Members Preliminary Review Meeting (in Turkish)</Link></td>
+            </tr>
+            <tr>
+              <td scope="row" width="110px">June 14, 2024</td>
+              <td><Link href="../doc/paydas_toplantilari/degerlendirme_takimlari_toplanti/05.pdf" target="_blank">HEPDAK Evaluation Team Members Meeting (in Turkish)</Link></td>
+            </tr>
+            <tr>
+              <td scope="row" width="110px">January 24, 2024</td>
+              <td><Link href="../doc/paydas_toplantilari/degerlendirme_takimlari_toplanti/04.pdf" target="_blank">HEPDAK Evaluation Team Members Meeting (in Turkish)</Link></td>
+            </tr>
+            <tr>
+              <td scope="row" width="110px">January 11, 2023</td>
+              <td><Link href="../doc/paydas_toplantilari/degerlendirme_takimlari_toplanti/03.pdf" target="_blank">HEPDAK Evaluation Team Members Meeting (in Turkish)</Link></td>
+            </tr>
+            <tr>
+              <td scope="row" width="110px">January 06, 2022</td>
+              <td><Link href="../doc/paydas_toplantilari/degerlendirme_takimlari_toplanti/02.pdf" target="_blank">HEPDAK Evaluation Team Members Meeting (in Turkish)</Link></td>
+            </tr>
+            <tr>
+              <td scope="row" width="110px">March 10, 2021</td>
+              <td><Link href="../doc/paydas_toplantilari/degerlendirme_takimlari_toplanti/01.pdf" target="_blank">HEPDAK Evaluation Team Members Meeting (in Turkish)</Link></td>
+            </tr>
           </tbody>
         </table>
       </div>
