@@ -27,7 +27,9 @@ const Anasayfa = () => (
     <Navigation/>
     
     <div className="home-duyuru">
+      <Link href="https://www.hegk2025.com" target="_blank">
       <img className="slider-full-img" src="img/kongre.jpg"/>
+      </Link>
     </div>
     
     <div className="main-top">
