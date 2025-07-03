@@ -25,11 +25,11 @@ const Anasayfa = () => (
     </Head>
     <Header/>
     <Navigation/>
-    {/*
+    
     <div className="home-duyuru">
-      <Link href="/hepdak-duyuru"><a>!! HEPDAK Yönetim Kurulunun 2023-2024 döneminde akredite olmak için başvuran programların akreditasyon süreçleri ile ilgili 25.03.2023 tarihli kararlarına ilişkin duyurusu !!</a></Link>
+      <img className="slider-full-img" src="img/kongre.jpg"/>
     </div>
-    */}
+    
     <div className="main-top">
       <div className="main-top-nav">
         <ul className="main-top-akredite">

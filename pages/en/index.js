@@ -22,6 +22,11 @@ const Anasayfa = () => (
     </Head>
     <Header/>
     <Navigation/>
+
+    <div className="home-duyuru">
+      <img className="slider-full-img" src="img/kongre-en.jpg"/>
+    </div>
+
     <div className="main-top">
       <div className="main-top-nav">
         <ul className="main-top-akredite">
