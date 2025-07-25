@@ -29,12 +29,12 @@ const Kurul = () => (
 	    	<span className="madde-span">• Prof. Dr. Kadriye Buldukoğlu, Akdeniz Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Aynur Uysal Toraman, Ege Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Hülya Okumuş, (Hemşirelik Eğitimi Derneği Temsilcisi) Emekli Öğretim Üyesi</span>
-	    	<span className="madde-span">• <strong>Türk Hemşireler Derneği:</strong> Dr. Hümeyra Zengin, Hacettepe Üniversitesi Erişkin Hastanesi Hemşire Müdürü</span>
+	    	<span className="madde-span">• <strong>Türk Hemşireler Derneği:</strong> Doç. Dr. Gülten Koç, Hacettepe Üniversitesi Hemşirelik Fakültesi</span>
 	    	<span className="madde-span">• Uzm. Hem. Pınar Akçay, Sağlık Bakanlığı Hastaneleri Temsilcisi</span>
 	    	<span className="madde-span">• Dr. Ögr. Üyesi Ahu Çırlak, Özel Ankara Güven Hastanesi Eğitim ve Ar-Ge Müdürü</span>
-	    	<span className="madde-span">• <strong>Hemşire:</strong> Dr. Öğr. Üyesi Serap İleri, Girne Üniversitesi</span>
+	    	<span className="madde-span">• <strong>Hemşire:</strong> Melek Gülcük, İzmir Buca Seyfi Demirsoy EAH, Eğitim Birimi (Hemşire Temsilcisi)</span>
 	    	<span className="madde-span">• <strong>Toplum Temsilcisi:</strong> Dr. Öğr. Üyesi Leman Kutlu, Atlas Üniversitesi</span>
-	    	<span className="madde-span">• <strong>Öğrenci:</strong> Gizem Tunç, Hacettepe Üniversitesi</span>	
+	    	<span className="madde-span">• <strong>Öğrenci:</strong> Şerife Aplay, Ankara Yıldırım Beyazıt Üniversitesi</span>
 	    	
 	    	<h3 className="kurul-title">Danışma Kurulu</h3>
 	    	<span className="madde-span">• Prof. Dr. Gülseren Kocaman (Koordinatör), Emekli Öğretim Üyesi</span>
