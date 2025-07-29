@@ -31,7 +31,7 @@ const Kurul = () => (
 	    	<span className="madde-span">• Prof. Dr. Hülya Okumuş, (Hemşirelik Eğitimi Derneği Temsilcisi) Emekli Öğretim Üyesi</span>
 	    	<span className="madde-span">• <strong>Türk Hemşireler Derneği:</strong> Doç. Dr. Gülten Koç, Hacettepe Üniversitesi Hemşirelik Fakültesi</span>
 	    	<span className="madde-span">• Uzm. Hem. Pınar Akçay, Sağlık Bakanlığı Hastaneleri Temsilcisi</span>
-	    	<span className="madde-span">• Dr. Ögr. Üyesi Ahu Çırlak, Özel Ankara Güven Hastanesi Eğitim ve Ar-Ge Müdürü</span>
+	    	<span className="madde-span">• Dr. Ögr. Üyesi Ahu Çırlak, Selçuk Üniversitesi Kulu Sağlık Bilimleri Fakültesi</span>
 	    	<span className="madde-span">• <strong>Hemşire:</strong> Melek Gülcük, İzmir Buca Seyfi Demirsoy EAH, Eğitim Birimi (Hemşire Temsilcisi)</span>
 	    	<span className="madde-span">• <strong>Toplum Temsilcisi:</strong> Dr. Öğr. Üyesi Leman Kutlu, Atlas Üniversitesi</span>
 	    	<span className="madde-span">• <strong>Öğrenci:</strong> Şerife Aplay, Ankara Yıldırım Beyazıt Üniversitesi</span>
