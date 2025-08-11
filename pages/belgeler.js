@@ -114,7 +114,7 @@ const Belgeler = () => (
                 <tr>
                   <th scope="row">3</th>
                   <td>
-                    HEPDAK Özdeğerlendirme Raporu Hazırlama Kılavuzu - <strong>Sürüm 6.0</strong> (<Link href="doc/b4_v6.pdf">PDF</Link> | <Link href="doc/b4_v6.doc">Word</Link>) - <a data-toggle="collapse" href="#b03" role="button" aria-expanded="false" aria-controls="b03">↓</a>
+                    HEPDAK Özdeğerlendirme Raporu Hazırlama Kılavuzu - <strong>Sürüm 6.0</strong> (<Link href="doc/b4_v6.pdf">PDF</Link> | <Link href="doc/b4_v6.docx">Word</Link>) - <a data-toggle="collapse" href="#b03" role="button" aria-expanded="false" aria-controls="b03">↓</a>
                     <div className="collapse" id="b03">
                       <p>- <strong>Sürüm 5.1</strong> (<Link href="doc/b4_v5_1.pdf">PDF</Link> | <Link href="doc/b4_v5_1.doc">Word</Link>)<br/>- <strong>Sürüm 5.0</strong> (<Link href="doc/b4_v5.pdf">PDF</Link> | <Link href="doc/b4_v5.doc">Word</Link>)<br/>- <strong>Sürüm 4.1</strong> (<Link href="doc/b4_v4_1.pdf">PDF</Link> | <Link href="doc/b4_v4_1.doc">Word</Link>)<br/>- <strong>Sürüm 4.0</strong> (<Link href="doc/b4_v4.pdf">PDF</Link> | <Link href="doc/b4_v4.doc">Word</Link>)<br/>- <Link href="doc/b4_v3.pdf">Sürüm 3.0</Link><br/>- <Link href="doc/b4_v2.pdf">Sürüm 2.0</Link><br/>- <Link href="doc/b4_v1.pdf">Sürüm 1.0</Link></p>
                     </div>
