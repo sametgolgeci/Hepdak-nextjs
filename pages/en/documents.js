@@ -117,7 +117,7 @@ const Belgeler = () => (
               <tbody>
                 <tr>
                   <th scope="row" width="10px">1</th>
-                  <td><Link href="../doc/en/doc-flow-chart.pdf" target="_blank">Nursing Education Programs Accreditation Process Flow Chart (Version 1.3)</Link></td>
+                  <td><Link href="../doc/d1_v1_4.pdf" target="_blank">Nursing Education Programs Accreditation Process Flow Chart (Version 1.4)</Link></td>
                 </tr>
                 <tr>
                   <th scope="row">2</th>
