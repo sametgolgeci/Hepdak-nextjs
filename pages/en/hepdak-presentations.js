@@ -13,6 +13,11 @@ const Kaynak = () => (
                 <tbody>
                   <tr>
                     <td><Link
+                      href="../doc/hepdak_sunumlari/Prof.Dr.DilekOzmen-ProgramlarinGozunden-AkreditasyonHemsirelikEgitimindeFarkYaratiyorMu.pdf"
+                      target="_blank">- Prof. Dr. Dilek Özmen - Does Accreditation Make a Difference in Nursing Education? (September 17-19, 2025)</Link></td>
+                  </tr>
+                  <tr>
+                    <td><Link
                       href="../doc/hepdak_sunumlari/Prof.Dr.GulserenKocaman-HemsirelikEgitimininKalitesi.pdf"
                       target="_blank">- Prof. Dr. Gülseren Kocaman - Quality of Nursing Education and Investment in Education (May 20, 2024)</Link></td>
                   </tr>
@@ -29,7 +34,7 @@ const Kaynak = () => (
                   <tr>
                     <td><Link
                       href="../doc/hepdak_sunumlari/Prof.Dr.DilekOzmen-HEPDAKBakisiylaMezuniyetSinavi.pdf"
-                      target="_blank">- Prof. Dr. Dilek Özmen - Graduation Exam from HEPDAK Perspective (April 18,  2024)</Link></td>
+                      target="_blank">- Prof. Dr. Dilek Özmen - Graduation Exam from HEPDAK Perspective (April 18, 2024)</Link></td>
                   </tr>
                   <tr>
                     <td><Link

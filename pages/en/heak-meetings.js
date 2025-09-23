@@ -13,6 +13,14 @@ const Belgeler = () => (
           <table className="table table-striped">
             <tbody>
               <tr>
+                <th scope="row" width="10px">25</th>
+                <td>HEAK Meeting - <Link href="../doc/heak/heak_komisyon_25.pdf">August 25-28, 2025(in Turkish)</Link></td>
+              </tr>
+              <tr>
+                <th scope="row" width="10px">24</th>
+                <td>HEAK Meeting - <Link href="../doc/heak/heak_komisyon_24.pdf">March 17-19, 2025(in Turkish)</Link></td>
+              </tr>
+              <tr>
                 <th scope="row" width="10px">23</th>
                 <td>HEAK Meeting - <Link href="../doc/heak/heak_komisyon_23.pdf">September 02-05, 2024(in Turkish)</Link></td>
               </tr>
