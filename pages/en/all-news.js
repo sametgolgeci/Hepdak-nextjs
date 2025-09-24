@@ -20,6 +20,26 @@ const Tum = () => (
           </ul>
           <div className="tab-content">
             <div id="twentyfive" className="container tab-pane active">
+              <div className="main-top-second" id="17190925">
+                <div className="main-top-second-title">The 2nd International Congress on the Future of Nursing Education (September 17-19, 2025)</div> 
+                <div className="main-top-second-content">
+                  <p>The 2nd International Congress on the Future of Nursing Education, themed "Excellent Education for Excellent Care" organized in collaboration with HEPDAK, HEMED, and the Department of Nursing at Başkent University's Faculty of Health Sciences, took place face-to- face from September 17-19, 2025. The congress, organized in memory of our esteemed professor Prof. Dr. Gülten UYER, who pioneered the development of nursing education and services in Turkey, was opened by Prof. Dr. Azize KARAHAN, Head of the Nursing Department at Başkent University's Faculty of Health Sciences, HEPDAK President Prof. Dr. Dilek Özmen, HEMED President Assoc. Prof. Dr. Havva Arslan Yürümezoğlu, and Başkent University's Founding Rector Prof. Dr. Mehmet Haberal. A total of 200 participants attended the congress, which included 6 courses, 1 conference, 8 panels and 13 paper sessions.</p>
+                  <p>Conference and panels held on the first day of the congress addressed leadership in education, nursing education using artificial intelligence and digital technologies, and competency-based education. The second day's sessions included panels titled "Does accreditation make a difference in nursing education?", "Social determinants of health and nursing education," and "Interprofessional collaboration and examples of good practice. "The final session of the congress was a panel discussion addressing frequently asked questions about the accreditation process. The congress concluded with the presentation of abstract awards and a general evaluation.</p>
+                </div>
+                <div className="main-top-second-content">
+                  <div className="row">
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/kongre/01.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/kongre/01.png" alt="2. Hemşirelik Eğitiminin Geleceği Kongresi"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/kongre/02.jpeg" target="_blank"><img className="calistay-img" src="/img/haberler/2025/kongre/02.jpeg" alt="2. Hemşirelik Eğitiminin Geleceği Kongresi"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/kongre/03.jpeg" target="_blank"><img className="calistay-img" src="/img/haberler/2025/kongre/03.jpeg" alt="2. Hemşirelik Eğitiminin Geleceği Kongresi"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/kongre/04.jpeg" target="_blank"><img className="calistay-img" src="/img/haberler/2025/kongre/04.jpeg" alt="2. Hemşirelik Eğitiminin Geleceği Kongresi"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/kongre/05.jpeg" target="_blank"><img className="calistay-img" src="/img/haberler/2025/kongre/04.jpeg" alt="2. Hemşirelik Eğitiminin Geleceği Kongresi"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/kongre/06.jpeg" target="_blank"><img className="calistay-img" src="/img/haberler/2025/kongre/04.jpeg" alt="2. Hemşirelik Eğitiminin Geleceği Kongresi"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/kongre/07.jpeg" target="_blank"><img className="calistay-img" src="/img/haberler/2025/kongre/04.jpeg" alt="2. Hemşirelik Eğitiminin Geleceği Kongresi"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/kongre/08.jpeg" target="_blank"><img className="calistay-img" src="/img/haberler/2025/kongre/04.jpeg" alt="2. Hemşirelik Eğitiminin Geleceği Kongresi"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/kongre/09.jpeg" target="_blank"><img className="calistay-img" src="/img/haberler/2025/kongre/04.jpeg" alt="2. Hemşirelik Eğitiminin Geleceği Kongresi"/></a></div>
+                  </div>
+                </div>  
+              </div>
               <div className="main-top-second" id="190625">
                 <div className="main-top-second-title">HEPDAK 2025 Meetings with Evaluation Teams (June 19, 2025)</div> 
                 <div className="main-top-second-content">

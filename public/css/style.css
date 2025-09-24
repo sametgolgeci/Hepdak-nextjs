@@ -799,6 +799,9 @@ table{
 	padding-left: 1rem;
 	padding-right: 1rem;
 }
+.madde-span > h6 > a{
+	color: #080;
+}
 .sempozyum-title{
 	color: #008ac3;
 }

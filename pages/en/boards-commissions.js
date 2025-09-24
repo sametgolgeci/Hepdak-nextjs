@@ -78,10 +78,10 @@ const Kurul = () => (
 	    	
 	    	<h3 className="kurul-title">International Relations Committee Working Directive</h3>
 	    	<span className="madde-span">• Doç. Dr. Fatoş Korkmaz (Chair), Hacettepe University</span>
-	    	<span className="madde-span">• Doç. Dr. İmatullah Akyar (Secretary), Hacettepe University</span>
+	    	<span className="madde-span">• Prof. Dr. İmatullah Akyar (Secretary), Hacettepe University</span>
 	    	<span className="madde-span">• Prof. Dr. Medine Yılmaz, İzmir Katip Çelebi University</span>
 	    	<span className="madde-span">• Prof. Dr. Vesile Ünver, Acıbadem Mehmet Ali Aydınlar University</span>
-	    	<span className="madde-span">• Doç. Dr. Sergül Duygulu, Hacettepe University</span>
+	    	<span className="madde-span">• Prof. Dr. Sergül Duygulu, Hacettepe University</span>
 	    	<span className="madde-span">• Prof. Dr. Ayhan Lash, Northern Illinois University Retired Faculty Member</span>
 	    	<span className="madde-span">• Prof. Dr. İlkay Boz, Akdeniz University</span>
 
