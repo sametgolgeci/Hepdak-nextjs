@@ -32,11 +32,11 @@ const Tum = () => (
                     <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/kongre/02.jpeg" target="_blank"><img className="calistay-img" src="/img/haberler/2025/kongre/02.jpeg" alt="2. Hemşirelik Eğitiminin Geleceği Kongresi"/></a></div>
                     <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/kongre/03.jpeg" target="_blank"><img className="calistay-img" src="/img/haberler/2025/kongre/03.jpeg" alt="2. Hemşirelik Eğitiminin Geleceği Kongresi"/></a></div>
                     <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/kongre/04.jpeg" target="_blank"><img className="calistay-img" src="/img/haberler/2025/kongre/04.jpeg" alt="2. Hemşirelik Eğitiminin Geleceği Kongresi"/></a></div>
-                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/kongre/05.jpeg" target="_blank"><img className="calistay-img" src="/img/haberler/2025/kongre/04.jpeg" alt="2. Hemşirelik Eğitiminin Geleceği Kongresi"/></a></div>
-                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/kongre/06.jpeg" target="_blank"><img className="calistay-img" src="/img/haberler/2025/kongre/04.jpeg" alt="2. Hemşirelik Eğitiminin Geleceği Kongresi"/></a></div>
-                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/kongre/07.jpeg" target="_blank"><img className="calistay-img" src="/img/haberler/2025/kongre/04.jpeg" alt="2. Hemşirelik Eğitiminin Geleceği Kongresi"/></a></div>
-                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/kongre/08.jpeg" target="_blank"><img className="calistay-img" src="/img/haberler/2025/kongre/04.jpeg" alt="2. Hemşirelik Eğitiminin Geleceği Kongresi"/></a></div>
-                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/kongre/09.jpeg" target="_blank"><img className="calistay-img" src="/img/haberler/2025/kongre/04.jpeg" alt="2. Hemşirelik Eğitiminin Geleceği Kongresi"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/kongre/05.jpeg" target="_blank"><img className="calistay-img" src="/img/haberler/2025/kongre/05.jpeg" alt="2. Hemşirelik Eğitiminin Geleceği Kongresi"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/kongre/06.jpeg" target="_blank"><img className="calistay-img" src="/img/haberler/2025/kongre/06.jpeg" alt="2. Hemşirelik Eğitiminin Geleceği Kongresi"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/kongre/07.jpeg" target="_blank"><img className="calistay-img" src="/img/haberler/2025/kongre/07.jpeg" alt="2. Hemşirelik Eğitiminin Geleceği Kongresi"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/kongre/08.jpeg" target="_blank"><img className="calistay-img" src="/img/haberler/2025/kongre/08.jpeg" alt="2. Hemşirelik Eğitiminin Geleceği Kongresi"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/kongre/09.jpeg" target="_blank"><img className="calistay-img" src="/img/haberler/2025/kongre/09.jpeg" alt="2. Hemşirelik Eğitiminin Geleceği Kongresi"/></a></div>
                   </div>
                 </div>  
               </div>
