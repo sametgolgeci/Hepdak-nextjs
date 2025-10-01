@@ -17,7 +17,7 @@ const Uye = () => (
         <div className="jumbotron">
           <p>HEPDAK Öğrenci Değerlendirici Listesine  <Link
             href="doc/degerlendiriciler_listesi/ogrenci-degerlendirici-listesi.pdf"
-            target="_blank">buradan</Link> ulaşabilirsiniz. <strong>(13 Ekim 2023)</strong></p>
+            target="_blank">buradan</Link> ulaşabilirsiniz. <strong>(06 Haziran 2024)</strong></p>
         </div>
       </div>
     </MasterPage>

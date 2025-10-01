@@ -20,6 +20,22 @@ const Tum = () => (
           </ul>
           <div className="tab-content">
             <div id="twentyfive" className="container tab-pane active">
+              <div className="main-top-second" id="290925">
+                <div className="main-top-second-title">Ondokuz Mayıs University Faculty of Health Sciences, Nursing Department – Accreditation Certificate Ceremony (September 29, 2025)</div> 
+                <div className="main-top-second-content">
+                  <p>The Nursing Department of the Faculty of Health Sciences at Ondokuz Mayıs University was accredited for a five-year period covering 2025–2030 as a result of HEPDAK accreditation evaluations. A certificate presentation ceremony was held with the participation of HEPDAK Board Member Prof. Dr. Özen Kulakaç. In her address at the ceremony, Prof. Dr. Özen Kulakaç briefly highlighted the necessity and importance of accreditation in education, the significance of accreditation in nursing education, and the critical role of leadership and administrative support in quality processes in education. She also touched upon HEPDAK and its accreditation standards, and presented the Nursing Department’s “Accreditation Certificate” to Vice Rector Prof. Dr. Çetin Kurnaz. In his speech, Prof. Dr. Çetin Kurnaz emphasized the contributions of the Nursing Department to quality and research processes within both the university and the faculty.</p>
+                  <p>At the ceremony, attended by faculty members of the Nursing Department and first-year students, certificates of appreciation were presented to the faculty members who contributed to the accreditation process by the Dean of the Faculty of Health Sciences, Prof. Dr. Esra Pancar Yüksel, the Head of the Nursing Department, Assoc. Prof. Dr. Esra Tural Büyük, and HEPDAK Board Member Prof. Dr. Özen Kulakaç.</p>
+                </div>
+                <div className="main-top-second-content">
+                  <div className="row">
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/omu-akreditasyon/01.jpeg" target="_blank"><img className="calistay-img" src="/img/haberler/2025/omu-akreditasyon/01.jpeg" alt="Ondokuz Mayıs Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü Akreditasyon Belgesi Takdim Töreni (29 Eylül 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/omu-akreditasyon/02.jpeg" target="_blank"><img className="calistay-img" src="/img/haberler/2025/omu-akreditasyon/02.jpeg" alt="Ondokuz Mayıs Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü Akreditasyon Belgesi Takdim Töreni (29 Eylül 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/omu-akreditasyon/03.jpeg" target="_blank"><img className="calistay-img" src="/img/haberler/2025/omu-akreditasyon/03.jpeg" alt="Ondokuz Mayıs Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü Akreditasyon Belgesi Takdim Töreni (29 Eylül 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/omu-akreditasyon/04.jpeg" target="_blank"><img className="calistay-img" src="/img/haberler/2025/omu-akreditasyon/04.jpeg" alt="Ondokuz Mayıs Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü Akreditasyon Belgesi Takdim Töreni (29 Eylül 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/omu-akreditasyon/05.jpeg" target="_blank"><img className="calistay-img" src="/img/haberler/2025/omu-akreditasyon/05.jpeg" alt="Ondokuz Mayıs Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü Akreditasyon Belgesi Takdim Töreni (29 Eylül 2025)"/></a></div>
+                  </div>
+                </div>  
+              </div>
               <div className="main-top-second" id="17190925">
                 <div className="main-top-second-title">The 2nd International Congress on the Future of Nursing Education (September 17-19, 2025)</div> 
                 <div className="main-top-second-content">
