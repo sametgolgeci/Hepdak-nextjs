@@ -20,6 +20,22 @@ const Tum = () => (
           </ul>
           <div className="tab-content">
             <div id="twentyfive" className="container tab-pane active">
+              <div className="main-top-second" id="041025">
+                <div className="main-top-second-title">HEPDAK 2025 Student Evaluator Training Held (October 4, 2025)</div> 
+                <div className="main-top-second-content">
+                  <p>HEPDAK 2025 Student Evaluator Training was held online. During the half-day training held on October 4, 2025, participants received general information about the undergraduate program accreditation process, the HEPDAK rubric evaluation process, the HEPDAK visit process, and the participation of student evaluators in the evaluation process. The importance of the behavioral dimension of the evaluation process was emphasized. Following this, group work on question preparation, practical interviews, and student evaluator report writing based on case studies were conducted and discussed in a large group. Finally, the program concluded with an experience-sharing session with two student evaluators, Cansel KIRIK and Jale ATAK, who had previously served as evaluators. The program concluded with an evaluation of the training. Forty-nine students from 22 different nursing programs in Turkey participated in the training.</p>
+                </div>
+                <div className="main-top-second-content">
+                  <div className="row">
+                    <div className="col-md-3 col-sm-12"><a href="/doc/ogrenci_egitim_8/01.png" target="_blank"><img className="calistay-img" src="/doc/ogrenci_egitim_8/01.png" alt="HEPDAK 2025 Yılı Öğrenci Değerlendirici Eğitimi gerçekleştirildi (04 Ekim 2025)"/></a></div>
+                    <div className="col-md-3 col-sm-12"><a href="/doc/ogrenci_egitim_8/02.png" target="_blank"><img className="calistay-img" src="/doc/ogrenci_egitim_8/02.png" alt="HEPDAK 2025 Yılı Öğrenci Değerlendirici Eğitimi gerçekleştirildi (04 Ekim 2025)"/></a></div>
+                    <div className="col-md-3 col-sm-12"><a href="/doc/ogrenci_egitim_8/03.png" target="_blank"><img className="calistay-img" src="/doc/ogrenci_egitim_8/03.png" alt="HEPDAK 2025 Yılı Öğrenci Değerlendirici Eğitimi gerçekleştirildi (04 Ekim 2025)"/></a></div>
+                    <div className="col-md-3 col-sm-12"><a href="/doc/ogrenci_egitim_8/04.png" target="_blank"><img className="calistay-img" src="/doc/ogrenci_egitim_8/04.png" alt="HEPDAK 2025 Yılı Öğrenci Değerlendirici Eğitimi gerçekleştirildi (04 Ekim 2025)"/></a></div>
+                    <div className="col-md-3 col-sm-12"><a href="/doc/ogrenci_egitim_8/05.png" target="_blank"><img className="calistay-img" src="/doc/ogrenci_egitim_8/05.png" alt="HEPDAK 2025 Yılı Öğrenci Değerlendirici Eğitimi gerçekleştirildi (04 Ekim 2025)"/></a></div>
+                    <div className="col-md-3 col-sm-12"><a href="/doc/ogrenci_egitim_8/06.jpeg" target="_blank"><img className="calistay-img" src="/doc/ogrenci_egitim_8/06.jpeg" alt="HEPDAK 2025 Yılı Öğrenci Değerlendirici Eğitimi gerçekleştirildi (04 Ekim 2025)"/></a></div>
+                  </div>
+                </div>  
+              </div>
               <div className="main-top-second" id="290925">
                 <div className="main-top-second-title">Ondokuz Mayıs University Faculty of Health Sciences, Nursing Department – Accreditation Certificate Ceremony (September 29, 2025)</div> 
                 <div className="main-top-second-content">
