@@ -17,12 +17,12 @@ const News = () => (
                 </div>
                 <div className="main-top-second-content">
                   <div className="row">
-                    <div className="col-md-3 col-sm-12"><a href="/doc/ogrenci_egitim_8/01.png" target="_blank"><img className="calistay-img" src="/doc/ogrenci_egitim_8/01.png" alt="HEPDAK 2025 Yılı Öğrenci Değerlendirici Eğitimi gerçekleştirildi (04 Ekim 2025)"/></a></div>
-                    <div className="col-md-3 col-sm-12"><a href="/doc/ogrenci_egitim_8/02.png" target="_blank"><img className="calistay-img" src="/doc/ogrenci_egitim_8/02.png" alt="HEPDAK 2025 Yılı Öğrenci Değerlendirici Eğitimi gerçekleştirildi (04 Ekim 2025)"/></a></div>
-                    <div className="col-md-3 col-sm-12"><a href="/doc/ogrenci_egitim_8/03.png" target="_blank"><img className="calistay-img" src="/doc/ogrenci_egitim_8/03.png" alt="HEPDAK 2025 Yılı Öğrenci Değerlendirici Eğitimi gerçekleştirildi (04 Ekim 2025)"/></a></div>
-                    <div className="col-md-3 col-sm-12"><a href="/doc/ogrenci_egitim_8/04.png" target="_blank"><img className="calistay-img" src="/doc/ogrenci_egitim_8/04.png" alt="HEPDAK 2025 Yılı Öğrenci Değerlendirici Eğitimi gerçekleştirildi (04 Ekim 2025)"/></a></div>
-                    <div className="col-md-3 col-sm-12"><a href="/doc/ogrenci_egitim_8/05.png" target="_blank"><img className="calistay-img" src="/doc/ogrenci_egitim_8/05.png" alt="HEPDAK 2025 Yılı Öğrenci Değerlendirici Eğitimi gerçekleştirildi (04 Ekim 2025)"/></a></div>
-                    <div className="col-md-3 col-sm-12"><a href="/doc/ogrenci_egitim_8/06.jpeg" target="_blank"><img className="calistay-img" src="/doc/ogrenci_egitim_8/06.jpeg" alt="HEPDAK 2025 Yılı Öğrenci Değerlendirici Eğitimi gerçekleştirildi (04 Ekim 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="../doc/ogrenci_egitim_8/01.png" target="_blank"><img className="calistay-img" src="../doc/ogrenci_egitim_8/01.png" alt="HEPDAK 2025 Yılı Öğrenci Değerlendirici Eğitimi gerçekleştirildi (04 Ekim 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="../doc/ogrenci_egitim_8/02.png" target="_blank"><img className="calistay-img" src="../doc/ogrenci_egitim_8/02.png" alt="HEPDAK 2025 Yılı Öğrenci Değerlendirici Eğitimi gerçekleştirildi (04 Ekim 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="../doc/ogrenci_egitim_8/03.png" target="_blank"><img className="calistay-img" src="../doc/ogrenci_egitim_8/03.png" alt="HEPDAK 2025 Yılı Öğrenci Değerlendirici Eğitimi gerçekleştirildi (04 Ekim 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="../doc/ogrenci_egitim_8/04.png" target="_blank"><img className="calistay-img" src="../doc/ogrenci_egitim_8/04.png" alt="HEPDAK 2025 Yılı Öğrenci Değerlendirici Eğitimi gerçekleştirildi (04 Ekim 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="../doc/ogrenci_egitim_8/05.png" target="_blank"><img className="calistay-img" src="../doc/ogrenci_egitim_8/05.png" alt="HEPDAK 2025 Yılı Öğrenci Değerlendirici Eğitimi gerçekleştirildi (04 Ekim 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="../doc/ogrenci_egitim_8/06.jpeg" target="_blank"><img className="calistay-img" src="../doc/ogrenci_egitim_8/06.jpeg" alt="HEPDAK 2025 Yılı Öğrenci Değerlendirici Eğitimi gerçekleştirildi (04 Ekim 2025)"/></a></div>
                   </div>
                 </div> 
 
