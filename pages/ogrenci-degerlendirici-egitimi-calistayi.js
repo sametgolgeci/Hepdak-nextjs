@@ -44,7 +44,7 @@ const Calistay = () => (
 				<a href="/doc/ogrenci_egitim_8/belge_4.pdf">4. Rapor Yazımı Nasıl Olmalı</a><br/>
 			</p>
 		</div>
-		<div className="collapse" id="collapseSevenFoto">
+		<div className="collapse" id="collapseEightFoto">
 			<p><strong>- Fotoğraflar</strong></p>
 			<div className="container">
 				<div className="row">
