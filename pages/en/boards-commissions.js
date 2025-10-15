@@ -97,6 +97,7 @@ const Kurul = () => (
 	    	<span className="madde-span">• Prof. Dr. Özen Kulakaç (Chair), Ondokuz Mayıs University</span>
 	    	<span className="madde-span">• Ümran Yalçın (Secretary), HEPDAK Secretary</span>
 	    	<span className="madde-span">• Asst. Prof. Gürkan Özden, İnönü University</span>
+	    	<span className="madde-span">• Asst. Prof. Çiğdem Gamze Özkan, Manisa Celal Bayar University</span>
 	    	<span className="madde-span">• R. A. Selcan Zeynep Ergöz Aksoy, Izmir University of Economics</span>
 	    	<span className="madde-span">• R. A. Hilal Ersan Yaman, Hacettepe University</span>
 	    </div>
