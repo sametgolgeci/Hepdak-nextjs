@@ -13,6 +13,11 @@ const Kaynak = () => (
                 <tbody>
                   <tr>  
                     <td><Link
+                      href="doc/hepdak_sunumlari/Prof.Dr.GulserenKocaman-HEPDAKveHEAKDegerlendirmeleri-AkreditasyonHemsirelikEgitimindeFarkYaratiyorMu.pdf"
+                      target="_blank">- Prof. Dr. Gülseren Kocaman - HEPDAK ve HEAK Değerlendirmeleri - Akreditasyon Hemşirelik Eğitiminde Fark Yaratıyor Mu? (19 Eylül 2025)</Link></td>
+                  </tr>
+                  <tr>  
+                    <td><Link
                       href="doc/hepdak_sunumlari/Prof.Dr.DilekOzmen-ProgramlarinGozunden-AkreditasyonHemsirelikEgitimindeFarkYaratiyorMu.pdf"
                       target="_blank">- Prof. Dr. Dilek Özmen - Programların Gözünden - Akreditasyon Hemşirelik Eğitiminde Fark Yaratıyor Mu? (17-19 Eylül 2025)</Link></td>
                   </tr>
