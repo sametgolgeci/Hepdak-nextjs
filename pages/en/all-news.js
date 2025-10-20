@@ -20,6 +20,12 @@ const Tum = () => (
           </ul>
           <div className="tab-content">
             <div id="twentyfive" className="container tab-pane active">
+              <div className="main-top-second" id="141025">
+                <div className="main-top-second-title">Higher Education Quality Board (YÖKAK) Stakeholder Meeting (October 14, 2025)</div> 
+                <div className="main-top-second-content">
+                  <p>Academics from higher education institutions and representatives from national accreditation agencies attended the stakeholder meetings held by the Higher Education Quality Board (YÖKAK), chaired by YÖKAK President Prof. Dr. Ümit Kocabıçak. HEPDAK President Prof. Dr. Dilek Özmen, HEAK President Prof. Dr. Gülseren Kocaman, HEAK members Prof. Dr. Ümit Seviğ, and Assoc. Prof. Dr. Gülten Koç attended the meeting on behalf of HEPDAK. Program accreditation in higher education, expectations from national accreditation agencies, and accreditation processes were discussed at the meeting.</p>
+                </div>  
+              </div>
               <div className="main-top-second" id="041025">
                 <div className="main-top-second-title">HEPDAK 2025 Student Evaluator Training Held (October 4, 2025)</div> 
                 <div className="main-top-second-content">

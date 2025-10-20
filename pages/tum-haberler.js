@@ -36,6 +36,12 @@ const Tum = () => (
           <div className="tab-content">
             <div id="yirmibes" className="container tab-pane active">
               <div className="main-top-second">
+                <div className="main-top-second-title">Yükseköğretim Kalite Kurulu (YÖKAK) Paydaş Toplantısı (14 Ekim 2025)</div> 
+                <div className="main-top-second-content">
+                  <p>Yükseköğretim Kalite Kurulu (YÖKAK) tarafından YÖKAK Başkanı Prof. Dr. Ümit Kocabıçak başkanlığında gerçekleştirilen paydaş toplantılarına yükseköğretim kurumlarından akademisyenler ile ulusal akreditasyon kuruluşlarından temsilcileri katıldı. Toplantıya HEPDAK adına HEPDAK başkanı Prof. Dr. Dilek Özmen, HEAK başkanı Prof. Dr. Gülseren Kocaman, HEAK üyesi Prof. Dr. Ümit Seviğ ve Doç. Dr. Gülten Koç, katıldı. Toplantıda yükseköğretimde program akreditasyonu, ulusal akreditasyon kuruluşlarından beklentiler, ve akreditasyon süreçleri konuşuldu.</p>
+                </div> 
+              </div>
+              <div className="main-top-second">
                 <div className="main-top-second-title">HEPDAK 2025 Yılı Öğrenci Değerlendirici Eğitimi gerçekleştirildi (04 Ekim 2025)</div> 
                 <div className="main-top-second-content">
                   <p>HEPDAK 2025 yılı Öğrenci Değerlendirici Eğitimi çevrimiçi ortamda gerçekleştirilmiştir. 04 Ekim 2025’de yapılan yarım günlük eğitimde katılımcılara sunumlarla lisans programı akreditasyon süreci, HEPDAK rubrik değerlendirme süreci ve HEPDAK ziyaret süreci ve öğrenci değerlendiricilerin değerlendirme sürecine katılımı hakkında genel bilgi verilmiş, değerlendirme sürecinde davranışsal boyutun önemi vurgulanmıştır. Ardından soru hazırlama, uygulamalı görüşme ve vakalar üzerinden öğrenci değerlendirici rapor yazımı grup çalışmaları gerçekleştirilmiş ve büyük grupta tartışılmıştır. Programda son olarak daha önce değerlendirici olarak görev almış iki öğrenci değerlendirici- Cansel KIRIK ve Jale ATAK ile deneyim paylaşımı oturumu gerçekleştirilmiştir. Eğitimin değerlendirilmesiyle program sona ermiştir. Eğitime Türkiye’deki 22 farklı hemşirelik programından 49 öğrenci katılmıştır.</p>
