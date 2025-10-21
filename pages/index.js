@@ -177,7 +177,7 @@ const Anasayfa = () => (
           <Link href="/haberler/2025-10-14-haber" legacyBehavior>
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
-              <div className="date-day">04</div>
+              <div className="date-day">14</div>
               <div className="date-month">Ekim</div>
               <div className="date-year">2025</div>
             </div>
