@@ -20,6 +20,20 @@ const Tum = () => (
           </ul>
           <div className="tab-content">
             <div id="twentyfive" className="container tab-pane active">
+              <div className="main-top-second" id="171025">
+                <div className="main-top-second-title">STAR Accreditation Agency Conference (October 17, 2025)</div> 
+                <div className="main-top-second-content">
+                  <p>HEAK President Prof. Dr. Gülseren KOCAMAN attended the international conference titled "Revisiting the ESG for Improved Relevance and Clarity" organized by STAR on October 7, 2025. The conference, which provided comprehensive information on the current status and applicability of quality assurance standards in the European Higher Education Area, was held online.</p>
+                </div>
+                <div className="main-top-second-content">
+                  <div className="row">
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/star-akreditasyon/01.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/star-akreditasyon/01.png" alt="STAR Akreditasyon Ajansı Konferansı (17 Ekim 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/star-akreditasyon/02.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/star-akreditasyon/02.png" alt="STAR Akreditasyon Ajansı Konferansı (17 Ekim 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/star-akreditasyon/03.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/star-akreditasyon/03.png" alt="STAR Akreditasyon Ajansı Konferansı (17 Ekim 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/star-akreditasyon/04.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/star-akreditasyon/04.png" alt="STAR Akreditasyon Ajansı Konferansı (17 Ekim 2025)"/></a></div>
+                  </div>
+                </div>  
+              </div>
               <div className="main-top-second" id="141025">
                 <div className="main-top-second-title">Higher Education Quality Board (YÖKAK) Stakeholder Meeting (October 14, 2025)</div> 
                 <div className="main-top-second-content">
