@@ -17,7 +17,7 @@ const Uye = () => (
         <div className="jumbotron">
           <p><Link
             href="../doc/degerlendiriciler_listesi/ogrenci-degerlendirici-listesi.pdf"
-            target="_blank">HEPDAK Student Evaluator List</Link> - (Last Update - June 08, 2024)</p>
+            target="_blank">HEPDAK Student Evaluator List</Link> - (Last Update - October 04, 2024)</p>
         </div>
       </div>
     </MasterPage>

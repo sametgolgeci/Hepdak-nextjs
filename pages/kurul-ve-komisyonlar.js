@@ -11,10 +11,10 @@ const Kurul = () => (
 	    <h1>Kurullar</h1>
 	    	<h3 className="kurul-title">HEPDAK Yönetim Kurulu</h3>
 	    	<span className="madde-span">• Prof. Dr. Dilek Özmen (Başkan), Manisa Celal Bayar Üniversitesi</span>
-	    	<span className="madde-span">• Prof. Dr. Fatma Orgun (Başkan Yardımcısı), Ege Üniversitesi</span>
+	    	<span className="madde-span">• Prof. Dr. Özen Kulakaç (Başkan Yardımcısı), Ondokuz Mayıs Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Medine Yılmaz (Genel Sekreter), İzmir Katip Çelebi Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Gülsüm Nihal Çürük (Sayman), İzmir Ekonomi Üniversitesi</span>
-	    	<span className="madde-span">• Prof. Dr. Özen Kulakaç (Üye), Ondokuz Mayıs Üniversitesi</span>
+	    	<span className="madde-span">• Prof. Dr. Oya Kavlak (Üye), Ege Üniversitesi</span>
 	    	<span className="madde-span"><h6><Link href="/yonetim-kurullari">Önceki Dönemlerdeki Yönetim Kurulları</Link></h6></span>
 	    	
 	    	<h3 className="kurul-title">HEPDAK Denetleme Kurulu</h3>
