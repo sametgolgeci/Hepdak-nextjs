@@ -13,11 +13,15 @@ const Symposium = () => (
                 <tbody>
                   <tr>
                     <th scope="row" width="10px">-</th>
-                    <td><Link href="../doc/sempozyum_kongre_kitaplari/HEGK2023.pdf" target="_blank">1st International Congress on the Future of Nursing Education, Congress Book(in Turkish)</Link></td>
+                    <td><Link href="../doc/sempozyum_kongre_kitaplari/HEGK2025.pdf" target="_blank">2st International Congress on the Future of Nursing Education, Congress Book (September 17-19, 2025)(in Turkish)</Link></td>
                   </tr>
                   <tr>
                     <th scope="row" width="10px">-</th>
-                    <td><Link href="../doc/sempozyum_kongre_kitaplari/HEGS2019.pdf" target="_blank">Symposium on the Future of Nursing Education 2, Symposium Book(in Turkish)</Link></td>
+                    <td><Link href="../doc/sempozyum_kongre_kitaplari/HEGK2023.pdf" target="_blank">1st International Congress on the Future of Nursing Education, Congress Book (September 20-22, 2023)(in Turkish)</Link></td>
+                  </tr>
+                  <tr>
+                    <th scope="row" width="10px">-</th>
+                    <td><Link href="../doc/sempozyum_kongre_kitaplari/HEGS2019.pdf" target="_blank">Symposium on the Future of Nursing Education 2, Symposium Book (September 04-06, 2019)(in Turkish)</Link></td>
                   </tr>
                   <tr>
                     <th scope="row" width="10px">-</th>

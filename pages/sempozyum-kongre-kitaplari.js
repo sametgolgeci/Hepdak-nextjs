@@ -13,11 +13,15 @@ const Kaynak = () => (
                 <tbody>
                   <tr>
                     <th scope="row" width="10px">-</th>
-                    <td><Link href="doc/sempozyum_kongre_kitaplari/HEGK2023.pdf" target="_blank">1.Uluslararası Hemşirelik Eğitiminin Geleceği Kongresi Kitabı</Link></td>
+                    <td><Link href="doc/sempozyum_kongre_kitaplari/HEGK2025.pdf" target="_blank">2.Uluslararası Hemşirelik Eğitiminin Geleceği Kongresi Kitabı (17-19 Eylül 2025)</Link></td>
                   </tr>
                   <tr>
                     <th scope="row" width="10px">-</th>
-                    <td><Link href="doc/sempozyum_kongre_kitaplari/HEGS2019.pdf" target="_blank">Hemşirelik Eğitiminin Geleceği Sempozyumu 2, Sempozyum Kitabı</Link></td>
+                    <td><Link href="doc/sempozyum_kongre_kitaplari/HEGK2023.pdf" target="_blank">1.Uluslararası Hemşirelik Eğitiminin Geleceği Kongresi Kitabı (20-22 Eylül 2023)</Link></td>
+                  </tr>
+                  <tr>
+                    <th scope="row" width="10px">-</th>
+                    <td><Link href="doc/sempozyum_kongre_kitaplari/HEGS2019.pdf" target="_blank">Hemşirelik Eğitiminin Geleceği Sempozyumu 2, Sempozyum Kitabı (04-06 Eylül 2019)</Link></td>
                   </tr>
                   <tr>
                     <th scope="row" width="10px">-</th>
