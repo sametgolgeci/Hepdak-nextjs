@@ -18,9 +18,9 @@ const Kurul = () => (
 	    	<span className="madde-span"><h6><Link href="/yonetim-kurullari">Önceki Dönemlerdeki Yönetim Kurulları</Link></h6></span>
 	    	
 	    	<h3 className="kurul-title">HEPDAK Denetleme Kurulu</h3>
-	    	<span className="madde-span">• Prof. Dr. Hatice Yıldırım Sarı (Başkan), İzmir Katip Çelebi Üniversitesi</span>
-	    	<span className="madde-span">• Prof. Dr. Gülseren Kocaman, Emekli Öğretim Üyesi</span>
-	    	<span className="madde-span">• Uzm. Hem. Dr. Serap İleri, Dokuz Eylül Üniversitesi Hastanesi</span>
+	    	<span className="madde-span">• Prof. Dr. Gülseren Kocaman (Başkan), Emekli Öğretim Üyesi</span>
+	    	<span className="madde-span">• Prof. Dr. Hatice Mert, Dokuz Eylül Üniversitesi</span>
+	    	<span className="madde-span">• Prof. Dr. Fatma Orgun, Ege Üniversitesi</span>
 	    	
 	    	<h3 className="kurul-title">Hemşirelik Eğitim Programları Akreditasyon Kurulu (HEAK)</h3>
 	    	<span className="madde-span">• Prof. Dr. Gülseren Kocaman (Başkan), Emekli Öğretim Üyesi</span>

@@ -17,9 +17,9 @@ const Kurul = () => (
 	    	<span className="madde-span">• Prof. Dr. Özen Kulakaç (Member), Ondokuz Mayıs University</span>
 
 	    	<h3 className="kurul-title">Auditing Board</h3>
-	    	<span className="madde-span">• Prof. Dr. Hatice Yıldırım Sarı (Chair), İzmir Katip Çelebi University</span>
-	    	<span className="madde-span">• Prof. Dr. Gülseren Kocaman, Emekli Öğretim Üyesi</span>
-	    	<span className="madde-span">• Uzm. Hem. Dr. Serap İleri, Dokuz Eylül Üniversitesi Hastanesi</span>
+	    	<span className="madde-span">• Prof. Dr. Gülseren Kocaman (Chair), Retired Faculty Member</span>
+	    	<span className="madde-span">• Prof. Dr. Hatice Mert, Dokuz Eylül University</span>
+	    	<span className="madde-span">• Prof. Dr. Fatma Orgun, Ege University</span>
 	    	
 	    	<h3 className="kurul-title">Nursing Education Programs Accreditation Board (HEAK)</h3>
 	    	<span className="madde-span">• Prof. Dr. Gülseren Kocaman (Chair), Retired Faculty Member</span>
