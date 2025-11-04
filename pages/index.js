@@ -52,6 +52,9 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
+                  <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2025-hemsis.jpeg"/></div>
+                </div>
+                <div className="carousel-item">
                   <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2025-29Ekim.jpeg"/></div>
                 </div>
                 <div className="carousel-item">
@@ -150,7 +153,7 @@ const Anasayfa = () => (
 
     <div className="main-fast-akredite">
       <div className="fast-akredite-button col-md-4">
-        <Link href="/doc/b1-basvuru-2024-2025.pdf"><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faCheck}/>Akreditasyon Başvurusu</button></Link>
+        <Link href="/doc/b1.pdf"><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faCheck}/>Akreditasyon Başvurusu</button></Link>
       </div>
       <div className="fast-akredite-button col-md-4">
         <Link href="/akreditasyon-sureci"><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faHourglassStart}/>Akreditasyon Süreci</button></Link>

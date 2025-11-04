@@ -47,8 +47,11 @@ const Anasayfa = () => (
         <div className="tab-pane active" id="son">
           <div className="main-top-one">
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
-              <div className="carousel-inner">  
+              <div className="carousel-inner">
                 <div className="carousel-item active">
+                  <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/en/2025-hemsis.jpeg"/></div>
+                </div>  
+                <div className="carousel-item">
                   <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/en/2025-29October.jpeg"/></div>
                 </div>
                 <div className="carousel-item">

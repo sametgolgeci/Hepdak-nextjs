@@ -100,7 +100,7 @@ const Belgeler = () => (
               <tbody>
                 <tr>
                   <th scope="row" width="10px">1</th>
-                  <td><p>HEPDAK Program Değerlendirme Başvuru Formu <Link href="doc/b1-basvuru-2024-2025.pdf">PDF</Link></p></td>
+                  <td><p>HEPDAK Program Değerlendirme Başvuru Formu <Link href="doc/b1.pdf">PDF</Link></p></td>
                 </tr>
                 <tr>
                   <th scope="row">2</th>
