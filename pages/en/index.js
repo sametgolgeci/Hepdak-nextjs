@@ -49,6 +49,9 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
+                  <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/en/2025-10November.jpeg"/></div>
+                </div> 
+                <div className="carousel-item">
                   <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/en/2025-hemsis.jpeg"/></div>
                 </div>  
                 <div className="carousel-item">
