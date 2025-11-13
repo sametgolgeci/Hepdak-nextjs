@@ -14,7 +14,7 @@ const Webinar = () => (
           <h4>- Yaklaşan Webinarlar -</h4>
           <div className="row justify-content-center">
             <div className="col-md-6">
-              <a target="_blank" href="https://us02web.zoom.us/meeting/register/U_t9EmI1T4St1MElYh1SCg"><img className="webinar-afis" src="img/webinar/webinar-15.jpeg"></img></a>
+              <a target="_blank" href="https://us02web.zoom.us/meeting/register/U_t9EmI1T4St1MElYh1SCg"><img className="webinar-afis" src="../img/webinar/webinar-15.jpeg"></img></a>
             </div>
           </div>
         
