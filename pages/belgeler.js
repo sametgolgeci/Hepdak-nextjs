@@ -195,7 +195,11 @@ const Belgeler = () => (
                 </tr>
                 <tr>
                   <th scope="row">4</th>
-                  <td>Öğrenci Değerlendirici Yerinde Ziyaret Takvimi <strong>Sürüm 1.0</strong> (<Link href="doc/d7_v1.pdf">PDF</Link> | <Link href="doc/d7_v1.docx">Word</Link>)</td>
+                  <td>Öğrenci Değerlendirici Yerinde Ziyaret Takvimi - <strong>Sürüm 2.0</strong> (<Link href="doc/d7_v2.pdf">PDF</Link> | <Link href="doc/d7_v2.docx">Word</Link>) - <a data-toggle="collapse" href="#d07" role="button" aria-expanded="false" aria-controls="d07">↓</a>
+                    <div className="collapse" id="d07">
+                      <p>- <strong>Sürüm 1.0</strong> (<Link href="doc/d7_v1.pdf">PDF</Link> | <Link href="doc/d7_v1.docx">Word</Link>)</p>
+                    </div>
+                  </td>
                 </tr>
               </tbody>
             </table>
