@@ -20,6 +20,23 @@ const Tum = () => (
           </ul>
           <div className="tab-content">
             <div id="twentyfive" className="container tab-pane active">
+              <div className="main-top-second" id="06071125">
+                <div className="main-top-second-title">HEPDAK 13th Institutional Training Workshop (November 06-07, 2025)</div> 
+                <div className="main-top-second-content">
+                  <p>The 13th HEPDAK Institutional Training Workshop was held online over two full days on November 06-07, 2025. Eighty-nine faculty members from 46 different institutions participated in the training which was conducted through group work. The focus of group works was on continuous improvement on the first day of the training, and basic standards on the second day. At the meeting, Prof. Dr. Ükke KARABACAK from Acıbadem University's Faculty of Health Sciences, and Assoc. Prof. Dr. Gülten OKUROĞLU from Marmara University's Faculty of Health Sciences, Department of Nursing, shared their experiences regarding the accreditation process. The meeting concluded with a general discussion.</p>
+                </div>
+                <div className="main-top-second-content">
+                  <div className="row">
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/kurum-egitim/01.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/kurum-egitim/01.png" alt="HEPDAK 13. Kurumlar için Eğitim Çalıştayı (06-07 Kasım 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/kurum-egitim/02.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/kurum-egitim/02.png" alt="HEPDAK 13. Kurumlar için Eğitim Çalıştayı (06-07 Kasım 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/kurum-egitim/03.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/kurum-egitim/03.png" alt="HEPDAK 13. Kurumlar için Eğitim Çalıştayı (06-07 Kasım 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/kurum-egitim/04.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/kurum-egitim/04.png" alt="HEPDAK 13. Kurumlar için Eğitim Çalıştayı (06-07 Kasım 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/kurum-egitim/05.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/kurum-egitim/05.png" alt="HEPDAK 13. Kurumlar için Eğitim Çalıştayı (06-07 Kasım 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/kurum-egitim/06.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/kurum-egitim/06.png" alt="HEPDAK 13. Kurumlar için Eğitim Çalıştayı (06-07 Kasım 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/kurum-egitim/07.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/kurum-egitim/07.png" alt="HEPDAK 13. Kurumlar için Eğitim Çalıştayı (06-07 Kasım 2025)"/></a></div>
+                  </div>
+                </div>  
+              </div>
               <div className="main-top-second" id="171025">
                 <div className="main-top-second-title">STAR Accreditation Agency Conference (October 17, 2025)</div> 
                 <div className="main-top-second-content">
