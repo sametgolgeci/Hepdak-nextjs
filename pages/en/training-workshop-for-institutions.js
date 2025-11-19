@@ -18,8 +18,37 @@ const Uye = () => (
           <p className="madde-p">• Evaluation process; Accreditation preparations of faculties and departments</p>
           <p className="madde-p">• Self-assessment reports</p>
           <p className="madde-p">• Institutional visits by evaluation teams</p>
+          {/*   2025 Kurumlar Eğitim Çalıştayı    */}
+          <h6><span className="badge badge-custom">-</span> November 06 - 07, 2024</h6>
+          <p>
+            <ul className="nav calistay-nav">
+              <li className="nav-item">
+                <a className="nav-link calistay-button" href="../doc/kurumlar_egitim_13/en-program.pdf">Program</a>
+              </li>
+              <li className="nav-item">
+                <a className="nav-link calistay-button" href="../doc/kurumlar_egitim_13/en-participant-list.pdf">Participant List</a>
+              </li>
+              <li className="nav-item">
+                <a className="nav-link calistay-button" data-toggle="collapse" href="#collapseExamplePhoto13" role="button" aria-expanded="false" aria-controls="collapseExamplePhoto13">Photos</a>
+              </li>
+              <li className="nav-item">
+                <a className="nav-link calistay-button" href="../doc/kurumlar_egitim_13/en-evaluation.pdf">Evaluation (in Turkish)</a>
+              </li>
+            </ul>
+          </p>
+          <div className="collapse" id="collapseExamplePhoto13">
+            <p><strong>- Photos</strong></p>
+            <div className="container">
+              <div className="row">
+                <div className="col-md-3 col-sm-12"><a href="../doc/kurumlar_egitim_13/photo_01.png" target="_blank"><img className="calistay-img" src="../doc/kurumlar_egitim_13/photo_01.png" alt="Kurumlar için Eğitim Çalıştayı 13"/></a></div>
+                <div className="col-md-3 col-sm-12"><a href="../doc/kurumlar_egitim_13/photo_02.png" target="_blank"><img className="calistay-img" src="../doc/kurumlar_egitim_13/photo_02.png" alt="Kurumlar için Eğitim Çalıştayı 13"/></a></div>
+                <div className="col-md-3 col-sm-12"><a href="../doc/kurumlar_egitim_13/photo_03.png" target="_blank"><img className="calistay-img" src="../doc/kurumlar_egitim_13/photo_03.png" alt="Kurumlar için Eğitim Çalıştayı 13"/></a></div>
+                <div className="col-md-3 col-sm-12"><a href="../doc/kurumlar_egitim_13/photo_04.png" target="_blank"><img className="calistay-img" src="../doc/kurumlar_egitim_13/photo_04.png" alt="Kurumlar için Eğitim Çalıştayı 13"/></a></div>  
+              </div>
+            </div>
+          </div>
           {/*   2024 Kurumlar Eğitim Çalıştayı    */}
-          <h6><span className="badge badge-custom">-</span> 19 - 20 September 2024</h6>
+          <h6><span className="badge badge-custom">-</span> September 19 - 20, 2024</h6>
           <p>
             <ul className="nav calistay-nav">
               <li className="nav-item">

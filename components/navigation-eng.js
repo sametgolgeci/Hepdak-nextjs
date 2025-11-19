@@ -15,10 +15,7 @@ const Navigation = () => (
 						<Link href="/en/strategic-plan" className="dropdown-item">Strategic Plan</Link>
 						<Link href="/en/objective-activities" className="dropdown-item">Objective and Activities</Link>
 						<Link href="/en/quality-policy" className="dropdown-item">Quality Policy</Link>
-						<Link
-                            href="../doc/en/hepdak-organizational-structure.pdf"
-                            className="dropdown-item"
-                            target="_blank">HEPDAK Organizational Structure</Link>
+						<Link href="../doc/en/hepdak-organizational-structure.pdf" className="dropdown-item" target="_blank">HEPDAK Organizational Structure</Link>
 						<Link href="/en/boards-commissions" className="dropdown-item">Boards and Commissions</Link>
 						<Link href="/en/member-list" className="dropdown-item">Member List</Link>
 						<Link href="/en/evaluator-list" className="dropdown-item">Evaluator List</Link>
@@ -40,7 +37,7 @@ const Navigation = () => (
 					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">WORKSHOPS</a>
 					<div className="dropdown-menu">
 						<Link href="/en/training-workshop-for-institutions" className="dropdown-item">Training Workshop for Institutions</Link>
-						<Link href="en/evaluator-training-workshop" className="dropdown-item">Evaluator Training Workshop</Link>
+						<Link href="/en/evaluator-training-workshop" className="dropdown-item">Evaluator Training Workshop</Link>
 						<Link href="../doc/en/student-evaluator-training-workshop.pdf" className="dropdown-item">Student Evaluator Training Workshop</Link>
 					</div>
 				</li>
