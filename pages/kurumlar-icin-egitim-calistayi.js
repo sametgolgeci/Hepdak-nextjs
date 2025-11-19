@@ -18,14 +18,13 @@ const Calistay = () => (
 		<p className="madde-p">• Değerlendirme süreci; Fakülte ve Bölümlerin akreditasyon hazırlıkları</p>
 		<p className="madde-p">• Özdeğerlendirme raporları</p>
 		<p className="madde-p">• Değerlendirme takımlarınca yapılan kurum ziyaretleri</p>
+		{/* 2025 */}
 		<h6><span className="badge badge-custom">13</span> 06 - 07 Kasım 2025</h6>
 		<p>
 			<ul className="nav calistay-nav">
-				{/*
 			  <li className="nav-item">
 			    <a className="nav-link calistay-button" href="doc/kurumlar_egitim_13/program.pdf">Program</a>
 			  </li>
-			  */}
 			  <li className="nav-item">
 			    <a className="nav-link calistay-button" href="doc/kurumlar_egitim_13/katilimci-listesi.pdf">Katılımcı Listesi</a>
 			  </li>
