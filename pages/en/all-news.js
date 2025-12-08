@@ -20,6 +20,22 @@ const Tum = () => (
           </ul>
           <div className="tab-content">
             <div id="twentyfive" className="container tab-pane active">
+              <div className="main-top-second" id="03125">
+                <div className="main-top-second-title">Webinar: Social Determinants of Health and Nursing Education(December 03, 2025)</div> 
+                <div className="main-top-second-content">
+                  <p>In the XVth webinar held in cooperation with HEPDAK-HEMED on 03 December 2025, the subject of “Social determinants of health and Nursing Education” was discussed. The webinar was moderated by Prof. Dr. Ayla BAYIK TEMEL, and the speaker was Prof. Dr. Aynur UYSAL TORAMAN from Ege University Faculty of Nursing. A total of 208 faculty members from various universities across Türkiye attended the meeting. The webinar concluded with a Q&A session and well wishes from the participants.</p>
+                </div>
+                <div className="webinar-bottom">
+                  <iframe width="560" height="315" src="https://www.youtube.com/embed/K1ZRvSCj-SM?si=KfXB8hq2K-3nwad1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+                <div className="main-top-second-content">
+                  <div className="row">
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/webinar-15/01.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/webinar-15/01.png" alt="Webinar: Sağlığın Sosyal Belirleyicileri ve Hemşirelik Eğitimi (03 Aralık 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/webinar-15/02.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/webinar-15/02.png" alt="Webinar: Sağlığın Sosyal Belirleyicileri ve Hemşirelik Eğitimi (03 Aralık 2025)"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/webinar-15/03.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/webinar-15/03.png" alt="Webinar: Sağlığın Sosyal Belirleyicileri ve Hemşirelik Eğitimi (03 Aralık 2025)"/></a></div>
+                  </div>
+                </div>  
+              </div>
               <div className="main-top-second" id="06071125">
                 <div className="main-top-second-title">HEPDAK 13th Institutional Training Workshop (November 06-07, 2025)</div> 
                 <div className="main-top-second-content">

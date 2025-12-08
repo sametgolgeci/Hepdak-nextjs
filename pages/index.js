@@ -177,6 +177,17 @@ const Anasayfa = () => (
             <div className="block-title-all"><a href="/tum-haberler">Tüm Haberler</a></div>
           </div>
          
+          <Link href="/haberler/2025-12-03-haber" legacyBehavior>
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">03</div>
+              <div className="date-month">Aralık</div>
+              <div className="date-year">2025</div>
+            </div>
+            <div className="block-subtitle-text">Webinar: Sağlığın Sosyal Belirleyicileri ve Hemşirelik Eğitimi</div>
+          </div>
+          </Link>
+
           <Link href="/haberler/2025-11-06-07-haber" legacyBehavior>
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
@@ -320,94 +331,6 @@ const Anasayfa = () => (
           </div>
           </Link>
 
-          <Link href="/haberler/2024-12-26-haber" legacyBehavior>
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">26</div>
-              <div className="date-month">Aralık</div>
-              <div className="date-year">2024</div>
-            </div>
-            <div className="block-subtitle-text">Webinar: Hemşirelikte değer temelli eğitim nasıl olmalı?</div>
-          </div>
-          </Link>
-
-          <Link href="/haberler/2024-12-18-haber" legacyBehavior>
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">18</div>
-              <div className="date-month">Aralık</div>
-              <div className="date-year">2024</div>
-            </div>
-            <div className="block-subtitle-text">Webinar: Yönetici Hemşireler Mezunlarımızın Yetkinliklerini Nasıl Değerlendiriyor?</div>
-          </div>
-          </Link>
-
-          <Link href="/haberler/2024-11-26-haber" legacyBehavior>
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">26</div>
-              <div className="date-month">Kasım</div>
-              <div className="date-year">2024</div>
-            </div>
-            <div className="block-subtitle-text">Hemşirelik Programlarında Uygulamalı Eğitim Çalıştayı</div>
-          </div>
-          </Link>
-
-          <Link href="/haberler/2024-10-12-haber" legacyBehavior>
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">12</div>
-              <div className="date-month">Ekim</div>
-              <div className="date-year">2024</div>
-            </div>
-            <div className="block-subtitle-text">Hemşirelik Lisans Programı Yöneticileri Toplantısı - 4</div>
-          </div>
-          </Link>
-
-          <Link href="/haberler/2024-10-03-haber" legacyBehavior>
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">03</div>
-              <div className="date-month">Ekim</div>
-              <div className="date-year">2024</div>
-            </div>
-            <div className="block-subtitle-text">Webinar: 21. Yüzyıl Yetkinliklerine Erişimde Köprü: Program Dışı Öğrenme</div>
-          </div>
-          </Link>
-
-          <Link href="/haberler/2024-09-19-20-haber" legacyBehavior>
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">19-20</div>
-              <div className="date-month">Eylül</div>
-              <div className="date-year">2024</div>
-            </div>
-            <div className="block-subtitle-text">HEPDAK 12. Kurumlar için Eğitim Çalıştayı</div>
-          </div>
-          </Link>
-
-          <Link href="/haberler/2024-06-10-haber" legacyBehavior>
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">10</div>
-              <div className="date-month">Haziran</div>
-              <div className="date-year">2024</div>
-            </div>
-            <div className="block-subtitle-text">YÖKAK tarafından düzenlenen izleme ziyareti gerçekleştirildi</div>
-          </div>
-          </Link>
-
-          <Link href="/haberler/2024-06-08-haber" legacyBehavior>
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">08</div>
-              <div className="date-month">Haziran</div>
-              <div className="date-year">2024</div>
-            </div>
-            <div className="block-subtitle-text">HEPDAK 2024 Yılı Öğrenci Değerlendirici Eğitimi</div>
-          </div>
-          </Link>
-          
         </div>
       </div>
       <div className="main-new-block col-md-4 col-sm-12">
