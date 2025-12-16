@@ -20,6 +20,17 @@ const Tum = () => (
           </ul>
           <div className="tab-content">
             <div id="twentyfive" className="container tab-pane active">
+              <div className="main-top-second" id="121225">
+                <div className="main-top-second-title">Nursing Faculties Deans Council (HEMDEK) Meeting (December 12, 2025)</div> 
+                <div className="main-top-second-content">
+                  <p>The Chair of HEPDAK, Prof. Dr. Dilek ÖZMEN, attended the Nursing Faculties Deans Council (HEMDEK) Meeting held on 12 December 2025. At the meeting hosted by Gazi University, problems and suggestions regarding accreditation processes were also discussed.</p>
+                </div>
+                <div className="main-top-second-content">
+                  <div className="row">
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/hemdek/01.jpeg" target="_blank"><img className="calistay-img" src="/img/haberler/2025/hemdek/01.jpeg" alt="HEMDEK Genel Kurul Toplantısı"/></a></div>
+                  </div>
+                </div>  
+              </div>
               <div className="main-top-second" id="03125">
                 <div className="main-top-second-title">Webinar: Social Determinants of Health and Nursing Education(December 03, 2025)</div> 
                 <div className="main-top-second-content">
@@ -35,6 +46,19 @@ const Tum = () => (
                     <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/webinar-15/03.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/webinar-15/03.png" alt="Webinar: Sağlığın Sosyal Belirleyicileri ve Hemşirelik Eğitimi (03 Aralık 2025)"/></a></div>
                   </div>
                 </div>  
+              </div>
+              <div className="main-top-second" id="28291125">
+                <div className="main-top-second-title">SABDEK General Assembly Meeting (November 28-29, 2025)</div> 
+                <div className="main-top-second-content">
+                  <p>HEPDAK Chair Prof. Dr. Dilek ÖZMEN attended the 18th SABDEK General Assembly Meeting, hosted by Eastern Mediterranean University in the Turkish Republic of Northern Cyprus, on November 28-29, 2025. At the meeting, which was attended by the presidents of SABAK and EPDAK, as well as 140 Deans, Vice Deans, and Department Heads, HEPDAK President Dr. ÖZMEN delivered a presentation titled “Designing Quality, Building the Future — Together”.</p>
+                </div>
+                <div className="main-top-second-content">
+                  <div className="row">
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/sabdek/01.jpeg" target="_blank"><img className="calistay-img" src="/img/haberler/2025/sabdek/01.jpeg" alt="SABDEK Genel Kurul Toplantısı"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/sabdek/02.jpeg" target="_blank"><img className="calistay-img" src="/img/haberler/2025/sabdek/02.jpeg" alt="SABDEK Genel Kurul Toplantısı"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/sabdek/03.jpeg" target="_blank"><img className="calistay-img" src="/img/haberler/2025/sabdek/03.jpeg" alt="SABDEK Genel Kurul Toplantısı"/></a></div>
+                  </div>
+                </div>   
               </div>
               <div className="main-top-second" id="06071125">
                 <div className="main-top-second-title">HEPDAK 13th Institutional Training Workshop (November 06-07, 2025)</div> 

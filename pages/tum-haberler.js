@@ -36,6 +36,17 @@ const Tum = () => (
           <div className="tab-content">
             <div id="yirmibes" className="container tab-pane active">
               <div className="main-top-second">
+                <div className="main-top-second-title">Hemşirelik Fakülteleri Dekanlar Konseyi (HEMDEK) Toplantısı (12 Aralık 2025)</div> 
+                <div className="main-top-second-content">
+                  <p>HEPDAK başkanı Prof. Dr. Dilek ÖZMEN 12 Aralık 2025 tarihinde gerçekleştirilen Hemşirelik Fakülteleri Dekanlar Konseyi (HEMDEK) Toplantısına katıldı. Gazi Üniversitesi ev sahipliğinde gerçekleştirilen toplantıda akreditasyon süreçleri ile ilgili sorun ve öneriler de görüşüldü.</p>
+                </div>
+                <div className="main-top-second-content">
+                  <div className="row">
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/hemdek/01.jpeg" target="_blank"><img className="calistay-img" src="/img/haberler/2025/hemdek/01.jpeg" alt="HEMDEK Genel Kurul Toplantısı"/></a></div>
+                  </div>
+                </div>  
+              </div>
+              <div className="main-top-second">
                 <div className="main-top-second-title">Webinar: Sağlığın Sosyal Belirleyicileri ve Hemşirelik Eğitimi (03 Aralık 2025)</div> 
                 <div className="main-top-second-content">
                   <p>03 Aralık 2025 tarihinde HEPDAK-HEMED işbirliğiyle gerçekleştirilen XV’ci webinarda, “Sağlığın sosyal belirleyicileri ve Hemşirelik Eğitimi konusu ele alınmıştır. Moderatörlüğünü Prof. Dr. Ayla BAYIK TEMEL’in yaptığı Webinarın konuşmacısı Ege Üniversitesi Hemşirelik Fakültesinden Prof. Dr. Aynur UYSAL TORAMAN olmuştur. Toplantıya Türkiye'nin farklı üniversitelerinden 208 öğretim elemanı katılmıştır. Webinar sorularının yanıtlanması ve katılımcıların iyi dilekleriyle sona ermiştir.</p>
@@ -48,6 +59,19 @@ const Tum = () => (
                     <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/webinar-15/01.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/webinar-15/01.png" alt="Webinar: Sağlığın Sosyal Belirleyicileri ve Hemşirelik Eğitimi (03 Aralık 2025)"/></a></div>
                     <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/webinar-15/02.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/webinar-15/02.png" alt="Webinar: Sağlığın Sosyal Belirleyicileri ve Hemşirelik Eğitimi (03 Aralık 2025)"/></a></div>
                     <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/webinar-15/03.png" target="_blank"><img className="calistay-img" src="/img/haberler/2025/webinar-15/03.png" alt="Webinar: Sağlığın Sosyal Belirleyicileri ve Hemşirelik Eğitimi (03 Aralık 2025)"/></a></div>
+                  </div>
+                </div>  
+              </div>
+              <div className="main-top-second">
+                <div className="main-top-second-title">SABDEK Genel Kurul Toplantısı (28-29 Kasım 2025)</div> 
+                <div className="main-top-second-content">
+                  <p>HEPDAK başkanı Prof. Dr. Dilek ÖZMEN 28-29 Kasım 2025 tarihleri arasında gerçekleştirilen Doğu Akdeniz Üniversitesi ev sahipliğinde KKTC’de gerçekleşen 18. SABDEK Genel Kurul Toplantısına katıldı. SABAK ve EPDAK başkanlarının yanı sıra 140 Dekan, Dekan vekili ve Bölüm Başkanının katıldığı toplantıda HEPDAK başkanı Dr. ÖZMEN “ Kaliteyi Birlikte Tasarlamak, Geleceği Birlikte Kurmak” başlıklı sunumunu gerçekleştirdi.</p>
+                </div>
+                <div className="main-top-second-content">
+                  <div className="row">
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/sabdek/01.jpeg" target="_blank"><img className="calistay-img" src="/img/haberler/2025/sabdek/01.jpeg" alt="SABDEK Genel Kurul Toplantısı"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/sabdek/02.jpeg" target="_blank"><img className="calistay-img" src="/img/haberler/2025/sabdek/02.jpeg" alt="SABDEK Genel Kurul Toplantısı"/></a></div>
+                    <div className="col-md-4 col-sm-12"><a href="/img/haberler/2025/sabdek/03.jpeg" target="_blank"><img className="calistay-img" src="/img/haberler/2025/sabdek/03.jpeg" alt="SABDEK Genel Kurul Toplantısı"/></a></div>
                   </div>
                 </div>  
               </div>

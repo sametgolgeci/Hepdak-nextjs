@@ -172,6 +172,17 @@ const Anasayfa = () => (
             <div className="block-title-all"><a href="/tum-haberler">Tüm Haberler</a></div>
           </div>
          
+          <Link href="/haberler/2025-12-12-haber" legacyBehavior>
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">12</div>
+              <div className="date-month">Aralık</div>
+              <div className="date-year">2025</div>
+            </div>
+            <div className="block-subtitle-text">HEMDEK Toplantısı</div>
+          </div>
+          </Link>
+
           <Link href="/haberler/2025-12-03-haber" legacyBehavior>
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
@@ -180,6 +191,17 @@ const Anasayfa = () => (
               <div className="date-year">2025</div>
             </div>
             <div className="block-subtitle-text">Webinar: Sağlığın Sosyal Belirleyicileri ve Hemşirelik Eğitimi</div>
+          </div>
+          </Link>
+
+          <Link href="/haberler/2025-11-28-29-haber" legacyBehavior>
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">28-29</div>
+              <div className="date-month">Kasım</div>
+              <div className="date-year">2025</div>
+            </div>
+            <div className="block-subtitle-text">SABDEK Genel Kurul Toplantısı</div>
           </div>
           </Link>
 
