@@ -1,4 +1,4 @@
-body {
+fbody {
   font-family: Raleway,"PT Sans",'Roboto',Arial,Helvetica, sans-serif !important;
   font-size: 1rem !important;
 	position: relative;
@@ -916,6 +916,11 @@ table{
 	flex-wrap: wrap;
 	flex-direction: row;
 	justify-content: center;
+}
+@media (min-width: 1400px){
+	.main-new{
+		padding: 0 9%;
+	}
 }
 
 .main-new-block{

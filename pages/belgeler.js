@@ -178,7 +178,7 @@ const Belgeler = () => (
               <tbody>
                 <tr>
                   <th scope="row" width="10px">1</th>
-                  <td>HEPDAK Öğrenci Değerlendirici Kılavuzu <Link href="doc/b19_v6.pdf">Sürüm 6.0</Link></td>
+                  <td>HEPDAK Öğrenci Değerlendirici Kılavuzu <strong>Sürüm 6.0</strong> (<Link href="doc/b12_v6.pdf">PDF</Link> | <Link href="doc/b12_v6.docx">Word</Link>)</td>
                 </tr>
                 <tr>
                   <th scope="row">2</th>

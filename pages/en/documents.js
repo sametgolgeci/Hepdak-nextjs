@@ -101,9 +101,11 @@ const Belgeler = () => (
               <tbody>
                 <tr>
                   <th scope="row" width="10px">1</th>
-                  <td><Link
-                    href="../doc/en/doc-student-interim-evaluation-process.pdf"
-                    target="_blank">Student Evaluator in the General Interim Evaluation Process (Version 1.0)</Link></td>
+                  <td><Link href="../doc/en/doc-student-interim-evaluation-process.pdf" target="_blank">Student Evaluator in the General Interim Evaluation Process (Version 1.0)</Link></td>
+                </tr>
+                <tr>
+                  <th scope="row" width="10px">2</th>
+                  <td><Link href="../doc/en/doc-student-evaluation-report.pdf" target="_blank">Student Evaluation Report (Version 6.0)</Link></td>
                 </tr>
               </tbody>
             </table>
