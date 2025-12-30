@@ -52,6 +52,14 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
+                  <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2026/yilbasi.jpeg"/></div>
+                </div>
+                <div className="carousel-item">
+                  <Link href="/doc/takvim/2026-egitim-takvim.pdf" target="_blank">
+                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2026/egitim-takvim.jpeg"/></div>
+                  </Link>
+                </div>
+                <div className="carousel-item">
                   <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2025-uyari.jpeg"/></div>
                 </div>
                 <div className="carousel-item">
@@ -371,6 +379,17 @@ const Anasayfa = () => (
           </div>
           </Link>
           */}
+
+          <Link href="/doc/takvim/2026-egitim-takvim.pdf" legacyBehavior>
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day"></div>
+              <div className="date-month">26'</div>
+              <div className="date-year">Takvim</div>
+            </div>
+            <div className="block-subtitle-text">HEPDAK 2026 Eğitim Takvimi</div>
+          </div>
+          </Link>
 
           <Link href="/doc/takvim/2025-egitim-takvim.pdf" legacyBehavior>
           <div className="main-block-subtitle">
