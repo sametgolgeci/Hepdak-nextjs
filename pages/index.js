@@ -391,28 +391,6 @@ const Anasayfa = () => (
           </div>
           </Link>
 
-          <Link href="/doc/takvim/2025-egitim-takvim.pdf" legacyBehavior>
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day"></div>
-              <div className="date-month">25'</div>
-              <div className="date-year">Takvim</div>
-            </div>
-            <div className="block-subtitle-text">HEPDAK 2025 Eğitim Takvimi</div>
-          </div>
-          </Link>
-
-          <Link href="/doc/takvim/2025-toplanti-takvim.pdf" legacyBehavior>
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day"></div>
-              <div className="date-month">25'</div>
-              <div className="date-year">Takvim</div>
-            </div>
-            <div className="block-subtitle-text">HEPDAK 2025 Toplantı Takvimi</div>
-          </div>
-          </Link>
-
         </div>
       </div>
       <div className="main-new-block col-md-4 col-sm-12">

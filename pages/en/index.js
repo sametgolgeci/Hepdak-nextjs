@@ -327,94 +327,6 @@ const Anasayfa = () => (
             <div className="block-subtitle-text">HEPDAK Team Leaders Meeting - 8</div>
           </div>
           </Link>
-
-          <Link href="en/all-news#26december2024" legacyBehavior>
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">26</div>
-              <div className="date-month">December</div>
-              <div className="date-year">2024</div>
-            </div>
-            <div className="block-subtitle-text">Webinar: How should value-based education be like in nursing?</div>
-          </div>
-          </Link>
-
-          <Link href="en/all-news#18december2024" legacyBehavior>
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">18</div>
-              <div className="date-month">December</div>
-              <div className="date-year">2024</div>
-            </div>
-            <div className="block-subtitle-text">Webinar: How Do Nurse Managers Assess the Competencies of Our Graduates?</div>
-          </div>
-          </Link>
-
-          <Link href="en/all-news#26november2024" legacyBehavior>
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">26</div>
-              <div className="date-month">November</div>
-              <div className="date-year">2024</div>
-            </div>
-            <div className="block-subtitle-text">Workshop on Practical Education in Nursing Programs</div>
-          </div>
-          </Link>
-
-          <Link href="en/all-news#12october2024" legacyBehavior>
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">12</div>
-              <div className="date-month">October</div>
-              <div className="date-year">2024</div>
-            </div>
-            <div className="block-subtitle-text">HEPDAK Nursing Undergraduate Program Managers Meeting - 4</div>
-          </div>
-          </Link>
-
-          <Link href="en/all-news#03october2024" legacyBehavior>
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">03</div>
-              <div className="date-month">October</div>
-              <div className="date-year">2024</div>
-            </div>
-            <div className="block-subtitle-text">Webinar: Bridge to Access 21st Century Competencies: Extracurricular Learning</div>
-          </div>
-          </Link>
-          
-          <Link href="en/all-news#1920september2024" legacyBehavior>
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">19-20</div>
-              <div className="date-month">September</div>
-              <div className="date-year">2024</div>
-            </div>
-            <div className="block-subtitle-text">HEPDAK 12th Training Workshop for Institutions</div>
-          </div>
-          </Link>
-
-          <Link href="en/all-news#10june2024" legacyBehavior>
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">10</div>
-              <div className="date-month">June</div>
-              <div className="date-year">2024</div>
-            </div>
-            <div className="block-subtitle-text">A monitoring visit organized by YÖKAK was held</div>
-          </div>
-          </Link>
-
-          <Link href="en/all-news#08june2024" legacyBehavior>
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">08</div>
-              <div className="date-month">June</div>
-              <div className="date-year">2024</div>
-            </div>
-            <div className="block-subtitle-text">HEPDAK 2024 Student Evaluator Training completed</div>
-          </div>
-          </Link>
           
         </div>
       </div>
@@ -433,28 +345,6 @@ const Anasayfa = () => (
               <div className="date-year">Calendar</div>
             </div>
             <div className="block-subtitle-text">HEPDAK Training Calendar 2026</div>
-          </div>
-          </Link>
-
-          <Link href="doc/en/2025-training-calendar.pdf" legacyBehavior>
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day"></div>
-              <div className="date-month">25'</div>
-              <div className="date-year">Calendar</div>
-            </div>
-            <div className="block-subtitle-text">HEPDAK Training Calendar 2025</div>
-          </div>
-          </Link>
-
-          <Link href="doc/en/2025-meeting-calendar.pdf" legacyBehavior>
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day"></div>
-              <div className="date-month">25'</div>
-              <div className="date-year">Calendar</div>
-            </div>
-            <div className="block-subtitle-text">HEPDAK Meeting Calendar 2025</div>
           </div>
           </Link>
 

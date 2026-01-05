@@ -11,10 +11,10 @@ const Kurul = () => (
 	    <h1>Boards</h1>
 	    	<h3 className="kurul-title">HEPDAK Board of Directors</h3>
 	    	<span className="madde-span">• Prof. Dr. Dilek Özmen (Chair), Manisa Celal Bayar University</span>
-	    	<span className="madde-span">• Prof. Dr. Fatma Orgun (Vise Chair), Ege University</span>
+	    	<span className="madde-span">• Prof. Dr. Oya Kavlak (Vise Chair), Ege University</span>
 	    	<span className="madde-span">• Prof. Dr. Medine Yılmaz (General Secretary), İzmir Katip Çelebi University</span>
 	    	<span className="madde-span">• Prof. Dr. Gülsüm Nihal Çürük (Accountant), İzmir University of Economics</span>
-	    	<span className="madde-span">• Prof. Dr. Özen Kulakaç (Member), Ondokuz Mayıs University</span>
+	    	<span className="madde-span">• Asst. Prof. Çiğdem Gamze Özkan (Member), Manisa Celal Bayar University</span>
 
 	    	<h3 className="kurul-title">Auditing Board</h3>
 	    	<span className="madde-span">• Prof. Dr. Gülseren Kocaman (Chair), Retired Faculty Member</span>
@@ -30,9 +30,9 @@ const Kurul = () => (
 	    	<span className="madde-span">• Prof. Dr. Hülya Okumuş (Hemşirelik Eğitimi Derneği Temsilcisi), Retired Faculty Member</span>
 	    	<span className="madde-span">• <strong>Türk Hemşireler Derneği:</strong> Doç. Dr. Gülten Koç, Hacettepe Üniversitesi Hemşirelik Fakültesi</span>
 	    	<span className="madde-span">• Uzm. Hem. Pınar Akçay, Sağlık Bakanlığı Hastaneleri Temsilcisi</span>
-	    	<span className="madde-span">• Dr. Ögr. Üyesi Ahu Çırlak, Özel Ankara Güven Hastanesi Eğitim ve Ar-Ge Müdürü</span>
+	    	<span className="madde-span">• Asst. Prof. Ahu Çırlak, Özel Ankara Güven Hastanesi Eğitim ve Ar-Ge Müdürü</span>
 	    	<span className="madde-span">• <strong>Hemşire:</strong> Melek Gülcük, İzmir Buca Seyfi Demirsoy EAH, Eğitim Birimi (Hemşire Temsilcisi)</span>
-	    	<span className="madde-span">• <strong>Toplum Temsilcisi:</strong> Dr. Öğr. Üyesi Leman Kutlu, Haliç Üniversitesi</span>
+	    	<span className="madde-span">• <strong>Toplum Temsilcisi:</strong> Asst. Prof. Leman Kutlu, Haliç Üniversitesi</span>
 	    	<span className="madde-span">• <strong>Öğrenci:</strong> Şerife Aplay, Ankara Yıldırım Beyazıt Üniversitesi</span>
 	    	
 	    	<h3 className="kurul-title">Advisory Board</h3>
@@ -55,7 +55,7 @@ const Kurul = () => (
 	    	<span className="madde-span">• Doç. Dr. Gülten Koç,  Hacettepe Üniversitesi, THD Temsilcisi</span>
 	    	<span className="madde-span">• Doç. Dr. Demet İnangil, Sağlık Bilimleri Üniversitesi</span>
 	    	<span className="madde-span">• Doç. Dr. Yasin Çetin, Adıyaman Üniversitesi</span>
-	    	<span className="madde-span">• Dr. Öğr. Üyesi Gülçin Uyanık, İzmir Katip Çelebi Üniversitesi</span>
+	    	<span className="madde-span">• Asst. Prof. Gülçin Uyanık, İzmir Katip Çelebi Üniversitesi</span>
 	    	<span className="madde-span">• Uzm. Demet Gökmen Kavak, Türkiye Sağlık Hizmetleri Kalite Ve Akreditasyon Enstitüsü Standart Geliştirme Birim Sorumlusu</span>  	
 	    	<span className="madde-span">• <strong>Öğrenci:</strong> Uzm. Hem. Özlem Bakan Demirel, İzmir Katip Çelebi Üniversitesi Kalite Koordinatörlüğü</span>
 
@@ -65,8 +65,8 @@ const Kurul = () => (
 	    	<span className="madde-span">• Prof. Dr. Medine Yılmaz, İzmir Katip Çelebi University</span>
 	    	<span className="madde-span">• Prof. Dr. Hatice Mert, Dokuz Eylül University</span>
 	    	<span className="madde-span">• Prof. Dr. Gülsüm Nihal Çürük, İzmir University of Economics</span>
-	    	<span className="madde-span">• Dr. Öğr. Üyesi Aydan Baysan, Manisa Celal Bayar University</span>
-	    	<span className="madde-span">• Dr. Öğr. Üyesi Gülsüm Çonoğlu, Çankırı Karatekin University</span>
+	    	<span className="madde-span">• Asst. Prof. Aydan Baysan, Manisa Celal Bayar University</span>
+	    	<span className="madde-span">• Asst. Prof. Gülsüm Çonoğlu, Çankırı Karatekin University</span>
 	    	<span className="madde-span">• <strong>Student:</strong> Jale Atak, Manisa Celal Bayar University</span> 	
 
 	    	<h3 className="kurul-title">Continuous Improvement Commission</h3>
@@ -74,7 +74,7 @@ const Kurul = () => (
 	    	<span className="madde-span">• Prof. Dr. Gülsüm Nihal Çürük (Secretary), İzmir Ekonomi University</span>
 	    	<span className="madde-span">• Prof. Dr. Şeyda Seren İntepeler, Dokuz Eylül University</span>
 	    	<span className="madde-span">• Prof. Dr. Zeynep Özer, Akdeniz University</span>
-	    	<span className="madde-span">• Dr. Öğr. Üyesi. Hatice Şen, Uluslararası Kıbrıs University</span>
+	    	<span className="madde-span">• Asst. Prof. Hatice Şen, Uluslararası Kıbrıs University</span>
 	    	<span className="madde-span">• R. A. İbrahim Kavaslar, Düzce University</span>
 	    	<span className="madde-span">• <strong>Student:</strong> Başak Yazıcı, Ege University</span> 
 	    	
@@ -93,13 +93,12 @@ const Kurul = () => (
 	    	<span className="madde-span">• Prof. Dr. Ayhan Lash, Northern Illinois University Retired Faculty Member</span>
 	    	<span className="madde-span">• Prof. Dr. Oya Kavlak, Ege Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Gülengün Türk, Adnan Menderes University</span>
-	    	<span className="madde-span">• Dr. Öğr. Üyesi Damla Çamveren, Kütahya Sağlık Bilimleri University</span>
+	    	<span className="madde-span">• Asst. Prof. Damla Çamveren, Kütahya Sağlık Bilimleri University</span>
 
 	    	<h3 className="kurul-title">WEB Design Commission</h3>
-	    	<span className="madde-span">• Prof. Dr. Özen Kulakaç (Chair), Ondokuz Mayıs University</span>
+	    	<span className="madde-span">• Asst. Prof. Çiğdem Gamze Özkan (Chair), Manisa Celal Bayar University</span>
 	    	<span className="madde-span">• Ümran Yalçın (Secretary), HEPDAK Secretary</span>
 	    	<span className="madde-span">• Asst. Prof. Gürkan Özden, İnönü University</span>
-	    	<span className="madde-span">• Asst. Prof. Çiğdem Gamze Özkan, Manisa Celal Bayar University</span>
 	    	<span className="madde-span">• R. A. Selcan Zeynep Ergöz Aksoy, Izmir University of Economics</span>
 	    	<span className="madde-span">• R. A. Hilal Ersan Yaman, Hacettepe University</span>
 	    </div>

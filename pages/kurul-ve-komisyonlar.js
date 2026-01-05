@@ -11,10 +11,10 @@ const Kurul = () => (
 	    <h1>Kurullar</h1>
 	    	<h3 className="kurul-title">HEPDAK Yönetim Kurulu</h3>
 	    	<span className="madde-span">• Prof. Dr. Dilek Özmen (Başkan), Manisa Celal Bayar Üniversitesi</span>
-	    	<span className="madde-span">• Prof. Dr. Özen Kulakaç (Başkan Yardımcısı), Ondokuz Mayıs Üniversitesi</span>
+	    	<span className="madde-span">• Prof. Dr. Oya Kavlak (Başkan Yardımcısı), Ege Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Medine Yılmaz (Genel Sekreter), İzmir Katip Çelebi Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Gülsüm Nihal Çürük (Sayman), İzmir Ekonomi Üniversitesi</span>
-	    	<span className="madde-span">• Prof. Dr. Oya Kavlak (Üye), Ege Üniversitesi</span>
+	    	<span className="madde-span">• Dr. Öğr. Üyesi Çiğdem Gamze Özkan (Üye), Manisa Celal Bayar Üniversitesi</span>
 	    	<span className="madde-span"><h6><Link href="/yonetim-kurullari">Önceki Dönemlerdeki Yönetim Kurulları</Link></h6></span>
 	    	
 	    	<h3 className="kurul-title">HEPDAK Denetleme Kurulu</h3>
@@ -97,10 +97,9 @@ const Kurul = () => (
 	    	<span className="madde-span">• Dr. Öğr. Üyesi Damla Çamveren, Kütahya Sağlık Bilimleri Üniversitesi</span>
 
 	    	<h3 className="kurul-title">WEB Tasarım Komisyonu</h3>
-	    	<span className="madde-span">• Prof. Dr. Özen Kulakaç (Başkan), Ondokuz Mayıs Üniversitesi</span>
+	    	<span className="madde-span">• Dr. Öğr. Üyesi Çiğdem Gamze Özkan (Başkan), Manisa Celal Bayar Üniversitesi</span>
 	    	<span className="madde-span">• Ümran Yalçın (Sekreter), HEPDAK Sekreteri</span>
 	    	<span className="madde-span">• Dr. Öğr. Üyesi Gürkan Özden, İnönü Üniversitesi</span>
-	    	<span className="madde-span">• Dr. Öğretim Üyesi Çiğdem Gamze Özkan, Manisa Celal Bayar Üniversitesi</span>
 	    	<span className="madde-span">• Ar. Gör. Selcan Zeynep Ergöz Aksoy, İzmir Ekonomi Üniversitesi</span>
 	    	<span className="madde-span">• Ar. Gör. Hilal Ersan Yaman, Hacettepe Üniversitesi</span>
 	    </div>

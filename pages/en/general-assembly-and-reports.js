@@ -9,6 +9,10 @@ const Belgeler = () => (
 	    </Head>
       <div className="genel">
         <h1>General Assembly and Reports</h1>
+        <p className="madde-p">October 17, 2025 HEPDAK General Assembly Reports <Link href="../doc/genel_kurul/2025-gundem.pdf" target="_blank">Agenda (in Turkish)</Link></p>
+        <p className="madde-p">October 17, 2025 HEPDAK General Assembly Reports <Link href="../doc/genel_kurul/2025-calisma-raporu.pdf" target="_blank">Working Report (in Turkish)</Link></p>
+        <p className="madde-p">October 17, 2025 HEPDAK General Assembly Reports <Link href="../doc/genel_kurul/2025-toplanti-raporu.pdf" target="_blank">Meeting Report (in Turkish)</Link></p>
+        <p className="madde-p">- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</p>
         <p className="madde-p">October 20, 2022 HEPDAK General Assembly Reports <Link href="../doc/genel_kurul/2022-gundem.pdf" target="_blank">Agenda (in Turkish)</Link></p>
         <p className="madde-p">October 20, 2022 HEPDAK General Assembly Reports <Link href="../doc/genel_kurul/2022-calisma-raporu.pdf" target="_blank">Working Report (in Turkish)</Link></p>
         <p className="madde-p">October 20, 2022 HEPDAK General Assembly Reports <Link href="../doc/genel_kurul/2022-toplanti-raporu.pdf" target="_blank">Meeting Report (in Turkish)</Link></p>

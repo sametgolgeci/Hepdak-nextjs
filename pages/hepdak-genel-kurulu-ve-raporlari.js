@@ -9,6 +9,10 @@ const Rapor = () => (
 	    </Head>
 	    <div className="genel">
 	    	<h1>Genel Kurul ve Raporları</h1>
+	    	<p className="madde-p">17 Ekim 2025 HEPDAK Genel Kurulu Raporları <Link href="doc/genel_kurul/2025-gundem.pdf" target="_blank">Gündem</Link></p>
+	    	<p className="madde-p">17 Ekim 2025 HEPDAK Genel Kurulu Raporları <Link href="doc/genel_kurul/2025-calisma-raporu.pdf" target="_blank">Çalışma Raporu</Link></p>
+	    	<p className="madde-p">17 Ekim 2025 HEPDAK Genel Kurulu Raporları <Link href="doc/genel_kurul/2025-toplanti-raporu.pdf" target="_blank">Toplantı Raporu</Link></p>
+	    	<p className="madde-p">- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</p>
 	    	<p className="madde-p">20 Ekim 2022 HEPDAK Genel Kurulu Raporları <Link href="doc/genel_kurul/2022-gundem.pdf" target="_blank">Gündem</Link></p>
 	    	<p className="madde-p">20 Ekim 2022 HEPDAK Genel Kurulu Raporları <Link href="doc/genel_kurul/2022-calisma-raporu.pdf" target="_blank">Çalışma Raporu</Link></p>
 	    	<p className="madde-p">20 Ekim 2022 HEPDAK Genel Kurulu Raporları <Link href="doc/genel_kurul/2022-toplanti-raporu.pdf" target="_blank">Toplantı Raporu</Link></p>
