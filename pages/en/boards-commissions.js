@@ -86,7 +86,7 @@ const Kurul = () => (
 	    	<span className="madde-span">• Prof. Dr. Sergül Duygulu, Hacettepe University</span>
 	    	<span className="madde-span">• Prof. Dr. Ayhan Lash, Northern Illinois University Retired Faculty Member</span>
 	    	<span className="madde-span">• Prof. Dr. İlkay Boz, Akdeniz University</span>
-
+	    	{/*
 	    	<h3 className="kurul-title">Preparation Commission for Postgraduate Accreditation</h3>
 	    	<span className="madde-span">• Prof. Dr. Gülseren Kocaman (Chair), Retired Faculty Member</span>
 	    	<span className="madde-span">• Prof. Dr. Ayla Bayık Temel, Retired Faculty Member</span>
@@ -94,7 +94,7 @@ const Kurul = () => (
 	    	<span className="madde-span">• Prof. Dr. Oya Kavlak, Ege Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Gülengün Türk, Adnan Menderes University</span>
 	    	<span className="madde-span">• Asst. Prof. Damla Çamveren, Kütahya Sağlık Bilimleri University</span>
-
+			*/}
 	    	<h3 className="kurul-title">WEB Design Commission</h3>
 	    	<span className="madde-span">• Asst. Prof. Çiğdem Gamze Özkan (Chair), Manisa Celal Bayar University</span>
 	    	<span className="madde-span">• Ümran Yalçın (Secretary), HEPDAK Secretary</span>

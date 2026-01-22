@@ -10,6 +10,13 @@ const Kurul = () => (
 	    <div className="genel">
 	    	<h1>Önceki Dönemlerdeki Yönetim Kurulları</h1>
 
+	    	<h4 className="kurul-title">17.10.2025 - Günümüz</h4>
+	    	<span className="madde-span">• Dilek Özmen <strong>(Başkan)</strong></span>
+	    	<span className="madde-span">• Fatma Orgun <strong>(Başkan Yardımcısı)</strong></span>
+	    	<span className="madde-span">• Medine Yılmaz <strong>(Sekreter)</strong></span>
+	    	<span className="madde-span">• Gülsüm Nihal Çürük <strong>(Sayman)</strong></span>
+	    	<span className="madde-span">• Çiğdem Gamze Özkan <strong>(29.12.2025’ten itibaren)</strong>, Özen Kulakaç <strong>(22.10.2022’den 29.12.2025’e kadar) (Üye)</strong></span>
+
 	    	<h4 className="kurul-title">22.10.2022 - 17.10.2025 Dönemi</h4>
 	    	<span className="madde-span">• Dilek Özmen <strong>(Başkan)</strong></span>
 	    	<span className="madde-span">• Fatma Orgun <strong>(Başkan Yardımcısı)</strong></span>

@@ -87,7 +87,7 @@ const Kurul = () => (
 	    	<span className="madde-span">• Prof. Dr. Sergül Duygulu, Hacettepe Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Ayhan Lash, Northern Illinois Üniversitesi Emekli Öğretim Üyesi</span>
 	    	<span className="madde-span">• Prof. Dr. İlkay Boz, Akdeniz Üniversitesi</span>
-
+	    	{/*
 	    	<h3 className="kurul-title">Yükseklisans Akreditasyonuna Hazırlık Komisyonu</h3>
 	    	<span className="madde-span">• Prof. Dr. Gülseren Kocaman (Başkan), Emekli Öğretim Üyesi</span>
 	    	<span className="madde-span">• Prof. Dr. Ayla Bayık Temel, Emekli Öğretim Üyesi</span>
@@ -95,7 +95,7 @@ const Kurul = () => (
 	    	<span className="madde-span">• Prof. Dr. Oya Kavlak, Ege Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Gülengün Türk, Adnan Menderes Üniversitesi</span>
 	    	<span className="madde-span">• Dr. Öğr. Üyesi Damla Çamveren, Kütahya Sağlık Bilimleri Üniversitesi</span>
-
+			*/}
 	    	<h3 className="kurul-title">WEB Tasarım Komisyonu</h3>
 	    	<span className="madde-span">• Dr. Öğr. Üyesi Çiğdem Gamze Özkan (Başkan), Manisa Celal Bayar Üniversitesi</span>
 	    	<span className="madde-span">• Ümran Yalçın (Sekreter), HEPDAK Sekreteri</span>

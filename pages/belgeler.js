@@ -54,12 +54,14 @@ const Belgeler = () => (
                     </div>
                   </td>
                 </tr>
+                {/*
                 <tr>
                   <th scope="row">5</th>
                   <td>HEPDAK Uzaktan Değerlendirme ve Saha Ziyareti Yönergesi <strong>Sürüm 1.0</strong> (<Link href="doc/b16_v1.pdf">PDF</Link> | <Link href="doc/b16_v1.docx">Word</Link>)</td>
                 </tr>
+                */}
                <tr>
-                  <th scope="row">6</th>
+                  <th scope="row">5</th>
                   <td>
                     HEPDAK Eğitim Komisyonu Çalışma Yönergesi - <Link href="doc/a5_v2_1.pdf">Sürüm 2.1</Link> - <a data-toggle="collapse" href="#a05" role="button" aria-expanded="false" aria-controls="a05">↓</a>
                     <div className="collapse" id="a05">
@@ -68,15 +70,15 @@ const Belgeler = () => (
                   </td>
                 </tr>
                 <tr>
-                  <th scope="row">7</th>
+                  <th scope="row">6</th>
                   <td>HEPDAK Sürekli İyileştirme Komisyonu Yönergesi <Link href="doc/a6_v1.pdf">Sürüm 1.0</Link></td>
                 </tr>
                 <tr>
-                  <th scope="row">8</th>
+                  <th scope="row">7</th>
                   <td>HEPDAK Uluslararası İlişkiler Komisyonu Yönergesi <Link href="doc/a7_v1.pdf">Sürüm 1.0</Link></td>
                 </tr>
                 <tr>
-                  <th scope="row">9</th>
+                  <th scope="row">8</th>
                   <td>
                     HEPDAK Arşivleme Yönergesi - <Link href="doc/a8_v2_1.pdf">Sürüm 2.1</Link> - <a data-toggle="collapse" href="#a08" role="button" aria-expanded="false" aria-controls="a08">↓</a>
                     <div className="collapse" id="a08">
@@ -85,7 +87,7 @@ const Belgeler = () => (
                   </td>
                 </tr>
                 <tr>
-                  <th scope="row">10</th>
+                  <th scope="row">9</th>
                   <td>HEPDAK Web Tasarım Komisyonu Çalışma ve Usul ve Esasları Yönergesi <Link href="doc/a10_v1.pdf">Sürüm 1.0</Link></td>
                 </tr>
               </tbody>

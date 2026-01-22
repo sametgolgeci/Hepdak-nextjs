@@ -10,6 +10,7 @@ const Kaynak = () => (
 	       <div className="genel">
             <h1>Eğitim Etkinlikleri</h1>
             <h5>HEPDAK Faaliyetlerinin Tanıtımı ile İlgili Etkinlikler</h5>
+            <p className="madde-p"><Link href="doc/egitim_etkinlikleri/faaliyet-2025.pdf" target="_blank">HEPDAK Faaliyetleri Tanıtımı ile İlgili Çağrılı Konuşmalar 2025</Link></p>
             <p className="madde-p"><Link href="doc/egitim_etkinlikleri/faaliyet-2024.pdf" target="_blank">HEPDAK Faaliyetleri Tanıtımı ile İlgili Çağrılı Konuşmalar 2024</Link></p>
             <p className="madde-p"><Link href="doc/egitim_etkinlikleri/faaliyet-2023.pdf" target="_blank">HEPDAK Faaliyetleri Tanıtımı ile İlgili Çağrılı Konuşmalar 2023</Link></p>
             <p className="madde-p"><Link href="doc/egitim_etkinlikleri/faaliyet-2022.pdf" target="_blank">HEPDAK Faaliyetleri Tanıtımı ile İlgili Çağrılı Konuşmalar 2022</Link></p>

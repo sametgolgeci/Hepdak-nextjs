@@ -10,6 +10,7 @@ const Symposium = () => (
       <div className="genel">
         <h1>Educational Activities</h1>
         <h5>Events Related to the Promotion of HEPDAK Activities</h5>
+        <p className="madde-p"><Link href="../doc/egitim_etkinlikleri/faaliyet-2025.pdf" target="_blank">Invited Speeches on the Promotion of HEPDAK Activities 2025 (in Turkish)</Link></p>
         <p className="madde-p"><Link href="../doc/egitim_etkinlikleri/faaliyet-2024.pdf" target="_blank">Invited Speeches on the Promotion of HEPDAK Activities 2024 (in Turkish)</Link></p>
         <p className="madde-p"><Link href="../doc/egitim_etkinlikleri/faaliyet-2023.pdf" target="_blank">Invited Speeches on the Promotion of HEPDAK Activities 2023 (in Turkish)</Link></p>
         <p className="madde-p"><Link href="../doc/egitim_etkinlikleri/faaliyet-2022.pdf" target="_blank">Invited Speeches on the Promotion of HEPDAK Activities 2022 (in Turkish)</Link></p>
