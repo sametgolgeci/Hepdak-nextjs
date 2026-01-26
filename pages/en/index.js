@@ -49,6 +49,11 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
+                  <Link href="../doc/en/2026-meeting-calendar.pdf" target="_blank">
+                    <div className="main-top-one-content-full"><img className="slider-full-img" src="../img/banner/2026/en/toplanti-takvim.jpeg"/></div>
+                  </Link>
+                </div>
+                <div className="carousel-item">
                   <Link href="../doc/en/2026-training-calendar.pdf" target="_blank">
                     <div className="main-top-one-content-full"><img className="slider-full-img" src="../img/banner/2026/en/egitim-takvim.jpeg"/></div>
                   </Link>
@@ -333,6 +338,17 @@ const Anasayfa = () => (
             <div className="block-title-main">Announcements</div>
             <div className="block-title-all"><a href="/#">All Announcements</a></div>
           </div>
+
+          <Link href="doc/en/2026-meeting-calendar.pdf" legacyBehavior>
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day"></div>
+              <div className="date-month">26'</div>
+              <div className="date-year">Calendar</div>
+            </div>
+            <div className="block-subtitle-text">HEPDAK Meeting Calendar 2026</div>
+          </div>
+          </Link>
 
           <Link href="doc/en/2026-training-calendar.pdf" legacyBehavior>
           <div className="main-block-subtitle">
