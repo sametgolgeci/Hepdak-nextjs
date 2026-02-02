@@ -50,15 +50,27 @@ const Akredite = () => (
                   </td>
                 </tr>
                 <tr>
+                  <th scope="row">Ankara Yıldırım Beyazıt Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü</th>
+                  <td>16.01.2026</td>
+                  <td>30.09.2028</td>
+                </tr>
+                <tr>
                   <th scope="row">Atatürk Üniversitesi Hemşirelik Fakültesi<br/><Link href="doc/rapor/ataturk-genel.pdf" className="akreditasyon-rapor">Genel Rapor</Link></th>
                   <td>
                     <p>01.05.2016</p>
                     <p>04.04.2022</p>
+                    <p>17.01.2026</p>
                   </td>
                   <td>
                     <p>30.09.2018</p>
                     <p>27.03.2024</p>
+                    <p>30.09.2031</p>
                   </td>
+                </tr>
+                <tr>
+                  <th scope="row">Bartın Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü</th>
+                  <td>16.01.2026</td>
+                  <td>30.09.2031</td>
                 </tr>
                 <tr>
                   <th scope="row">Başkent Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü<br/><Link href="doc/rapor/baskent-genel.pdf" className="akreditasyon-rapor">Genel Rapor</Link></th>
@@ -106,11 +118,13 @@ const Akredite = () => (
                     <p>01.05.2016</p>
                     <p>01.05.2018</p>
                     <p>02.04.2021</p>
+                    <p>16.01.2026</p>
                   </td>
                   <td>
                     <p>30.09.2018</p>
                     <p>30.09.2021</p>
                     <p>30.09.2026</p>
+                    <p>30.09.2031</p>
                   </td>
                 </tr>
                 <tr>
@@ -120,12 +134,14 @@ const Akredite = () => (
                     <p>01.05.2018</p>
                     <p>02.04.2021</p>
                     <p>07.04.2023</p>
+                    <p>17.01.2026</p>
                   </td>
                   <td>
                     <p>30.09.2018</p>
                     <p>30.09.2021</p>
                     <p>30.09.2023</p>
                     <p>30.09.2026</p>
+                    <p>30.09.2031</p>
                   </td>
                 </tr>
                 <tr>
@@ -199,6 +215,11 @@ const Akredite = () => (
                     <p>30.09.2024</p>
                     <p>30.09.2027</p>
                   </td>
+                </tr>
+                <tr>
+                  <th scope="row">İstinye Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü</th>
+                  <td>17.01.2026</td>
+                  <td>30.09.2028</td>
                 </tr>
                 <tr>
                   <th scope="row">İzmir Katip Çelebi Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü<br/><Link href="doc/rapor/ikcu-ara.pdf" className="akreditasyon-rapor">Ara Rapor</Link> | <Link href="doc/rapor/ikcu-genel.pdf" className="akreditasyon-rapor">Genel Rapor</Link></th>
@@ -323,6 +344,11 @@ const Akredite = () => (
                   <td>19.03.2025</td>
                 </tr>
                 <tr>
+                  <th scope="row">Süleyman Demirel Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü</th>
+                  <td>16.01.2026</td>
+                  <td>30.09.2028</td>
+                </tr>
+                <tr>
                   <th scope="row">Tekirdağ Namık Kemal Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü<br/><Link href="doc/rapor/tekirdag-ara.pdf" className="akreditasyon-rapor">Ara Rapor</Link> | <Link href="doc/rapor/tekirdag-genel.pdf" className="akreditasyon-rapor">Genel Rapor</Link></th>
                   <td>
                     <p>04.04.2022</p>
@@ -345,6 +371,11 @@ const Akredite = () => (
                     <p>30.09.2024</p>
                     <p>30.09.2025</p>
                   </td>
+                </tr>
+                <tr>
+                  <th scope="row">Üsküdar Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü</th>
+                  <td>16.01.2026</td>
+                  <td>30.09.2028</td>
                 </tr>
                 <tr>
                   <th scope="row">Yeditepe Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü (İngilizce)<br/><Link href="doc/rapor/yeditepe-genel.pdf" className="akreditasyon-rapor">Genel Rapor</Link></th>
