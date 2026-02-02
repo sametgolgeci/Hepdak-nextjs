@@ -374,6 +374,7 @@ const Anasayfa = () => (
       </div>
     </div>
     <div className="main-bottom">
+      {/*
       <div className="main-bottom-title"><a href="/ilgili-kuruluslar">Related Organizations</a></div>
       <div className="main-bottom-slider">
         <div className="main-bottom-img">
@@ -503,6 +504,7 @@ const Anasayfa = () => (
           </div>
         </div>
       </div>
+      */}
     </div>
     <Footer/>
   </div>

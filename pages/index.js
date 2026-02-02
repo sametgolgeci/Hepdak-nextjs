@@ -401,23 +401,26 @@ const Anasayfa = () => (
             <div className="block-title-all"><a href="/#">Tüm Etkinlikler</a></div>
           </div>
 
-          {/*
+          
 
+          <Link href="/doc/etkinlikler/puko-program.pdf" target="_blank" legacyBehavior>
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
-              <div className="date-day">25-26</div>
-              <div className="date-month">Mayıs</div>
-              <div className="date-year">2023</div>
+              <div className="date-day">17</div>
+              <div className="date-month">Şubat</div>
+              <div className="date-year">2026</div>
             </div>
-            <div className="block-subtitle-text">Değerlendirici Eğitim Çalıştayı</div>
+            <div className="block-subtitle-text"><strong>Hemşirelik Eğitiminde Sürekli İyileştirme ve PUKÖ Döngüsünün Etkin Kullanımı</strong><br/>Kurs Programı</div>
           </div>
+          </Link>
 
-          */}
+          
 
         </div>
       </div>
     </div>
     <div className="main-bottom">
+      {/*
       <div className="main-bottom-title"><a href="/ilgili-kuruluslar">İlgili Kuruluşlar</a></div>
       <div className="main-bottom-slider">
         <div className="main-bottom-img">
@@ -547,6 +550,7 @@ const Anasayfa = () => (
           </div>
         </div>
       </div>
+      */}
     </div>
     <Footer/>
   </div>
