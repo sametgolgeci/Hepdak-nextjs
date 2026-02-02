@@ -57,15 +57,17 @@ const Anasayfa = () => (
                   </Link>
                 </div>
                 <div className="carousel-item">
+                  <Link href="/doc/takvim/2026-toplanti-takvim.pdf" target="_blank">
+                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2026/toplanti-takvim.jpeg"/></div>
+                  </Link>
+                </div>
+                <div className="carousel-item">
                   <Link href="/doc/takvim/2026-egitim-takvim.pdf" target="_blank">
                     <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2026/egitim-takvim.jpeg"/></div>
                   </Link>
                 </div>
                 <div className="carousel-item">
                   <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2025-uyari.jpeg"/></div>
-                </div>
-                <div className="carousel-item">
-                  <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2025-hemsis.jpeg"/></div>
                 </div>
                 <div className="carousel-item">
                   <Link href="/doc/2025-2029-eylem-plani.pdf" target="_blank">
@@ -78,18 +80,8 @@ const Anasayfa = () => (
                   </Link>
                 </div>
                 <div className="carousel-item">
-                  <Link href="/doc/takvim/2025-egitim-takvim.pdf" target="_blank">
-                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2025-egitim-takvim.jpeg"/></div>
-                  </Link>
-                </div>
-                <div className="carousel-item">
                   <Link href="/doc/danisma_kurulu_toplantilari/04.pdf" target="_blank">
                     <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2024-duyuru-danisma-kurulu.jpeg"/></div>
-                  </Link>
-                </div>
-                <div className="carousel-item">
-                  <Link href="/doc/takvim/2025-toplanti-takvim.pdf" target="_blank">
-                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2025-toplanti-takvim.jpeg"/></div>
                   </Link>
                 </div>
                 <div className="carousel-item">

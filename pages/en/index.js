@@ -57,10 +57,7 @@ const Anasayfa = () => (
                   <Link href="../doc/en/2026-training-calendar.pdf" target="_blank">
                     <div className="main-top-one-content-full"><img className="slider-full-img" src="../img/banner/2026/en/egitim-takvim.jpeg"/></div>
                   </Link>
-                </div>
-                <div className="carousel-item">
-                  <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/en/2025-hemsis.jpeg"/></div>
-                </div>  
+                </div> 
                 <div className="carousel-item">
                   <Link href="../doc/2025-2029-eylem-plani.pdf" target="_blank">
                     <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/en/2025-eylem-plani.jpeg"/></div>
@@ -70,17 +67,7 @@ const Anasayfa = () => (
                   <Link href="../doc/en/hepdak-hemed.pdf" target="_blank">
                     <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/en/2025-hepdak-hemed.jpeg"/></div>
                   </Link>
-                </div>
-                <div className="carousel-item">
-                  <Link href="../doc/en/2025-training-calendar.pdf" target="_blank">
-                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/en/2025-training-calendar.jpeg"/></div>
-                  </Link>
-                </div>
-                <div className="carousel-item">
-                  <Link href="../doc/en/2025-meeting-calendar.pdf" target="_blank">
-                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/en/2025-meeting-calendar.jpeg"/></div>
-                  </Link>
-                </div>
+                </div>                
                 <div className="carousel-item">
                   <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/en/hepdak-registration.png"/></div>
                 </div>
