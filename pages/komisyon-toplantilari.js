@@ -12,12 +12,22 @@ const Paydas = () => (
 			<h1>Komisyon Toplantıları</h1>
 			<h5><a data-toggle="collapse" href="#SBGKT" role="button" aria-expanded="false" aria-controls="SBGKT">Standartları Belirleme ve Geliştirme Komisyonu Toplantıları</a></h5>
 			<div className="collapse" id="SBGKT">
+			<h6>2025</h6>
+			<table className="table table-striped">
+	      <tbody>
+	        <tr>
+	          <th scope="row" width="160px">Ocak - Aralık<br/>2025</th>
+	          <td><Link href="doc/komisyon_toplantilari/standart_belirleme_komisyonu/2025.pdf">Standartları Belirleme ve Geliştirme Komisyonu 2025 Dönemi Faaliyet Raporu</Link></td>
+	        </tr>
+	      </tbody>
+	    </table>
+			<h6>2023</h6>
 			<h6>2024</h6>
 			<table className="table table-striped">
 	      <tbody>
 	        <tr>
 	          <th scope="row" width="160px">Ocak - Aralık<br/>2024</th>
-	          <td><Link href="doc/komisyon_toplantilari/standart_belirleme_komisyonu/2024-01.pdf">Standartları Belirleme ve Geliştirme Komisyonu 2024 yılı Toplantı Raporu</Link></td>
+	          <td><Link href="doc/komisyon_toplantilari/standart_belirleme_komisyonu/2024-01.pdf">Standartları Belirleme ve Geliştirme Komisyonu 2024 Dönemi Toplantı Raporu</Link></td>
 	        </tr>
 	      </tbody>
 	    </table>
@@ -74,6 +84,9 @@ const Paydas = () => (
 				<table className="table table-striped">
 					<tbody>
 						<tr>
+	          	<td><Link href="doc/komisyon_toplantilari/surekli_iyilestirme_komisyonu/2025.pdf">HEPDAK Sürekli İyileştirme Komisyonu 2025 Dönemi Faaliyet Raporu</Link></td>
+	        	</tr>
+						<tr>
 	          	<td><Link href="doc/komisyon_toplantilari/surekli_iyilestirme_komisyonu/2024-02.pdf">HEPDAK Sürekli İyileştirme Komisyonu Temmuz - Aralık 2024 Dönemi Raporu</Link></td>
 	        	</tr>
 						<tr>
@@ -92,6 +105,9 @@ const Paydas = () => (
 			<div className="collapse" id="EKT">
 				<table className="table table-striped">
 					<tbody>
+						<tr>
+	          	<td><Link href="doc/komisyon_toplantilari/egitim_komisyonu/2025.pdf">HEPDAK Eğitim Komisyonu 2025 Dönemi Faaliyet Raporu</Link></td>
+	        	</tr>
 						<tr>
 	          	<td><Link href="doc/komisyon_toplantilari/egitim_komisyonu/2024-02.pdf">HEPDAK Eğitim Komisyonu Temmuz - Aralık 2024 Dönemi Raporu</Link></td>
 	        	</tr>
@@ -146,7 +162,10 @@ const Paydas = () => (
 				<table className="table table-striped">
 					<tbody>
 						<tr>
-	          	<td><Link href="doc/komisyon_toplantilari/web_tasarim_komisyonu/2024-02.pdf">HEPDAK Web Tasarım Komisyonu Temmuz - Aralık 2024 Dönemi Raporu</Link></td>
+	          	<td><Link href="doc/komisyon_toplantilari/web_tasarim_komisyonu/2025.pdf">HEPDAK Web Tasarım Komisyonu 2025 Dönemi Faaliyet Raporu</Link></td>
+	        	</tr>
+						<tr>
+	          	<td><Link href="doc/komisyon_toplantilari/web_tasarim_komisyonu/2024-02.pdf">HEPDAK Web Tasarım Komisyonu Temmuz - Aralık 2024 Dönemi Faaliyet Raporu</Link></td>
 	        	</tr>
 					</tbody>
 				</table>
@@ -155,6 +174,9 @@ const Paydas = () => (
 			<div className="collapse" id="UIKT">
 				<table className="table table-striped">
 					<tbody>
+						<tr>
+	          	<td><Link href="doc/komisyon_toplantilari/uluslararasi_iliskiler_komisyonu/2025.pdf">Uluslararası İlişkiler Komisyonu 2025 Dönemi Faaliyet Raporu</Link></td>
+	        	</tr>
 						<tr>
 	          	<td><Link href="doc/komisyon_toplantilari/uluslararasi_iliskiler_komisyonu/2024-01.pdf">Uluslararası İlişkiler Komisyonu Ocak - Haziran 2024 Dönemi Raporu</Link></td>
 	        	</tr>
@@ -171,7 +193,9 @@ const Paydas = () => (
 			<div className="collapse" id="YAHKT">
 				<table className="table table-striped">
 					<tbody>
-						
+						<tr>
+	          	<td><Link href="doc/komisyon_toplantilari/yukseklisans_akredistasyonu_hazirlik_komisyonu/2025.pdf">Yükseklisans Akreditasyonuna Hazırlık Komisyonu 2025 Dönemi Faaliyet Raporu</Link></td>
+	        	</tr>
 					</tbody>
 				</table>
 			</div>

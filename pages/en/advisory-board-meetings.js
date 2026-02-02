@@ -14,6 +14,10 @@ const Symposium = () => (
         <tbody>
           <tr>
             <th scope="row" width="10px"></th>
+            <td><Link href="../doc/danisma_kurulu_toplantilari/05.pdf" target="_blank">HEPDAK Advisory Board Meeting - 5 (December 04, 2025)(in Turkish)</Link></td>
+          </tr>
+          <tr>
+            <th scope="row" width="10px"></th>
             <td><Link href="../doc/danisma_kurulu_toplantilari/04.pdf" target="_blank">HEPDAK Advisory Board Meeting - 4 (October 08, 2024)(in Turkish)</Link></td>
           </tr>
           <tr>
