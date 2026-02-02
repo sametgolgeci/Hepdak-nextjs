@@ -120,10 +120,10 @@ table{
 }
 @media(min-width: 768px){
 	.main-top{
-		margin-top: 1.25rem;
 		display: flex;
 		flex-direction: row-reverse;
 		flex-wrap: wrap;
+		margin: 30px 9% 90px;
 	}
 }
 .main-top-button{
