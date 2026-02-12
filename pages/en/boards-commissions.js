@@ -40,7 +40,6 @@ const Kurul = () => (
 	    	<span className="madde-span">• Prof. Dr. Ayla Bayık Temel, Retired Faculty Member</span>
 	    	<span className="madde-span">• Prof. Dr. Ayişe Karadağ, Koç University</span>
 	    	<span className="madde-span">• Prof. Dr. Ayşegül Dönmez, Ege University, Chair of the Council of Nursing Faculty Deans</span>
-	    	<span className="madde-span">• Prof. Dr. Sultan Taşçı, SABDEK Executive Board Member</span>
 	    	<span className="madde-span">• Doç. Dr. Havva Arslan Yürümezoğlu, HEMED Chair of the Board of Directors</span>
 	    	<span className="madde-span">• Doç. Dr. Memnun Seven, Assistant Professor University of Massachusetts Amherst, ABD</span>
 	    	<span className="madde-span">• Dr. Oya Gümüşkaya, The University of Newcastle, Australia</span>
