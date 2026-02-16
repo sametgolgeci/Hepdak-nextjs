@@ -158,9 +158,11 @@ const Anasayfa = () => (
       <div className="fast-akredite-button col-md-4">
         <Link href="/ozdegerlendirme-belgeleri"><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faFileAlt}/>Özdeğerlendirme Belgeleri</button></Link>
       </div>
+      {/*
       <div className="fast-akredite-button col-md-4">
         <Link href="/doc/kurum-egitimine-basvuru-formu.doc"><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faBalanceScale}/>Başvurular</button></Link>
       </div>
+      */}
       <div className="fast-akredite-button col-md-4">
         <Link href="/rapor-hazirlama"><button className="main-middle-button"><FontAwesomeIcon className="main-middle-icon" icon={faPencilAlt}/>Rapor Hazırlama</button></Link>
       </div>
