@@ -6,27 +6,38 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faPhone,faEnvelope,faMapMarkerAlt,faChevronRight } from '@fortawesome/free-solid-svg-icons'
 
 async function handleOnSubmit(e) {
-    e.preventDefault();
+  e.preventDefault();
 
-    const formData = {};
+  const formData = {};
 
-    Array.from(e.currentTarget.elements).forEach(field => {
-      if ( !field.name ) return;
-      formData[field.name] = field.value;
-    });
+  Array.from(e.currentTarget.elements).forEach(field => {
+    if (!field.name) return;
+    formData[field.name] = field.value;
+  });
 
-    console.log(formData);
-    
-    await fetch('/api/mail', {
+  try {
+    const response = await fetch('/api/mail', {
       method: 'POST',
+      headers: {
+        'Content-Type': 'application/json'
+      },
       body: JSON.stringify(formData)
     });
 
-  }
+    const data = await response.json();
 
-function alertFunction() {
-	alert('Mesajınız başarıyla gönderilmiştir!')
+    if (data.success) {
+      alert('Mesajınız başarıyla gönderilmiştir!');
+      e.target.reset();
+    } else {
+      alert('Bir hata oluştu. Lütfen tekrar deneyiniz.');
+    }
+
+  } catch (error) {
+    alert('Sunucu hatası oluştu.');
+  }
 }
+
 
 const Iletisim = () => (
 <MasterPage>
@@ -64,22 +75,22 @@ const Iletisim = () => (
 	      <div className="row">
 	        <div className="col-md-6 col-sm-12">
 	          <div className="form-group">
-	            <label for="exampleInputEmail">Ad Soyad</label>
+	            <label htmlFor="exampleInputEmail">Ad Soyad</label>
 	            <input type="text" className="form-control form-control-sm" id="name" name="name"/>
 	          </div>
 	          <div className="form-group">
-	            <label for="exampleInputEmail">Mail Adresiniz</label>
+	            <label htmlFor="exampleInputEmail">Mail Adresiniz</label>
 	            <input type="text" className="form-control form-control-sm" id="email" name="email"/>
 	          </div>
 	        </div>
 	        <div className="col-md-6 col-sm-12">
 	          <div className="form-group">
-	            <label for="exampleFormControlTextarea1">Mesaj</label>
-	            <textarea className="form-control" id="exampleFormControlTextarea1" rows="4" id="message" name="message"></textarea>
+	            <label htmlFor="exampleFormControlTextarea1">Mesaj</label>
+	            <textarea className="form-control" id="message" rows="4" name="message"></textarea>
 	          </div>
 	        </div>
 	      </div>
-	    	<button type="submit" className="iletisim-button btn" onClick={alertFunction}>Gönder</button>
+	    	<button type="submit" className="iletisim-button btn">Gönder</button>
 	    </form>
 
 	    <div className="col-md-4 col-sm-12 iletisim-mesaj-logo-mobil">
