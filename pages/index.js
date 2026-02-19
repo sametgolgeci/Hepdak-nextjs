@@ -52,6 +52,11 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
+                  <Link href="https://forms.gle/DgUCkbjGJDH9d4U87" target="_blank">
+                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2026/degerlendirici.jpeg"/></div>
+                  </Link>
+                </div>
+                <div className="carousel-item">
                   <Link href="https://forms.gle/WPbvdyT7r5237iMi7" target="_blank">
                     <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2026/puko.jpeg"/></div>
                   </Link>
@@ -94,11 +99,6 @@ const Anasayfa = () => (
                   <Link href="https://www.youtube.com/channel/UC96oXHHypl1WFXpOkvwwj9A"><a target="_blank">
                     <div className="main-top-one-content-full"><img className="slider-full-img" src="img/duyurular/youtube-duyuru.png"/></div>
                   </a></Link>
-                </div>
-                *** Design 4 ***
-                <div className="carousel-item">
-                  <div className="main-top-one-title">TAKIM BAŞKANLARI TOPLANTISI 2021</div>
-                  <div className="main-top-one-content">2020-2021 HEPDAK Akreditasyon sürecinde çevrimiçi olarak gerçekleştirilen ziyaretlerdeki beş takım başkanı ve HEPDAK Yönetim Kurulu üyeleri 07 Ocak 2021 tarihinde çevrimiçi olarak yapılan toplantıda bir araya geldi. Takım başkanları ve Yönetim Kurulu üyeleri özellikle çevrimiçi ziyaret sürecinin yanı sıra tüm ziyaret süreci ile ilgili olarak karşılıklı bilgi alışverişinde bulundu.</div>
                 </div>
                 *** Desing 3 ***
                 <div className="carousel-item">

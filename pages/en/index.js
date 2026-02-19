@@ -49,6 +49,11 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
+                  <Link href="https://forms.gle/DgUCkbjGJDH9d4U87" target="_blank">
+                    <div className="main-top-one-content-full"><img className="slider-full-img" src="../img/banner/2026/en/degerlendirici.jpeg"/></div>
+                  </Link>
+                </div>
+                <div className="carousel-item">
                   <Link href="../doc/en/2026-meeting-calendar.pdf" target="_blank">
                     <div className="main-top-one-content-full"><img className="slider-full-img" src="../img/banner/2026/en/toplanti-takvim.jpeg"/></div>
                   </Link>
