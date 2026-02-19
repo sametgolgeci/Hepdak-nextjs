@@ -50,7 +50,7 @@ const Akredite = () => (
                   </td>
                 </tr>
                 <tr>
-                  <th scope="row">Ankara Yıldırım Beyazıt Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü</th>
+                  <th scope="row">Ankara Yıldırım Beyazıt Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü<br/><Link href="doc/rapor/aybu-genel.pdf" className="akreditasyon-rapor">Genel Rapor</Link></th>
                   <td>16.01.2026</td>
                   <td>30.09.2028</td>
                 </tr>
@@ -68,7 +68,7 @@ const Akredite = () => (
                   </td>
                 </tr>
                 <tr>
-                  <th scope="row">Bartın Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü</th>
+                  <th scope="row">Bartın Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü<br/><Link href="doc/rapor/bartin-genel.pdf" className="akreditasyon-rapor">Genel Rapor</Link></th>
                   <td>16.01.2026</td>
                   <td>30.09.2031</td>
                 </tr>
@@ -128,7 +128,7 @@ const Akredite = () => (
                   </td>
                 </tr>
                 <tr>
-                  <th scope="row">Erciyes Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü<br/><Link href="doc/rapor/erciyes-ara.pdf" className="akreditasyon-rapor">Ara Rapor</Link> | <Link href="doc/rapor/erciyes-genel.pdf" className="akreditasyon-rapor">Genel Rapor</Link></th>
+                  <th scope="row">Erciyes Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü<br/><Link href="doc/rapor/erciyes-genel.pdf" className="akreditasyon-rapor">Genel Rapor</Link></th>
                   <td>
                     <p>01.05.2016</p>
                     <p>01.05.2018</p>
@@ -217,7 +217,7 @@ const Akredite = () => (
                   </td>
                 </tr>
                 <tr>
-                  <th scope="row">İstinye Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü</th>
+                  <th scope="row">İstinye Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü<br/><Link href="doc/rapor/istinye-genel.pdf" className="akreditasyon-rapor">Genel Rapor</Link></th>
                   <td>17.01.2026</td>
                   <td>30.09.2028</td>
                 </tr>
@@ -344,7 +344,7 @@ const Akredite = () => (
                   <td>19.03.2025</td>
                 </tr>
                 <tr>
-                  <th scope="row">Süleyman Demirel Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü</th>
+                  <th scope="row">Süleyman Demirel Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü<br/><Link href="doc/rapor/sdu-genel.pdf" className="akreditasyon-rapor">Genel Rapor</Link></th>
                   <td>16.01.2026</td>
                   <td>30.09.2028</td>
                 </tr>
@@ -373,7 +373,7 @@ const Akredite = () => (
                   </td>
                 </tr>
                 <tr>
-                  <th scope="row">Üsküdar Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü</th>
+                  <th scope="row">Üsküdar Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü<br/><Link href="doc/rapor/uskudar-genel.pdf" className="akreditasyon-rapor">Genel Rapor</Link></th>
                   <td>16.01.2026</td>
                   <td>30.09.2028</td>
                 </tr>

@@ -57,11 +57,6 @@ const Anasayfa = () => (
                   </Link>
                 </div>
                 <div className="carousel-item">
-                  <Link href="https://forms.gle/WPbvdyT7r5237iMi7" target="_blank">
-                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2026/puko.jpeg"/></div>
-                  </Link>
-                </div>
-                <div className="carousel-item">
                   <Link href="/doc/takvim/2026-toplanti-takvim.pdf" target="_blank">
                     <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2026/toplanti-takvim.jpeg"/></div>
                   </Link>
