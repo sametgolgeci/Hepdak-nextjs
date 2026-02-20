@@ -62,9 +62,10 @@ const Kurul = () => (
 	    	<h3 className="kurul-title">Eğitim Komisyonu (EK)</h3>
 	    	<span className="madde-span">• Prof. Dr. Fatma Orgun (Başkan), Ege Üniversitesi</span>
 	    	<span className="madde-span">• Doç. Dr. Hale Sezer (Sekreter), Bakırçay Üniversitesi</span>
-	    	<span className="madde-span">• Prof. Dr. Medine Yılmaz, İzmir Katip Çelebi Üniversitesi</span>
+	    	<span className="madde-span">• Prof. Dr. Medine Yılmaz, İzmir Katip Çelebi Üniversitesi</span>	
 	    	<span className="madde-span">• Prof. Dr. Hatice Mert, Dokuz Eylül Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Gülsüm Nihal Çürük, İzmir Ekonomi Üniversitesi</span>
+	    	<span className="madde-span">• Doç. Dr. Demet İnangil, Sağlık Bilimleri Üniversitesi</span>
 	    	<span className="madde-span">• Dr. Öğr. Üyesi Aydan Baysan, Manisa Celal Bayar Üniversitesi</span>
 	    	<span className="madde-span">• Dr. Ögr. Üyesi Gülsüm Çonoğlu, Çankırı Karatekin Üniversitesi</span>
 	    	<span className="madde-span">• <strong>Öğrenci:</strong> Jale Atak, Manisa Celal Bayar Üniversitesi</span>    	
