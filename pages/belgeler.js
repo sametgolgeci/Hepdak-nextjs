@@ -30,18 +30,18 @@ const Belgeler = () => (
                 <tr>
                   <th scope="row">2</th>
                   <td>
-                    HEPDAK Çalışma Yönetmeliği - <Link href="doc/a2_v2.pdf">Sürüm 2.0</Link> - <a data-toggle="collapse" href="#a02" role="button" aria-expanded="false" aria-controls="a02">↓</a>
+                    HEPDAK Çalışma Yönetmeliği - <Link href="doc/a2_v3.pdf">Sürüm 3.0</Link> - <a data-toggle="collapse" href="#a02" role="button" aria-expanded="false" aria-controls="a02">↓</a>
                     <div className="collapse" id="a02">
-                      <p>- <Link href="doc/a2_v1.pdf">Sürüm 1.0</Link></p>
+                      <p>- <Link href="doc/a2_v2.pdf">Sürüm 2.0</Link><br/>- <Link href="doc/a2_v1.pdf">Sürüm 1.0</Link></p>
                     </div>
                   </td>
                 </tr>
                 <tr>
                   <th scope="row">3</th>
                   <td>
-                    HEPDAK Değerlendirme ve Akreditasyon Uygulama Esasları Yönergesi - <Link href="doc/a3_v6.pdf">Sürüm 6.0</Link> - <a data-toggle="collapse" href="#a03" role="button" aria-expanded="false" aria-controls="a03">↓</a>
+                    HEPDAK Değerlendirme ve Akreditasyon Uygulama Esasları Yönergesi - <Link href="doc/a3_v6_1.pdf">Sürüm 6.1</Link> - <a data-toggle="collapse" href="#a03" role="button" aria-expanded="false" aria-controls="a03">↓</a>
                     <div className="collapse" id="a03">
-                      <p>- <Link href="doc/a3_v5.pdf">Sürüm 5.0</Link><br/>- <Link href="doc/a3_v4.pdf">Sürüm 4.0</Link><br/>- <Link href="doc/a3_v3.pdf">Sürüm 3.0</Link><br/>- <Link href="doc/a3_v2.pdf">Sürüm 2.0</Link><br/>- <Link href="doc/a3_v1.pdf">Sürüm 1.0</Link></p>
+                      <p>- <Link href="doc/a3_v6.pdf">Sürüm 6.0</Link><br/>- <Link href="doc/a3_v5.pdf">Sürüm 5.0</Link><br/>- <Link href="doc/a3_v4.pdf">Sürüm 4.0</Link><br/>- <Link href="doc/a3_v3.pdf">Sürüm 3.0</Link><br/>- <Link href="doc/a3_v2.pdf">Sürüm 2.0</Link><br/>- <Link href="doc/a3_v1.pdf">Sürüm 1.0</Link></p>
                     </div>
                   </td>
                 </tr>
