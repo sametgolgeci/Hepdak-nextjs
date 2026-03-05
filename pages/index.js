@@ -295,72 +295,6 @@ const Anasayfa = () => (
           </div>
           </Link>
 
-          <Link href="/haberler/2025-05-30-31-haber" legacyBehavior>
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">30-31</div>
-              <div className="date-month">Mayıs</div>
-              <div className="date-year">2025</div>
-            </div>
-            <div className="block-subtitle-text">HEPDAK 2025 yılı Değerlendirici Eğitimi</div>
-          </div>
-          </Link>
-
-          <Link href="/haberler/2025-05-27-haber" legacyBehavior>
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">27</div>
-              <div className="date-month">Mayıs</div>
-              <div className="date-year">2025</div>
-            </div>
-            <div className="block-subtitle-text">HEPDAK Değerlendirici Eğitimi (Tazelenme) Çalıştayı</div>
-          </div>
-          </Link>
-
-          <Link href="/haberler/2025-04-30-haber" legacyBehavior>
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">30</div>
-              <div className="date-month">Nisan</div>
-              <div className="date-year">2025</div>
-            </div>
-            <div className="block-subtitle-text">YÖKAK tarafından düzenlenen izleme ziyareti gerçekleştirildi</div>
-          </div>
-          </Link>
-
-          <Link href="/haberler/2025-02-26-haber" legacyBehavior>
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">26</div>
-              <div className="date-month">Şubat</div>
-              <div className="date-year">2025</div>
-            </div>
-            <div className="block-subtitle-text">Akredite edilmek üzere Başvuran Kurum Yöneticileri ile Toplantı</div>
-          </div>
-          </Link>
-
-          <Link href="/haberler/2025-02-19-haber" legacyBehavior>
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">19</div>
-              <div className="date-month">Şubat</div>
-              <div className="date-year">2025</div>
-            </div>
-            <div className="block-subtitle-text">Akreditasyon İçin Ziyaret Edilen Kurumlar ile Değerlendirme Toplantısı</div>
-          </div>
-          </Link>
-
-          <Link href="/haberler/2025-01-07-haber" legacyBehavior>
-          <div className="main-block-subtitle">
-            <div className="block-subtitle-date">
-              <div className="date-day">07</div>
-              <div className="date-month">Ocak</div>
-              <div className="date-year">2025</div>
-            </div>
-            <div className="block-subtitle-text">HEPDAK Takım Başkanları Toplantısı - 8</div>
-          </div>
-          </Link>
-
         </div>
       </div>
       <div className="main-new-block col-md-4 col-sm-12">
@@ -400,9 +334,7 @@ const Anasayfa = () => (
             <div className="block-title-main">Etkinlikler</div>
             <div className="block-title-all"><a href="/#">Tüm Etkinlikler</a></div>
           </div>
-
-          
-
+          {/*
           <Link href="/doc/etkinlikler/puko-program.pdf" target="_blank" legacyBehavior>
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
@@ -413,9 +345,7 @@ const Anasayfa = () => (
             <div className="block-subtitle-text"><strong>Hemşirelik Eğitiminde Sürekli İyileştirme ve PUKÖ Döngüsünün Etkin Kullanımı</strong><br/>Kurs Programı</div>
           </div>
           </Link>
-
-          
-
+          */}
         </div>
       </div>
     </div>
