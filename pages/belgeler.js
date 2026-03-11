@@ -36,9 +36,9 @@ const Belgeler = () => (
                 </tr>
                 <tr>
                   <th scope="row">3</th>
-                  <td>HEPDAK Değerlendirme ve Akreditasyon Uygulama Esasları Yönergesi - <Link href="doc/a3_v6_1.pdf">Sürüm 6.1</Link> - <a data-toggle="collapse" href="#a03" role="button" aria-expanded="false" aria-controls="a03">↓</a>
+                  <td>HEPDAK Değerlendirme ve Akreditasyon Uygulama Esasları Yönergesi - <Link href="doc/a3_v6.pdf">Sürüm 6.0</Link> - <a data-toggle="collapse" href="#a03" role="button" aria-expanded="false" aria-controls="a03">↓</a>
                     <div className="collapse" id="a03">
-                      <p>- <Link href="doc/a3_v6.pdf">Sürüm 6.0</Link><br/>- <Link href="doc/a3_v5.pdf">Sürüm 5.0</Link><br/>- <Link href="doc/a3_v4.pdf">Sürüm 4.0</Link><br/>- <Link href="doc/a3_v3.pdf">Sürüm 3.0</Link><br/>- <Link href="doc/a3_v2.pdf">Sürüm 2.0</Link><br/>- <Link href="doc/a3_v1.pdf">Sürüm 1.0</Link></p>
+                      <p>- <Link href="doc/a3_v5.pdf">Sürüm 5.0</Link><br/>- <Link href="doc/a3_v4.pdf">Sürüm 4.0</Link><br/>- <Link href="doc/a3_v3.pdf">Sürüm 3.0</Link><br/>- <Link href="doc/a3_v2.pdf">Sürüm 2.0</Link><br/>- <Link href="doc/a3_v1.pdf">Sürüm 1.0</Link></p>
                     </div>
                   </td>
                 </tr>
@@ -108,7 +108,7 @@ const Belgeler = () => (
                 </tr>
                 <tr>
                   <th scope="row">3</th>
-                  <td>HEPDAK Özdeğerlendirme Raporu Hazırlama Kılavuzu - <strong>Sürüm 6.0</strong> (<Link href="doc/b4_v6.pdf">PDF</Link> | <Link href="doc/b4_v6.docx">Word</Link>) - <a data-toggle="collapse" href="#b03" role="button" aria-expanded="false" aria-controls="b03">↓</a>
+                  <td>HEPDAK Özdeğerlendirme Raporu Hazırlama Kılavuzu - <Link href="doc/b4_v6.pdf">Sürüm 6.0</Link> - <a data-toggle="collapse" href="#b03" role="button" aria-expanded="false" aria-controls="b03">↓</a>
                     <div className="collapse" id="b03">
                       <p>- <strong>Sürüm 5.1</strong> (<Link href="doc/b4_v5_1.pdf">PDF</Link> | <Link href="doc/b4_v5_1.doc">Word</Link>)<br/>- <strong>Sürüm 5.0</strong> (<Link href="doc/b4_v5.pdf">PDF</Link> | <Link href="doc/b4_v5.doc">Word</Link>)<br/>- <strong>Sürüm 4.1</strong> (<Link href="doc/b4_v4_1.pdf">PDF</Link> | <Link href="doc/b4_v4_1.doc">Word</Link>)<br/>- <strong>Sürüm 4.0</strong> (<Link href="doc/b4_v4.pdf">PDF</Link> | <Link href="doc/b4_v4.doc">Word</Link>)<br/>- <Link href="doc/b4_v3.pdf">Sürüm 3.0</Link><br/>- <Link href="doc/b4_v2.pdf">Sürüm 2.0</Link><br/>- <Link href="doc/b4_v1.pdf">Sürüm 1.0</Link></p>
                     </div>
@@ -172,8 +172,8 @@ const Belgeler = () => (
                 </tr>
                 <tr>
                   <th scope="row">2</th>
-                  <td>HEPDAK Öğrenci Değerlendirici Raporu - <Link href="doc/b12_v6.pdf">Sürüm 6.0</Link> - <a data-toggle="collapse" href="#c04" role="button" aria-expanded="false" aria-controls="c04">↓</a>
-                    <div className="collapse" id="c04">
+                  <td>HEPDAK Öğrenci Değerlendirici Raporu - <Link href="doc/b12_v6.pdf">Sürüm 6.0</Link> - <a data-toggle="collapse" href="#d02" role="button" aria-expanded="false" aria-controls="d02">↓</a>
+                    <div className="collapse" id="d02">
                       <p>- <strong>Sürüm 4.0</strong> (<Link href="doc/b12_v4.pdf">PDF</Link> | <Link href="doc/b12_v4.doc">Word</Link>)<br/>- <strong>Sürüm 3.0</strong> (<Link href="doc/b12_v3.pdf">PDF</Link> | <Link href="doc/b12_v3.doc">Word</Link>)<br/>- <strong>Sürüm 2.0</strong> (<Link href="doc/b12_v2.pdf">PDF</Link> | <Link href="doc/b12_v2.doc">Word</Link>)<br/>- <Link href="doc/b6_v1.pdf">Sürüm 1.0</Link></p>
                     </div>
                   </td>
@@ -184,8 +184,8 @@ const Belgeler = () => (
                 </tr>
                 <tr>
                   <th scope="row">4</th>
-                  <td>Öğrenci Değerlendirici Yerinde Ziyaret Takvimi - <strong>Sürüm 2.0</strong> (<Link href="doc/d7_v2.pdf">PDF</Link> | <Link href="doc/d7_v2.docx">Word</Link>) - <a data-toggle="collapse" href="#d07" role="button" aria-expanded="false" aria-controls="d07">↓</a>
-                    <div className="collapse" id="d07">
+                  <td>Öğrenci Değerlendirici Yerinde Ziyaret Takvimi - <strong>Sürüm 2.0</strong> (<Link href="doc/d7_v2.pdf">PDF</Link> | <Link href="doc/d7_v2.docx">Word</Link>) - <a data-toggle="collapse" href="#d04" role="button" aria-expanded="false" aria-controls="d04">↓</a>
+                    <div className="collapse" id="d04">
                       <p>- <strong>Sürüm 1.0</strong> (<Link href="doc/d7_v1.pdf">PDF</Link> | <Link href="doc/d7_v1.docx">Word</Link>)</p>
                     </div>
                   </td>
@@ -206,8 +206,8 @@ const Belgeler = () => (
                 </tr>
                 <tr>
                   <th scope="row">2</th>
-                  <td>Hemşirelik Eğitimi Programları Akreditasyon Süreci Akış Şeması - <Link href="doc/d1_v6.pdf">Sürüm 6.0</Link> - <a data-toggle="collapse" href="#d01" role="button" aria-expanded="false" aria-controls="d01">↓</a>
-                    <div className="collapse" id="d01">
+                  <td>Hemşirelik Eğitimi Programları Akreditasyon Süreci Akış Şeması - <Link href="doc/d1_v6.pdf">Sürüm 6.0</Link> - <a data-toggle="collapse" href="#e02" role="button" aria-expanded="false" aria-controls="e02">↓</a>
+                    <div className="collapse" id="e02">
                       <p>- <Link href="doc/d1_v1_4.pdf">Sürüm 1.4</Link><br/>- <Link href="doc/d1_v1_3.pdf">Sürüm 1.3</Link><br/>- <Link href="doc/d1_v1_2.pdf">Sürüm 1.2</Link><br/>- <Link href="doc/d1_v1_1.pdf">Sürüm 1.1</Link><br/>- <Link href="doc/d1_v1.pdf">Sürüm 1.0</Link></p>
                     </div>
                   </td>
@@ -246,8 +246,8 @@ const Belgeler = () => (
                 </tr>
                 <tr>
                   <th scope="row">3</th>
-                  <td>HEPDAK Uzaktan Eğitim Standartları - <strong>Sürüm 1.1</strong> (<Link href="doc/b14_v1_1.pdf">PDF</Link> | <Link href="doc/b14_v1_1.docx">Word</Link>) - <a data-toggle="collapse" href="#e03" role="button" aria-expanded="false" aria-controls="e03">↓</a>
-                    <div className="collapse" id="e03">
+                  <td>HEPDAK Uzaktan Eğitim Standartları - <strong>Sürüm 1.1</strong> (<Link href="doc/b14_v1_1.pdf">PDF</Link> | <Link href="doc/b14_v1_1.docx">Word</Link>) - <a data-toggle="collapse" href="#f03" role="button" aria-expanded="false" aria-controls="f03">↓</a>
+                    <div className="collapse" id="f03">
                       <p>- <strong>Sürüm 1.0</strong> (<Link href="doc/b14_v1.pdf">PDF</Link> | <Link href="doc/b14_v1.docx">Word</Link>)</p>
                     </div>
                   </td>
