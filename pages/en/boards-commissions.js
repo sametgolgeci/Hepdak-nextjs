@@ -11,9 +11,9 @@ const Kurul = () => (
 	    <h1>Boards</h1>
 	    	<h3 className="kurul-title">HEPDAK Board of Directors</h3>
 	    	<span className="madde-span">• Prof. Dr. Dilek Özmen (Chair), Manisa Celal Bayar Üniversitesi</span>
-	    	<span className="madde-span">• Prof. Dr. Oya Kavlak (Vise Chair), Ege Üniversitesi</span>
+	    	<span className="madde-span">• Prof. Dr. Oya Kavlak (Vise Chair, Accountant), Ege Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Medine Yılmaz (General Secretary), İzmir Katip Çelebi Üniversitesi</span>
-	    	<span className="madde-span">• Prof. Dr. Gülsüm Nihal Çürük (Accountant), İzmir Ekonomi Üniversitesi</span>
+	    	<span className="madde-span">• Prof. Dr. Gülten Koç (Member), Hacettepe Üniversitesi</span>
 	    	<span className="madde-span">• Asst. Prof. Dr. Çiğdem Gamze Özkan (Member), Manisa Celal Bayar Üniversitesi</span>
 
 	    	<h3 className="kurul-title">Auditing Board</h3>
@@ -28,7 +28,7 @@ const Kurul = () => (
 	    	<span className="madde-span">• Prof. Dr. Kadriye Buldukoğlu, Akdeniz Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Aynur Uysal Toraman, Ege Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Hülya Okumuş (Hemşirelik Eğitimi Derneği Temsilcisi), Retired Faculty Member</span>
-	    	<span className="madde-span">• <strong>Türk Hemşireler Derneği:</strong> Assoc. Prof. Dr. Gülten Koç, Hacettepe Üniversitesi Hemşirelik Fakültesi</span>
+	    	<span className="madde-span">• <strong>Türk Hemşireler Derneği:</strong> Prof. Dr. Gülten Koç, Hacettepe Üniversitesi</span>
 	    	<span className="madde-span">• CNS. Pınar Akçay, Sağlık Bakanlığı Hastaneleri Temsilcisi</span>
 	    	<span className="madde-span">• Asst. Prof. Dr. Ahu Çırlak, Özel Ankara Güven Hastanesi Eğitim ve Ar-Ge Müdürü</span>
 	    	<span className="madde-span">• <strong>Hemşire:</strong> Melek Gülcük, İzmir Buca Seyfi Demirsoy EAH, Eğitim Birimi (Hemşire Temsilcisi)</span>
@@ -51,7 +51,7 @@ const Kurul = () => (
 	    	<span className="madde-span">• Prof. Dr. Emine Türkmen (Sekreter), İstinye Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Sergül Duygulu, Hacettepe Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Hülya Kaya, Bezmialem Vakıf Üniversitesi</span>
-	    	<span className="madde-span">• Assoc. Prof. Dr. Gülten Koç, Hacettepe Üniversitesi, THD Temsilcisi</span>
+	    	<span className="madde-span">• Prof. Dr. Gülten Koç, Hacettepe Üniversitesi</span>
 	    	<span className="madde-span">• Assoc. Prof. Dr. Demet İnangil, Sağlık Bilimleri Üniversitesi</span>
 	    	<span className="madde-span">• Assoc. Prof. Dr. Yasin Çetin, Adıyaman Üniversitesi</span>
 	    	<span className="madde-span">• Asst. Prof. Dr. Gülçin Uyanık, İzmir Katip Çelebi Üniversitesi</span>

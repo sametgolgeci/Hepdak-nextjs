@@ -11,9 +11,9 @@ const Kurul = () => (
 	    <h1>Kurullar</h1>
 	    	<h3 className="kurul-title">HEPDAK Yönetim Kurulu</h3>
 	    	<span className="madde-span">• Prof. Dr. Dilek Özmen (Başkan), Manisa Celal Bayar Üniversitesi</span>
-	    	<span className="madde-span">• Prof. Dr. Oya Kavlak (Başkan Yardımcısı), Ege Üniversitesi</span>
+	    	<span className="madde-span">• Prof. Dr. Oya Kavlak (Başkan Yardımcısı, Sayman), Ege Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Medine Yılmaz (Genel Sekreter), İzmir Katip Çelebi Üniversitesi</span>
-	    	<span className="madde-span">• Prof. Dr. Gülsüm Nihal Çürük (Sayman), İzmir Ekonomi Üniversitesi</span>
+	    	<span className="madde-span">• Prof. Dr. Gülten Koç (Üye), Hacettepe Üniversitesi</span>
 	    	<span className="madde-span">• Dr. Öğr. Üyesi Çiğdem Gamze Özkan (Üye), Manisa Celal Bayar Üniversitesi</span>
 	    	<span className="madde-span"><h6><Link href="/yonetim-kurullari">Önceki Dönemlerdeki Yönetim Kurulları</Link></h6></span>
 	    	
@@ -29,7 +29,7 @@ const Kurul = () => (
 	    	<span className="madde-span">• Prof. Dr. Kadriye Buldukoğlu, Akdeniz Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Aynur Uysal Toraman, Ege Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Hülya Okumuş, (Hemşirelik Eğitimi Derneği Temsilcisi) Emekli Öğretim Üyesi</span>
-	    	<span className="madde-span">• <strong>Türk Hemşireler Derneği:</strong> Doç. Dr. Gülten Koç, Hacettepe Üniversitesi Hemşirelik Fakültesi</span>
+	    	<span className="madde-span">• <strong>Türk Hemşireler Derneği:</strong> Prof. Dr. Gülten Koç, Hacettepe Üniversitesi</span>
 	    	<span className="madde-span">• Uzm. Hem. Pınar Akçay, Sağlık Bakanlığı Hastaneleri Temsilcisi</span>
 	    	<span className="madde-span">• Dr. Ögr. Üyesi Ahu Çırlak, Selçuk Üniversitesi Kulu Sağlık Bilimleri Fakültesi</span>
 	    	<span className="madde-span">• <strong>Hemşire:</strong> Melek Gülcük, İzmir Buca Seyfi Demirsoy EAH, Eğitim Birimi (Hemşire Temsilcisi)</span>
@@ -52,7 +52,7 @@ const Kurul = () => (
 	    	<span className="madde-span">• Prof. Dr. Emine Türkmen (Sekreter), İstinye Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Sergül Duygulu, Hacettepe Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Hülya Kaya, Bezmialem Vakıf Üniversitesi</span>
-	    	<span className="madde-span">• Doç. Dr. Gülten Koç,  Hacettepe Üniversitesi, THD Temsilcisi</span>
+	    	<span className="madde-span">• Prof. Dr. Gülten Koç,  Hacettepe Üniversitesi, THD Temsilcisi</span>
 	    	<span className="madde-span">• Doç. Dr. Demet İnangil, Sağlık Bilimleri Üniversitesi</span>
 	    	<span className="madde-span">• Doç. Dr. Yasin Çetin, Adıyaman Üniversitesi</span>
 	    	<span className="madde-span">• Dr. Öğr. Üyesi Gülçin Uyanık, İzmir Katip Çelebi Üniversitesi</span>
