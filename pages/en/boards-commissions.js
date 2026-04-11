@@ -67,7 +67,7 @@ const Kurul = () => (
 	    	<span className="madde-span">• Assoc. Prof. Dr. Demet İnangil, Sağlık Bilimleri Üniversitesi</span>
 	    	<span className="madde-span">• Asst. Prof. Dr. Üyesi Aydan Baysan, Manisa Celal Bayar Üniversitesi</span>
 	    	<span className="madde-span">• Asst. Prof. Dr. Üyesi Gülsüm Çonoğlu, Çankırı Karatekin Üniversitesi</span>
-	    	<span className="madde-span">• <strong>Student:</strong> Jale Atak, Manisa Celal Bayar Üniversitesi</span> 	
+	    	<span className="madde-span">• <strong>Student:</strong> Buse Tokuş, Manisa Celal Bayar Üniversitesi</span> 	
 
 	    	<h3 className="kurul-title">Continuous Improvement Commission</h3>
 	    	<span className="madde-span">• Prof. Dr. Ayla Keçeci (Chair), Düzce Üniversitesi</span>

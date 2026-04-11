@@ -68,7 +68,7 @@ const Kurul = () => (
 	    	<span className="madde-span">• Doç. Dr. Demet İnangil, Sağlık Bilimleri Üniversitesi</span>
 	    	<span className="madde-span">• Dr. Öğr. Üyesi Aydan Baysan, Manisa Celal Bayar Üniversitesi</span>
 	    	<span className="madde-span">• Dr. Ögr. Üyesi Gülsüm Çonoğlu, Çankırı Karatekin Üniversitesi</span>
-	    	<span className="madde-span">• <strong>Öğrenci:</strong> Jale Atak, Manisa Celal Bayar Üniversitesi</span>    	
+	    	<span className="madde-span">• <strong>Öğrenci:</strong> Buse Tokuş, Manisa Celal Bayar Üniversitesi</span>    	
 
 	    	<h3 className="kurul-title">Sürekli İyileştirme Komisyonu (SÜİK)</h3>
 	    	<span className="madde-span">• Prof. Dr. Ayla Keçeci (Başkan), Düzce Üniversitesi</span>
