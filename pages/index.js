@@ -52,11 +52,6 @@ const Anasayfa = () => (
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
-                  <Link href="/doc/form/2026-ogrenci-egitimi.docx" target="_blank">
-                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2026/ogrenci-degerlendirici-egitim.jpeg"/></div>
-                  </Link>
-                </div>
-                <div className="carousel-item">
                   <Link href="/doc/takvim/2026-toplanti-takvim.pdf" target="_blank">
                     <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2026/toplanti-takvim.jpeg"/></div>
                   </Link>
