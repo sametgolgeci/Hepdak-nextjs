@@ -6,8 +6,17 @@ import Footer from '../components/footer'
 import Navigation from '../components/navigation'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faHourglassStart,faCheck,faFileAlt,faFile,faImages,faChevronRight,faChevronLeft,faPencilAlt,faBalanceScale } from '@fortawesome/free-solid-svg-icons'
+import { useState, useEffect } from 'react';
 
-const Anasayfa = () => (
+const Anasayfa = () => {
+
+  const [showModal, setShowModal] = useState(false);
+
+  useEffect(() => {
+    setShowModal(true);
+  }, []);
+
+  return (
   <div>
     <Head>
       <title>HEPDAK | Anasayfa</title>
@@ -24,7 +33,17 @@ const Anasayfa = () => (
 
     </Head>
     <Header/>
+    {/* Modal Section */}
+    {showModal && (
+      <div className="custom-modal-overlay" onClick={() => setShowModal(false)}>
+        <div className="custom-modal-content" onClick={(e) => e.stopPropagation()}>
+          <img src="/img/modal/modal.jpeg" alt="Popup" className="custom-modal-image"/>
+        </div>
+      </div>
+    )}
+
     <Navigation/>
+
     {/*
     <div className="home-duyuru">
       <Link href="https://www.hegk2025.com" target="_blank">
@@ -32,6 +51,7 @@ const Anasayfa = () => (
       </Link>
     </div>
     */}
+
     <div className="main-top">
       <div className="main-top-nav">
         <ul className="main-top-akredite">
@@ -490,6 +510,7 @@ const Anasayfa = () => (
     </div>
     <Footer/>
   </div>
-)
+  );
+};
 export default Anasayfa
   

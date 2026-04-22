@@ -1184,3 +1184,40 @@ table{
 		display: block;
 	}
 }
+
+/* Modal */
+
+.custom-modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.8); /* arka plan karartma */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+}
+
+.custom-modal-content {
+  width: 66vw;   /* ekranın 3'te 1'i */
+  height: 66vw;  /* kare olması için */
+  max-width: 100%;
+  max-height: 100%;
+}
+@media(min-width: 768px){
+	.custom-modal-content {
+	  width: 33vw;   /* ekranın 3'te 1'i */
+	  height: 33vw;  /* kare olması için */
+	  max-width: 100%;
+	  max-height: 100%;
+	}
+}
+
+.custom-modal-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 0.3125rem;
+}
