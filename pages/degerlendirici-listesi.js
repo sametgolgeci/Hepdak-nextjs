@@ -12,12 +12,12 @@ const Uye = () => (
         <div className="jumbotron">
           <p>HEPDAK Değerlendirici Listesine  <Link
             href="doc/degerlendiriciler_listesi/degerlendirici-listesi.pdf"
-            target="_blank">buradan</Link> ulaşabilirsiniz. <strong>(31 Mayıs 2025)</strong></p>
+            target="_blank">buradan</Link> ulaşabilirsiniz. <strong>(18 Nisan 2026)</strong></p>
         </div>
         <div className="jumbotron">
           <p>HEPDAK Öğrenci Değerlendirici Listesine  <Link
             href="doc/degerlendiriciler_listesi/ogrenci-degerlendirici-listesi.pdf"
-            target="_blank">buradan</Link> ulaşabilirsiniz. <strong>(04 Ekim 2025)</strong></p>
+            target="_blank">buradan</Link> ulaşabilirsiniz. <strong>(10 Nisan 2026)</strong></p>
         </div>
       </div>
     </MasterPage>
