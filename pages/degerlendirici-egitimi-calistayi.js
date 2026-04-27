@@ -21,6 +21,40 @@ const Calistay = () => (
 		<p className="madde-p">• HEPDAK standartlarının karşılanma durumuna karar verebilme</p>
 		<p className="madde-p">• Değerlendirme raporu hazırlayabilme</p>
 		<p className="madde-p">• Yerinde ve sanal ziyaret süreçlerini anlama</p>
+		<h6><span className="badge badge-custom">13</span> 25 Mart / 17 - 18 Nisan 2026 HEPDAK Değerlendirici Eğitimi </h6>
+		<p>
+			<ul className="nav calistay-nav">
+			  <li className="nav-item">
+			    <a className="nav-link calistay-button" href="doc/degerlendirici_egitim_calistaylari/13/program.pdf">Program</a>
+			  </li>
+			  <li className="nav-item">
+			    <a className="nav-link calistay-button" href="doc/degerlendirici_egitim_calistaylari/13/katilimci-listesi.pdf">Katılımcı Listesi</a>
+			  </li>
+			  <li className="nav-item">
+			    <a className="nav-link calistay-button" data-toggle="collapse" href="#collapseExampleFoto13" role="button" aria-expanded="false" aria-controls="collapseExampleFoto13">Fotoğraflar</a>
+			  </li>
+			  <li className="nav-item">
+			    <a className="nav-link calistay-button" href="doc/degerlendirici_egitim_calistaylari/13/degerlendirme.pdf">Değerlendirme</a>
+			  </li>
+			</ul>
+		</p>
+		<div className="collapse" id="collapseExampleFoto13">
+			<p><strong>- Fotoğraflar</strong></p>
+			<div className="container">
+				<div className="row">
+					<div className="col-md-3 col-sm-12"><a href="doc/degerlendirici_egitim_calistaylari/13/01.png" target="_blank"><img className="calistay-img" src="doc/degerlendirici_egitim_calistaylari/13/01.png" alt="HEPDAK 2026 yılı Değerlendirici Eğitimi"/></a></div>
+          			<div className="col-md-3 col-sm-12"><a href="doc/degerlendirici_egitim_calistaylari/13/02.png" target="_blank"><img className="calistay-img" src="doc/degerlendirici_egitim_calistaylari/13/02.png" alt="HEPDAK 2026 yılı Değerlendirici Eğitimi"/></a></div>
+          			<div className="col-md-3 col-sm-12"><a href="doc/degerlendirici_egitim_calistaylari/13/03.png" target="_blank"><img className="calistay-img" src="doc/degerlendirici_egitim_calistaylari/13/03.png" alt="HEPDAK 2026 yılı Değerlendirici Eğitimi"/></a></div>
+          			<div className="col-md-3 col-sm-12"><a href="doc/degerlendirici_egitim_calistaylari/13/04.png" target="_blank"><img className="calistay-img" src="doc/degerlendirici_egitim_calistaylari/13/04.png" alt="HEPDAK 2026 yılı Değerlendirici Eğitimi"/></a></div>
+          			<div className="col-md-3 col-sm-12"><a href="doc/degerlendirici_egitim_calistaylari/13/05.png" target="_blank"><img className="calistay-img" src="doc/degerlendirici_egitim_calistaylari/13/05.png" alt="HEPDAK 2026 yılı Değerlendirici Eğitimi"/></a></div>
+          			<div className="col-md-3 col-sm-12"><a href="doc/degerlendirici_egitim_calistaylari/13/06.png" target="_blank"><img className="calistay-img" src="doc/degerlendirici_egitim_calistaylari/13/06.png" alt="HEPDAK 2026 yılı Değerlendirici Eğitimi"/></a></div>
+          			<div className="col-md-3 col-sm-12"><a href="doc/degerlendirici_egitim_calistaylari/13/07.png" target="_blank"><img className="calistay-img" src="doc/degerlendirici_egitim_calistaylari/13/07.png" alt="HEPDAK 2026 yılı Değerlendirici Eğitimi"/></a></div>
+          			<div className="col-md-3 col-sm-12"><a href="doc/degerlendirici_egitim_calistaylari/13/08.png" target="_blank"><img className="calistay-img" src="doc/degerlendirici_egitim_calistaylari/13/08.png" alt="HEPDAK 2026 yılı Değerlendirici Eğitimi"/></a></div>
+          			<div className="col-md-3 col-sm-12"><a href="doc/degerlendirici_egitim_calistaylari/13/09.png" target="_blank"><img className="calistay-img" src="doc/degerlendirici_egitim_calistaylari/13/09.png" alt="HEPDAK 2026 yılı Değerlendirici Eğitimi"/></a></div>
+          			<div className="col-md-3 col-sm-12"><a href="doc/degerlendirici_egitim_calistaylari/13/10.png" target="_blank"><img className="calistay-img" src="doc/degerlendirici_egitim_calistaylari/13/10.png" alt="HEPDAK 2026 yılı Değerlendirici Eğitimi"/></a></div>
+				</div>
+			</div>
+		</div>
 		<h6><span className="badge badge-custom">12</span> 29 Nisan / 30 - 31 Mayıs 2025 HEPDAK Değerlendirici Eğitimi </h6>
 		<p>
 			<ul className="nav calistay-nav">
@@ -43,8 +77,8 @@ const Calistay = () => (
 			<div className="container">
 				<div className="row">
 					<div className="col-md-3 col-sm-12"><a href="doc/degerlendirici_egitim_12/01.jpeg" target="_blank"><img className="calistay-img" src="doc/degerlendirici_egitim_12/01.jpeg" alt="HEPDAK 2025 yılı Değerlendirici Eğitimi"/></a></div>
-          <div className="col-md-3 col-sm-12"><a href="doc/degerlendirici_egitim_12/02.png" target="_blank"><img className="calistay-img" src="doc/degerlendirici_egitim_12/02.png" alt="HEPDAK 2025 yılı Değerlendirici Eğitimi"/></a></div>
-          <div className="col-md-3 col-sm-12"><a href="doc/degerlendirici_egitim_12/03.png" target="_blank"><img className="calistay-img" src="doc/degerlendirici_egitim_12/03.png" alt="HEPDAK 2025 yılı Değerlendirici Eğitimi"/></a></div>
+          			<div className="col-md-3 col-sm-12"><a href="doc/degerlendirici_egitim_12/02.png" target="_blank"><img className="calistay-img" src="doc/degerlendirici_egitim_12/02.png" alt="HEPDAK 2025 yılı Değerlendirici Eğitimi"/></a></div>
+          			<div className="col-md-3 col-sm-12"><a href="doc/degerlendirici_egitim_12/03.png" target="_blank"><img className="calistay-img" src="doc/degerlendirici_egitim_12/03.png" alt="HEPDAK 2025 yılı Değerlendirici Eğitimi"/></a></div>
 				</div>
 			</div>
 		</div>

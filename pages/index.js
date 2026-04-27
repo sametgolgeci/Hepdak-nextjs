@@ -33,7 +33,7 @@ const Anasayfa = () => {
 
     </Head>
     <Header/>
-    {/* Modal Section */}
+    {/* Modal Section 
     {showModal && (
       <div className="custom-modal-overlay" onClick={() => setShowModal(false)}>
         <div className="custom-modal-content" onClick={(e) => e.stopPropagation()}>
@@ -41,7 +41,7 @@ const Anasayfa = () => {
         </div>
       </div>
     )}
-
+*/}
     <Navigation/>
 
     {/*
@@ -189,6 +189,17 @@ const Anasayfa = () => {
             <div className="block-title-all"><a href="/tum-haberler">Tüm Haberler</a></div>
           </div>
          
+          <Link href="/haberler/2026-04-17-18-haber" legacyBehavior>
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">17-18</div>
+              <div className="date-month">Nisan</div>
+              <div className="date-year">2026</div>
+            </div>
+            <div className="block-subtitle-text">HEPDAK 2026 Yılı Değerlendirici Eğitimi Çalıştayı Gerçekleştirildi</div>
+          </div>
+          </Link>
+
           <Link href="/haberler/2026-04-10-haber" legacyBehavior>
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
