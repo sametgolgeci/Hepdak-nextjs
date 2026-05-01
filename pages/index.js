@@ -72,6 +72,11 @@ const Anasayfa = () => {
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
+                  <Link href="https://us02web.zoom.us/j/83336627209?pwd=w301Q5NFvycMp0FI9XHoSIRbBr1dJG.1" target="_blank">
+                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/webinar/webinar-16.jpeg"/></div>
+                  </Link>
+                </div>
+                <div className="carousel-item">
                   <Link href="/doc/takvim/2026-toplanti-takvim.pdf" target="_blank">
                     <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2026/toplanti-takvim.jpeg"/></div>
                   </Link>
@@ -186,7 +191,8 @@ const Anasayfa = () => {
         <div className="main-new-block-alt">
           <div className="main-block-title">
             <div className="block-title-main">Haberler</div>
-            <div className="block-title-all"><a href="/tum-haberler">Tüm Haberler</a></div>
+            {/*<div className="block-title-all"><a href="/tum-haberler">Tüm Haberler</a></div>*/}
+            <div className="block-title-all"><Link href="/tum-haberler">Tüm Haberler</Link></div>
           </div>
          
           <Link href="/haberler/2026-04-17-18-haber" legacyBehavior>
