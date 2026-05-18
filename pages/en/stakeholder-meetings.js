@@ -98,16 +98,20 @@ const Belgeler = () => (
         <table className="table table-striped">
           <tbody>
             <tr>
+              <td scope="row" width="110px">April - May, 2026</td>
+              <td><Link href="../doc/paydas_toplantilari/bilgilendirme_egitimi_programlari/04.pdf" target="_blank">Consulting Meeting (in Turkish)</Link></td>
+            </tr>
+            <tr>
               <td scope="row" width="110px">March 25, 2025</td>
-              <td><Link href="../doc/paydas_toplantilari/danisman_toplantilari/03.pdf" target="_blank">Consulting Meeting (in Turkish)</Link></td>
+              <td><Link href="../doc/paydas_toplantilari/bilgilendirme_egitimi_programlari/03.pdf" target="_blank">Consulting Meeting (in Turkish)</Link></td>
             </tr>
             <tr>
               <td scope="row" width="110px">March 04, 2024</td>
-              <td><Link href="../doc/paydas_toplantilari/danisman_toplantilari/02.pdf" target="_blank">Consulting Meeting (in Turkish)</Link></td>
+              <td><Link href="../doc/paydas_toplantilari/bilgilendirme_egitimi_programlari/02.pdf" target="_blank">Consulting Meeting (in Turkish)</Link></td>
             </tr>
             <tr>
               <td scope="row" width="110px">March 22, 2023</td>
-              <td><Link href="../doc/paydas_toplantilari/danisman_toplantilari/01.pdf" target="_blank">Consulting Meeting (in Turkish)</Link></td>
+              <td><Link href="../doc/paydas_toplantilari/bilgilendirme_egitimi_programlari/01.pdf" target="_blank">Consulting Meeting (in Turkish)</Link></td>
             </tr>
           </tbody>
         </table>
