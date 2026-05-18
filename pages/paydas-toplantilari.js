@@ -242,7 +242,7 @@ const Paydas = () => (
 					</tbody>
 				</table>
 			</div>
-			<h5><a data-toggle="collapse" href="#DT" role="button" aria-expanded="false" aria-controls="BET">Bilgilendirme Eğitimi Toplantıları</a></h5>
+			<h5><a data-toggle="collapse" href="#BET" role="button" aria-expanded="false" aria-controls="BET">Bilgilendirme Eğitimi Toplantıları</a></h5>
 			<div className="collapse" id="BET">
 				<table className="table table-striped">
 					<tbody>
