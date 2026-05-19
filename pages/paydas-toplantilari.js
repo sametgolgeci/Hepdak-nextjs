@@ -252,15 +252,15 @@ const Paydas = () => (
 		        		</tr>
 						<tr>
 		          			<td scope="row" width="110px">25 Mart 2025</td>
-		          			<td><Link href="doc/paydas_toplantilari/bilgilendirme_egitimi_programlari/03.pdf" target="_blank">Bilgilendirme Eğitimi Toplantısı</Link></td>
+		          			<td><Link href="doc/paydas_toplantilari/bilgilendirme_egitimi_programlari/03.pdf" target="_blank">Danışmanlık Toplantısı</Link></td>
 		        		</tr>
 		        		<tr>
 		        		  	<td scope="row" width="110px">04 Mart 2024</td>
-		        		  	<td><Link href="doc/paydas_toplantilari/bilgilendirme_egitimi_programlari/02.pdf" target="_blank">Bilgilendirme Eğitimi Toplantısı</Link></td>
+		        		  	<td><Link href="doc/paydas_toplantilari/bilgilendirme_egitimi_programlari/02.pdf" target="_blank">Danışmanlık Toplantısı</Link></td>
 		        		</tr>
 						<tr>
 		        		  	<td scope="row" width="110px">22 Mart 2023</td>
-		        		  	<td><Link href="doc/paydas_toplantilari/bilgilendirme_egitimi_programlari/01.pdf" target="_blank">Bilgilendirme Eğitimi Toplantısı</Link></td>
+		        		  	<td><Link href="doc/paydas_toplantilari/bilgilendirme_egitimi_programlari/01.pdf" target="_blank">Danışmanlık Toplantısı</Link></td>
 		        		</tr>
 					</tbody>
 				</table>
