@@ -10,33 +10,39 @@ const Webinar = () => (
       <div className="genel">
         <h1>HEPDAK Webinar</h1>
         <div className="webinar-genel">
-        {/* */}
-          <h4>- Yaklaşan Webinarlar -</h4>
+        {/* Yaklaşan Webinar        
+          <h4>- Coming Soon -</h4>
           <div className="row justify-content-center">
             <div className="col-md-6">
               <a target="_blank" href="https://us02web.zoom.us/j/83336627209?pwd=w301Q5NFvycMp0FI9XHoSIRbBr1dJG.1"><img className="webinar-afis" src="../img/webinar/webinar-16.jpeg"></img></a>
             </div>
           </div>
-        
+        */}
           <h4>- Completed Webinars -</h4> 
         </div>
       </div>
       <div className="webinar-bottom">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/K1ZRvSCj-SM?si=KfXB8hq2K-3nwad1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <div className="webinar-bottom-title">Social Determinants of Health and Nursing Education (December 03, 2025)(in Turkish)</div>
+        <iframe width="560" height="315" src="https://youtu.be/J-5pgEeqoeQ?si=lkaYJTkStjWmkGJ1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <div className="webinar-bottom-title">What Should Human-Centered Nursing Education Be Like? (May 21, 2026)(in Turkish)</div>
       </div>
       <div className="row">
         <div className="col-md-4">
           <div className="embed-responsive embed-responsive-16by9">
+            <iframe className="embed-responsive-item" src="https://www.youtube.com/embed/K1ZRvSCj-SM?si=KfXB8hq2K-3nwad1" allowFullScreen></iframe>
+          </div>
+          <div className="webinar-bottom-title">Social Determinants of Health and Nursing Education (December 03, 2025)(in Turkish)</div>
+        </div>
+        <div className="col-md-4">
+          <div className="embed-responsive embed-responsive-16by9">
             <iframe className="embed-responsive-item" src="https://www.youtube.com/embed/pTbunEXbihI?si=qcc22pAY5OXBc5r6" allowFullScreen></iframe>
           </div>
-        <div className="webinar-bottom-title">How Should Value-Based Education in Nursing be? (December 26, 2024)(in Turkish)</div>
+          <div className="webinar-bottom-title">How Should Value-Based Education in Nursing be? (December 26, 2024)(in Turkish)</div>
         </div>
         <div className="col-md-4">
           <div className="embed-responsive embed-responsive-16by9">
             <iframe className="embed-responsive-item" src="https://www.youtube.com/embed/ZOFayPaPBfo?si=q3hBEWswcRLN-KMD" allowFullScreen></iframe>
           </div>
-        <div className="webinar-bottom-title">How Executive Nurses Evaluate the Competencies of Our Graduates (December 18, 2024)(in Turkish)</div>
+          <div className="webinar-bottom-title">How Executive Nurses Evaluate the Competencies of Our Graduates (December 18, 2024)(in Turkish)</div>
         </div>
         <div className="col-md-4">
           <div className="embed-responsive embed-responsive-16by9">
