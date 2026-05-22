@@ -33,7 +33,7 @@ const Anasayfa = () => {
 
     </Head>
     <Header/>
-    {/* Modal Section 
+    {/* Modal Section */}
     {showModal && (
       <div className="custom-modal-overlay" onClick={() => setShowModal(false)}>
         <div className="custom-modal-content" onClick={(e) => e.stopPropagation()}>
@@ -41,7 +41,7 @@ const Anasayfa = () => {
         </div>
       </div>
     )}
-    */}
+    
     <Navigation/>
 
     {/*
