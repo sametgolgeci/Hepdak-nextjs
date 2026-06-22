@@ -62,7 +62,8 @@ const Footer = () => (
 			<div className="footer-item-link"><Link href="/en/general-assembly-and-reports">General Assembly and Reports</Link></div>
 			<div className="footer-item-link"><Link href="/en/thematic-analysis-reports">Thematic Analysis Report</Link></div>
 			<div className="footer-item-link"><Link href="/en/activity-reports">Activity Reports/Annual Reports</Link></div>
-			<div className="footer-item-link"><Link href="/en/stakeholder-opinion-reports">Stakeholder Opinion Reports</Link></div>	
+			<div className="footer-item-link"><Link href="/en/stakeholder-opinion-reports">Stakeholder Opinion Reports</Link></div>
+			<div className="footer-item-link"><Link href="/en/monitoring-reports">Monitoring Reports</Link></div>	
 			<div className="footer-item-title footer-item-title-calistay"><strong>Meetings</strong></div>
 			<div className="footer-item-link"><Link href="/en/heak-meetings">HEAK Meetings</Link></div>
 			<div className="footer-item-link"><Link href="/en/advisory-board-meetings">Advisory Board Meetings</Link></div>
