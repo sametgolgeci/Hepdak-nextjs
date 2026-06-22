@@ -6,8 +6,8 @@ const Navigation = () => (
 		<div className="navigation-nav">
 			<ul className="nav nav-pills">
 				<li className="nav-item">
-	        <Link href="/" className="nav-link header-nav-link">ANASAYFA</Link>
-	      </li>
+	        		<Link href="/" className="nav-link header-nav-link">ANASAYFA</Link>
+	      		</li>
 				<li className="nav-item dropdown">
 					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">KURUMSAL</a>
 					<div className="dropdown-menu">
@@ -21,8 +21,8 @@ const Navigation = () => (
 						<Link href="/degerlendirici-listesi" className="dropdown-item">Değerlendiriciler Listesi</Link>
 						<Link href="/idari-personel" className="dropdown-item">İdari Personel</Link>
 						<Link href="/yetkilendirme-ve-uluslararasi-taninirlik" className="dropdown-item">Yetkilendirme ve Uluslararası Tanınırlık</Link>
-			      <Link href="/doc/iktisadi-isletme.docx" className="dropdown-item">İktisadi İşletme</Link>
-			      <Link href="/kurumsal-kimlik" className="dropdown-item">Kurumsal Kimlik</Link>
+			      		<Link href="/doc/iktisadi-isletme.docx" className="dropdown-item">İktisadi İşletme</Link>
+			      		<Link href="/kurumsal-kimlik" className="dropdown-item">Kurumsal Kimlik</Link>
 					</div>
 				</li>
 				<li className="nav-item dropdown">
@@ -35,14 +35,12 @@ const Navigation = () => (
 						<Link href="/ilgili-kuruluslar" className="dropdown-item">İlgili Kuruluşlar</Link>
 					</div>
 				</li>
-        <li className="nav-item dropdown">
+        		<li className="nav-item dropdown">
 					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">ÇALIŞTAYLAR</a>
 					<div className="dropdown-menu">
 						<Link href="/kurumlar-icin-egitim-calistayi" className="dropdown-item">Kurumlar için Eğitim Çalıştayı</Link>
 						<Link href="/degerlendirici-egitimi-calistayi" className="dropdown-item">Değerlendirici Eğitimi Çalıştayı</Link>
-						<Link
-                            href="/ogrenci-degerlendirici-egitimi-calistayi"
-                            className="dropdown-item">Öğrenci Değerlendirici Eğitimi Çalıştayı</Link>
+						<Link href="/ogrenci-degerlendirici-egitimi-calistayi" className="dropdown-item">Öğrenci Değerlendirici Eğitimi Çalıştayı</Link>
 					</div>
 				</li>
 				<li className="nav-item dropdown">
@@ -56,7 +54,7 @@ const Navigation = () => (
 						<Link href="/surekli-iyilestirme-raporlari" className="dropdown-item">Sürekli İyileştirme Raporları</Link>
 					</div>
 				</li>
-        <li className="nav-item dropdown">
+        		<li className="nav-item dropdown">
 					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">TOPLANTILAR</a>
 					<div className="dropdown-menu">
 						<Link href="/heak-toplantilari" className="dropdown-item">HEAK Toplantıları</Link>
@@ -76,7 +74,7 @@ const Navigation = () => (
 						<Link href="/iyi-uygulama-ornekleri" className="dropdown-item">İyi Uygulama Örnekleri</Link>
 					</div>
 				</li>
-	      <li className="nav-item dropdown">
+	      		<li className="nav-item dropdown">
 					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">YAYINLAR</a>
 					<div className="dropdown-menu">
 						<Link href="/hepdak-sunumlari" className="dropdown-item">HEPDAK Sunumları</Link>
@@ -84,12 +82,12 @@ const Navigation = () => (
 						<Link href="/sempozyum-kongre-kitaplari" className="dropdown-item">Sempozyum / Kongre Kitapları</Link>
 					</div>
 				</li>
-	      <li className="nav-item">
-	        <Link href="/iletisim" className="nav-link header-nav-link">İLETİŞİM</Link>
-	      </li>
-	      <li className="nav-item">
-	        <Link href="http://hemsis.hepdak.org.tr/" className="nav-link header-nav-link">HEMSİS</Link>
-	      </li>
+	      		<li className="nav-item">
+	        		<Link href="/iletisim" className="nav-link header-nav-link">İLETİŞİM</Link>
+	      		</li>
+	      		<li className="nav-item">
+	        		<Link href="http://hemsis.hepdak.org.tr/" className="nav-link header-nav-link">HEMSİS</Link>
+	      		</li>
 			</ul>
 		</div>
 	</div>

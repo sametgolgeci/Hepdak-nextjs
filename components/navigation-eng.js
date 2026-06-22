@@ -6,8 +6,8 @@ const Navigation = () => (
 		<div className="navigation-nav">
 			<ul className="nav nav-pills">
 				<li className="nav-item">
-	        <Link href="/en/" className="nav-link header-nav-link">HOME</Link>
-	      </li>
+	        		<Link href="/en/" className="nav-link header-nav-link">HOME</Link>
+	      		</li>
 				<li className="nav-item dropdown">
 					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">ABOUT US</a>
 					<div className="dropdown-menu">
@@ -33,7 +33,7 @@ const Navigation = () => (
 						<Link href="/en/related-organizations" className="dropdown-item">Related Organizations</Link>
 					</div>
 				</li>
-        <li className="nav-item dropdown">
+        		<li className="nav-item dropdown">
 					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">WORKSHOPS</a>
 					<div className="dropdown-menu">
 						<Link href="/en/training-workshop-for-institutions" className="dropdown-item">Training Workshop for Institutions</Link>
@@ -52,7 +52,7 @@ const Navigation = () => (
 						<Link href="/en/continuous-improvement-reports" className="dropdown-item">Continious Improvement Reports</Link>
 					</div>
 				</li>
-        <li className="nav-item dropdown">
+        		<li className="nav-item dropdown">
 					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">MEETINGS</a>
 					<div className="dropdown-menu">
 						<Link href="/en/heak-meetings" className="dropdown-item">HEAK Meetings</Link>
@@ -71,7 +71,7 @@ const Navigation = () => (
 						<Link href="/en/good-practice-examples" className="dropdown-item">Good Practice Examples</Link>
 					</div>
 				</li>
-	      <li className="nav-item dropdown">
+	      		<li className="nav-item dropdown">
 					<a className="nav-link dropdown-toggle diss header-nav-link" data-toggle="dropdown">PUBLICATIONS</a>
 					<div className="dropdown-menu">
 						<Link href="/en/hepdak-presentations" className="dropdown-item">HEPDAK Presentations</Link>
@@ -79,12 +79,12 @@ const Navigation = () => (
 						<Link href="/en/symposium-books" className="dropdown-item">Symposium Books</Link>
 					</div>
 				</li>
-	      <li className="nav-item">
-	        <Link href="/en/contact" className="nav-link header-nav-link">CONTACT</Link>
-	      </li>
-	      <li className="nav-item">
-	        <Link href="http://hemsis.hepdak.org.tr/" className="nav-link header-nav-link">HEMSIS</Link>
-	      </li>
+	      		<li className="nav-item">
+	        		<Link href="/en/contact" className="nav-link header-nav-link">CONTACT</Link>
+	      		</li>
+	      		<li className="nav-item">
+	        		<Link href="http://hemsis.hepdak.org.tr/" className="nav-link header-nav-link">HEMSIS</Link>
+	      		</li>
 			</ul>
 		</div>
 	</div>
