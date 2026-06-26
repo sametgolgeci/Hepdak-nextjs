@@ -164,7 +164,7 @@ const Paydas = () => (
                     target="_blank">Takım Başkanları Toplantısı</Link></td>
 		        </tr>
 		      	<tr>
-		          <td scope="row" width="110px">07 Ocak 2022</td>
+		          <td scope="row" width="110px">07 Ocak 2021</td>
 		          <td><Link
                     href="doc/paydas_toplantilari/takim_baskanlari_toplanti/03.pdf"
                     target="_blank">Takım Başkanları Toplantısı</Link></td>
