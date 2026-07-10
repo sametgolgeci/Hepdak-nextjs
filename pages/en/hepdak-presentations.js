@@ -11,6 +11,16 @@ const Kaynak = () => (
             <h1>HEPDAK Presentations</h1>
               <table className="table table-striped">
                 <tbody>
+                   <tr>  
+                    <td><Link
+                      href="../doc/hepdak_sunumlari/Prof.Dr.DilekOzmen-SABDEKToplantisi-Eskisehir.pdf"
+                      target="_blank">- Prof. Dr. Dilek Özmen - How Should Program Improvement Be Conducted During Accreditation Processes? (May 06, 2026)</Link></td>
+                  </tr>
+                  <tr>  
+                    <td><Link
+                      href="../doc/hepdak_sunumlari/Prof.Dr.DilekOzmen-DenizliSunumu.pdf"
+                      target="_blank">- Prof. Dr. Dilek Özmen - The Contribution of Accreditation in Nursing Education to Students and Educators (May 06, 2026)</Link></td>
+                  </tr>
                   <tr>
                     <td><Link
                       href="../doc/hepdak_sunumlari/Prof.Dr.GulserenKocaman-HEPDAKveHEAKDegerlendirmeleri-AkreditasyonHemsirelikEgitimindeFarkYaratiyorMu.pdf"

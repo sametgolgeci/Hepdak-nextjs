@@ -13,6 +13,16 @@ const Kaynak = () => (
                 <tbody>
                   <tr>  
                     <td><Link
+                      href="doc/hepdak_sunumlari/Prof.Dr.DilekOzmen-SABDEKToplantisi-Eskisehir.pdf"
+                      target="_blank">- Prof. Dr. Dilek Özmen - SABDEK Toplantısı(Eskişehir) - Akreditasyon Süreçlerinde Program İyileştirme Nasıl Olmalıdır? (06 Mayıs 2026)</Link></td>
+                  </tr>
+                  <tr>  
+                    <td><Link
+                      href="doc/hepdak_sunumlari/Prof.Dr.DilekOzmen-DenizliSunumu.pdf"
+                      target="_blank">- Prof. Dr. Dilek Özmen - Denizli Sunumu - Hemşirelik Eğitiminde Akreditasyonun Öğrenci ve Eğiticilere Katkısı (06 Mayıs 2026)</Link></td>
+                  </tr>
+                  <tr>  
+                    <td><Link
                       href="doc/hepdak_sunumlari/Prof.Dr.GulserenKocaman-HEPDAKveHEAKDegerlendirmeleri-AkreditasyonHemsirelikEgitimindeFarkYaratiyorMu.pdf"
                       target="_blank">- Prof. Dr. Gülseren Kocaman - HEPDAK ve HEAK Değerlendirmeleri - Akreditasyon Hemşirelik Eğitiminde Fark Yaratıyor Mu? (19 Eylül 2025)</Link></td>
                   </tr>
