@@ -1221,3 +1221,28 @@ table{
   object-fit: cover;
   border-radius: 0.3125rem;
 }
+
+
+/* Akreditasyon bölümü güncelleme */
+
+.akreditasyon-content-subtitle.red {
+	background-color: crimson;
+	color: white;
+	padding: 0 8px;
+}
+.akreditasyon-red {
+	background-color: #e6d2d2 !important;
+	td {
+		color: crimson !important;
+		font-weight: 600;
+	}
+}
+
+
+
+
+
+
+
+
+

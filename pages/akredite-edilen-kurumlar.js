@@ -11,7 +11,8 @@ const Akredite = () => (
 	    <div className="row akreditasyon">
 	    	<div className="col-md-12 akreditasyon-content">
           <div id="akredite" className="akreditasyon-content-item">         
-            <div className="akreditasyon-content-subtitle">HEPDAK Tarafından Akredite Edilen Hemşirelik Lisans Programları (30.01.2026 itibariyle)</div>
+            <div className="akreditasyon-content-subtitle">HEPDAK Tarafından Akredite Edilen Hemşirelik Lisans Programları (29.07.2026 itibariyle)</div>
+            <div className="akreditasyon-content-subtitle red">Akreditasyon süresi sonlanmış kurumlar, vurgulanmıştır</div>
             <table className="table table-striped">
               <thead className="thead-dark">
                 <tr>
@@ -97,7 +98,7 @@ const Akredite = () => (
                     <p>30.09.2027</p>
                   </td>
                 </tr>
-                <tr>
+                <tr className="akreditasyon-red">
                   <th scope="row">Dokuz Eylül Üniversitesi Hemşirelik Fakültesi<br/><Link href="doc/rapor/deu-genel.pdf" className="akreditasyon-rapor">Genel Rapor</Link></th>
                   <td>
                     <p>04.04.2019</p>
@@ -243,7 +244,7 @@ const Akredite = () => (
                     <p>30.09.2028</p>
                   </td>
                 </tr>
-                <tr>
+                <tr className="akreditasyon-red">
                   <th scope="row">Maltepe Üniversitesi Hemşirelik Yüksekokulu<br/><Link href="doc/rapor/maltepe-genel.pdf" className="akreditasyon-rapor">Genel Rapor</Link></th>
                   <td>04.04.2022</td>
                   <td>30.09.2024</td>
@@ -338,7 +339,7 @@ const Akredite = () => (
                     <p>30.09.2028</p>
                   </td>
                 </tr>
-                <tr>
+                <tr className="akreditasyon-red">
                   <th scope="row">Sivas Cumhuriyet Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü<br/><Link href="doc/rapor/sivas-genel.pdf" className="akreditasyon-rapor">Genel Rapor</Link></th>
                   <td>07.04.2023</td>
                   <td>19.03.2025</td>
@@ -359,7 +360,7 @@ const Akredite = () => (
                     <p>30.09.2027</p>
                   </td>
                 </tr>
-                <tr>
+                <tr className="akreditasyon-red">
                   <th scope="row">Trakya Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü<br/><Link href="doc/rapor/trakya-ara.pdf" className="akreditasyon-rapor">Ara Rapor</Link> | <Link href="doc/rapor/trakya-genel.pdf" className="akreditasyon-rapor">Genel Rapor</Link></th>
                   <td>
                     <p>04.04.2019</p>
@@ -377,7 +378,7 @@ const Akredite = () => (
                   <td>16.01.2026</td>
                   <td>30.09.2028</td>
                 </tr>
-                <tr>
+                <tr className="akreditasyon-red">
                   <th scope="row">Yeditepe Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümü (İngilizce)<br/><Link href="doc/rapor/yeditepe-genel.pdf" className="akreditasyon-rapor">Genel Rapor</Link></th>
                   <td>07.04.2023</td>
                   <td>03.09.2024</td>
