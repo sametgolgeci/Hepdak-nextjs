@@ -66,6 +66,7 @@ const Kurul = () => (
 	    	<span className="madde-span">• Prof. Dr. Hatice Mert, Dokuz Eylül Üniversitesi</span>
 	    	<span className="madde-span">• Prof. Dr. Gülsüm Nihal Çürük, İzmir Ekonomi Üniversitesi</span>
 	    	<span className="madde-span">• Doç. Dr. Demet İnangil, Sağlık Bilimleri Üniversitesi</span>
+	    	<span className="madde-span">• Doç. Dr. Burçin Işık, Gaziantep İslam Bilim ve Teknoloji Üniversitesi</span>
 	    	<span className="madde-span">• Dr. Öğr. Üyesi Aydan Baysan, Manisa Celal Bayar Üniversitesi</span>
 	    	<span className="madde-span">• Dr. Ögr. Üyesi Gülsüm Çonoğlu, Çankırı Karatekin Üniversitesi</span>
 	    	<span className="madde-span">• <strong>Öğrenci:</strong> Buse Tokuş, Manisa Celal Bayar Üniversitesi</span>    	
