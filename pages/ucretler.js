@@ -37,7 +37,7 @@ const Ucretler = () => (
             <p>(1) Akreditasyon süresi 5 yıllıktır. </p>
             <p>(2) Tam akreditasyon ya da koşullu akreditasyon alan programa yapılacak ara değerlendirmede başvuru yapılan yıldaki akreditasyon bedelinin yarısı programdan ara değerlendirme bedeli olarak talep edilir.</p>
             <p>(3) KDV miktarı %20 üzerinden hesaplanır.</p>
-            <p>(4) Ödemeler iki taksitte alınır (1.Taksit Şubat ayında 100.000 TL.+% KDV;  2. Taksit Eylül 225.000 TL.+ % KDV)</p>
+            <p>(4) Ödemeler iki taksitte alınır (1.Taksit Şubat ayında 100.000 TL.+% KDV;  2. Taksit 15 Ekim - 15 Kasım 225.000 TL.+ % KDV)</p>
             <p>(5) Program ilgili yılda değerlendirme sürecine dahil olamazsa 1. Taksit geri verilmez Program, kendisine önerilen düzenlemeleri yaptıktan sonraki yıllardaki ücret ile sürece tekrar dahil olur.</p>
             <p>(6) Ödeme planını takip etmek programın sorumluluğudur. Kurum ödemeyi yapmadan önce HEPDAK Sekreteri ile iletişime geçerek faturasını talep etmelidir.</p>
             <p>(7) Otogardan/havaalanından kuruma gidiş-dönüş, konaklanan yerden kuruma gidiş-dönüş, kurum içinde birim ziyaretleri için araç temini kurum tarafından karşılanır.</p>
