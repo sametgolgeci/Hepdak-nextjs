@@ -55,7 +55,7 @@ const Calistay = () => (
 				</div>
 			</div>
 		</div>
-		<h6><span className="badge badge-custom">12</span> 29 Nisan / 30 - 31 Mayıs 2025 HEPDAK Değerlendirici Eğitimi </h6>
+		<h6><span className="badge badge-custom">12</span> 29 Nisan / 30 - 31 Mayıs 2025 HEPDAK Değerlendirici Eğitimi</h6>
 		<p>
 			<ul className="nav calistay-nav">
 			  <li className="nav-item">
