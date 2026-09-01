@@ -12,12 +12,12 @@ const Uye = () => (
         <div className="jumbotron">
           <p><Link
             href="../doc/degerlendiriciler_listesi/degerlendirici-listesi.pdf"
-            target="_blank">HEPDAK Evaluator List</Link> - (Last Update - September 01, 2026)</p>
+            target="_blank">HEPDAK Evaluator List</Link> - (Last Update - April 18, 2026)</p>
         </div>
         <div className="jumbotron">
           <p><Link
             href="../doc/degerlendiriciler_listesi/ogrenci-degerlendirici-listesi.pdf"
-            target="_blank">HEPDAK Student Evaluator List</Link> - (Last Update - September 01, 2026)</p>
+            target="_blank">HEPDAK Student Evaluator List</Link> - (Last Update - April 10, 2026)</p>
         </div>
       </div>
     </MasterPage>
