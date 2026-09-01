@@ -33,7 +33,7 @@ const Anasayfa = () => {
 
     </Head>
     <Header/>
-    {/* Modal Section */}
+    {/* Modal Section 
     {showModal && (
       <div className="custom-modal-overlay" onClick={() => setShowModal(false)}>
         <div className="custom-modal-content" onClick={(e) => e.stopPropagation()}>
@@ -41,7 +41,7 @@ const Anasayfa = () => {
         </div>
       </div>
     )}
-    
+    */}
     <Navigation/>
 
     {/*
@@ -72,6 +72,16 @@ const Anasayfa = () => {
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
+                  <Link href="/doc/kurumlar_icin_egitim_calistayi/14/basvuru-formu.docx" target="_blank">
+                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2026/ke-basvuru.jpeg"/></div>
+                  </Link>
+                </div>
+                <div className="carousel-item">
+                  <Link href="/doc/kurumlar_icin_egitim_calistayi/14/program.pdf" target="_blank">
+                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2026/ke-program.jpeg"/></div>
+                  </Link>
+                </div>
+                <div className="carousel-item">
                   <Link href="/doc/takvim/2026-toplanti-takvim.pdf" target="_blank">
                     <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2026/toplanti-takvim.jpeg"/></div>
                   </Link>
