@@ -72,7 +72,9 @@ const Anasayfa = () => {
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
-                  <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2026/egitici-egitimi-program.jpeg"/></div>
+                  <Link href="https://docs.google.com/forms/d/e/1FAIpQLSd1-YRf8njb77S9aN_2GiIuWuHHU8_bOnpYhezIn_7YT608Rg/viewform?usp=sharing&ouid=105969804533611287859" target="_blank">
+                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2026/egitici-egitimi-program.jpeg"/></div>
+                  </Link>
                 </div>
                 <div className="carousel-item">
                   <Link href="/doc/kurumlar_icin_egitim_calistayi/14/basvuru-formu.docx" target="_blank">
