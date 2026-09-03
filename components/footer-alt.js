@@ -49,7 +49,7 @@ const Footer = () => (
 		</div>	
 		<div className="col-sm-12 col-md-3 footer-item">
 			<div className="footer-item-title"><strong>Akreditasyon</strong></div>
-			<div className="footer-item-link"><Link href="/doc/b1-basvuru-2024-2025.pdf">Başvuru</Link></div>
+			<div className="footer-item-link"><Link href="/doc/b1.pdf">Başvuru</Link></div>
 			<div className="footer-item-link"><Link href="/belgeler">Belgeler</Link></div>
 			<div className="footer-item-link"><Link href="/ucretler">Ücretler</Link></div>
 			<div className="footer-item-link"><Link href="/akredite-edilen-kurumlar">Akredite Edilen Kurumlar</Link></div>
