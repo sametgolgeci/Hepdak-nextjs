@@ -195,6 +195,28 @@ const Anasayfa = () => {
             <div className="block-title-all"><Link href="/tum-haberler">Tüm Haberler</Link></div>
           </div>
          
+          <Link href="/haberler/2026-05-28-haber" legacyBehavior>
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">28</div>
+              <div className="date-month">Eylül</div>
+              <div className="date-year">2026</div>
+            </div>
+            <div className="block-subtitle-text">HEPDAK, Sağlık Bakım Hizmetlerini Güçlendirme ve Geliştirme Komisyonunda Yer Aldı</div>
+          </div>
+          </Link>
+
+          <Link href="/haberler/2026-05-25-26-haber" legacyBehavior>
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">25-26</div>
+              <div className="date-month">Eylül</div>
+              <div className="date-year">2026</div>
+            </div>
+            <div className="block-subtitle-text">HEPDAK 2026 Yılı Kurum Eğitimi Çalıştayı Gerçekleştirildi</div>
+          </div>
+          </Link>
+
           <Link href="/haberler/2026-05-21-haber" legacyBehavior>
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">

@@ -39,6 +39,75 @@ const Tum = () => (
           <div className="tab-content">
             <div id="yirmialti" className="container tab-pane active">
               <div className="main-top-second">
+                <div className="main-top-second-title">HEPDAK, Sağlık Bakım Hizmetlerini Güçlendirme ve Geliştirme Komisyonunda Yer Aldı (28 Eylül 2026)</div> 
+                <div className="main-top-second-content">
+                  <p>T.C. Sağlık Bakanlığı Kamu Hastaneleri Genel Müdürlüğü tarafından 28 Eylül 2026 tarihinde
+düzenlenen “Kamu Hastaneleri Sağlık Bakım Hizmetleri Güçlendirme ve Geliştirme
+Komisyonu” toplantısı; HEMED, HEPDAK, HEMDEK ve SABDEK temsilcileri ile sağlık
+bakım hizmetleri müdürlerinin katılımıyla gerçekleştirildi. Toplantıya HEPDAK’ı temsilen
+Prof. Dr. Dilek Özmen katıldı.</p>
+                  <p>Programın açılış konuşmaları, Daire Başkanı Doç. Dr. Füsun Afşar ve Kamu Hastaneleri
+Genel Müdürü Doç. Dr. Muhammed Emin Demirkol tarafından gerçekleştirildi. Ardından
+Doç. Dr. Asibe Özkan, “Sorunu Görmekten Çözümü Birlikte Tasarlamaya: Birlikte
+Değiştirmemiz Gerekenler” başlıklı konuşmasında sağlık bakım hizmetlerinin
+geliştirilmesinde ortak akıl ve iş birliğinin önemini ele aldı. Prof. Dr. Ayşegül Dönmez ise
+“Kanıttan Uygulamaya: Hemşirelik Bakım Hizmetlerinin Güçlendirilmesinde Bilimsel
+Yaklaşım, Akademik Perspektif ve Gereklilikler” başlıklı sunumunu yaptı.</p>
+                  <p>Toplantıda; kamu hastanelerinde hemşirelik bakımının güçlendirilmesi, sağlık hizmetlerinde
+bakım kalitesinin geliştirilmesi ve akademi-klinik iş birliği kapsamında hayata geçirilebilecek
+projeler kapsamlı bir şekilde değerlendirildi.</p>
+                </div>
+                <div className="main-top-second-content">
+                  <div className="row">
+                    <div className="col-md-3 col-sm-12"><a href="img/haberler/2026/sağlik-bakim-hizmetleri/01.jpeg" target="_blank"><img className="calistay-img" src="img/haberler/2026/sağlik-bakim-hizmetleri/01.jpeg" alt="HEPDAK, Sağlık Bakım Hizmetlerini Güçlendirme ve Geliştirme Komisyonunda Yer Aldı"/></a></div>
+                    <div className="col-md-3 col-sm-12"><a href="img/haberler/2026/sağlik-bakim-hizmetleri/02.jpeg" target="_blank"><img className="calistay-img" src="img/haberler/2026/sağlik-bakim-hizmetleri/02.jpeg" alt="HEPDAK, Sağlık Bakım Hizmetlerini Güçlendirme ve Geliştirme Komisyonunda Yer Aldı"/></a></div>
+                    <div className="col-md-3 col-sm-12"><a href="img/haberler/2026/sağlik-bakim-hizmetleri/03.jpeg" target="_blank"><img className="calistay-img" src="img/haberler/2026/sağlik-bakim-hizmetleri/03.jpeg" alt="HEPDAK, Sağlık Bakım Hizmetlerini Güçlendirme ve Geliştirme Komisyonunda Yer Aldı"/></a></div>
+                    <div className="col-md-3 col-sm-12"><a href="img/haberler/2026/sağlik-bakim-hizmetleri/04.jpeg" target="_blank"><img className="calistay-img" src="img/haberler/2026/sağlik-bakim-hizmetleri/04.jpeg" alt="HEPDAK, Sağlık Bakım Hizmetlerini Güçlendirme ve Geliştirme Komisyonunda Yer Aldı"/></a></div>
+                    <div className="col-md-3 col-sm-12"><a href="img/haberler/2026/sağlik-bakim-hizmetleri/05.jpeg" target="_blank"><img className="calistay-img" src="img/haberler/2026/sağlik-bakim-hizmetleri/05.jpeg" alt="HEPDAK, Sağlık Bakım Hizmetlerini Güçlendirme ve Geliştirme Komisyonunda Yer Aldı"/></a></div>
+                  </div>
+                </div>  
+              </div>
+              <div className="main-top-second">
+                <div className="main-top-second-title">HEPDAK 2026 Yılı Kurum Eğitimi Çalıştayı Gerçekleştirildi (25-26 Eylül 2026)</div> 
+                <div className="main-top-second-content">
+                  <p>Hemşirelik Eğitim Programları Değerlendirme ve Akreditasyon Derneği (HEPDAK)
+tarafından düzenlenen “Hemşirelik Lisans Eğitimi Veren Yükseköğretim Kurumlarına
+Yönelik Eğitim Çalıştayı”, 25-26 Eylül 2026 tarihlerinde 79 öğretim elemanının katılımıyla
+gerçekleştirilmiştir. Çalıştay, HEPDAK akreditasyon değerlendirmesine başvurmayı
+planlayan hemşirelik lisans programlarının sorumluları ile öğretim elemanlarının akreditasyon
+süreçlerine ilişkin farkındalıklarını artırmak ve kurumların süreç kapsamındaki çalışmalarına
+katkı sağlamak amacıyla düzenlenmiştir.</p>
+                  <p>Program, açılış ve tanışma oturumunun ardından çalıştayın amaçları ve HEPDAK
+akreditasyon sürecinin ele alınmasıyla başlamıştır. Çalıştay kapsamında HEPDAK rubrik
+değerlendirme süreci, öz değerlendirme raporunun hazırlanması, HEPDAK standartları
+doğrultusunda gerçekleştirilen çalışmalar ve iyileştirmeye açık alanlar, sürekli iyileştirme
+yaklaşımı ve PUKÖ döngüsü hakkında bilgi verilmiştir. Kuramsal oturumların yanı sıra
+PUKÖ döngüsü, vaka analizi ve öz değerlendirme raporu yazımına yönelik grup çalışmaları
+gerçekleştirilmiş; hazırlanan çalışmalar katılımcılar tarafından sunularak değerlendirilmiştir.</p>
+                  <p>Çalıştayın ikinci gününde grup etkinlikleri ve sunumların ardından akreditasyon süreçlerine
+ilişkin deneyim paylaşımı oturumu gerçekleştirilmiştir. Bu oturumda İstinye Üniversitesi
+Sağlık Bilimleri Fakültesi Hemşirelik Bölümünden Prof. Dr. Emine Türkmen ile Bartın
+Üniversitesi Sağlık Bilimleri Fakültesi Hemşirelik Bölümünden Doç. Dr. Hilal Uysal,
+kurumlarının akreditasyon deneyimlerini katılımcılarla paylaşmıştır. Program, genel tartışma
+ve kapanış oturumu ile tamamlanmıştır.</p>
+                </div>
+                <div className="main-top-second-content">
+                  <div className="row">
+                    <div className="col-md-3 col-sm-12"><a href="img/haberler/2026/kurum-calistay/01.png" target="_blank"><img className="calistay-img" src="img/haberler/2026/kurum-calistay/01.png" alt="HEPDAK 2026 Yılı Kurum Eğitimi Çalıştayı Gerçekleştirildi"/></a></div>
+                    <div className="col-md-3 col-sm-12"><a href="img/haberler/2026/kurum-calistay/02.png" target="_blank"><img className="calistay-img" src="img/haberler/2026/kurum-calistay/02.png" alt="HEPDAK 2026 Yılı Kurum Eğitimi Çalıştayı Gerçekleştirildi"/></a></div>
+                    <div className="col-md-3 col-sm-12"><a href="img/haberler/2026/kurum-calistay/03.png" target="_blank"><img className="calistay-img" src="img/haberler/2026/kurum-calistay/03.png" alt="HEPDAK 2026 Yılı Kurum Eğitimi Çalıştayı Gerçekleştirildi"/></a></div>
+                    <div className="col-md-3 col-sm-12"><a href="img/haberler/2026/kurum-calistay/04.png" target="_blank"><img className="calistay-img" src="img/haberler/2026/kurum-calistay/04.png" alt="HEPDAK 2026 Yılı Kurum Eğitimi Çalıştayı Gerçekleştirildi"/></a></div>
+                    <div className="col-md-3 col-sm-12"><a href="img/haberler/2026/kurum-calistay/05.png" target="_blank"><img className="calistay-img" src="img/haberler/2026/kurum-calistay/05.png" alt="HEPDAK 2026 Yılı Kurum Eğitimi Çalıştayı Gerçekleştirildi"/></a></div>
+                    <div className="col-md-3 col-sm-12"><a href="img/haberler/2026/kurum-calistay/06.png" target="_blank"><img className="calistay-img" src="img/haberler/2026/kurum-calistay/06.png" alt="HEPDAK 2026 Yılı Kurum Eğitimi Çalıştayı Gerçekleştirildi"/></a></div>
+                    <div className="col-md-3 col-sm-12"><a href="img/haberler/2026/kurum-calistay/07.png" target="_blank"><img className="calistay-img" src="img/haberler/2026/kurum-calistay/07.png" alt="HEPDAK 2026 Yılı Kurum Eğitimi Çalıştayı Gerçekleştirildi"/></a></div>
+                    <div className="col-md-3 col-sm-12"><a href="img/haberler/2026/kurum-calistay/08.png" target="_blank"><img className="calistay-img" src="img/haberler/2026/kurum-calistay/08.png" alt="HEPDAK 2026 Yılı Kurum Eğitimi Çalıştayı Gerçekleştirildi"/></a></div>
+                    <div className="col-md-3 col-sm-12"><a href="img/haberler/2026/kurum-calistay/09.png" target="_blank"><img className="calistay-img" src="img/haberler/2026/kurum-calistay/09.png" alt="HEPDAK 2026 Yılı Kurum Eğitimi Çalıştayı Gerçekleştirildi"/></a></div>
+                    <div className="col-md-3 col-sm-12"><a href="img/haberler/2026/kurum-calistay/10.png" target="_blank"><img className="calistay-img" src="img/haberler/2026/kurum-calistay/10.png" alt="HEPDAK 2026 Yılı Kurum Eğitimi Çalıştayı Gerçekleştirildi"/></a></div>
+                    <div className="col-md-3 col-sm-12"><a href="img/haberler/2026/kurum-calistay/11.png" target="_blank"><img className="calistay-img" src="img/haberler/2026/kurum-calistay/11.png" alt="HEPDAK 2026 Yılı Kurum Eğitimi Çalıştayı Gerçekleştirildi"/></a></div>
+                  </div>
+                </div>  
+              </div>
+              <div className="main-top-second">
                 <div className="main-top-second-title">Webinar XVI: İnsan Bakım Odaklı Hemşirelik Eğitimi Nasıl Olmalı? (21 Mayıs 2026)</div> 
                 <div className="main-top-second-content">
                   <p>HEPDAK-HEMED iş birliğiyle 21 Mayıs 2026 tarihinde gerçekleştirilen XVI. webinarda, “İnsan Bakım Odaklı Hemşirelik Eğitimi Nasıl Olmalı?” konusu ele alınmıştır. Webinarın moderatörlüğünü Prof. Dr. Hülya Okumuş yürütmüş; konuşmacı olarak Prof. Dr. Firdevs Erdemir yer almıştır.</p>
