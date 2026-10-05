@@ -195,7 +195,7 @@ const Anasayfa = () => {
             <div className="block-title-all"><Link href="/tum-haberler">Tüm Haberler</Link></div>
           </div>
          
-          <Link href="/haberler/2026-05-28-haber" legacyBehavior>
+          <Link href="/haberler/2026-09-28-haber" legacyBehavior>
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
               <div className="date-day">28</div>
@@ -206,7 +206,7 @@ const Anasayfa = () => {
           </div>
           </Link>
 
-          <Link href="/haberler/2026-05-25-26-haber" legacyBehavior>
+          <Link href="/haberler/2026-09-25-26-haber" legacyBehavior>
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
               <div className="date-day">25-26</div>
