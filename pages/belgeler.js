@@ -137,7 +137,7 @@ const Belgeler = () => (
               <tbody>
                 <tr>
                   <th scope="row">1</th>
-                  <td>HEPDAK Değerlendirme Kılavuzu - <Link href="doc/b5_v6.pdf">Sürüm 6.0</Link> - <a data-toggle="collapse" href="#c01" role="button" aria-expanded="false" aria-controls="c01">↓</a>
+                  <td>HEPDAK Değerlendirme Kılavuzu - <strong>Sürüm 6.0</strong> (<Link href="doc/b5_v6.pdf">PDF</Link> | <Link href="doc/b5_v6.docx">Word</Link>) - <a data-toggle="collapse" href="#c01" role="button" aria-expanded="false" aria-controls="c01">↓</a>
                     <div className="collapse" id="c01">
                       <p>- <Link href="doc/b5_v4.pdf">Sürüm 4.0</Link><br/>- <Link href="doc/b5_v3.pdf">Sürüm 3.0</Link><br/>- <Link href="doc/b5_v2.pdf">Sürüm 2.0</Link><br/>- <Link href="doc/b5_v1.pdf">Sürüm 1.0</Link></p>
                     </div>
