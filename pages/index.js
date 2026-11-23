@@ -33,7 +33,7 @@ const Anasayfa = () => {
 
     </Head>
     <Header/>
-    {/* Modal Section  */}
+    {/* Modal Section  
     {showModal && (
       <div className="custom-modal-overlay" onClick={() => setShowModal(false)}>
         <div className="custom-modal-content" onClick={(e) => e.stopPropagation()}>
@@ -41,7 +41,7 @@ const Anasayfa = () => {
         </div>
       </div>
     )}
-   
+   */}
     <Navigation/>
 
     {/*
@@ -72,8 +72,8 @@ const Anasayfa = () => {
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
-                  <Link href="https://docs.google.com/forms/d/e/1FAIpQLSd1-YRf8njb77S9aN_2GiIuWuHHU8_bOnpYhezIn_7YT608Rg/viewform?usp=sharing&ouid=105969804533611287859" target="_blank">
-                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2026/egitici-egitimi-program.jpeg"/></div>
+                  <Link href="https://us02web.zoom.us/meeting/register/tTwkR0ccSpaX595kUVkXhQ" target="_blank">
+                    <div className="main-top-one-content-full"><img className="slider-full-img" src="img/banner/2026/webinar-17.png"/></div>
                   </Link>
                 </div>
                 <div className="carousel-item">
@@ -195,6 +195,17 @@ const Anasayfa = () => {
             <div className="block-title-all"><Link href="/tum-haberler">Tüm Haberler</Link></div>
           </div>
          
+          <Link href="/haberler/2026-11-14-haber" legacyBehavior>
+          <div className="main-block-subtitle">
+            <div className="block-subtitle-date">
+              <div className="date-day">14</div>
+              <div className="date-month">Kasım</div>
+              <div className="date-year">2026</div>
+            </div>
+            <div className="block-subtitle-text">Hemşire Öğretim Elemanlarına Yönelik Eğitici Eğitimi Programı Tamamlandı</div>
+          </div>
+          </Link>
+
           <Link href="/haberler/2026-10-20-21-haber" legacyBehavior>
           <div className="main-block-subtitle">
             <div className="block-subtitle-date">
