@@ -10,22 +10,28 @@ const Webinar = () => (
 	    <div className="genel">
 	    	<h1>HEPDAK Webinar</h1>
 	    	<div className="webinar-genel">
-	    		{/*	Yaklaşan webinar tanıtım kısmı*/}
+	    		{/*	Yaklaşan webinar tanıtım kısmı
 	    		<h4>- Yaklaşan Webinarlar -</h4>
           		<div className="row justify-content-center">
           		  <div className="col-md-6">
           		    <a target="_blank" href="https://us02web.zoom.us/meeting/register/tTwkR0ccSpaX595kUVkXhQ"><img className="webinar-afis" src="img/webinar/webinar-17.png"></img></a>
           		  </div>
           		</div>
-	    		
+	    		*/}
 	    		<h4>- Tamamlanan Webinarlar -</h4> 
 	    	</div>
 	    </div>
 	    <div className="webinar-bottom">
-	    	<iframe width="560" height="315" src="https://www.youtube.com/embed/J-5pgEeqoeQ?si=aGenb68Hmp0Lpb-L" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	    	<div className="webinar-bottom-title">İnsan Bakım Odaklı Hemşirelik Eğitimi Nasıl Olmalı? (21 Mayıs 2026)</div>
+	    	<iframe width="560" height="315" src="https://www.youtube.com/embed/0z6354pJOak?si=M2athBe6TEc43CH_" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	    	<div className="webinar-bottom-title">Sınav Sorusundan Program Çıktısına: Ölçme Sonuçlarını Kanıta Dönüştürmek (26 Kasım 2026)</div>
 		</div>
 	    <div className="row">
+	    	<div className="col-md-4">
+          		<div className="embed-responsive embed-responsive-16by9">
+            		<iframe className="embed-responsive-item" src="https://www.youtube.com/embed/J-5pgEeqoeQ?si=aGenb68Hmp0Lpb-L" allowFullScreen></iframe>
+          		</div>
+        		<div className="webinar-bottom-title">İnsan Bakım Odaklı Hemşirelik Eğitimi Nasıl Olmalı? (21 Mayıs 2026)</div>
+        	</div>
 	    	<div className="col-md-4">
           		<div className="embed-responsive embed-responsive-16by9">
             		<iframe className="embed-responsive-item" src="https://www.youtube.com/embed/K1ZRvSCj-SM?si=KfXB8hq2K-3nwad1" allowFullScreen></iframe>

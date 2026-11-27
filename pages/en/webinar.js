@@ -22,10 +22,16 @@ const Webinar = () => (
         </div>
       </div>
       <div className="webinar-bottom">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/J-5pgEeqoeQ?si=aGenb68Hmp0Lpb-L" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <div className="webinar-bottom-title">What Should Human-Centered Nursing Education Be Like? (May 21, 2026)(in Turkish)</div>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/0z6354pJOak?si=M2athBe6TEc43CH_" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <div className="webinar-bottom-title">From Exam Question to Program Outcome: Transforming Assessment Results into Evidence (November 26, 2026)(in Turkish)</div>
       </div>
       <div className="row">
+        <div className="col-md-4">
+          <div className="embed-responsive embed-responsive-16by9">
+            <iframe className="embed-responsive-item" src="https://www.youtube.com/embed/J-5pgEeqoeQ?si=aGenb68Hmp0Lpb-L" allowFullScreen></iframe>
+          </div>
+          <div className="webinar-bottom-title">What Should Human-Centered Nursing Education Be Like? (May 21, 2026)(in Turkish)</div>
+        </div>
         <div className="col-md-4">
           <div className="embed-responsive embed-responsive-16by9">
             <iframe className="embed-responsive-item" src="https://www.youtube.com/embed/K1ZRvSCj-SM?si=KfXB8hq2K-3nwad1" allowFullScreen></iframe>
